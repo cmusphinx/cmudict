@@ -1,0 +1,50 @@
+Development and maintenance for cmudict
+---------------------------------------
+[20100118] (air)
+
+The maintainer is responsible for acquiring and vetting new entries,
+and for fixing errors that they otherwise encounter.
+
+At this point, the cmudict project has been incrementally
+re-organized; maintenance has been simplified and several aspects have
+been automated. The scripts/ folder contains instructions and scripts
+for routine maintenance. It has everything you should need to get
+started.
+
+Version numbers and files
+-------------------------
+There is no particular rule for incrementing the version number. To
+date the minor version (letter suffix) has been incremented to reflect
+changes in maintainers. Major version increments (right now, the
+decimal) are incurred when some (subjectively) large change
+occurs. For example, the 0.6-->0.7 increment was marked by a large
+number of new entries and by the removal of many incorrect entries
+from the preceeding 0.6e version.
+
+The cmudict.*.phones file lists all legal phones, plus their phonetic class.
+The cmudict.*.symbols file lists all legal phonetic symbols (the only
+substantive difference is that stress combinations are explicitly noted).
+
+
+Projects for the ambitious
+--------------------------
+
+1. Change the current flat-file version to a database format. This
+should still allow producing a flat file, but it will simplify adding
+useful information to the dictionary. Some possible data includes:
+
+a. part-of-speech information
+b. domain information (e.g., location, medical, non-english, etc)
+c. spelling variants
+d. source information (who, when, ...)
+e. probabilities for pronunciation variants
+
+There's additional stuff that can be done but the above bits seem the
+most useful ones. I also have ideas on how to do it, so feel free to
+get in touch (air at cs cmu edu).
+
+2. Create an OS independent GUI for managing the database. This should
+allow the maintainer to view and modify entries, while dealing with
+bookkeeping. It would be nice if the GUI included a synthesizer so
+that entries can be checked by listening.
+
