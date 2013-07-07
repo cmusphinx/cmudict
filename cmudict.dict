@@ -16067,6 +16067,7 @@ buikema B IH0 K EY1 M AH0
 buikema(2) B W IH0 K EY1 M AH0
 buil B Y UW1 AH0 L
 build B IH1 L D
+build-up B IH1 L D AH2 P
 buildable B IH1 L D AH0 B AH0 L
 builder B IH1 L D ER0
 builder's B IH1 L D ER0 Z
@@ -20383,6 +20384,7 @@ chechnyan CH EH1 CH N IY0 AH0 N
 chechnyan's CH EH1 CH N IY0 AH0 N Z
 chechnyans CH EH1 CH N IY0 AH0 N Z
 check CH EH1 K
+check-up CH EH1 K AH2 P
 checkbook CH EH1 K B UH2 K
 checkbooks CH EH1 K B UH2 K S
 checked CH EH1 K T
@@ -21891,6 +21893,7 @@ cleantha K L IY1 N TH AH0
 cleanup K L IY1 N AH2 P
 cleanups K L IY1 N AH2 P S
 clear K L IH1 R
+clear-cut K L IH1 R K AH1 T
 clearance K L IH1 R AH0 N S
 clearances K L IH1 R AH0 N S IH0 Z
 clearcut K L IH1 R K AH2 T
@@ -42633,6 +42636,7 @@ fitzwilliam F IH0 T S W IH1 L Y AH0 M
 fiumara F IY2 UW0 M AA1 R AH0
 five F AY1 V
 five's F AY1 V Z
+five-day F AY1 V D EY1
 five-year F AY1 V Y IH2 R
 fiveash F AY1 V AE2 SH
 fivecoat F AY1 V K OW2 T
@@ -43549,6 +43553,7 @@ foos F UW1 Z
 foose F UW1 S
 fooshee F UW1 SH IY0
 foot F UH1 T
+foot-and-mouth F UH1 T AH0 N D M AW1 TH
 footage F UH1 T IH0 JH
 football F UH1 T B AO2 L
 football's F UH1 T B AO2 L Z
@@ -44092,6 +44097,7 @@ fountaine F UW0 N T EY1 N
 fountains F AW1 N T AH0 N Z
 four F AO1 R
 four's F AO1 R Z
+four-year F AO1 R Y IH1 R
 fourfold F AO1 R F OW1 L D
 fourier F UH1 R IY0 EY0
 fourman F AO1 R M AH0 N
@@ -44505,6 +44511,7 @@ fredrickson F R EH1 D R IH0 K S AH0 N
 fredriksen F R IH0 D R IH1 K S AH0 N
 fredrikson F R EH1 D R IH0 K S AH0 N
 free F R IY1
+free-for-all F R IY1 F AO0 R AO1 L
 freeberg F R IY1 B ER0 G
 freeberg's F R IY1 B ER0 G Z
 freebie F R IY1 B IY0
@@ -45179,6 +45186,7 @@ fulks F AH1 L K S
 full F UH1 L
 full's F UH1 L Z
 full-blown F UH1 L B L OW2 N
+full-scale F UH1 L S K EY2 L
 full-size F UH1 L S AY2 Z
 full-sized F UH1 L S AY2 Z D
 full-time F UH1 L T AY2 M
@@ -49389,6 +49397,7 @@ granberry G R AE1 N B EH2 R IY0
 grancare G R AE1 N K EH2 R
 grand G R AE1 N D
 grand's G R AE1 N D Z
+grand-daughter G R AE1 N D AO2 T ER0
 granda G R AE1 N D AH0
 grandad G R AE1 N D AE2 D
 grandbabies G R AE1 N D B EY2 B IY0 Z
@@ -51600,7 +51609,9 @@ haley HH EY1 L IY0
 haley's HH EY1 L IY0 Z
 half HH AE1 F
 half's HH AE1 F S
-half-hour HH AE1 F AW1 ER0
+half-dozen HH AE1 F D AH2 Z AH0 N
+half-hour HH AE1 F AW2 ER0
+half-time HH AE1 F T AY2 M
 halfacre HH AE1 F EY2 K ER0
 halfback HH AE1 F B AE2 K
 halfbacks HH AE1 F B AE2 K S
@@ -55798,6 +55809,7 @@ hombre HH AA1 M B R AH0
 homburg HH AA1 M B ER0 G
 home HH OW1 M
 home's HH OW1 M Z
+home-grown HH OW1 M G R OW1 N
 home-made HH OW1 M M EY1 D
 home-school HH OW1 M S K UW1 L
 homebound HH OW1 M B AW2 N D
@@ -68849,11 +68861,12 @@ lefrancois L EH1 F R AH0 N K W AA0
 lefrere L AH0 F R EH1 R
 left L EH1 F T
 left's L EH1 F T S
-left-brace L EH1 F T B R EY1 S
+left-brace L EH2 F T B R EY1 S
+left-handed L EH2 F T HH AE1 N D IH0 D
 left-winger L EH2 F T W IH1 NG ER0
-left-wingers L EH1 F T W IH1 NG ER0 Z
-lefthand L EH0 F T HH AE1 N D
-lefthanded L EH0 F T HH AE1 N D IH0 D
+left-wingers L EH2 F T W IH1 NG ER0 Z
+lefthand L EH2 F T HH AE1 N D
+lefthanded L EH2 F T HH AE1 N D IH0 D
 lefties L EH1 F T IY0 Z
 leftism L EH1 F T IH2 Z AH0 M
 leftist L EH1 F T IH0 S T
@@ -69446,6 +69459,7 @@ leszczynski L EH0 SH IH1 N S K IY0
 leszek L EH1 S EH0 K
 let L EH1 T
 let's L EH1 T S
+let-up L EH1 T AH1 P
 leta L EH1 T AH0
 letarte L EH1 T AA0 R T
 letcher L EH1 CH ER0
@@ -70253,6 +70267,7 @@ lindvall L IH1 N D V AH0 L
 lindy L IH1 N D IY0
 line L AY1 N
 line's L AY1 N Z
+line-up L AY1 N AH1 P
 lineage L IH1 N IY0 AH0 JH
 lineages L IH1 N IY0 IH0 JH IH0 Z
 lineal L IH1 N IY0 AH0 L
@@ -79407,6 +79422,7 @@ mitzner M IH1 T S N ER0
 mitzvah M IH1 T S V AH0
 miura M IY0 UH1 R AH0
 mix M IH1 K S
+mix-up M IH1 K S AH1 P
 mixed M IH1 K S T
 mixer M IH1 K S ER0
 mixers M IH1 K S ER0 Z
@@ -82867,6 +82883,7 @@ nerren N EH1 R AH0 N
 neruda N AH0 R UW1 D AH0
 nervana N ER0 V AE1 N AH0
 nerve N ER1 V
+nerve-racking N ER1 V R AE1 K IH0 NG
 nerves N ER1 V Z
 nervion N ER1 V IY0 AH0 N
 nervosa N ER0 V OW1 S AH0
@@ -83813,6 +83830,8 @@ niznik N IH1 Z N IH0 K
 nkohse EH0 NG K OW1 S IY0
 no N OW1
 no's N OW1 Z
+no-go N OW1 G OW1
+no-one N OW1 W AH0 N
 noa N OW1 AH0
 noaa N OW1 AH0
 noaa(2) EH1 N OW1 EY1 EY1
@@ -84310,6 +84329,7 @@ nortek N AO1 R T EH2 K
 nortel N AO1 R T EH0 L
 north N AO1 R TH
 north's N AO1 R TH S
+north-east N AO1 R TH IY1 S T
 northam N AO1 R TH AH0 M
 northampton N AO2 R TH AE1 M P T AH0 N
 northbound N AO1 R TH B AW0 N D
@@ -85475,6 +85495,8 @@ ofelia OW0 F EY1 L IY0 AH0
 ofer OW1 F ER0
 off AO1 F
 off's AO1 F S
+off-day AO1 F D EY1
+off-duty AO1 F D UW1 T IY0
 offbeat AO1 F B IY1 T
 offen AO1 F AH0 N
 offend AH0 F EH1 N D
@@ -86026,9 +86048,13 @@ ondracek AA1 N D R AH0 S EH0 K
 one W AH1 N
 one(2) HH W AH1 N
 one's W AH1 N Z
+one-off W AH1 N AO1 F
+one-sided W AH1 N S AY1 D AH0 D
+one-third W AH1 N TH ER1 D
 one-up-manship W AH1 N AH1 P M AE1 N SH IH2 P
-one-upmanship W AH1 N AH1 P M AH0 N SH IH2 P
+one-upmanship W AH2 N AH1 P M AH0 N SH IH2 P
 one-way W AH1 N W EY1
+one-year W AH1 N Y IH1 R
 oneal OW0 N IY1 L
 oneall AA1 N AH0 L
 onecomm W AH1 N K AA2 M
@@ -89003,6 +89029,7 @@ passer P AE1 S ER0
 passerby P AE1 S ER0 B IY0
 passero P AA0 S EH1 R OW0
 passers P AE1 S ER0 Z
+passers-by P AE1 S ER0 Z B AY1
 passersby P AE1 S ER0 Z B IY0
 passes P AE1 S AH0 Z
 passes(2) P AE1 S IH0 Z
@@ -93724,6 +93751,7 @@ praytor P R EY1 T ER0
 prazak P R AA1 Z AH0 K
 prchal P ER0 SH AE1 L
 pre P R IY1
+pre-emptive P R IY0 EH1 M P T IH0 V
 preach P R IY1 CH
 preached P R IY1 CH T
 preacher P R IY1 CH ER0
@@ -97768,6 +97796,7 @@ reagents(2) R IY1 JH AH0 N T S
 reagle R IY1 G AH0 L
 reagor R IY1 G ER0
 real R IY1 L
+real-life R IY1 L L AY1 F
 realamerica R IY2 L AH0 M EH1 R IH0 K AH0
 realcap R IY1 L K AE2 P
 reale R IY1 AE2 L
@@ -103557,6 +103586,7 @@ runnells R AH1 N AH0 L Z
 runnels R AH1 N AH0 L Z
 runner R AH1 N ER0
 runner's R AH1 N ER0 Z
+runner-up R AH1 N ER0 AH1 P
 runners R AH1 N ER0 Z
 runnin' R AH1 N IH0 N
 running R AH1 N IH0 NG
@@ -107512,6 +107542,7 @@ selkin S EH1 L K IH0 N
 selkirk S EH1 L K ER0 K
 selkirk's S EH1 L K ER0 K S
 sell S EH1 L
+sell-out S EH1 L AW2 T
 sella S EH1 L AH0
 selland S EH1 L AH0 N D
 sellards S EH1 L ER0 D Z
@@ -108092,6 +108123,7 @@ sestak S EH1 S T AH0 K
 sestanovich S EH0 S T AE1 N AH0 V IH0 CH
 sestito S EH0 S T IY1 T OW0
 set S EH1 T
+set-up S EH1 T AH2 P
 setaro S EH0 T AA1 R OW0
 setback S EH1 T B AE2 K
 setbacks S EH1 T B AE2 K S
@@ -109304,6 +109336,9 @@ shorkey SH AO1 R K IY0
 shorn SH AO1 R N
 shorr SH AO1 R
 short SH AO1 R T
+short-lived SH AO1 R T L AY1 V D
+short-sighted SH AO1 R T S AY1 T AH0 D
+short-term SH AO1 R T T ER1 M
 short-winded SH AO1 R T W IH1 N D IH0 D
 shortage SH AO1 R T AH0 JH
 shortage(2) SH AO1 R T IH0 JH
@@ -113796,6 +113831,8 @@ stanco S T AE1 NG K OW0
 stanczak S T AE1 N CH AE0 K
 stanczyk S T AE1 N CH IH0 K
 stand S T AE1 N D
+stand-by S T AE1 N D B AY0
+stand-up S T AE0 N D AH1 P
 standa S T AE1 N D AH0
 standard S T AE1 N D ER0 D
 standard's S T AE1 N D ER0 D Z
@@ -115080,6 +115117,7 @@ stooping S T UW1 P IH0 NG
 stoops S T UW1 P S
 stoots S T UW1 T S
 stop S T AA1 P
+stop-gap S T AA1 P G AE1 P
 stopa S T OW1 P AH0
 stopgap S T AA1 P G AE2 P
 stopher S T AA1 F ER0
@@ -116563,6 +116601,8 @@ sup S AH1 P
 supak S UW1 P AH0 K
 supan S UW1 P AH0 N
 super S UW1 P ER0
+super-imposition S UW1 P ER0 IH2 M P AH0 Z IH1 SH AH0 N
+super-position S UW1 P ER0 P AH0 Z IH1 SH AH0 N
 superabrasive S UW2 P ER0 AH0 B R EY1 S IH0 V
 superabrasives S UW2 P ER0 AH0 B R EY1 S IH0 V Z
 superamerica S UW2 P ER0 AH0 M EH1 R IH0 K AH0
@@ -120021,6 +120061,9 @@ threats TH R EH1 T S
 threatt TH R IY1 T
 three TH R IY1
 three's TH R IY1 Z
+three-hour TH R IY0 AW1 ER0
+three-quarters TH R IY0 K W AO1 R T ER0 Z
+three-year TH R IY1 Y IH1 R
 threefold TH R IY1 F OW2 L D
 threemonth TH R IY1 M AH0 N TH
 threes TH R IY1 Z
@@ -121037,6 +121080,7 @@ tootsie T UW1 T S IY1
 tootsie(2) T UH1 T S IY1
 top T AA1 P
 top(2) T AO1 P
+top-up T AA1 P AH2 P
 topalian T AH0 P EY1 L IY0 AH0 N
 topanga T OW0 P AE1 NG G AH0
 topanga(2) T AH0 P AE1 NG G AH0
@@ -122971,6 +123015,7 @@ turman T ER1 M AH0 N
 turmel T ER1 M AH0 L
 turmoil T ER1 M OY2 L
 turn T ER1 N
+turn-out T ER1 N AW2 T
 turnabout T ER1 N AH0 B AW2 T
 turnage T ER1 N IH0 JH
 turnaround T ER1 N ER0 AW2 N D
@@ -123130,6 +123175,7 @@ twenty T W EH1 N T IY0
 twenty(2) T W EH1 N IY0
 twenty's T W EH1 N T IY0 Z
 twenty's(2) T W EH1 N IY0 Z
+twenty-first T W EH1 N T IY0 F ER2 S T
 twentysomething T W EH2 N T IY0 S AH1 M TH IH0 NG
 twentysomething(2) T W EH2 N IY0 S AH1 M TH IH0 NG
 twentysomethings T W EH2 N T IY0 S AH1 M TH IH0 NG Z
@@ -123192,6 +123238,7 @@ twitter T W IH1 T ER0
 twitty T W IH1 T IY0
 two T UW1
 two's T UW1 Z
+two-day T UW1 D EY1
 twofold T UW1 F OW1 L D
 twohig T W OW1 HH IH0 G
 twombly T W UW1 M B L IY0
@@ -123293,6 +123340,7 @@ tysons T AY1 S AH0 N Z
 tyus T Y UW1 S
 u Y UW1
 u's Y UW1 Z
+u-turn Y UW1 T ER2 N
 u. Y UW1
 u.'s Y UW1 Z
 u.s Y UW1 Z
