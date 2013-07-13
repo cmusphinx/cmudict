@@ -60607,6 +60607,8 @@ iowan(2) AY1 OW0 AH0 N
 iowans AY1 AH0 W AH0 N Z
 iowans(2) AY1 OW0 AH0 N Z
 ip IH1 P
+ipad AY1 P AE2 D
+ipads AY1 P AE2 D Z
 ipalco IY0 P AE1 L K OW0
 ipalco's IY0 P AE1 L K OW0 Z
 ipco IH1 P K OW0
@@ -60614,7 +60616,6 @@ iphegenia IH2 F AH0 JH AH0 N AY1 AH0
 iphone AY1 F OW2 N
 ipock IH1 P AH0 K
 ipod AY1 P AA2 D
-ipod(2) AY1 P AO2 D
 ipods AY1 P AA2 D Z
 ippolito IH2 P OW0 L IY1 T OW0
 ipsco IH1 P S K OW0
