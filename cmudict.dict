@@ -17073,8 +17073,8 @@ cabler(2) K EY1 B L ER0
 cables K EY1 B AH0 L Z
 cablesystem K EY1 B AH0 L S IH2 S T AH0 M
 cablesystems K EY1 B AH0 L S IH2 S T AH0 M Z
-cabletron K EY1 B AH0 L T R AO2 N
-cabletron's K EY1 B AH0 L T R AO2 N Z
+cabletron K EY1 B AH0 L T R AA2 N
+cabletron's K EY1 B AH0 L T R AA2 N Z
 cablevision K EY1 B AH0 L V IH2 ZH AH0 N
 cablevision's K EY1 B AH0 L V IH2 ZH AH0 N Z
 cabo K AE0 B OW1
@@ -53899,6 +53899,7 @@ helter-skelter HH EH1 L T ER0 S K EH1 L T ER0
 helton HH EH1 L T AH0 N
 heltsley HH EH1 L T S L IY0
 heltzel HH EH1 L T Z AH0 L
+helvetica HH EH0 L V EH1 T IH0 K AH0
 helvey HH EH1 L V IY0
 helvie HH EH1 L V IY0
 helwig HH EH1 L W IH0 G
@@ -54299,6 +54300,7 @@ hermina(2) HH ER0 M IY1 N AH0
 hermine HH ER1 M IH0 N
 herminia HH EH0 R M IY1 N IY0 AH0
 herminie HH ER1 M IH0 N IY0
+hermione HH ER0 M IY0 OW1 N IY0
 hermit HH ER1 M AH0 T
 hermitage HH ER1 M AH0 T AH0 JH
 hermits HH ER1 M AH0 T S
@@ -55217,6 +55219,7 @@ hitsman HH IH1 T S M AH0 N
 hitson HH IH1 T S AH0 N
 hitt HH IH1 T
 hitter HH IH1 T ER0
+hitter's HH IH1 T ER0 Z
 hitters HH IH1 T ER0 Z
 hitting HH IH1 T IH0 NG
 hittite HH IH1 T AY0 T
@@ -55245,6 +55248,8 @@ hladky HH L AE1 D K IY0
 hlavac HH L AA1 V AH0 K
 hlavacek HH L AA1 V AH0 CH EH0 K
 hlavaty HH L AH0 V AA1 T IY0
+hm HH M
+hmm HH M
 hmong M AO1 NG
 hmong(2) HH M AO1 NG
 hmong(3) HH AH0 M AO1 NG
@@ -55282,6 +55287,7 @@ hobbie HH AA1 B IY0
 hobbies HH AA1 B IY0 Z
 hobbing HH AA1 B IH0 NG
 hobbins HH AA1 B IH0 N Z
+hobbit HH AA1 B IH0 T
 hobble HH AA1 B AH0 L
 hobbled HH AA1 B AH0 L D
 hobbles HH AA1 B AH0 L Z
@@ -55408,6 +55414,7 @@ hoel HH OW1 L
 hoell HH OW1 L
 hoelle HH OW1 L
 hoelscher HH OW1 L SH ER0
+hoelter HH OW1 L T ER0
 hoelterhoff HH OW1 L T ER0 HH AO2 F
 hoelterhoff's HH OW1 L T ER0 HH AO2 F S
 hoelting HH OW1 L T IH0 NG
@@ -55506,6 +55513,7 @@ hogsed HH OW1 G S T
 hogsett HH AA1 G S IH0 T
 hogston HH AA1 G S T AH0 N
 hogue HH OW1 G
+hogwarts HH AA1 G W AO0 R T S
 hogwash HH AA1 G W AA2 SH
 hogwood HH AO1 G W UH2 D
 hoh HH OW1
@@ -55733,6 +55741,7 @@ holmquist HH OW1 L M K W IH2 S T
 holmstrom HH OW1 L M S T R AH0 M
 holness HH AA1 L N IH0 S
 holocaust HH AA1 L AH0 K AO2 S T
+holodeck HH AA1 L AH0 D EH2 K
 hologram HH AA1 L AH0 G R AE2 M
 holograms HH AA1 L AH0 G R AE2 M Z
 holographic HH AA2 L AH0 G R AE1 F IH0 K
@@ -55899,6 +55908,7 @@ homewood HH OW1 M W UH2 D
 homework HH OW1 M W ER2 K
 homeworker HH OW1 M W ER2 K ER0
 homeworkers HH OW1 M W ER2 K ER0 Z
+homeworld HH OW1 M W ER2 L D
 homey HH OW1 M IY0
 homeyer HH OW1 M IY0 ER0
 homicidal HH AA2 M AH0 S AY1 D AH0 L
@@ -56021,6 +56031,8 @@ honoria AA0 N ER1 IY0 AH0
 honorific AA2 N ER0 IH1 F IH0 K
 honoring AA1 N ER0 IH0 NG
 honors AA1 N ER0 Z
+honour AA1 N ER0
+honoured AA1 N ER0 D
 hons HH AA1 N Z
 honsberger HH AA1 N S B ER0 G ER0
 honse HH AA1 N S
@@ -56288,6 +56300,7 @@ horseradish HH AO1 R S R AE2 D IH0 SH
 horses HH AO1 R S AH0 Z
 horses(2) HH AO1 R S IH0 Z
 horses' HH AO1 R S IH0 Z
+horseshit HH AO1 R S SH IH2 T
 horseshoe HH AO1 R S SH UW2
 horseshoes HH AO1 R S SH UW2 Z
 horsetail HH AO1 R S T EY2 L
@@ -56437,6 +56450,7 @@ hotly HH AA1 T L IY0
 hots HH AA1 T S
 hotshot HH AA1 SH AA2 T
 hotshots HH AA1 SH AA2 T S
+hotspot HH AA1 T S P AA2 T
 hott HH AA1 T
 hottel HH AA1 T AH0 L
 hottelet HH AA1 T L EH0 T
@@ -57043,6 +57057,7 @@ humankind's HH Y UW1 M AH0 N K AY2 N D Z
 humanly HH Y UW1 M AH0 N L IY0
 humann HH Y UW1 M AH0 N
 humanness HH Y UW1 M AH0 N N AH0 S
+humanoid HH Y UW1 M AH0 N OY2 D
 humans HH Y UW1 M AH0 N Z
 humans(2) Y UW1 M AH0 N Z
 humbarger HH AH1 M B AA2 R G ER0
@@ -57109,6 +57124,7 @@ humorists HH Y UW1 M ER0 IH0 S T S
 humorless HH Y UW1 M ER0 L AH0 S
 humorous HH Y UW1 M ER0 AH0 S
 humorously HH Y UW1 M ER0 AH0 S L IY0
+humour HH Y UW1 M ER0
 hump HH AH1 M P
 humpal HH AH1 M P AH0 L
 humpback HH AH1 M P B AE2 K
@@ -57541,6 +57557,7 @@ hyperborean HH AY2 P ER0 B AO1 R IY0 AH0 N
 hypercard HH AY2 P ER0 K AA1 R D
 hyperchromatic HH AY2 P ER0 K R OW0 M AE1 T IH0 K
 hypercritical HH AY2 P ER0 K R IH1 T IH0 K AH0 L
+hyperdrive HH AY2 P ER0 D R AY1 V
 hyperinflation HH AY2 P ER0 IH0 N F L EY1 SH AH0 N
 hyperion HH AY0 P IH1 R IY0 AH0 N
 hyperkinetic HH AY2 P ER0 K IH0 N EH1 T IH0 K
@@ -57553,6 +57570,7 @@ hyperplasia HH AY2 P ER0 P L EY1 ZH AH0
 hypersensitive HH AY2 P ER0 S EH1 N S IH0 T IH0 V
 hypersensitivity HH AY2 P ER0 S EH1 N S IH0 T IH0 V IH0 T IY0
 hypersonic HH AY2 P ER0 S AA1 N IH0 K
+hyperspace HH AY2 P ER0 S P EY1 S
 hypertension HH AY2 P ER0 T EH1 N SH AH0 N
 hypertensive HH AY2 P ER0 T EH1 N S IH0 V
 hypertext HH AY1 P ER0 T EH2 K S T
@@ -57741,6 +57759,7 @@ ickes(3) AY1 K S
 ickes' IH1 K AH0 S
 ickes'(2) IH1 K IY0 Z
 icon AY1 K AA0 N
+iconic AY2 K AA1 N IH0 K
 iconoclasm AY2 K AA1 N AH0 K L AE2 Z AH0 M
 iconoclast AY2 K AA1 N AH0 K L AE2 S T
 iconoclastic AY2 K AH0 N AH0 K L AE1 S T IH0 K
@@ -57856,6 +57875,7 @@ idona IH0 D OW1 N AH0
 idoney IH0 D OW1 N IY0
 idonia IH0 D OW1 N IY0 AH0
 idrocarburi IH0 D R AA2 K AA2 R B UH1 R IY0
+ids AY1 D IY1 Z
 iduna IH0 D UW1 N AH0
 idyll AY1 D AH0 L
 idyllic AY0 D IH1 L IH0 K
@@ -57864,6 +57884,7 @@ ierne IH1 R N
 iezzi IY0 EH1 T S IY0
 if IH1 F
 if(2) IH0 F
+if's IH1 F S
 if_you're IH1 F Y UH2 R
 ifas AY1 F AH0 S
 iffy IH1 F IY0
@@ -57914,6 +57935,7 @@ igor(2) IY1 G AO2 R
 igou IH0 G UW1
 iguana AY0 G W AA1 N AH0
 iguanas IH0 G W AA1 N AH0 Z
+iguchi AH0 G UW1 CH IY0
 igushi IH0 G UW1 SH IY0
 ihasz AY1 HH AE0 S
 ihde IH1 D
@@ -58363,6 +58385,7 @@ impossibility IH0 M P AO2 S IH0 B IH1 L IH0 T IY0
 impossible IH0 M P AA1 S AH0 B AH0 L
 impossible's IH0 M P AA1 S AH0 B AH0 L Z
 impossibly IH0 M P AA1 S AH0 B L IY0
+imposter IH0 M P AO1 S T ER0
 impostor IH0 M P AO1 S T ER0
 impostors IH0 M P AO1 S T ER0 Z
 impotence IH1 M P AH0 T AH0 N S
@@ -58472,6 +58495,8 @@ in IH0 N
 in(2) IH1 N
 in's IH0 N Z
 in's(2) IH1 N Z
+in-house IH0 N HH AW1 S
+in-laws IH0 N L AO1 Z
 in. IH1 N
 in.(2) IH1 N CH
 ina IY1 N AH0
@@ -59847,6 +59872,7 @@ intensified IH0 N T EH1 N S AH0 F AY2 D
 intensifies IH0 N T EH1 N S AH0 F AY2 Z
 intensify IH0 N T EH1 N S AH0 F AY2
 intensifying IH0 N T EH1 N S AH0 F AY2 IH0 NG
+intensities IH0 N T EH1 N S AH0 T IY0 Z
 intensity IH0 N T EH1 N S AH0 T IY0
 intensity(2) IH0 N T EH1 N S IH0 T IY0
 intensive IH0 N T EH1 N S IH0 V
@@ -60587,11 +60613,14 @@ ipco IH1 P K OW0
 iphegenia IH2 F AH0 JH AH0 N AY1 AH0
 iphone AY1 F OW2 N
 ipock IH1 P AH0 K
-ipod AY1 P AO2 D
+ipod AY1 P AA2 D
+ipod(2) AY1 P AO2 D
+ipods AY1 P AA2 D Z
 ippolito IH2 P OW0 L IY1 T OW0
 ipsco IH1 P S K OW0
 ipsen IH1 P S AH0 N
 iptay IH1 P T EY0
+iq AY1 K Y UW1
 iqbal IH1 K B AH0 L
 ira AY1 R AH0
 ira's AY1 R AH0 Z
@@ -60753,6 +60782,7 @@ irritates IH1 R IH0 T EY2 T S
 irritating IH1 R AH0 T EY2 T IH0 NG
 irritation IH2 R IH0 T EY1 SH AH0 N
 irritations IH2 R IH0 T EY1 SH AH0 N Z
+irs AY1 AA2 R EH1 S
 irv ER1 V
 irve ER1 V
 irve(2) AY1 AA1 R V IY1 IY1
@@ -60917,6 +60947,7 @@ israel(2) IH1 Z R EY0 L
 israel's IH1 Z R EY0 L Z
 israel's(2) IH1 Z R IY0 AH0 L Z
 israeli IH0 Z R EY1 L IY0
+israeli's IH0 Z R EY1 L IY0 Z
 israelis IH0 Z R EY1 L IY0 Z
 israelis' IH0 Z R EY1 L IY0 Z
 israelite IH1 Z R AH0 L AY2 T
@@ -61004,6 +61035,7 @@ itemizes AY1 T AH0 M AY2 Z IH0 Z
 itemizing AY1 T AH0 M AY2 Z IH0 NG
 items AY1 T AH0 M Z
 iten AY1 T AH0 N
+iteration IH2 T ER0 EY1 SH AH0 N
 iterative IH1 T ER0 EY2 T IH0 V
 ithaca IH1 TH AH0 K AH0
 ithaca's IH1 TH AH0 K AH0 Z
@@ -61026,6 +61058,7 @@ itsy-bitsy IH2 T S IY0 B IH1 T S IY0
 ittner IH1 T N ER0
 itty IH1 T IY0
 itty-bitty IH2 T IY0 B IH1 T IY0
+itunes AY1 T UW2 N Z
 itzhak IH1 T S AA0 K
 itzhak(2) IH1 T S AE0 K
 itzhak(3) IH1 T S HH AE0 K
@@ -61157,6 +61190,7 @@ jackie's JH AE1 K IY0 Z
 jacking JH AE1 K IH0 NG
 jackley JH AE1 K L IY0
 jacklin JH AE1 K L IH0 N
+jacklyn JH AE1 K L IH0 N
 jackman JH AE1 K M AH0 N
 jacko JH AE1 K OW0
 jackoby JH AE1 K AH0 B IY0
@@ -61616,6 +61650,7 @@ jays JH EY1 Z
 jayson JH EY1 Z AH0 N
 jaywalk JH EY1 W AO2 K
 jaywalking JH EY1 W AO2 K IH0 NG
+jazeera JH AH0 Z IY1 R AH0
 jazmin JH AE1 Z M IH0 N
 jazz JH AE1 Z
 jazzed JH AE1 Z D
@@ -61631,6 +61666,7 @@ jealousness JH EH1 L AH0 S N IH0 S
 jealousy JH EH1 L AH0 S IY0
 jean JH IY1 N
 jean's JH IY1 N Z
+jean-luc ZH EH0 N L UW1 K
 jeana JH IY1 N AH0
 jeanbaptiste ZH EH1 N B AH0 P T IH0 S T
 jeanbertrand JH IY1 N B ER0 T R AH0 N D
@@ -61657,6 +61693,7 @@ jeansonne JH EH1 N S AH0 N
 jeb JH EH1 B
 jech JH EH1 K
 jed JH EH1 D
+jedi JH EH1 D IY2
 jedlicka Y IH0 D L IH1 S K AH0
 jee JH IY1
 jeep JH IY1 P
@@ -61669,6 +61706,7 @@ jeering JH IY1 R IH0 NG
 jeers JH IY1 R Z
 jees JH IY1 Z
 jeeter JH IY1 T ER0
+jeeves JH IY1 V Z
 jeez JH IY1 Z
 jeeze JH IY1 Z
 jefcoat JH EH1 F K OW2 T
@@ -61797,6 +61835,7 @@ jeremia Y EH0 R IY1 M IY0 AH0
 jeremiad JH EH2 R AH0 M AY1 AH0 D
 jeremiah JH EH2 R AH0 M AY1 AH0
 jeremy JH EH1 R AH0 M IY0
+jeremy's JH EH1 R AH0 M IY0 Z
 jerez Y EH0 R EH1 Z
 jergens JH ER1 G AH0 N Z
 jergenson JH ER1 G IH0 N S AH0 N
@@ -61878,6 +61917,7 @@ jesuits JH EH1 ZH UW0 IH0 T S
 jesup JH EH1 S AH0 P
 jesus JH IY1 Z AH0 S
 jesus' JH IY1 Z AH0 S
+jesus's JH IY1 Z AH0 S IH0 Z
 jet JH EH1 T
 jet's JH EH1 T S
 jetborne JH EH1 T B AO2 R N
@@ -61948,6 +61988,7 @@ jezewski Y IH0 Z EH1 F S K IY0
 jezierski Y IH0 Z IH1 R S K IY0
 jeziorski Y IH0 Z IY0 AO1 R S K IY0
 jfet JH F EH1 T
+jfk JH IY1 EH2 F K EY1
 jha JH AA1
 jheel JH IY1 L
 jheryl JH EH1 R AH0 L
@@ -62045,6 +62086,7 @@ joachims(2) W AA2 K IY1 M Z
 joakima JH OW2 K IY1 M AH0
 joakima(2) W AA2 K IY1 M AH0
 joan JH OW1 N
+joanie JH OW1 N IY0
 joann JH OW2 AE1 N
 joanna JH OW0 AE1 N AH0
 joanne JH OW2 AE1 N
@@ -62314,6 +62356,7 @@ josey JH OW1 Z IY0
 josh JH AA1 SH
 joshi JH OW1 SH IY0
 joshua JH AA1 SH UW0 AH0
+joshua's JH AA1 SH UW0 AH0 Z
 josiah JH OW0 S AY1 AH0
 josie JH OW1 Z IY0
 joske's JH AO1 S K IY0 Z
@@ -62559,8 +62602,8 @@ jumble JH AH1 M B AH0 L
 jumbled JH AH1 M B AH0 L D
 jumbo JH AH1 M B OW0
 jumbos JH AH1 M B OW2 Z
-jumbotron JH AH1 M B OW0 T R AO0 N
-jumbotrons JH AH1 M B OW0 T R AO0 N Z
+jumbotron JH AH1 M B OW0 T R AA0 N
+jumbotrons JH AH1 M B OW0 T R AA0 N Z
 jumonville ZH AH1 M AH0 N V IH0 L
 jumonville(2) JH UW1 M AH0 N V IH0 L
 jump JH AH1 M P
@@ -63417,6 +63460,7 @@ kathy's K AE1 TH IY0 Z
 kati K EY1 T IY0
 katia K AA1 T IY0 AH0
 katie K EY1 T IY0
+katie's K EY1 T IY0 Z
 katja K AA1 T Y AH0
 katmandu K AE2 T M AE0 N D UW1
 kato K EY1 T OW0
@@ -63598,6 +63642,7 @@ keatts K IY1 T S
 keaveney K IY1 V IH0 N IY0
 keaveny K IY1 V IH0 N IY0
 keay K IY1 IY0
+kebab K AH0 B AA1 B
 kebab-n-kurry K IH0 B AA1 B AH0 N K ER1 IY0
 keck K EH1 K
 keckler K EH1 K L ER0
@@ -63911,7 +63956,9 @@ kennington K EH1 N IH0 NG T AH0 N
 kennison K EH1 N IH0 S AH0 N
 kennon K EH1 N AH0 N
 kenny K EH1 N IY0
+kenny's K EH1 N IY0 Z
 keno K IY1 N OW0
+kenobi K AH0 N OW1 B IY0
 kenosha K IH0 N OW1 SH AH0
 kenoyer K EH1 N OY0 ER0
 kenrick K EH1 N R IH0 K
@@ -64189,6 +64236,7 @@ keywords K IY1 W ER2 D Z
 keyworth K IY1 W ER2 TH
 keziah K AH0 Z IY1 AH0
 kganakga K AH0 G AH0 N AE1 G AH0
+kgb K EY1 JH IY1 B IY1
 kgori K AH0 G AO1 R IY0
 khabarovsk K AE2 B ER0 AA1 F S K
 khad K AE1 D
@@ -64263,6 +64311,7 @@ kibodeaux K IH1 B AH0 D OW0
 kibumba K IH0 B UW1 M B AH0
 kichline K IH1 K L AY2 N
 kick K IH1 K
+kick-ass K IH1 K AE1 S
 kickback K IH1 K B AE2 K
 kickbacks K IH1 K B AE2 K S
 kicked K IH1 K T
@@ -64718,6 +64767,7 @@ kippers K IH1 P ER0 Z
 kippes K IH1 P S
 kippur K IH1 P ER0
 kir K IH1 R
+kira K IH1 R AH0
 kiracofe K IH1 R AH0 K OW2 F
 kiraly K IH1 R AH0 L IY0
 kirby K ER1 B IY0
@@ -64877,6 +64927,7 @@ kites K AY1 T S
 kithcart K IH1 TH K AA2 R T
 kitimat K IH1 T IH0 M AE0 T
 kiting K AY1 T IH0 NG
+kitman K IH1 T M AH0 N
 kitner K IH1 T N ER0
 kitowski K IH0 T AO1 F S K IY0
 kits K IH1 T S
@@ -64947,7 +64998,9 @@ klan's K L AE1 N Z
 klang K L AE1 NG
 klann K L AE1 N
 klans K L AE1 N Z
+klansman K L AE1 N Z M AH0 N
 klansmen K L AE1 N Z M AH0 N
+klanwatch K L AE1 N W AA2 CH
 klapp K L AE1 P
 klapper K L AE1 P ER0
 klapperich K L AE1 P ER0 IH0 K
@@ -65095,6 +65148,7 @@ klingler K L IH1 NG G AH0 L ER0
 klingler(2) K L IH1 NG G L ER0
 klingman K L IH1 NG M AH0 N
 klingon K L IH1 NG G AH0 N
+klingons K L IH1 NG G AH0 N Z
 klink K L IH1 NG K
 klinke K L IH1 NG K
 klinker K L IH1 NG K ER0
@@ -65373,6 +65427,7 @@ knouff N OW1 F
 knous N AO1 S
 knouse N AW1 S
 know N OW1
+know-how N OW1 HH AW1
 knowed N OW1 D
 knower N OW1 ER0
 knowing N OW1 IH0 NG
@@ -66486,6 +66541,8 @@ kryder K R AY1 D ER0
 kryger K R AY1 G ER0
 krygier K R AY1 G IY0 ER0
 krypton K R IH1 P T AA0 N
+kryptonian K R IH0 P T OW1 N IY0 AH0 N
+kryptonite K R IH1 P T AH0 N AY2 T
 kryptos K R IH1 P T OW0 S
 krysiak K R IH1 S IY0 AE0 K
 krystal K R IH1 S T AH0 L
@@ -66867,6 +66924,7 @@ kyle K AY1 L
 kyle's K AY1 L Z
 kyler K AY1 L ER0
 kyles K AY1 L Z
+kylie K AY1 L IY0
 kyllo K IH1 L OW0
 kyllonen K IH0 L AA1 N AH0 N
 kym K IH1 M
@@ -67408,6 +67466,7 @@ laments L AH0 M EH1 N T S
 lamer L EY1 M ER0
 lamere L AA0 M EH1 R EY0
 lamers L EY1 M ER0 Z
+lamesa L AA0 M EY1 S AH0
 lameta L AH0 M EH1 T AH0
 lamey L EY1 M IY0
 lamia L EY1 M IY0 AH0
@@ -67904,6 +67963,7 @@ lareina L AA0 R EY0 IY1 N AH0
 larena L AA0 R EH1 N AH0
 larew L AE1 R UW0
 large L AA1 R JH
+large-scale L AA1 R JH S K EY2 L
 largely L AA1 R JH L IY0
 largen L AA1 R G AH0 N
 largeness L AA1 R JH N IH0 S
@@ -68064,9 +68124,9 @@ lassner L AE1 S N ER0
 lasso L AE1 S OW0
 lasswell L AE1 S W EH2 L
 last L AE1 S T
-last(2) L AO1 S T
-last(3) L AE1 S
+last(2) L AE1 S
 last's L AE1 S T S
+last-minute L AE1 S M IH1 N AH0 T
 lasted L AE1 S T AH0 D
 lasted(2) L AE1 S T IH0 D
 laster L AE1 S T ER0
@@ -68099,6 +68159,7 @@ latchford L AE1 CH F ER0 D
 latching L AE1 CH IH0 NG
 latchkey L AE1 CH K IY2
 late L EY1 T
+late-night L EY1 T N AY2 T
 latecomer L EY1 T K AH0 M ER0
 latecomers L EY1 T K AH0 M ER0 Z
 latelies L EY1 T L IY0 Z
@@ -68881,6 +68942,7 @@ lefrere L AH0 F R EH1 R
 left L EH1 F T
 left's L EH1 F T S
 left-brace L EH2 F T B R EY1 S
+left-hand L EH2 F T HH AE1 N D
 left-handed L EH2 F T HH AE1 N D IH0 D
 left-winger L EH2 F T W IH1 NG ER0
 left-wingers L EH2 F T W IH1 NG ER0 Z
@@ -69024,6 +69086,7 @@ lehrmann L EH1 R M AH0 N
 lehtinen L EH1 T IH0 N AH0 N
 lehtonen L IH0 T AA1 N AH0 N
 lei L EY1
+leia L IY1 AH0
 leib L IY1 B
 leibel L AY1 B AH0 L
 leibensperger L AY1 B IH0 N S P ER0 G ER0
@@ -69349,6 +69412,7 @@ leonhart L EH1 N HH AA0 R T
 leoni L EH0 OW1 N IY0
 leoni(2) L IY0 OW1 N IY0
 leonid L IY1 AH0 N IH0 D
+leonidas L IY0 AO1 N IH0 D AH0 Z
 leonie L EH1 N IY0
 leonora L IY2 AH0 N AO1 R AH0
 leonore L IY1 AH0 N AO0 R
@@ -69388,6 +69452,7 @@ leppert L EH1 P ER0 T
 leppla L EH1 P L AH0
 leppo L EH1 P OW0
 lepre L EH1 P ER0
+leprechaun L EH1 P ER0 K AW0 N
 leprosy L EH1 P R AH0 S IY0
 leptin L EH1 P T IH0 N
 leptonic L EH0 P T AA1 N IH0 K
@@ -69747,6 +69812,7 @@ liaison(2) L EY1 Z AA2 N
 liaisons L IY0 EY1 S AA2 N Z
 liam L IY1 AH0 M
 liam's L IY1 AH0 M Z
+liamine L IY0 AH0 M IY1
 lian L Y AA1 N
 lian's L Y AA1 N Z
 liana L IY0 AA1 N AH0
@@ -69963,11 +70029,14 @@ lieu L UW1
 lieu(2) L Y UW1
 lieurance L UW1 R AH0 N S
 lieutenant L UW0 T EH1 N AH0 N T
+lieutenant's L UW0 T EH1 N AH0 N T S
 lieutenants L UW0 T EH1 N AH0 N T S
 life L AY1 F
 life's L AY1 F S
+life-changing L AY1 F CH EY2 N JH IH0 NG
 life-conserving L AY1 F K AH0 N S ER1 V IH0 NG
 life-giving L AY1 F G IH2 V IH0 NG
+life-threatening L AY1 F TH R EH2 T N IH0 NG
 lifeblood L AY1 F B L AH2 D
 lifeboat L AY1 F B OW2 T
 lifeboats L AY1 F B OW2 T S
@@ -70027,6 +70096,7 @@ liggins L IH1 G IH0 N Z
 liggio L IY1 JH IY0 OW0
 light L AY1 T
 light's L AY1 T S
+light-years L AY1 T Y IH2 R Z
 lightbulb L AY1 T B AH2 L B
 lightbulbs L AY1 T B AH2 L B Z
 lightcap L AY1 T K AE2 P
@@ -70054,6 +70124,7 @@ lighting L AY1 T IH0 NG
 lighting's L AY1 T IH0 NG Z
 lightle L AY1 T AH0 L
 lightly L AY1 T L IY0
+lightman L AY1 T M AH0 N
 lightner L AY1 T N ER0
 lightness L AY1 T N AH0 S
 lightning L AY1 T N IH0 NG
@@ -71126,6 +71197,7 @@ loken L OW1 K AH0 N
 loker L OW1 K ER0
 lokey L OW1 K IY0
 lokken L AA1 K AH0 N
+lol L AO1 L
 lola L OW1 L AH0
 loleta L OW0 L EH1 T AH0
 lolita L OW0 L IY1 T AH0
@@ -71184,6 +71256,7 @@ loney L OW1 N IY0
 long L AO1 NG
 long's L AO1 NG Z
 long-beach L AO1 NG B IY1 CH
+long-distance L AO1 NG D IY1 S T AH0 N S
 long-island L AO2 NG AY1 L AH0 N D
 long-overdue L AO1 NG OW2 V ER0 D UW1
 long-range L AO1 NG R EY1 N JH
@@ -71652,8 +71725,12 @@ lovler L AH1 V L ER0
 lovler's L AH1 V L ER0 Z
 lovvorn L AA1 V ER0 N
 low L OW1
-low-spirited L OW1 S P IH1 R AH0 T IH0 D
-low-spiritedness L OW1 S P IH1 R IH0 T IH0 D N AH0 S
+low-cost L OW2 K AO1 S T
+low-income L OW2 IH1 N K AH0 M
+low-level L OW2 L EH1 V AH0 L
+low-spirited L OW2 S P IH1 R AH0 T IH0 D
+low-spiritedness L OW2 S P IH1 R IH0 T IH0 D N AH0 S
+low-tech L OW2 T EH1 K
 lowborn L OW1 B AO1 R N
 lowden L OW1 D AH0 N
 lowder L OW1 D ER0
@@ -71864,6 +71941,7 @@ lucrecia L UW0 K R IY1 SH AH0
 lucretia L UW0 K R IY1 SH AH0
 lucus L UW1 K AH0 S
 lucy L UW1 S IY0
+lucy's L UW1 S IY0 Z
 luczak L AH1 CH AE0 K
 ludcke L AH1 D K IY0
 ludden L AH1 D AH0 N
@@ -72419,6 +72497,7 @@ maag M AA1 G
 maahs M AA1 Z
 maalox M EY1 L AA0 K S
 maam M AH1 M
+maariv M AA0 R IY1 V
 maas M AA1 Z
 maass M AA1 S
 maassen M AA1 S AH0 N
@@ -72497,8 +72576,12 @@ maceda M AH0 S EY1 D AH0
 macedo M AH0 S EY1 D OW0
 macedonia M AE2 S AH0 D OW1 N IY0 AH0
 macedonia(2) M AE2 K AH0 D OW1 N IY0 AH0
+macedonia's M AE2 S AH0 D OW1 N IY0 AH0 Z
+macedonia's(2) M AE2 K AH0 D OW1 N IY0 AH0 Z
 macedonian M AE2 S AH0 D OW1 N Y AH0 N
 macedonian(2) M AE2 K AH0 D OW1 N Y AH0 N
+macedonians M AE2 S AH0 D OW1 N IY0 AH0 N Z
+macedonians(2) M AE2 K AH0 D OW1 N IY0 AH0 N Z
 macek M IH0 K EH1 K
 macera M AH0 S EH1 R AH0
 macewan M AH0 K Y UW1 AH0 N
@@ -72863,6 +72946,7 @@ maggard M AE1 G ER0 D
 maggart M AE1 G ER0 T
 maggi M AE1 JH IY0
 maggie M AE1 G IY0
+maggie's M AE1 G IY0 Z
 maggio M AA1 JH IY0 OW0
 maggot M AE1 G AH0 T
 maggots M AE1 G AH0 T S
@@ -73200,6 +73284,7 @@ makar M AE1 K ER0
 makara M AA0 K AA1 R AH0
 makarewicz M AH0 K AA1 R IH0 V IH0 CH
 make M EY1 K
+make-up M EY1 K AH2 P
 makefield M EY1 K F IY0 L D
 makegood M EY1 K G UH2 D
 makegoods M EY1 K G UH2 D Z
@@ -73494,6 +73579,7 @@ mamsted M AE1 M S T EH0 D
 mamula M AE1 M Y UW0 L AH0
 man M AE1 N
 man's M AE1 N Z
+man-made M AE1 N M EY2 D
 mana M AA1 N AH0
 manac M AE1 N AE0 K
 manafort M AE1 N AH0 F AO0 R T
@@ -73977,6 +74063,7 @@ marcantonio M AA2 R K AH0 N T OW1 N IY0 OW0
 marceau M AA0 R S OW1
 marceaux M AA0 R S OW1
 marceca M AA0 R S EH1 K AH0
+marceca's M AA0 R S EH1 K AH0 Z
 marcel M AA0 R S EH1 L
 marcela M AA0 R CH EH1 L AH0
 marcelia M AA0 R CH EH1 L IY0 AH0
@@ -74404,6 +74491,7 @@ marmoset M AA1 R M AH0 Z EH2 T
 marnell M AA1 R N AH0 L
 marner M AA1 R N ER0
 marney M AA1 R N IY0
+marnie M AA1 R N IY0
 maro M AA1 R OW0
 maroc M AA2 R AO1 K
 marogen M EH1 R OW0 G AH0 N
@@ -75337,6 +75425,7 @@ maximizes M AE1 K S AH0 M AY2 Z IH0 Z
 maximizing M AE1 K S AH0 M AY2 Z IH0 NG
 maxims M AE1 K S AH0 M Z
 maximum M AE1 K S AH0 M AH0 M
+maximus M AE1 K S AH0 M AH0 S
 maxine M AE0 K S IY1 N
 maxion M AE1 K S IY0 AA0 N
 maxis M AE1 K S IY0 Z
@@ -75481,6 +75570,7 @@ mazzorana M AE2 Z ER0 AA1 N AH0
 mazzotta M AA0 T S OW1 T AH0
 mazzuca M AA0 T S UW1 K AH0
 mazzucco M AA0 T S UW1 K OW0
+mba EH1 M B IY1 EY1
 mbank EH1 M B AE1 NG K
 mbeki M B EH1 K IY0
 mbeki(2) AH0 M B EH1 K IY0
@@ -75753,6 +75843,7 @@ mcconnaughey M AH0 K AA1 N AH0 G EY0
 mcconnel M AH0 K AA1 N AH0 L
 mcconnel's M AH0 K AA1 N AH0 L Z
 mcconnell M AH0 K AA1 N AH0 L
+mcconnell's M AH0 K AA1 N AH0 L Z
 mcconnon M AH0 K AA1 N AH0 N
 mcconville M AH0 K AA1 N V IH2 L
 mccooey M AH0 K UW1 IY0
@@ -75776,6 +75867,7 @@ mccoskey M AH0 K AA1 S K IY0
 mccotter M AH0 K AA1 T ER0
 mccoun M AH0 K AW1 N
 mccourt M AH0 K AO1 R T
+mccovey M AH0 K OW1 V IY0
 mccowan M AH0 K AW1 AH0 N
 mccowen M AH0 K AW1 AH0 N
 mccowin M AH0 K AW1 IH0 N
@@ -75880,6 +75972,7 @@ mcdonell M AH0 K D AA1 N AH0 L
 mcdonnel M AH0 K D AA1 N AH0 L
 mcdonnel's M AH0 K D AA1 N AH0 L Z
 mcdonnell M AH0 K D AA1 N AH0 L
+mcdonnell's M AH0 K D AA1 N AH0 L Z
 mcdonough M AH0 K D AH1 N AH0
 mcdorman M AH0 K D AO1 R M AH0 N
 mcdougal M AH0 K D UW1 G AH0 L
@@ -76365,6 +76458,7 @@ mcnairy M AH0 K N EH1 R IY0
 mcnall M AH0 K N AO1 L
 mcnalley M AH0 K N AE1 L IY0
 mcnally M AH0 K N AE1 L IY0
+mcnally's M AH0 K N AE1 L IY0 Z
 mcnamara M AE1 K N AH0 M EH2 R AH0
 mcnamara's M AE1 K N AH0 M EH2 R AH0 Z
 mcnamee M AE1 K N AH0 M IY0
@@ -76855,6 +76949,7 @@ megarry M EH1 G ER0 IY0
 megastore M EH1 G AH0 S T AO2 R
 megastores M EH1 G AH0 S T AO2 R Z
 megatons M EH1 G AH0 T AH2 N Z
+megatron M EH1 G AH0 T R AA2 N
 megawatt M EH1 G AH0 W AA2 T
 megawatts M EH1 G AH0 W AA2 T S
 megee M EH1 JH IY0
@@ -77147,6 +77242,7 @@ membranous M EH1 M B R AH0 N AH0 S
 memel M EH1 M AH0 L
 memento M IH0 M EH1 N T OW0
 mementos M IH0 M EH1 N T OW0 Z
+memes M EH1 M Z
 memmer M EH1 M ER0
 memmott M EH1 M AH0 T
 memnon M EH1 M N AA2 N
@@ -77296,6 +77392,7 @@ menorah M AH0 N AO1 R AH0
 menorah's M AH0 N AO1 R AH0 Z
 menorahs M AH0 N AO1 R AH0 Z
 menotomy M IH0 N AA1 T IH0 M IY0
+menotti M EH0 N AO1 T IY0
 menoyo M AH0 N OY1 OW0
 mens M EH1 N Z
 mensah M EH1 N S AH0
@@ -77391,6 +77488,7 @@ merchantmen M ER1 CH AH0 N T M IH0 N
 merchants M ER1 CH AH0 N T S
 merchants' M ER1 CH AH0 N T S
 merchantsbank M ER1 CH AH0 N T S B AE2 NG K
+merci M ER0 S IY1
 mercier M ER1 S IY0 ER0
 mercies M ER1 S IY0 Z
 merciful M ER1 S IH0 F AH0 L
@@ -79446,7 +79544,7 @@ mitzner M IH1 T S N ER0
 mitzvah M IH1 T S V AH0
 miura M IY0 UH1 R AH0
 mix M IH1 K S
-mix-up M IH1 K S AH1 P
+mix-up M IH1 K S AH2 P
 mixed M IH1 K S T
 mixer M IH1 K S ER0
 mixers M IH1 K S ER0 Z
@@ -96583,8 +96681,8 @@ quoted K W OW1 T IH0 D
 quotes K W OW1 T S
 quotient K W OW1 SH AH0 N T
 quoting K W OW1 T IH0 NG
-quotron K W OW1 T R AO0 N
-quotron's K W OW1 T R AO0 N Z
+quotron K W OW1 T R AA0 N
+quotron's K W OW1 T R AA0 N Z
 qureshey K UH0 R EY1 SH EY0
 qureshi K UH0 R EY1 SH IY0
 r AA1 R
@@ -105403,7 +105501,7 @@ scalded S K AO1 L D IH0 D
 scalding S K AO1 L D IH0 NG
 scalds S K AO1 L D Z
 scale S K EY1 L
-scaleatron S K EY1 L IY0 AH0 T R AO0 N
+scaleatron S K EY1 L IY0 AH0 T R AA0 N
 scaled S K EY1 L D
 scalera S K AA0 L EH1 R AH0
 scales S K EY1 L Z
@@ -113867,7 +113965,7 @@ stanczak S T AE1 N CH AE0 K
 stanczyk S T AE1 N CH IH0 K
 stand S T AE1 N D
 stand-by S T AE1 N D B AY0
-stand-up S T AE0 N D AH1 P
+stand-up S T AE1 N D AH2 P
 standa S T AE1 N D AH0
 standard S T AE1 N D ER0 D
 standard's S T AE1 N D ER0 D Z
