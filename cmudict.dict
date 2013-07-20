@@ -79597,6 +79597,7 @@ mlecko M L EH1 K OW0
 mlecko(2) M AH0 L EH1 K OW0
 mlotok M L OW1 T AA2 K
 mlotok(2) M AH0 L AA1 T AA2 K
+mm M
 mmabatho M AH0 B AA1 TH OW0
 mnemonic N IH0 M AA1 N IH0 K
 mnemonic(2) N IY0 M AA1 N IH0 K
@@ -80159,6 +80160,7 @@ monk's M AH1 NG K S
 monkee M AA1 NG K IY0
 monkees M AA1 NG K IY0 Z
 monkey M AH1 NG K IY0
+monkey's M AH1 NG K IY0 Z
 monkeying M AH1 NG K IY0 IH0 NG
 monkeylike M AH1 NG K IY0 L AY2 K
 monkeys M AH1 NG K IY0 Z
@@ -81187,6 +81189,7 @@ mssrs. M EH1 S ER0 Z
 mt M AW1 N T
 mt(2) EH1 M T IY1
 mtel EH1 M T EH2 L
+mtv EH1 M T IY1 V IY1
 mu M UW1
 muammar M UW0 AE1 M ER0
 muavenet M UW2 AH0 V EH1 N IH0 T
@@ -82608,6 +82611,8 @@ nazis N AA1 T S IY0 Z
 nazis' N AA1 T S IY0 Z
 nazism N AE1 Z IH0 Z AH0 M
 nazzaro N AA0 T S AA1 R OW0
+nba EH1 N B IY2 EY1
+nbc EH1 N B IY2 S IY1
 ndau EH0 N D AW1
 ne N IY1
 ne(2) N AO2 R TH IY1 S T
@@ -82857,6 +82862,9 @@ neighboring N EY1 B ER0 IH0 NG
 neighborly N EY1 B ER0 L IY0
 neighbors N EY1 B ER0 Z
 neighbors' N EY1 B ER0 Z
+neighbour N EY1 B ER0
+neighbourhood N EY1 B ER0 HH UH2 D
+neighbours N EY1 B ER0 Z
 neighmond N EY1 M AH0 N D
 neighmond's N EY1 M AH0 N D Z
 neikirk N IY1 K ER0 K
@@ -83450,6 +83458,7 @@ neylon N EY1 L AH0 N
 neyman N EY1 M AH0 N
 neysa N EY1 S AH0
 nez N EH1 Z
+nfl EH1 N EH2 F EH1 L
 ng EH1 NG
 ng(2) IH1 NG
 ngai G AY1
@@ -83954,8 +83963,12 @@ niznik N IH1 Z N IH0 K
 nkohse EH0 NG K OW1 S IY0
 no N OW1
 no's N OW1 Z
+no-brainer N OW1 B R EY1 N ER0
 no-go N OW1 G OW1
+no-good N OW1 G UH1 D
 no-one N OW1 W AH0 N
+no-one's N OW1 AH0 N Z
+no-show N OW1 SH OW1
 noa N OW1 AH0
 noaa N OW1 AH0
 noaa(2) EH1 N OW1 EY1 EY1
@@ -84805,6 +84818,7 @@ numb N AH1 M
 numbed N AH1 M D
 number N AH1 M B ER0
 number's N AH1 M B ER0 Z
+number-one N AH1 M B ER0 W AH2 N
 numbered N AH1 M B ER0 D
 numbering N AH1 M B ER0 IH0 NG
 numbers N AH1 M B ER0 Z
@@ -85621,6 +85635,7 @@ off AO1 F
 off's AO1 F S
 off-day AO1 F D EY1
 off-duty AO1 F D UW1 T IY0
+off-line AO1 F L AY2 N
 offbeat AO1 F B IY1 T
 offen AO1 F AH0 N
 offend AH0 F EH1 N D
@@ -85678,6 +85693,7 @@ officio AH0 F IH1 S IY0 OW0
 offield AA1 F IY2 L D
 offill AO1 F IH2 L
 offing AO1 F IH0 NG
+offline AO1 F L AY2 N
 offner AA1 F N ER0
 offord AA1 F ER0 D
 offs AO1 F S
@@ -86142,6 +86158,7 @@ omori OW0 M AO1 R IY0
 omron AA1 M R AH0 N
 on AA1 N
 on(2) AO1 N
+on-line AO1 N L AY2 N
 on-screen AA2 N S K R IY1 N
 ona AH0 N AA1
 onagers AA1 N AH0 JH ER0 Z
@@ -86289,6 +86306,8 @@ opec's OW1 P EH2 K S
 opel OW1 P AH0 L
 opel's OW1 P AH0 L Z
 open OW1 P AH0 N
+open-ended OW1 P AH0 N EH2 N D AH0 D
+open-source OW1 P AH0 N S AO2 R S
 opened OW1 P AH0 N D
 opener OW1 P AH0 N ER0
 openers OW1 P AH0 N ER0 Z
@@ -91077,6 +91096,7 @@ phaseout F EY1 Z AW2 T
 phases F EY1 Z AH0 Z
 phases(2) F EY1 Z IH0 Z
 phasing F EY1 Z IH0 NG
+phd P IY1 EY2 CH D IY1
 pheasant F EH1 Z AH0 N T
 pheasants F EH1 Z AH0 N T S
 phebe F IY1 B IY0
@@ -110552,6 +110572,7 @@ sistare S IY0 S T AA1 R IY0
 sistek S IH1 S T IH0 K
 sister S IH1 S T ER0
 sister's S IH1 S T ER0 Z
+sister-in-law S IH1 S T ER0 IH0 N L AO2
 sisterhood S IH1 S T ER0 HH UH0 D
 sisters S IH1 S T ER0 Z
 sisti S IH1 S T IY0
@@ -110908,6 +110929,7 @@ skyline S K AY1 L AY2 N
 skylines S K AY1 L AY2 N Z
 skylite S K AY1 L AY2 T
 skylites S K AY1 L AY2 T S
+skype S K AY1 P
 skyrocket S K AY1 R AA2 K AH0 T
 skyrocketed S K AY1 R AA2 K AH0 T IH0 D
 skyrocketing S K AY1 R AA2 K AH0 T IH0 NG
@@ -110915,6 +110937,7 @@ skyrockets S K AY1 R AA2 K AH0 T S
 skyscraper S K AY1 S K R EY2 P ER0
 skyscrapers S K AY1 S K R EY2 P ER0 Z
 skytel S K AY1 T EH2 L
+skywalker S K AY1 W AO2 K ER0
 skyward S K AY1 W ER0 D
 skywave S K AY1 W EY2 V
 skyway S K AY1 W EY2
@@ -127548,6 +127571,7 @@ voyles V OY1 L Z
 voynavich V OY1 N AH0 V IH0 CH
 voytek V OY1 T IH0 K
 voytko V OY1 T K OW0
+vp V IY1 P IY1
 vrabel V R AE1 B AH0 L
 vradenburg V R EY1 D AH0 N B ER0 G
 vrain V R EY1 N
