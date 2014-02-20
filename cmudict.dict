@@ -2021,6 +2021,7 @@ aide EY1 D
 aide's EY1 D Z
 aided EY1 D AH0 D
 aided(2) EY1 D IH0 D
+aidenn EY1 D EH1 N
 aides EY1 D Z
 aides' EY1 D Z
 aidid AY2 D IY1 D
@@ -3336,6 +3337,7 @@ alzheimer(2) AA1 L T S HH AY2 M ER0
 alzheimer's AE1 L Z HH AY2 M ER0 Z
 alzheimer's(2) AA1 T S Z HH AY2 M ER0 Z
 alzona AE2 L Z OW1 N AH0
+al_amein AE1 L AH0 M EY2 N
 am AE1 M
 am(2) EY1 EH1 M
 am's AE1 M Z
@@ -7225,7 +7227,7 @@ ayako AH0 Y AA1 K OW0
 ayala AH0 Y AA1 L AH0
 ayars EY1 ER0 Z
 ayatollah AY2 AH0 T OW1 L AH0
-ayatollah's AY2 AH0 T OW1 L AH0
+ayatollah's AY2 AH0 T OW1 L AH0 Z
 ayatollahs AY2 AH0 T AA1 L AA0 Z
 aybar EY1 B ER0
 aycock EY1 K AH0 K
@@ -10985,6 +10987,7 @@ betide B IH0 T AY1 D
 betke B EH1 T K IY0
 betker B EH1 T K ER0
 betley B EH1 T L IY0
+betook B EH1 T UH2 K
 betray B IH0 T R EY1
 betrayal B IH0 T R EY1 AH0 L
 betrayals B IH0 T R EY1 AH0 L Z
@@ -16805,7 +16808,7 @@ buth B UW1 TH
 buthelezi B UW2 T AH0 L EY1 Z IY0
 buthelezi's B UW2 T AH0 L EY1 Z IY0 Z
 butka B AH1 T K AH0
-butkiewicz B AH1 T K Y AH0 V IH0 CH
+butkiewicz B AH1 T K Y EH0 V IH0 CH
 butkovich B AH1 T K AO2 V IH0 CH
 butkus B AH1 T K IH0 S
 butler B AH1 T L ER0
@@ -19917,7 +19920,7 @@ chalkley CH AE1 L K L IY0
 chalks CH AO1 K S
 challender CH AH0 L EH1 N D ER0
 challenge CH AE1 L AH0 N JH
-challenged CH AE1 L AH0 JH D
+challenged CH AE1 L AH0 N JH D
 challenger CH AE1 L AH0 N JH ER0
 challenger(2) CH AE1 L IH0 N JH ER0
 challenger's CH AE1 L AH0 N JH ER0 Z
@@ -23536,7 +23539,7 @@ complacent K AH0 M P L EY1 S AH0 N T
 complacently K AH0 M P L EY1 S AH0 N T L IY0
 complain K AH0 M P L EY1 N
 complainant K AH0 M P L EY1 N AH0 N T
-complainant's K AH0 M P L EY1 N AH0 N T
+complainant's K AH0 M P L EY1 N AH0 N T S
 complainants K AH0 M P L EY1 N AH0 N T S
 complained K AH0 M P L EY1 N D
 complainer K AH0 M P L EY1 N ER0
@@ -25465,7 +25468,7 @@ corvallis K AO2 R V AE1 L IH0 S
 corvette K AO0 R V EH1 T
 corvettes K AO2 R V EH1 T S
 corvin K AO1 R V IH0 N
-corvino K AO2 V IY1 N OW0
+corvino K AO2 R V IY1 N OW0
 corvo K AO1 R V OW0
 corvus K AO1 R V AH0 S
 corwin K AO1 R W IH0 N
@@ -30485,8 +30488,8 @@ depo(2) D EH1 P OW0
 depolo D IH0 P OW1 L OW0
 deponte D IH0 P OW1 N T IY0
 depopulate D IY0 P AA1 P Y AH0 L EY2 T
-depopulation D IH0 P AA2 P Y AH0 L EY1 SH AH0
-depopulation(2) D IY2 P AA0 P Y AH0 L EY1 SH AH0
+depopulation D IH0 P AA2 P Y AH0 L EY1 SH AH0 N
+depopulation(2) D IY2 P AA0 P Y AH0 L EY1 SH AH0 N
 deport D IH0 P AO1 R T
 deportation D IY2 P AO0 R T EY1 SH AH0 N
 deportations D IY2 P AO0 R T EY1 SH AH0 N Z
@@ -38202,6 +38205,7 @@ entrapped IH0 N T R AE1 P T
 entre AA1 N T R EY0
 entre(2) AA1 N T R AH0
 entreaties EH0 N T R IY1 T IY0 Z
+entreating EH0 N T R IY1 T IH0 NG
 entreaty EH0 N T R IY1 T IY0
 entree AA1 N T R EY2
 entrees AA1 N T R EY2 Z
@@ -45910,6 +45914,7 @@ gamelin G AE1 M IH0 L IH0 N
 gamelin(2) G AE1 M L IH0 N
 gamello G AH0 M EH1 L OW0
 gamely G EY1 M L IY0
+gameplay G EY1 M P L EY
 gamer G EY1 M ER0
 gamers G EY1 M ER0 Z
 games G EY1 M Z
@@ -47117,8 +47122,8 @@ gerdes ZH ER1 D Z
 gerdes' ZH ER1 D Z
 gerding G EH1 R T IH0 NG
 gerdts G ER1 D T S
-gere G IH1 R
-gere(2) JH IH1 R
+gere G IH1 R IY
+gere(2) JH IH1 R IY
 geremia JH ER0 IY1 M IY0 AH0
 geren G IH1 R AH0 N
 gerena JH ER0 EH1 N AH0
@@ -50709,7 +50714,7 @@ guffin G AH1 F IH0 N
 guffy G AH1 F IY0
 gugel G UW1 G AH0 L
 guggenheim G UW1 G AH0 N HH AY2 M
-guggenheim's G UW1 G AH0 N HH AY2 M
+guggenheim's G UW1 G AH0 N HH AY2 M Z
 guggisberg G AH1 G IH0 S B ER0 G
 gugino G UW0 JH IY1 N OW0
 guglielmetti G UW0 G L IY0 EH0 L M EH1 T IY0
@@ -51752,7 +51757,7 @@ halsey HH AE1 L S IY0
 halstead HH AE1 L S T EH0 D
 halsted HH AE1 L S T IH0 D
 halston HH AO1 L S T AH0 N
-halston's HH AO1 L S T AH0 N
+halston's HH AO1 L S T AH0 N Z
 halt HH AO1 L T
 halted HH AO1 L T AH0 D
 halted(2) HH AO1 L T IH0 D
@@ -61136,6 +61141,8 @@ izzi IH1 Z IY0
 izzo IH1 Z OW0
 izzy IH1 Z IY0
 izzy's IH1 Z IY0 Z
+i_p IH1 P IY1
+i_r_a AY1 AA1 R EY1
 j JH EY1
 j's JH EY1 Z
 j. JH EY1
@@ -71449,6 +71456,7 @@ lord L AO1 R D
 lord's L AO1 R D Z
 lorden L AO1 R D AH0 N
 lordi L AO1 R D IY0
+lordly L AO1 R D L IY0
 lords L AO1 R D Z
 lordstown L AO1 R D Z T AW2 N
 lordy L AO1 R D IY2
@@ -74733,17 +74741,18 @@ marva M AA1 R V AH0
 marvel M AA1 R V AH0 L
 marvel's M AA1 R V AH0 L Z
 marvela M AA0 R V EY1 L AH0
-marveled M AA1 R V AH0 L D
+marveled M AA1 R V EH0 L D
 marveling M AA1 R V AH0 L IH0 NG
 marvell M AA0 R V EH1 L
 marvella M AA2 R V EH1 L AH0
 marvelle M AA0 R V EH1 L
+marvelled M AA0 R V EH1 L D
 marvelous M AA1 R V AH0 L AH0 S
 marvelously M AA1 R V AH0 L AH0 S L IY0
 marvels M AA1 R V AH0 L Z
 marver M AA1 R V ER0
 marvin M AA1 R V IH0 N
-marvin's M AA1 R V IH0 N
+marvin's M AA1 R V IH0 N Z
 marwick M AA1 R W IH2 K
 marwick's M AA1 R W IH2 K S
 marwin M AA1 R W IH0 N
@@ -77862,6 +77871,7 @@ methodology M EH2 TH AH0 D AA1 L AH0 JH IY0
 methods M EH1 TH AH0 D Z
 methot M EH1 TH AH0 T
 methotrexate M EH2 TH OW0 T R EH1 K S EY2 T
+methought M EH1 TH AO1 T
 methuselah M AH0 TH Y UW1 Z AH0 L AH0
 methvin M EH1 TH V IH0 N
 methyl M EH1 TH AH0 L
@@ -82462,8 +82472,8 @@ nations N EY1 SH AH0 N Z
 nations' N EY1 SH AH0 N Z
 nationsbanc N EY1 SH AH0 N Z B AE2 NG K
 nationsbanc(2) N EY1 SH AH0 N Z B AA2 NG K
-nationsbanc's N EY1 SH AH0 N Z B AE2 NG K
-nationsbanc's(2) N EY1 SH AH0 N Z B AA2 NG K
+nationsbanc's N EY1 SH AH0 N Z B AE2 NG K S
+nationsbanc's(2) N EY1 SH AH0 N Z B AA2 NG K S
 nationsbank N EY1 SH AH0 N Z B AE2 NG K
 nationsbank's N EY1 SH AH0 N Z B AE2 NG K S
 nationwide N EY1 SH AH0 N W AY1 D
@@ -82981,6 +82991,7 @@ nepa N IY1 P AH0
 nepal N AH0 P AO1 L
 nepalese N EH2 P AH0 L IY1 Z
 nepali N AH0 P AO1 L IY0
+nepenthe N EH2 P EH1 N TH IY0
 nephew N EH1 F Y UW0
 nephew's N EH1 F Y UW0 Z
 nephews N EH1 F Y UW0 Z
@@ -85197,6 +85208,7 @@ obediently OW0 B IY1 D IY0 AH0 N T L IY0
 obediently(2) OW0 B IY1 D Y AH0 N T L IY0
 obeid OW0 B AY1 D
 obeirne OW0 B ER1 R N
+obeisance OW0 B EY1 S AH0 N S
 obelia OW0 B EH1 L IY0 AH0
 obenchain AA1 B IH0 N K AY0 N
 obenshain AA1 B IH0 N SH AY0 N
@@ -88163,7 +88175,7 @@ paine P EY1 N
 pained P EY1 N D
 painesville P EY1 N Z V IH2 L
 painewebber P EY1 N W EH1 B ER0
-painewebber's P EY1 N W EH1 B ER0
+painewebber's P EY1 N W EH1 B ER0 Z
 painful P EY1 N F AH0 L
 painfully P EY1 N F AH0 L IY0
 painkiller P EY1 N K IH2 L ER0
@@ -89481,7 +89493,7 @@ pautz P AO1 T S
 pauwels P AW1 W AH0 L Z
 pavao P AA1 V AW0
 pavarotti P AE2 V ER0 AA1 T IY0
-pavarotti's P AE2 V ER0 AA1 T IY0
+pavarotti's P AE2 V ER0 AA1 T IY0 Z
 pave P EY1 V
 paved P EY1 V D
 pavek P AE1 V IH0 K
@@ -96279,6 +96291,7 @@ quadrupled K W AA0 D R UW1 P AH0 L D
 quadrupling K W AA0 D R UW1 P AH0 L IH0 NG
 quadrupling(2) K W AA0 D R UW1 P L IH0 NG
 quads K W AA1 D Z
+quaff K W AA F
 quaglia K W AE1 G L IY0 AH0
 quagmire K W AE1 G M AY2 ER0
 quai K IY1
@@ -96700,6 +96713,7 @@ quotations K W OW0 T EY1 SH AH0 N Z
 quote K W OW1 T
 quoted K W OW1 T IH0 D
 quotes K W OW1 T S
+quoth K W OW1 TH
 quotient K W OW1 SH AH0 N T
 quoting K W OW1 T IH0 NG
 quotron K W OW1 T R AA0 N
@@ -104939,8 +104953,7 @@ sansui's S AE0 N S UW1 IY0 Z
 sant S AE1 N T
 santa S AE1 N T AH0
 santa(2) S AE1 N AH0
-santa's S AE1 N T AH0
-santa's(2) S AE1 N AH0
+santa's S AE1 N T AH0 Z
 santa-croce S AE1 N T AH0 K R OW1 CH IY0
 santa-croce(2) S AE1 N AH0 K R OW1 CH IY0
 santa-cruz S AE1 N T AH0 K R UW1 Z
@@ -108104,6 +108117,7 @@ serafine S ER0 AA0 F IY1 N IY0
 serafini S ER0 AA0 F IY1 N IY0
 serafino S ER0 AA0 F IY1 N OW0
 seragut S EH1 R AH0 G AH2 T
+seraphim S ER0 AA0 F IY1 M
 seraphina S ER0 AA0 F IY1 N AH0
 seraphine S ER0 AA0 F IY1 N IY0
 seratonin S ER0 AA0 T OW1 N IH0 N
@@ -111965,13 +111979,12 @@ soderquist S AA1 D ER0 K W IH0 S T
 soderstrom S AA1 D ER0 S T R AH0 M
 soditic S OW0 D IH1 T IH0 K
 sodium S OW1 D IY0 AH0 M
-sodom S AA1 D AH0 M
-sodomize S AH1 D AH0 M AY2 Z
-sodomized S AA1 D AH0 M AY2 Z D
-sodomized(2) S AH1 D AH0 M AY2 Z D
-sodomizer S AA1 D AH0 M AY2 Z ER0
-sodomizes S AA1 D AH0 M AY2 Z AH0 Z
-sodomizing S AA1 D AH0 M AY2 Z IH0 NG
+sodom S AO1 D AH0 M
+sodomize S AO1 D AH0 M AY2 Z
+sodomized S AO1 D AH0 M AY2 Z D
+sodomizer S AO1 D AH0 M AY2 Z ER0
+sodomizes S AO1 D AH0 M AY2 Z AH0 Z
+sodomizing S AO1 D AH0 M AY2 Z IH0 NG
 sodomy S AA1 D AH0 M IY0
 sodus S OW1 D AH0 S
 soeder S OW1 D ER0
@@ -112237,8 +112250,7 @@ sombrero S AA0 M B R EH1 R OW0
 some S AH1 M
 somebody S AH1 M B AA2 D IY0
 somebody(2) S AH1 M B AH0 D IY0
-somebody's S AH1 M B AA2 D IY0
-somebody's(2) S AH1 M B AH0 D IY0
+somebody's S AH1 M B AA2 D IY0 Z
 someday S AH1 M D EY2
 somehow S AH1 M HH AW2
 someone S AH1 M W AH2 N
@@ -116967,6 +116979,7 @@ surat S ER0 AA1 T
 surat's S ER0 AA1 T S
 surbaugh S ER1 B AO0
 surber S ER1 B ER0
+surcease S ER1 S IY1 S
 surcharge S ER0 CH AA1 R JH
 surcharge(2) S ER1 CH AA2 R JH
 surcharges S ER1 CH AA2 R JH IH0 Z
@@ -119858,6 +119871,7 @@ therapist's(2) TH EH1 R AH0 P IH0 S T S
 therapists TH EH1 R AH0 P IH0 S T S
 therapists's TH EH1 R AH0 P IH0 S T S
 therapy TH EH1 R AH0 P IY0
+therat DH EH1 R AE1 T
 there DH EH1 R
 there'd DH EH1 R D
 there'll DH EH1 R AH0 L
@@ -123503,7 +123517,6 @@ u-turn Y UW1 T ER2 N
 u. Y UW1
 u.'s Y UW1 Z
 u.s Y UW1 Z
-u_s_m_c Y UW1 EH1 S EH1 M S IY1
 uarco Y UW2 AA1 R K OW0
 uart Y UW1 AA0 R T
 ubben AH1 B AH0 N
@@ -124553,6 +124566,7 @@ unmasked AH0 N M AE1 S K T
 unmatched AH0 N M AE1 CH T
 unmentionable AH0 N M EH1 N SH AH0 N AH0 B AH0 L
 unmentioned AH0 N M EH1 N CH AH0 N D
+unmerciful AH0 N M ER1 S IH0 F AH0 L
 unmet AH0 N M EH1 T
 unmistakable AH2 N M IH0 S T EY1 K AH0 B AH0 L
 unmistakably AH2 N M IH0 S T EY1 K AH0 B L IY0
@@ -125005,6 +125019,7 @@ upstaged AH1 P S T EY1 JH D
 upstairs AH0 P S T EH1 R Z
 upstanding AH1 P S T AE2 N D IH0 NG
 upstart AH1 P S T AA2 R T
+upstarting AH1 P S T AA2 R T IH0 NG
 upstarts AH0 P S T AA1 R T S
 upstate AH1 P S T EY1 T
 upstream AH1 P S T R IY1 M
@@ -125275,6 +125290,8 @@ uzis UW1 Z IY0 Z
 uzmack UW1 Z M AE2 K
 uzzell UW0 Z EH1 L
 uzzle AH1 Z AH0 L
+u_l Y UW1 EH1 L
+u_s_m_c Y UW1 EH1 S EH1 M S IY1
 v V IY1
 v's V IY1 Z
 v. V IY1
@@ -129907,7 +129924,7 @@ whitehouse W AY1 T HH AW2 S
 whitehouse(2) HH W AY1 T HH AW2 S
 whitehurst W AY1 T HH ER2 S T
 whitehurst(2) HH W AY1 T HH ER2 S T
-whitehurst's W AY1 T HH ER2 S T
+whitehurst's W AY1 T HH ER2 S T S
 whitelaw W AY1 T L AO2
 whitelaw(2) HH W AY1 T L AO2
 whiteley W AY1 T L IY0
@@ -131773,6 +131790,7 @@ wrestlers(2) R EH1 S AH0 L ER0 Z
 wrestles R EH1 S AH0 L Z
 wrestling R EH1 S L IH0 NG
 wrestling(2) R EH1 S AH0 L IH0 NG
+wretch R EH1 CH
 wretched R EH1 CH IH0 D
 wretchedly R EH1 CH IH0 D L IY0
 wrice R AY1 S
