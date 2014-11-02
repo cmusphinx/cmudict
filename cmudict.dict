@@ -2297,6 +2297,7 @@ al's AE1 L Z
 al-qaeda AA2 L K AY1 D AH0
 al. AE1 L
 al.(2) AE2 L AH0 B AE1 M AH0
+al_amein AE1 L AH0 M EY2 N
 ala EY1 L AH0
 alabama AE2 L AH0 B AE1 M AH0
 alabama's AE2 L AH0 B AE1 M AH0 Z
@@ -3337,7 +3338,6 @@ alzheimer(2) AA1 L T S HH AY2 M ER0
 alzheimer's AE1 L Z HH AY2 M ER0 Z
 alzheimer's(2) AA1 T S Z HH AY2 M ER0 Z
 alzona AE2 L Z OW1 N AH0
-al_amein AE1 L AH0 M EY2 N
 am AE1 M
 am(2) EY1 EH1 M
 am's AE1 M Z
@@ -45914,7 +45914,7 @@ gamelin G AE1 M IH0 L IH0 N
 gamelin(2) G AE1 M L IH0 N
 gamello G AH0 M EH1 L OW0
 gamely G EY1 M L IY0
-gameplay G EY1 M P L EY
+gameplay G EY1 M P L EY1
 gamer G EY1 M ER0
 gamers G EY1 M ER0 Z
 games G EY1 M Z
@@ -47122,8 +47122,8 @@ gerdes ZH ER1 D Z
 gerdes' ZH ER1 D Z
 gerding G EH1 R T IH0 NG
 gerdts G ER1 D T S
-gere G IH1 R IY
-gere(2) JH IH1 R IY
+gere G IH1 R IY0
+gere(2) JH IH1 R IY0
 geremia JH ER0 IY1 M IY0 AH0
 geren G IH1 R AH0 N
 gerena JH ER0 EH1 N AH0
@@ -57661,6 +57661,8 @@ i've AY1 V
 i. AY1
 i.'s AY1 Z
 i.s AY1 Z
+i_p IH1 P IY1
+i_r_a AY1 AA1 R EY1
 ia IY1 AH0
 iacobelli IY0 AA2 K OW0 B EH1 L IY0
 iacobellis IY0 AA2 K OW0 B EH1 L IH0 S
@@ -61141,8 +61143,6 @@ izzi IH1 Z IY0
 izzo IH1 Z OW0
 izzy IH1 Z IY0
 izzy's IH1 Z IY0 Z
-i_p IH1 P IY1
-i_r_a AY1 AA1 R EY1
 j JH EY1
 j's JH EY1 Z
 j. JH EY1
@@ -96291,7 +96291,7 @@ quadrupled K W AA0 D R UW1 P AH0 L D
 quadrupling K W AA0 D R UW1 P AH0 L IH0 NG
 quadrupling(2) K W AA0 D R UW1 P L IH0 NG
 quads K W AA1 D Z
-quaff K W AA F
+quaff K W AA1 F
 quaglia K W AE1 G L IY0 AH0
 quagmire K W AE1 G M AY2 ER0
 quai K IY1
@@ -107675,6 +107675,7 @@ self-sufficient S EH1 L F S AH0 F IH1 SH AH0 N T
 self-sufficient(2) S EH1 L F S AH0 F IH1 SH IH0 N T
 self-torment S EH1 L F T AO1 R M EH2 N T
 self-torments S EH1 L F T AO1 R M EH2 N T S
+selfie S EH1 L F IY0
 selfish S EH1 L F IH0 SH
 selfishness S EH1 L F IH0 SH N AH0 S
 selfless S EH1 L F L AH0 S
@@ -123517,6 +123518,8 @@ u-turn Y UW1 T ER2 N
 u. Y UW1
 u.'s Y UW1 Z
 u.s Y UW1 Z
+u_l Y UW1 EH1 L
+u_s_m_c Y UW1 EH1 S EH1 M S IY1
 uarco Y UW2 AA1 R K OW0
 uart Y UW1 AA0 R T
 ubben AH1 B AH0 N
@@ -125290,8 +125293,6 @@ uzis UW1 Z IY0 Z
 uzmack UW1 Z M AE2 K
 uzzell UW0 Z EH1 L
 uzzle AH1 Z AH0 L
-u_l Y UW1 EH1 L
-u_s_m_c Y UW1 EH1 S EH1 M S IY1
 v V IY1
 v's V IY1 Z
 v. V IY1
