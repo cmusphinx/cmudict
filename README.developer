@@ -25,7 +25,6 @@ The cmudict.*.phones file lists all legal phones, plus their phonetic class.
 The cmudict.*.symbols file lists all legal phonetic symbols (the only
 substantive difference is that stress combinations are explicitly noted).
 
-
 Projects for the ambitious
 --------------------------
 
