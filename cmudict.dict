@@ -2295,10 +2295,10 @@ akzo's AE1 K Z OW0 Z
 akzos AE1 K Z OW0 Z
 al AE1 L
 al's AE1 L Z
+al-amein AE1 L AH0 M EY2 N
 al-qaeda AA2 L K AY1 D AH0
 al. AE1 L
 al.(2) AE2 L AH0 B AE1 M AH0
-al-amein AE1 L AH0 M EY2 N
 ala AE1 L AH0
 ala(2) EY1 L AH0
 alabama AE2 L AH0 B AE1 M AH0
@@ -22364,7 +22364,7 @@ co-operative(2) K OW2 AA1 P R AH0 T IH0 V
 co-opt K OW0 AA1 P T
 co-opted K OW0 AA1 P T AH0 D
 co-wife K OW1 W AY1 F
-co-worker K OW W ER1 K ER0
+co-worker K OW1 W ER1 K ER0
 co-workers K OW1 W ER1 K ER0 Z
 co. K OW1
 co.(2) K AH1 P AH0 N IY0
@@ -23996,11 +23996,9 @@ confidence's K AA1 N F AH0 D AH0 N S AH0 Z
 confidences K AA1 N F AH0 D AH0 N S IH0 Z
 confident K AA1 N F AH0 D AH0 N T
 confidential K AA2 N F AH0 D EH1 N SH AH0 L
-confidential(2) K AA2 N F AH0 D EH1 N SH AH0 L
 confidentiality K AA2 N F AH0 D EH2 N SH IY0 AE1 L AH0 T IY0
 confidentiality(2) K AA2 N F AH0 D EH2 N CH IY0 AE1 L AH0 T IY0
 confidentially K AA2 N F AH0 D EH1 N SH AH0 L IY0
-confidentially(2) K AA2 N F AH0 D EH1 N SH AH0 L IY0
 confidently K AA1 N F AH0 D AH0 N T L IY0
 confides K AH0 N F AY1 D Z
 confiding K AH0 N F AY1 D IH0 NG
@@ -26395,9 +26393,7 @@ credence K R IY1 D AH0 N S
 credential K R IH0 D EH1 N SH AH0 L
 credential(2) K R AH0 D EH1 N SH AH0 L
 credentialed K R AH0 D EH1 N SH AH0 L D
-credentialed(2) K R AH0 D EH1 N SH AH0 L D
 credentials K R AH0 D EH1 N SH AH0 L Z
-credentials(2) K R AH0 D EH1 N SH AH0 L Z
 credenza K R AH0 D EH1 N Z AH0
 credeur K R IH0 D ER1
 credibility K R EH2 D AH0 B IH1 L IH0 T IY0
@@ -31747,9 +31743,7 @@ differences(2) D IH1 F R AH0 N S AH0 Z
 different D IH1 F ER0 AH0 N T
 different(2) D IH1 F R AH0 N T
 differential D IH2 F ER0 EH1 N SH AH0 L
-differential(2) D IH2 F ER0 EH1 N SH AH0 L
 differentials D IH2 F ER0 EH1 N SH AH0 L Z
-differentials(2) D IH2 F ER0 EH1 N SH AH0 L Z
 differentiate D IH2 F ER0 EH1 N SH IY0 EY2 T
 differentiate(2) D IH2 F ER0 EH1 N CH IY0 EY2 T
 differentiated D IH2 F ER0 EH1 N SH IY0 EY2 T IH0 D
@@ -38924,13 +38918,10 @@ essence EH1 S AH0 N S
 essential IH0 S EH1 N SH AH0 L
 essential(2) IY0 S EH1 N SH AH0 L
 essential(3) AH0 S EH1 N SH AH0 L
-essential(4) IY0 S EH1 N SH AH0 L
 essentially IH0 S EH1 N SH AH0 L IY0
 essentially(2) IY0 S EH1 N SH AH0 L IY0
 essentials EH0 S EH1 N SH AH0 L Z
 essentials(2) IY0 S EH1 N SH AH0 L Z
-essentials(3) EH0 S EH1 N SH AH0 L Z
-essentials(4) IY0 S EH1 N SH AH0 L Z
 esser EH1 S ER0
 esses EH1 S IH0 Z
 esses(2) EH1 S IY0 Z
@@ -39836,7 +39827,6 @@ existence EH0 G Z IH1 S T AH0 N S
 existence(2) IH0 G Z IH1 S T AH0 N S
 existent EH0 G Z IH1 S T AH0 N T
 existential EH2 G Z IH2 S T EH1 N SH AH0 L
-existential(2) EH2 G Z IH2 S T EH1 N SH AH0 L
 existing IH0 G Z IH1 S T IH0 NG
 exists IH0 G Z IH1 S T S
 exit EH1 G Z IH0 T
@@ -57683,8 +57673,6 @@ i've AY1 V
 i. AY1
 i.'s AY1 Z
 i.s AY1 Z
-ip IH1 P IY1
-ira AY1 AA1 R EY1
 ia IY1 AH0
 iacobelli IY0 AA2 K OW0 B EH1 L IY0
 iacobellis IY0 AA2 K OW0 B EH1 L IH0 S
@@ -59775,7 +59763,6 @@ insubordinate IH0 N S AH0 B AO1 R D AH0 N EY2 T
 insubordinate(2) IH0 N S AH0 B AO1 R D AH0 N AH0 T
 insubordination IH0 N S AH0 B AO2 R D AH0 N EY1 SH AH0 N
 insubstantial IH0 N S AH0 B S T AE1 N SH AH0 L
-insubstantial(2) IH0 N S AH0 B S T AE1 N SH AH0 L
 insubstantiate IH0 N S AH0 B S T AE1 N CH IY2 EY0 T
 insubstantiate(2) IH0 N S AH0 B S T AE1 N SH IY2 EY0 T
 insubstantiated IH0 N S AH0 B S T AE1 N CH IY2 EY0 T AH0 D
@@ -60635,7 +60622,8 @@ iowan AY1 AH0 W AH0 N
 iowan(2) AY1 OW0 AH0 N
 iowans AY1 AH0 W AH0 N Z
 iowans(2) AY1 OW0 AH0 N Z
-ip IH1 P
+ip IH1 P IY1
+ip(2) IH1 P
 ipad AY1 P AE2 D
 ipads AY1 P AE2 D Z
 ipalco IY0 P AE1 L K OW0
@@ -60653,6 +60641,7 @@ iptay IH1 P T EY0
 iq AY1 K Y UW1
 iqbal IH1 K B AH0 L
 ira AY1 R AH0
+ira(2) AY1 AA1 R EY1
 ira's AY1 R AH0 Z
 iran IH0 R AA1 N
 iran(2) AY2 R AE1 N
@@ -82020,10 +82009,10 @@ n'djamena N D Y AH0 M IY1 N AH0
 n'dour N D AW1 R
 n's EH1 N Z
 n-tuple EH1 N T UW1 P AH0 L
+n-words EH1 N W ER1 D Z
 n. EH1 N
 n.'s EH1 N Z
 n.s EH1 N Z
-n-words EH1 N W ER1 D Z
 na N AA1
 naab N AA1 B
 naas N AA1 Z
@@ -93415,10 +93404,10 @@ port's P AO1 R T S
 port-angeles P AO1 R T AE1 N JH AH0 L IH0 S
 port-arthur P AO1 R T AA1 R TH ER0
 port-au-prince P AO2 R T OW0 P R IH1 N S
+port-au-prince(2) P AO1 R T OW0 P R IH1 N S
 port-clinton P AO1 R T K L IH1 N T AH0 N
 port-london P AO1 R T L AH1 N D AH0 N
 port-victoria P AO1 R T V IH0 K T AO1 R IY0 AH0
-port-au-prince P AO1 R T OW0 P R IH1 N S
 porta P AO1 R T AH0
 portability P AO2 R T AH0 B IH1 L IH0 T IY0
 portable P AO1 R T AH0 B AH0 L
@@ -93672,11 +93661,8 @@ potent P OW1 T AH0 N T
 potentate P OW1 T AH0 N T EY2 T
 potentates P OW1 T AH0 N T EY2 T S
 potential P AH0 T EH1 N SH AH0 L
-potential(2) P AH0 T EH1 N SH AH0 L
 potentially P AH0 T EH1 N SH AH0 L IY0
-potentially(2) P AH0 T EH1 N SH AH0 L IY0
 potentials P AH0 T EH1 N SH AH0 L Z
-potentials(2) P AH0 T EH1 N SH AH0 L Z
 potenza P OW0 T EH1 N Z AH0
 poth P AA1 TH
 pothier P OW1 TH IY0 ER0
@@ -94147,9 +94133,7 @@ preferenced(2) P R EH1 F R AH0 N S T
 preferences P R EH1 F ER0 AH0 N S IH0 Z
 preferences(2) P R EH1 F R AH0 N S IH0 Z
 preferential P R EH2 F ER0 EH1 N SH AH0 L
-preferential(2) P R EH2 F ER0 EH1 N SH AH0 L
 preferentially P R EH2 F ER0 EH1 N SH AH0 L IY0
-preferentially(2) P R EH2 F ER0 EH1 N SH AH0 L IY0
 preferred P R AH0 F ER1 D
 preferred(2) P R IH0 F ER1 D
 preferred(3) P R IY0 F ER1 D
@@ -94379,13 +94363,9 @@ president P R EH1 Z AH0 D EH2 N T
 president(2) P R EH1 Z IH0 D AH0 N T
 president's P R EH1 Z IH0 D AH0 N T S
 presidential P R EH2 Z AH0 D EH1 N SH AH0 L
-presidential(2) P R EH2 Z AH0 D EH1 N SH AH0 L
 presidential's P R EH2 Z AH0 D EH1 N SH AH0 L Z
-presidential's(2) P R EH2 Z AH0 D EH1 N SH AH0 L Z
 presidentialist P R EH2 Z AH0 D EH1 N SH AH0 L IH0 S T
-presidentialist(2) P R EH2 Z AH0 D EH1 N SH AH0 L IH0 S T
 presidentially P R EH2 S IH0 D EH1 N SH AH0 L IY0
-presidentially(2) P R EH2 S IH0 D EH1 N SH AH0 L IY0
 presidents P R EH1 Z AH0 D EH2 N T S
 presidents(2) P R EH1 Z IH0 D AH0 N T S
 presidents(3) P R EH1 Z IH0 D AH0 N S
@@ -95812,13 +95792,13 @@ puerile P Y UW0 R IY1 L
 puerto P W EH1 R T OW2
 puerto(2) P AO1 R T AH0
 puerto(3) P AO1 R T ER0
-puerto-rico P W EH1 R T OW2 R IY1 K OW0
-puerto-rico(2) P AO1 R T AH0 R IY1 K OW0
-puerto-rico(3) P AO1 R T ER0 R IY1 K OW0
 puerto-rican P W EH1 R T OW2 R IY1 K AH0 N
 puerto-rican(2) P AO1 R T AH0 R IY1 K AH0 N
 puerto-ricans P W EH1 R T OW2 R IY1 K AH0 N Z
 puerto-ricans(2) P AO1 R T AH0 R IY1 K AH0 N Z
+puerto-rico P W EH1 R T OW2 R IY1 K OW0
+puerto-rico(2) P AO1 R T AH0 R IY1 K OW0
+puerto-rico(3) P AO1 R T ER0 R IY1 K OW0
 puett P UW1 T
 puetz P UW1 T S
 pufahl P Y UW1 F AA0 L
@@ -96669,7 +96649,6 @@ quintero K W IY0 N T EH1 R OW0
 quinteros K W IY0 N T EH1 R OW0 Z
 quintessence K W IH0 N T EH1 S AH0 N S
 quintessential K W IH2 N T IH0 S EH1 N SH AH0 L
-quintessential(2) K W IH2 N T IH0 S EH1 N SH AH0 L
 quintessentially K W IH2 N T AH0 S EH1 N SH AH0 L IY0
 quintet K W IH0 N T EH1 T
 quintile K W IH1 N T IH0 L
@@ -101089,7 +101068,6 @@ reverend R EH1 V ER0 AH0 N D
 reverend(2) R EH1 V R AH0 N D
 reverent R EH1 V ER0 AH0 N T
 reverential R EH2 V ER0 EH1 N SH AH0 L
-reverential(2) R EH2 V ER0 EH1 N SH AH0 L
 reverently R EH1 V ER0 AH0 N T L IY0
 reveres R IH0 V IH1 R Z
 reverie R EH1 V ER0 IY0
@@ -104514,7 +104492,7 @@ saline S AH0 L IY1 N
 saling S EY1 L IH0 NG
 salinger S AE1 L IH0 N JH ER0
 salinger's S AE1 L IH0 N JH ER0 Z
-salingers(2) S AE1 L IH0 N JH ER0 Z
+salingers S AE1 L IH0 N JH ER0 Z
 salinity S AH0 L IH1 N AH0 T IY2
 salis S AA1 L IH0 S
 salisbury S AE1 L Z B ER0 IY0
@@ -113730,40 +113708,39 @@ srpska S R AH1 P S K AH0
 ssangyong S AE1 NG Y AO2 NG
 st S T R IY1 T
 st(2) S EY1 N T
+st-charles S EY1 N T CH AA1 R AH0 L Z
+st-clair S EY1 N T K L EH1 R
+st-claire S EY1 N T K L EH1 R
+st-cyr S EY1 N T K IH1 R
+st-cyr(2) S EY1 N T S IH1 R
+st-denis S EY1 N T D EH1 N IH0 S
+st-dennis S EY1 N T D EH1 N IH0 S
+st-george S EY1 N T JH AO1 R JH
+st-germain S EY1 N T JH ER2 M EY1 N
+st-germaine S EY1 N T JH ER2 M EY1 N
+st-germaine(2) S AA1 N ZH ER2 M EY1 N
+st-hilaire S EY1 N T HH IH0 L EY1 R
+st-jacques S EY1 N T JH AA1 K S
+st-jacques(2) S AA1 N ZH AA1 K S
 st-james S EY1 N T JH EY1 M Z
+st-jean S EY1 N T JH IY1 N
+st-john S EY1 N T JH AA1 N
 st-johns S EY1 N T JH AA1 N Z
-st_charles S EY1 N T CH AA1 R AH0 L Z
-st_clair S EY1 N T K L EH1 R
-st_claire S EY1 N T K L EH1 R
-st_cyr S EY1 N T K IH1 R
-st_cyr(2) S EY1 N T S IH1 R
-st_denis S EY1 N T D EH1 N IH0 S
-st_dennis S EY1 N T D EH1 N IH0 S
-st_george S EY1 N T JH AO1 R JH
-st_germain S EY1 N T JH ER2 M EY1 N
-st_germaine S EY1 N T JH ER2 M EY1 N
-st_germaine(2) S AA1 N ZH ER2 M EY1 N
-st_hilaire S EY1 N T HH IH0 L EY1 R
-st_jacques S EY1 N T JH AA1 K S
-st_jacques(2) S AA1 N ZH AA1 K S
-st_james S EY1 N T JH EY1 M Z
-st_jean S EY1 N T JH IY1 N
-st_john S EY1 N T JH AA1 N
-st_julien S EY1 N T JH UW1 L IY0 AH0 N
-st_laurent S EY1 N T L AO1 R AH0 N T
-st_laurent(2) S AA1 N L AO2 R AO1 N T
-st_lawrence S EY1 N T L AO1 R AH0 N S
-st_louis S EY1 N T L UW1 AH0 S
-st_louis(2) S EY1 N T L UW1 IY0
-st_lucia S EY1 N T L UW1 SH AH0
-st_lucia(2) S EY1 N T L UW2 S IY1 AH0
-st_marie S EY1 N T M ER0 IY1
-st_martin S EY1 N T M AA1 R T IH0 N
-st_mary S EY1 N T M EH1 R IY0
-st_peter S EY1 N T P IY1 T ER0
-st_petersburg S EY1 N T P IY1 T ER0 Z B ER0 G
-st_pierre S EY1 N T P Y EH1 R
-st_thomas S EY1 N T AA1 M AH0 S
+st-julien S EY1 N T JH UW1 L IY0 AH0 N
+st-laurent S EY1 N T L AO1 R AH0 N T
+st-laurent(2) S AA1 N L AO2 R AO1 N T
+st-lawrence S EY1 N T L AO1 R AH0 N S
+st-louis S EY1 N T L UW1 AH0 S
+st-louis(2) S EY1 N T L UW1 IY0
+st-lucia S EY1 N T L UW1 SH AH0
+st-lucia(2) S EY1 N T L UW2 S IY1 AH0
+st-marie S EY1 N T M ER0 IY1
+st-martin S EY1 N T M AA1 R T IH0 N
+st-mary S EY1 N T M EH1 R IY0
+st-peter S EY1 N T P IY1 T ER0
+st-petersburg S EY1 N T P IY1 T ER0 Z B ER0 G
+st-pierre S EY1 N T P Y EH1 R
+st-thomas S EY1 N T AA1 M AH0 S
 sta S T AH1
 sta(2) EH1 S T IY1 EY1
 staab S T AA1 B
@@ -116275,9 +116252,7 @@ substances S AH1 B S T AH0 N S AH0 Z
 substances(2) S AH1 B S T AH0 N S IH0 Z
 substandard S AH0 B S T AE1 N D ER0 D
 substantial S AH0 B S T AE1 N SH AH0 L
-substantial(2) S AH0 B S T AE1 N SH AH0 L
 substantially S AH0 B S T AE1 N SH AH0 L IY0
-substantially(2) S AH0 B S T AE1 N SH AH0 L IY0
 substantiate S AH0 B S T AE1 N CH IY0 EY2 T
 substantiate(2) S AH0 B S T AE1 N SH IY0 EY2 T
 substantiated S AH0 B S T AE1 N SH IY0 EY2 T IH0 D
@@ -117946,8 +117921,6 @@ t-lam T IY1 L AE1 M
 t. T IY1
 t.'s T IY1 Z
 t.s T IY1 Z
-t_a_c T IY1 EY1 S IY1
-t_a_c(2) T AE1 K
 ta T AA1
 taaffe T AA1 F
 tab T AE1 B
@@ -118003,7 +117976,8 @@ tabulating T AE1 B Y AH0 L EY2 T IH0 NG
 tabulation T AE2 B Y AH0 L EY1 SH AH0 N
 tabulations T AE2 B Y AH0 L EY1 SH AH0 N Z
 tabulature T AE1 B Y AH0 L AH0 CH ER0
-tac T AE1 K
+tac T IY1 EY1 S IY1
+tac(2) T AE1 K
 tacey T EY1 S IY0
 tacit T AE1 S IH0 T
 tacita T AA0 CH IY1 T AH0
@@ -121420,7 +121394,6 @@ torrence T AO1 R AH0 N S
 torrens T AO1 R AH0 N Z
 torrent T AO1 R AH0 N T
 torrential T AO0 R EH1 N SH AH0 L
-torrential(2) T AO0 R EH1 N SH AH0 L
 torrents T AO1 R AH0 N T S
 torrenzano T AO2 R EH0 N Z AA1 N OW0
 torreon T AO1 R IY0 AH0 N
@@ -123545,8 +123518,6 @@ u-turn Y UW1 T ER2 N
 u. Y UW1
 u.'s Y UW1 Z
 u.s Y UW1 Z
-u_l Y UW1 EH1 L
-u_s_m_c Y UW1 EH1 S EH1 M S IY1
 uarco Y UW2 AA1 R K OW0
 uart Y UW1 AA0 R T
 ubben AH1 B AH0 N
@@ -123640,7 +123611,8 @@ ukrainian Y UW0 K R EY1 N IY0 AH0 N
 ukrainian's Y UW0 K R EY1 N IY0 AH0 N Z
 ukrainians Y UW0 K R EY1 N IY0 AH0 N Z
 ukulele Y UW2 K AH0 L EY1 L IY0
-ul AH1 L
+ul Y UW1 EH1 L
+ul(2) AH1 L
 ula Y UW1 L AH0
 ulaanbaatar UW2 L AA1 N B AH0 T AA1 R
 ulaanbaatar(2) Y UW2 L AA1 N B AH0 T AA1 R
@@ -125234,6 +125206,7 @@ ushers AH1 SH ER0 Z
 usines Y UW2 Z IY1 N Z
 using Y UW1 Z IH0 NG
 usinor Y UW1 S AH0 N ER0
+usmc Y UW1 EH1 S EH1 M S IY1
 usoniam Y UW0 S OW1 N IY0 AH0 M
 usrey AH1 S R IY0
 usry AH1 S R IY0
@@ -125578,6 +125551,7 @@ vampire's V AE1 M P AY0 R Z
 vampires V AE1 M P AY0 R Z
 vampiric V AE0 M P IH1 R IH0 K
 van V AE1 N
+van-gogh V AE1 N G OW1
 vana V AE1 N AH0
 vanacker V AE0 N AE1 K ER0
 vanacore V AA0 N AA0 K AO1 R IY0
@@ -125942,7 +125916,6 @@ vanzant V AA1 N Z AH0 N T
 vanzanten V AE2 N Z AE1 N T AH0 N
 vanzee V AA1 N Z IY0
 vanzile V AA1 N Z AY0 L
-van_gogh V AE1 N G OW1
 vapid V AE1 P IH0 D
 vapor V EY1 P ER0
 vaporization V EY0 P ER0 AH0 Z EY1 SH AH0 N
@@ -127623,6 +127596,7 @@ vries V R IY1 Z
 vroman V R OW1 M AH0 N
 vroom V R UW1 M
 vrooman V R UW1 M AH0 N
+vs V IY1 EH1 S
 vsel V IY1 S EH2 L
 vu V UW1
 vue V Y UW1
@@ -127654,7 +127628,6 @@ vyacheslav V Y AA1 CH AH0 S L AA0 V
 vyas V Y AA1 S
 vyas(2) V AY1 AH0 S
 vying V AY1 IH0 NG
-v_s V IY1 EH1 S
 w D AH1 B AH0 L Y UW0
 w's D AH1 B AH0 L Y UW0 Z
 w. D AH1 B AH0 L Y UW0
