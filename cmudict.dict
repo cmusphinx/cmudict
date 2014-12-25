@@ -70867,8 +70867,8 @@ ln L EY1 N
 lo L OW1
 lo's L OW1 Z
 load L OW1 D
-loaded L OW1 D AH0 D
-loaded(2) L OW1 D IH0 D
+loaded L OW1 D IH0 D
+loaded(2) L OW1 D AH0 D
 loader L OW1 D ER0
 loaders L OW1 D ER0 Z
 loadholt L OW1 D HH OW2 L T
@@ -85189,6 +85189,7 @@ oaxaca OW1 K S AH0 K AH0
 oba OW1 B AH0
 obadiah OW2 B AH0 D AY1 AH0
 obama OW2 B AA1 M AH0
+obama's OW2 B AA1 M AH0 Z
 obando OW0 B AE1 N D OW0
 obanion OW0 B AE1 N Y AH0 N
 obannon OW0 B AE1 N AH0 N
@@ -85922,6 +85923,9 @@ olcott OW1 L K AH0 T
 olczak OW1 L CH AE0 K
 old OW1 L D
 old's OW1 L D Z
+old-fashioned OW1 L D F AE1 SH AH0 N D
+old-growth OW1 L D G R OW2 TH
+old-school OW1 L D S K UW2 L
 old-timer OW0 L D T AY1 M ER0
 old-timers OW1 L D T AY1 M ER0 Z
 oldaker OW1 L D AH0 K ER0
@@ -86196,9 +86200,13 @@ one W AH1 N
 one(2) HH W AH1 N
 one's W AH1 N Z
 one-legged W AH2 N L EH1 G AH0 D
+one-man W AH1 N M AE1 N
+one-night W AH1 N N AY2 T
 one-off W AH1 N AO1 F
+one-on-one W AH1 N AH0 N AA1 N
 one-sided W AH1 N S AY1 D AH0 D
 one-third W AH1 N TH ER1 D
+one-time W AH1 N T AY1 M
 one-up-manship W AH1 N AH1 P M AE1 N SH IH2 P
 one-upmanship W AH2 N AH1 P M AH0 N SH IH2 P
 one-way W AH1 N W EY1
@@ -86721,6 +86729,7 @@ orkem AO1 R K AH0 M
 orkin AO1 R K IH0 N
 orkney AO1 R K N IY0
 orks AO1 R K S
+orkut AO1 R K AH0 T
 orky AO1 R K IY0
 orla AO1 R L AH0
 orlan AO1 R L AH0 N
@@ -89832,6 +89841,7 @@ peeping P IY1 P IH0 NG
 peeples P IY1 P AH0 L Z
 peeps P IY1 P S
 peer P IH1 R
+peer-to-peer P IH1 R T UW0 P IH1 R
 peerage P IH1 R AH0 JH
 peered P IH1 R D
 peering P IY1 R IH0 NG
@@ -91802,6 +91812,7 @@ pinetta P AH0 N EH1 T AH0
 pinetta's P AH0 N EH1 T AH0 Z
 pinette P IH0 N EH1 T
 ping P IH1 NG
+ping-pong P IH1 NG P AO0 NG
 pinged P IH1 NG D
 pingel P IH1 NG G AH0 L
 pinging P IH1 NG IH0 NG
@@ -97941,6 +97952,8 @@ reagor R IY1 G ER0
 real R IY1 L
 real-estate R IY1 L IH0 S T EY2 T
 real-life R IY1 L L AY1 F
+real-time R IY1 L T AY2 M
+real-world R IY1 L W ER2 L D
 realamerica R IY2 L AH0 M EH1 R IH0 K AH0
 realcap R IY1 L K AE2 P
 reale R IY1 AE2 L
@@ -97951,6 +97964,7 @@ realigned R IY0 AH0 L AY1 N D
 realigning R IY0 AH0 L AY1 N IH0 NG
 realignment R IY0 AH0 L AY1 N M AH0 N T
 realignments R IY0 AH0 L AY1 N M AH0 N T S
+realised R IY1 AH0 L AY2 Z D
 realism R IY1 AH0 L IH0 Z M
 realist R IY1 AH0 L IH0 S T
 realistic R IY2 AH0 L IH1 S T IH0 K
@@ -98141,6 +98155,7 @@ rebo R IY1 B OW0
 reboard R IY0 B AO1 R D
 rebook R IY0 B UH1 K
 rebooked R IY0 B UH1 K T
+reboot R IY0 B UW1 T
 reborn R IY1 B AO1 R N
 rebound R IY0 B AW1 N D
 rebounded R IY0 B AW1 N D IH0 D
@@ -98361,6 +98376,7 @@ recluse R IH0 K L UW1 S
 reclusive R IH0 K L UW1 S IH0 V
 reclusive(2) R IY0 K L UW1 S IH0 V
 reco R EH1 K OW0
+recognise R EH1 K AH0 G N AY2 Z
 recognition R EH2 K AH0 G N IH1 SH AH0 N
 recognition(2) R EH2 K IH0 G N IH1 SH AH0 N
 recognition's R EH2 K IH0 G N IH1 SH AH0 N Z
@@ -98398,6 +98414,7 @@ recommit R IH0 K AA1 M IH0 T
 recommit(2) R IY2 K AH0 M IH1 T
 recommited R IH0 K AA1 M IH2 T IH0 D
 recommited(2) R IY2 K AH0 M IH1 T IH0 D
+recommitted R IY0 K AH0 M IH1 T IH0 D
 recompense R EH1 K AH0 M P EH2 N S
 recon R IY1 K AO0 N
 reconcile R EH1 K AH0 N S AY2 L
@@ -101077,7 +101094,7 @@ reverts R IH0 V ER1 T S
 reves R IY1 V Z
 revette R IH0 V EH1 T
 revier R IY1 V IY0 ER0
-review R IY2 V Y UW1
+review R IY0 V Y UW1
 review's R IY0 V Y UW1 Z
 reviewed R IY0 V Y UW1 D
 reviewer R IY0 V Y UW1 ER0
@@ -107619,20 +107636,25 @@ self S EH1 L F
 self's S EH1 L F S
 self-aggrandizement S EH1 L F AE1 G R AH0 N D AY2 Z M AH0 N T
 self-aggrandizing S EH1 L F AH0 G R AE1 N D AY2 Z IH0 NG
+self-centered S EH1 L F S EH1 N T ER0 D
 self-confidence S EH1 L F K AA1 N F AH0 D AH0 N S
 self-confident S EH1 L F K AA1 N F AH0 D AH0 N T
 self-congratulation S EH1 L F K AH0 N G R AE2 CH AH0 L EY1 SH AH0 N
+self-conscious S EH1 L F K AA1 N SH AH0 S
 self-consistent S EH2 L F K AH0 N S IH1 S T AH0 N T
 self-contained S EH1 L F K AH0 N T EY1 N D
 self-control S EH1 L F K AH0 N T R OW1 L
 self-deceiving S EH2 L F D IY0 S IY1 V IH0 NG
 self-deception S EH1 L F D AH0 S EH1 P SH AH0 N
+self-defense S EH1 L F D IH0 F EH2 N S
 self-deliverance S EH1 L F D IH0 L IH1 V ER0 AH0 N S
 self-deprecating S EH1 L F D EH1 P R AH0 K EY2 T IH0 NG
+self-destruct S EH1 L F D IH0 S T R AH2 K T
 self-determination S EH1 L F D IH0 T ER2 M AH0 N EY1 SH AH0 N
 self-dormant S EH1 L F D AO1 R M AH0 N T
 self-energizing S EH1 L F EH1 N ER0 JH AY2 Z IH0 NG
 self-enrichment S EH2 L F AH0 N R IH1 CH M AH0 N T
+self-expression S EH1 L F IH0 K S P R EH1 SH AH0 N
 self-fertilizing S EH1 L F F ER1 T AH0 L AY2 Z IH0 NG
 self-fruitful S EH1 L F F R UW1 T F AH0 L
 self-govern S EH1 L F G AH1 V ER0 N
@@ -107640,12 +107662,18 @@ self-governing S EH1 L F G AH1 V ER0 N IH0 NG
 self-government S EH1 L F G AH1 V ER0 N M AH0 N T
 self-help S EH1 L F HH EH1 L P
 self-improvement S EH1 L F IH0 M P R UW1 V M AH0 N T
+self-interest S EH1 L F IH1 N T R AH0 S T
+self-organization S EH1 L F AO2 R G AH0 N AH0 Z EY1 SH AH0 N
+self-organizing S EH1 L F AO1 R G AH0 N AY2 Z IH0 NG
 self-perpetuate S EH2 L F P ER0 P EH1 CH UW0 EY2 T
 self-perpetuating S EH2 L F P ER0 P EH1 CH UW0 EY2 T IH0 NG
 self-perpetuation S EH1 L F P ER0 P EH2 CH UW0 EY1 SH AH0 N
 self-pollinate S EH1 L F P AA1 L AH0 N EY2 T
 self-portrait S EH1 L F P AO1 R T R AH0 T
 self-professed S EH1 L F P R AH0 F EH1 S T
+self-replicating S EH1 L F R EH1 P L IH0 K EY2 T IH0 NG
+self-respect S EH1 L F R IH0 S P EH1 K T
+self-righteous S EH1 L F R AY1 CH AH0 S
 self-subsistence S EH1 L F S AH0 B S IH1 S T AH0 N S
 self-sufficiency S EH1 L F S AH0 F IH1 SH AH0 N S IY0
 self-sufficient S EH1 L F S AH0 F IH1 SH AH0 N T
@@ -110920,6 +110948,7 @@ skyline S K AY1 L AY2 N
 skylines S K AY1 L AY2 N Z
 skylite S K AY1 L AY2 T
 skylites S K AY1 L AY2 T S
+skynet S K AY1 N EH2 T
 skype S K AY1 P
 skyrocket S K AY1 R AA2 K AH0 T
 skyrocketed S K AY1 R AA2 K AH0 T IH0 D
@@ -111550,6 +111579,7 @@ smouse S M AW1 S
 smoyer S M OY1 ER0
 smrekar S M R EH1 K ER0
 smrekar(2) S M ER1 IH0 K ER0
+sms EH1 S EH1 M EH1 S
 smuck S M AH1 K
 smucker S M AH1 K ER0
 smudge S M AH1 JH
@@ -113087,6 +113117,7 @@ spicy S P AY1 S IY0
 spidel S P IH1 D AH0 L
 spidell S P IH1 D AH0 L
 spider S P AY1 D ER0
+spider-man S P AY1 D ER0 M AE0 N
 spiderman S P AY1 D ER0 M AE0 N
 spiders S P AY1 D ER0 Z
 spidle S P AY1 D AH0 L
@@ -114222,6 +114253,7 @@ staszewski S T AH0 SH EH1 F S K IY0
 stat S T AE1 T
 state S T EY1 T
 state's S T EY1 T S
+state-of-the-art S T EY1 T AA0 F DH EH2 AA1 R T
 statecraft S T EY1 T K R AE2 F T
 stated S T EY1 T AH0 D
 stated(2) S T EY1 T IH0 D
@@ -116222,6 +116254,7 @@ subsidy S AH1 B S IH0 D IY0
 subsist S AH0 B S IH1 S T
 subsistence S AH0 B S IH1 S T AH0 N S
 subsoil S AH1 B S OY2 L
+subspace S AH1 B S P EY2 S
 substance S AH1 B S T AH0 N S
 substances S AH1 B S T AH0 N S AH0 Z
 substances(2) S AH1 B S T AH0 N S IH0 Z
@@ -117893,6 +117926,7 @@ t'ang T AE1 NG
 t's T IY1 Z
 t-bone T IY1 B OW2 N
 t-lam T IY1 L AE1 M
+t-mobile T IY1 M OW1 B IY0 L
 t. T IY1
 t.'s T IY1 Z
 t.s T IY1 Z
@@ -119330,6 +119364,7 @@ tepperman T EH1 P ER0 M AH0 N
 tequila T AH0 K IY1 L AH0
 tequiliu T AH0 K IY1 L Y UW0
 ter T ER1
+terabytes T EH1 R AH0 B AY2 T S
 terada T ER0 AA1 D AH0
 teradata T EH2 R AH0 D AA1 T AH0
 teradyne T EH1 R AH0 D AY2 N
@@ -120846,6 +120881,7 @@ tlingit T L IY1 NG G IH0 T
 to T UW1
 to(2) T IH0
 to(3) T AH0
+to-do T UW0 D UW1
 toa T OW1 AH0
 toad T OW1 D
 toads T OW1 D Z
@@ -120910,6 +120946,7 @@ todhunter T AA1 D HH AH2 N T ER0
 todi's T OW1 D IY0 S
 todisco T OW0 D IY1 S K OW0
 todman T AA1 D M AH0 N
+todo T UW0 D UW1
 todoroff T AA1 D ER0 AO0 F
 todt T AA1 D T
 toe T OW1
@@ -121230,6 +121267,8 @@ tootsie T UW1 T S IY1
 tootsie(2) T UH1 T S IY1
 top T AA1 P
 top(2) T AO1 P
+top-down T AA1 P D AW1 N
+top-secret T AA1 P S IY1 K R AH0 T
 top-up T AA1 P AH2 P
 topalian T AH0 P EY1 L IY0 AH0 N
 topanga T OW0 P AE1 NG G AH0
@@ -124952,6 +124991,7 @@ uplifted AH1 P L IH0 F T IH0 D
 uplifting AH1 P L IH2 F T IH0 NG
 uplinger UW1 P AH0 L IH0 NG ER0
 uplinger(2) UW1 P L IH0 NG ER0
+uplink AH1 P L IH2 NG K
 upload AH1 P L OW2 D
 uploaded AH1 P L OW2 D IH0 D
 uploading AH1 P L OW2 D IH0 NG
@@ -124990,6 +125030,7 @@ upshaw AH1 P SH AO2
 upshot AH1 P SH AA2 T
 upshur AH1 P SH ER0
 upside AH1 P S AY1 D
+upside-down AH1 P S AY0 D D AW2 N
 upsize AH1 P S AY1 Z
 upsizing AH1 P S AY1 Z IH0 NG
 upson AH1 P S AH0 N
@@ -128167,6 +128208,7 @@ warburg W AO1 R B ER0 G
 warburg's W AO1 R B ER0 G Z
 warburton W AO1 R B ER0 T AH0 N
 warchol W AO1 R K AO0 L
+warcraft W AO1 R K R AE2 F T
 ward W AO1 R D
 ward's W AO1 R D Z
 warda W AO1 R D AH0
@@ -128718,6 +128760,7 @@ wedded W EH1 D AH0 D
 wedded(2) W EH1 D IH0 D
 weddell W EH1 D AH0 L
 wedding W EH1 D IH0 NG
+wedding's W EH1 D IH0 NG Z
 weddings W EH1 D IH0 NG Z
 weddington W EH1 D IH0 NG T AH0 N
 weddle W EH1 D AH0 L
@@ -129049,7 +129092,10 @@ welk W EH1 L K
 welke W EH1 L K
 welker W EH1 L K ER0
 well W EH1 L
+well-being W EH1 L B IY1 IH0 NG
 well-doer W EH1 L D UW1 R
+well-educated W EH1 L EH0 JH AH0 K EY1 T AH0 D
+well-known W EH1 L N OW1 N
 welland W EH1 L AH0 N D
 wellbeing W EH2 L B IY1 IH0 NG
 wellborn W EH1 L B AO1 R N
@@ -130156,6 +130202,7 @@ whys W AY1 Z
 whys(2) HH W AY1 Z
 whyte W AY1 T
 whyte(2) HH W AY1 T
+wi-fi W AY1 F AY1
 wiacek V AY1 AH0 CH EH0 K
 wian W AY1 AH0 N
 wiant W AY1 AH0 N T
@@ -130376,11 +130423,14 @@ wigs W IH1 G Z
 wigton W IH1 G T AH0 N
 wigton's W IH1 G T AH0 N Z
 wigwam W IH1 G W AA0 M
+wii W IY0
 wiitala V IY0 T AA1 L AH0
 wik W IH1 K
 wike W AY1 K
 wikel W IH1 K AH0 L
 wiker W AY1 K ER0
+wiki W IH1 K IY0
+wikipedia W IH1 K IY0 P IY2 D IY0 AH0
 wikle W AY1 K AH0 L
 wiklund W IH1 K L AH0 N D
 wikoff W IH1 K AO0 F
@@ -130667,6 +130717,7 @@ wims W IH1 M Z
 wimsatt W IH1 M S AH0 T
 win W IH1 N
 win's W IH1 N Z
+win-win W IH1 N W IH1 N
 winamac W IH1 N AH0 M AE0 K
 winamac's W IH1 N AH0 M AE0 K S
 winans W IH1 N AH0 N Z
@@ -131998,6 +132049,7 @@ xinhua Z IH1 N HH Y UW0 AH0
 xinjiang Z IH1 N JH IY0 AE1 NG
 xio ZH AO1
 xiong ZH AO1 NG
+xml EH2 K S EH0 M EH1 L
 xoma Z OW1 M AH0
 xoma(2) IH0 G Z OW1 M AH0
 xoma(3) EH0 K S OW1 M AH0
@@ -132459,6 +132511,7 @@ yochum(2) Y AA1 K AH0 M
 yockey Y AA1 K IY0
 yocom Y OW1 K AH0 M
 yocum Y OW1 K AH0 M
+yoda Y OW1 D AH0
 yodel Y OW1 D AH0 L
 yodeling Y OW1 D AH0 L IH0 NG
 yodeling(2) Y OW1 D L IH0 NG
@@ -132647,6 +132700,7 @@ youthful Y UW1 TH F AH0 L
 youths Y UW1 DH Z
 youths(2) Y UW1 TH S
 youtsey Y AW1 T S IY0
+youtube Y UW1 T Y UW2 B
 youtz Y AW1 T S
 youville Y UW1 V IH2 L
 yow Y AW1
@@ -132936,6 +132990,7 @@ zapped Z AE1 P T
 zappia Z AE1 P IY0 AH0
 zapping Z AE1 P IH0 NG
 zappone Z AA0 P OW1 N IY0
+zappos Z AA1 P OW Z
 zappulla Z AA0 P UW1 L AH0
 zapruder Z AH0 P R UW1 D ER0
 zaps Z AE1 P S
@@ -133206,6 +133261,7 @@ zero Z IH1 R OW0
 zero(2) Z IY1 R OW0
 zero's Z IH1 R OW0 Z
 zero's(2) Z IY1 R OW0 Z
+zero-sum Z IY1 R OW0 S AH0 M
 zeroed Z IH1 R OW0 D
 zeroed(2) Z IY1 R OW0 D
 zeroes Z IH1 R OW0 Z
@@ -133386,6 +133442,7 @@ zionist Z AY1 AH0 N IH0 S T
 zionists Z AY1 AH0 N IH0 S T S
 zions Z AY1 AH0 N Z
 zip Z IH1 P
+zipcar Z IH1 P K AA2 R
 zipf Z IH1 P F
 zipfel Z IH1 P F AH0 L
 zipkin Z IH1 P K IH0 N
@@ -133549,6 +133606,7 @@ zucker Z AH1 K ER0
 zucker(2) Z UW1 K ER0
 zucker's Z AH1 K ER0 Z
 zucker's(2) Z UW1 K ER0 Z
+zuckerberg Z AH1 K ER0 B ER0 G
 zuckerman Z AH1 K ER0 M AH0 N
 zuckerman(2) Z UW1 K ER0 M AH0 N
 zuckerman's Z AH1 K ER0 M AH0 N Z
