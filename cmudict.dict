@@ -1353,17 +1353,11 @@ advanta's AE0 D V AE1 N T AH0 Z
 advanta's(2) AH0 D V AE1 N T AH0 Z
 advantage AE0 D V AE1 N T IH0 JH
 advantage(2) AH0 D V AE1 N T IH0 JH
-advantage(3) AE0 D V AE1 N IH0 JH
-advantage(4) AH0 D V AE1 N AH0 JH
 advantaged AE0 D V AE1 N T IH0 JH D
 advantaged(2) AH0 D V AE1 N T IH0 JH D
-advantaged(3) AE0 D V AE1 N IH0 JH D
-advantaged(4) AH0 D V AE1 N IH0 JH D
 advantageous AE2 D V AH0 N T EY1 JH AH0 S
 advantages AE0 D V AE1 N T IH0 JH IH0 Z
 advantages(2) AH0 D V AE1 N T IH0 JH IH0 Z
-advantages(3) AE0 D V AE1 N IH0 JH IH0 Z
-advantages(4) AH0 D V AE1 N IH0 JH IH0 Z
 advantest AE0 D V AE1 N T AH0 S T
 advantest(2) AH0 D V AE1 N T AH0 S T
 advection AE0 D V EH1 K SH AH0 N
@@ -3879,7 +3873,7 @@ analysis AH0 N AE1 L AH0 S AH0 S
 analysis(2) AH0 N AE1 L IH0 S IH0 S
 analyst AE1 N AH0 L IH0 S T
 analyst's AE1 N AH0 L IH0 S T S
-analysts AE1 N AH0 L AH0 S T S
+analysts AE1 N AH0 L IH0 S T S
 analysts' AE1 N AH0 L IH0 S T S
 analytic AE2 N AH0 L IH1 T IH0 K
 analytical AE2 N AH0 L IH1 T IH0 K AH0 L
@@ -3904,7 +3898,7 @@ anaphylaxis AE2 N AH0 F AH0 L AE1 K S IH0 S
 anaplasia AE2 N AH0 P L EY1 ZH Y AH0
 anaplastic AE2 N AH0 P L AE1 S T IH0 K
 anarchic AE0 N AA1 R K IH0 K
-anarchical AE0 N AA1 R K AH0 K IH0 L
+anarchical AE0 N AA1 R K IH0 K AH0 L
 anarchist AE1 N ER0 K IH0 S T
 anarchists AE1 N ER0 K IH0 S T S
 anarchy AE1 N ER0 K IY0
@@ -6445,14 +6439,9 @@ atla AE1 T L AH0
 atlan AE1 T L AH0 N
 atlanta AE0 T L AE1 N T AH0
 atlanta(2) AH0 T L AE1 N T AH0
-atlanta(3) AE0 T L AE1 N AH0
-atlanta(4) AH0 T L AE1 N AH0
 atlanta's AE0 T L AE1 N T AH0 Z
-atlanta's(2) AE0 T L AE1 N AH0 Z
 atlantan AE2 T L AE1 N T AH0 N
-atlantan(2) AE2 T L AE1 N AH0 N
 atlantans AE2 T L AE1 N T AH0 N Z
-atlantans(2) AE2 T L AE1 N AH0 N Z
 atlantic AH0 T L AE1 N T IH0 K
 atlantic(2) AH0 T L AE1 N IH0 K
 atlantic's AH0 T L AE1 N T IH0 K S
@@ -6502,8 +6491,7 @@ atrocity AH0 T R AA1 S AH0 T IY0
 atrophied AE1 T R AH0 F IY0 D
 atrophies AE1 T R AH0 F IY0 Z
 atrophy AE1 T R AH0 F IY0
-atsushi AA0 T S UW0 SH IY0
-atsushi(2) AA0 S UW0 SH IY0
+atsushi AA0 T S UW1 SH IY0
 atta AE1 T AH0
 attaboy AE1 T AH0 B OY2
 attaboys AE1 T AH0 B OY2 Z
@@ -23364,7 +23352,7 @@ commitment K AH0 M IH1 T M AH0 N T
 commitments K AH0 M IH1 T M AH0 N T S
 commits K AH0 M IH1 T S
 committal K AH0 M IH1 T AH0 L
-committed K AH0 M IH1 T AH0 D
+committed K AH0 M IH1 T IH0 D
 committee K AH0 M IH1 T IY0
 committee's K AH0 M IH1 T IY0 Z
 committeeman K AH0 M IH1 T IY0 M AH0 N
@@ -25766,7 +25754,6 @@ counterculture(2) K AW1 N ER0 K AH2 L CH ER0
 countered K AW1 N T ER0 D
 countered(2) K AW1 N ER0 D
 counterespionage K AW2 N T ER0 EH1 S P IY0 AH0 N AA0 JH
-counterespionage(2) K AW2 N ER0 EH1 S P IY0 AH0 N AA0 JH
 counterfeit K AW1 N T ER0 F IH2 T
 counterfeit(2) K AW1 N ER0 F IH2 T
 counterfeited K AW1 N T ER0 F IH2 T IH0 D
@@ -60219,30 +60206,19 @@ interscholastic IH2 N T ER0 S K AH0 L AE1 S T IH0 K
 interscope IH1 N T ER0 S K OW2 P
 intersec IH1 N T ER0 S EH0 K
 intersect IH2 N T ER0 S EH1 K T
-intersect(2) IH2 N ER0 S EH1 K T
 intersected IH2 N T ER0 S EH1 K T IH0 D
-intersected(2) IH2 N ER0 S EH1 K T IH0 D
 intersecting IH2 N T ER0 S EH1 K T IH0 NG
-intersecting(2) IH2 N ER0 S EH1 K T IH0 NG
 intersection IH2 N T ER0 S EH1 K SH AH0 N
-intersection(2) IH2 N ER0 S EH1 K SH AH0 N
 intersections IH2 N T ER0 S EH1 K SH AH0 N Z
-intersections(2) IH2 N ER0 S EH1 K SH AH0 N Z
 intersects IH2 N T ER0 S EH1 K T S
-intersects(2) IH2 N ER0 S EH1 K T S
-intersects(3) IH2 N T ER0 S EH1 K S
-intersects(4) IH2 N ER0 S EH1 K S
 intersegment IH2 N T ER0 S EH1 G M AH0 N T
 interspec IH1 N T ER0 S P EH0 K
 intersperse IH2 N T ER0 S P ER1 S
 interspersed IH2 N T ER0 S P ER1 S T
 intersperses IH2 N T ER0 S P ER1 S AH0 Z
 interstate IH2 N T ER0 S T EY1 T
-interstate(2) IH2 N ER0 S T EY1 T
 interstate's IH2 N T ER0 S T EY1 T S
-interstate's(2) IH2 N ER0 S T EY1 T S
 interstates IH1 N T ER0 S T EY2 T S
-interstates(2) IH1 N ER0 S T EY2 T S
 interstellar IH2 N T ER0 S T EH1 L ER0
 intertan IH2 N T ER0 T AE1 N
 intertech IH1 N T ER0 T EH2 K
@@ -69229,7 +69205,7 @@ lemaitre(2) L IH0 M EY1 T R AH0
 leman L IY1 M AH0 N
 lemans L EH1 M AH0 N Z
 lemanski L IH0 M AE1 N S K IY0
-lemar L IH0 M AA1 R
+lemar L EH0 M AA1 R
 lemarr L EH0 M AA1 R
 lemaster L IY1 M AE0 S T ER0
 lemasters L AH0 M AE1 S T ER0 Z
@@ -74360,7 +74336,7 @@ maritime M EH1 R AH0 T AY2 M
 maritimes M EH1 R AH0 T AY2 M Z
 maritz M EH1 R IH0 T S
 mariucci M EH2 R IY0 UW1 CH IY0
-marius M EH1 R IY0 AH0 S
+marius M AA1 R IY0 AH0 S
 mariusa M AA0 R IY0 Y UW1 S AH0
 marjai M AA1 R JH EY0
 marje M AA1 R JH
@@ -77882,7 +77858,7 @@ methodology M EH2 TH AH0 D AA1 L AH0 JH IY0
 methods M EH1 TH AH0 D Z
 methot M EH1 TH AH0 T
 methotrexate M EH2 TH OW0 T R EH1 K S EY2 T
-methought M EH1 TH AO1 T
+methought M IY2 TH AO1 T
 methuselah M AH0 TH Y UW1 Z AH0 L AH0
 methvin M EH1 TH V IH0 N
 methyl M EH1 TH AH0 L
@@ -90924,9 +90900,8 @@ petrosino P EH0 T R OW0 S IY1 N OW0
 petroski P IH0 T R AW1 S K IY0
 petroski(2) P IH0 T R AA1 S K IY0
 petrosky P IH0 T R OW1 S K IY0
-petrossian P AH0 T R AO1 Z AH0 N
-petrossian(2) P AH0 T R OW1 S Y AH0 N
-petrosynthese P AH0 T R OW1 S IH0 N TH IY2 S
+petrossian P IH0 T R OW1 S Y AH0 N
+petrosynthese P IH0 T R OW1 S IH0 N TH IY2 S
 petrovic P IH0 T R AA1 V IH0 K
 petrovich P EH1 T R AH0 V IH0 CH
 petrovietnam P EH2 T R OW0 V IY2 EH0 T N AA1 M
@@ -93831,8 +93806,8 @@ practicable P R AE1 K T AH0 K AH0 B AH0 L
 practical P R AE1 K T AH0 K AH0 L
 practical(2) P R AE1 K T IH0 K AH0 L
 practicality P R AE2 K T IH0 K AE1 L AH0 T IY0
-practically P R AE1 K T AH0 K L IY0
-practically(2) P R AE1 K T AH0 K AH0 L IY0
+practically P R AE1 K T IH0 K L IY0
+practically(2) P R AE1 K T IH0 K AH0 L IY0
 practice P R AE1 K T AH0 S
 practice(2) P R AE1 K T IH0 S
 practiced P R AE1 K T AH0 S T
@@ -98741,9 +98716,9 @@ redouble R IY0 D AH1 B AH0 L
 redoubled R IY0 D AH1 B AH0 L D
 redoubling R IY0 D AH1 B AH0 L IH0 NG
 redoubling(2) R IY0 D AH1 B L IH0 NG
-redoubt R AH0 D AW1 T
-redoubtable R AH0 D AW1 T AH0 B AH0 L
-redound R IH0 D AW1 N D
+redoubt R IY0 D AW1 T
+redoubtable R IY0 D AW1 T AH0 B AH0 L
+redound R IY0 D AW1 N D
 redpath R EH1 D P AE2 TH
 redpoll R EH1 D P OW2 L
 redpolls R EH1 D P OW2 L Z

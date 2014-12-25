@@ -47,3 +47,20 @@ allow the maintainer to view and modify entries, while dealing with
 bookkeeping. It would be nice if the GUI included a synthesizer so
 that entries can be checked by listening.
 
+Reductions
+----------
+
+CMUDict tries to be phonetic dictionary and account for possible phonetic
+reductions like
+
+N T -> N   intersomething countersomething
+IH -> AH lots of examples
+EH -> AH lots of examples
+AE -> EH happens sometimes
+
+However, this is not done in a consistent way yet. So sometimes both
+reduced and original version is present in the dictionary, sometimes
+only original or only reduced based on perceived frequency in read speech.
+
+This situation might improve in the future
+
