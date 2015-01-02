@@ -27764,6 +27764,7 @@ d'andrea D AE1 N D R IY0 AH0
 d'angelo D IY0 AE1 N JH IH0 L OW0
 d'angelo's D IY0 AE1 N JH IH0 L OW0 Z
 d'arcy D AA1 R S IY0
+d'artagnan D AH0 R T AE1 NG Y AH0 N # foreign french
 d'aubuisson D AO1 B W IY2 S AA2 N
 d'aviation D EY2 V IY0 EY1 SH AH0 N
 d'electricite D AH0 L EH2 K T R IH1 S AH0 T EY2
@@ -28183,6 +28184,8 @@ dangerously D EY1 N JH ER0 AH0 S L IY0
 dangerousness D EY1 N JH ER0 AH0 S N AH0 S
 dangers D EY1 N JH ER0 Z
 dangews D EY1 N JH UW0 Z
+danglar D AH0 NG L AA1 R # foreign french
+danglars D AH0 NG L AA1 R Z # foreign french
 dangle D AE1 NG G AH0 L
 dangled D AE1 NG G AH0 L D
 dangler D AE1 NG G AH0 L ER0
@@ -46590,6 +46593,7 @@ gazonsky's G AH0 Z AA1 N S K IY0 Z
 gazprom G AE1 Z P R AA2 M
 gazzola G AA0 T S OW1 L AH0
 gdansk G D AE1 N S K
+gdp G IY1 D IY1 P IY1 # abbrev
 geac G IY1 K
 geac(2) JH IY1 IY1 EY1 S IY1
 geagea JH IY1 AH0 JH IY1 AH0
@@ -47873,6 +47877,7 @@ gissendanner G IH1 S IH0 N D AH0 N ER0
 gissi G IH1 S IY0
 gist JH IH1 S T
 gisu JH IH1 S UW0
+git G IH1 T
 gitana JH IY0 T AE1 N AH0
 gitano G IH0 T AA1 N OW0
 gitano's G IH0 T AA1 N OW0 Z
@@ -55229,6 +55234,7 @@ hittner HH IH1 T N ER0
 hitty HH IH1 T IY0
 hitz HH IH1 T S
 hitzeman HH IH1 T S M AH0 N
+hiv EY1 CH AY1 V IY1 # abbrev
 hive HH AY1 V
 hively HH AY1 V L IY0
 hives HH AY1 V Z
@@ -93431,6 +93437,7 @@ portfolio P AO0 R T F OW1 L IY0 OW2
 portfolio's P AO0 R T F OW1 L IY0 OW2 Z
 portfolios P AO0 R T F OW1 L IY0 OW2 Z
 porth P AO1 R TH
+porthos P AO0 R T AO1 S # foreign french
 portia P AO1 R SH AH0
 portico P AO1 R T AH0 K OW2
 portier P AO1 R T IY0 ER0
@@ -129668,6 +129675,7 @@ whereas W EH0 R AE1 Z
 whereas(2) HH W EH0 R AE1 Z
 whereby W EH0 R B AY1
 whereby(2) HH W EH0 R B AY1
+wherefore W EH0 R F AO1 R
 wherein W EH0 R IH1 N
 wherein(2) HH W EH0 R IH1 N
 whereupon W EH1 R AH0 P AA1 N
