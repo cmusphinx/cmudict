@@ -55256,6 +55256,7 @@ hlavacek HH L AA1 V AH0 CH EH0 K
 hlavaty HH L AH0 V AA1 T IY0
 hm HH M
 hmm HH M
+hmmm HH M
 hmong M AO1 NG
 hmong(2) HH M AO1 NG
 hmong(3) HH AH0 M AO1 NG
@@ -62450,6 +62451,7 @@ joys JH OY1 Z
 joystick JH OY1 S T IH2 K
 jozef JH OW1 Z AH0 F
 jozwiak Y AA1 Z V IY0 AE0 K
+jr JH UW1 N Y ER0
 ju JH UW1
 jua JH UW1 AH0
 juan W AA1 N
@@ -79602,6 +79604,7 @@ mlotok M L OW1 T AA2 K
 mlotok(2) M AH0 L AA1 T AA2 K
 mm M
 mmabatho M AH0 B AA1 TH OW0
+mme EH1 M EH1 M IY1
 mnemonic N IH0 M AA1 N IH0 K
 mnemonic(2) N IY0 M AA1 N IH0 K
 mnemonics N IH0 M AA1 N IH0 K S
@@ -108465,6 +108468,7 @@ sfuzzi S F UW1 T Z IY0
 sgambati S K AA0 M B AA1 T IY0
 sgro S K R OW1
 sgroi S K R OY1
+sh SH
 sha SH AA1
 sha'ath SH AA1 TH
 shaak SH AA1 K
@@ -109144,6 +109148,7 @@ shewchuk SH EH1 CH AH0 K
 shewell SH EH1 W EH0 L
 shewmake SH UW1 M EY2 K
 shewmaker SH UW1 M EY0 K ER0
+shh SH
 shi SH IY1
 shia SH IY1 AH0
 shiah SH IY1 AH0
