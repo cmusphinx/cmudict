@@ -2048,6 +2048,7 @@ aikoff AY1 K AO2 F
 ail EY1 L
 ailee EY1 L IY1
 aileen AY0 L IY1 N
+ailene AY0 L IY1 N
 aileron EY1 L ER0 AA2 N
 ailerons EY1 L ER0 AA2 N Z
 ailes AY1 L Z
@@ -125081,7 +125082,7 @@ underpowered AH2 N D ER0 P AW1 ER0 D
 underprice AH1 N D ER0 P R AY2 S
 underpriced AH1 N D ER0 P R AY2 S T
 underpricing AH1 N D ER0 P R AY2 S IH0 NG
-underpriviledged AH2 N D ER0 P R IH1 V L IH0 JH D
+underprivileged AH1 N D ER0 P R IH1 V L AH0 JH D
 underrate AH2 N D ER0 R EY1 T
 underrated AH2 N D ER0 R EY1 T IH0 D
 underreport AH2 N D ER0 R IH0 P AO1 R T
