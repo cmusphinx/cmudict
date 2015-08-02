@@ -569,7 +569,7 @@ accolade AE1 K AH0 L EY2 D
 accolades AE1 K AH0 L EY2 D Z
 accomando AA0 K OW0 M AA1 N D OW0
 accommodate AH0 K AA1 M AH0 D EY2 T
-accommodated AH0 K AA1 M AH0 D EY2 T AH0 D
+accommodated AH0 K AA1 M AH0 D EY2 T IH0 D
 accommodates AH0 K AA1 M AH0 D EY2 T S
 accommodating AH0 K AA1 M AH0 D EY2 T IH0 NG
 accommodation AH0 K AA2 M AH0 D EY1 SH AH0 N
@@ -606,7 +606,7 @@ accordion AH0 K AO1 R D IY0 AH0 N
 accordions AH0 K AO1 R D IY0 AH0 N Z
 accords AH0 K AO1 R D Z
 accost AH0 K AO1 S T
-accosted AH0 K AA1 S T AH0 D
+accosted AH0 K AA1 S T IH0 D
 accosting AH0 K AA1 S T IH0 NG
 account AH0 K AW1 N T
 account's AH0 K AW1 N T S
@@ -619,7 +619,7 @@ accountant AH0 K AW1 N T AH0 N T
 accountant's AH0 K AW1 N T AH0 N T S
 accountants AH0 K AW1 N T AH0 N T S
 accountants' AH0 K AW1 N T AH0 N T S
-accounted AH0 K AW1 N T AH0 D
+accounted AH0 K AW1 N T IH0 D
 accounted(2) AH0 K AW1 N AH0 D
 accountemp AH0 K AW1 N T EH2 M P
 accountemps AH0 K AW1 N T EH2 M P S
@@ -844,8 +844,7 @@ acquitaine AE1 K W IH0 T EY2 N
 acquits AH0 K W IH1 T S
 acquittal AH0 K W IH1 T AH0 L
 acquittals AH0 K W IH1 T AH0 L Z
-acquitted AH0 K W IH1 T AH0 D
-acquitted(2) AH0 K W IH1 T IH0 D
+acquitted AH0 K W IH1 T IH0 D
 acquitting AH0 K W IH1 T IH0 NG
 acre EY1 K ER0
 acreage EY1 K ER0 IH0 JH
@@ -875,8 +874,7 @@ acta AE1 K T AA0
 actava AE2 K T AA1 V AH0
 actava's AE2 K T AA1 V AH0 Z
 actavas AE2 K T AA1 V AH0 Z
-acted AE1 K T AH0 D
-acted(2) AE1 K T IH0 D
+acted AE1 K T IH0 D
 actel AE1 K T EH0 L
 actigall AE1 K T IH0 G AO0 L
 actin AE1 K T AH0 N
@@ -1007,8 +1005,7 @@ adaptations AE2 D AE0 P T EY1 SH AH0 N Z
 adaptations(2) AE2 D AH0 P T EY1 SH AH0 N Z
 adaptec AH0 D AE1 P T EH2 K
 adaptec's AH0 D AE1 P T EH2 K S
-adapted AH0 D AE1 P T AH0 D
-adapted(2) AH0 D AE1 P T IH0 D
+adapted AH0 D AE1 P T IH0 D
 adapter AH0 D AE1 P T ER0
 adapters AH0 D AE1 P T ER0 Z
 adapting AH0 D AE1 P T IH0 NG
@@ -1036,8 +1033,7 @@ adderley AH0 D ER1 L IY0
 addicks AE1 D IH0 K S
 addict AH0 D IH1 K T
 addict(2) AE1 D IH2 K T
-addicted AH0 D IH1 K T AH0 D
-addicted(2) AH0 D IH1 K T IH0 D
+addicted AH0 D IH1 K T IH0 D
 addicting AH0 D IH1 K T IH0 NG
 addiction AH0 D IH1 K SH AH0 N
 addictions AH0 D IH1 K SH AH0 N Z
@@ -1184,8 +1180,7 @@ adjuncts AE1 JH AH2 NG K T S
 adjust AH0 JH AH1 S T
 adjustable AH0 JH AH1 S T AH0 B AH0 L
 adjustables AH0 JH AH1 S T AH0 B AH0 L Z
-adjusted AH0 JH AH1 S T AH0 D
-adjusted(2) AH0 JH AH1 S T IH0 D
+adjusted AH0 JH AH1 S T IH0 D
 adjuster AH0 JH AH1 S T ER0
 adjusters AH0 JH AH1 S T ER0 Z
 adjusting AH0 JH AH1 S T IH0 NG
@@ -1253,7 +1248,7 @@ admissions(2) AH0 D M IH1 SH AH0 N Z
 admit AH0 D M IH1 T
 admits AH0 D M IH1 T S
 admittance AH0 D M IH1 T AH0 N S
-admitted AH0 D M IH1 T AH0 D
+admitted AH0 D M IH1 T IH0 D
 admittedly AE0 D M IH1 T IH0 D L IY0
 admitting AE0 D M IH1 T IH0 NG
 admitting(2) AH0 D M IH1 T IH0 NG
@@ -1288,7 +1283,7 @@ adonia AA0 D OW1 N IY0 AH0
 adonis AH0 D AA1 N AH0 S
 adopt AH0 D AA1 P T
 adoptable AH0 D AA1 P T AH0 B AH0 L
-adopted AH0 D AA1 P T AH0 D
+adopted AH0 D AA1 P T IH0 D
 adoptee AH0 D AA1 P T IY1
 adoptees AH0 D AA1 P T IY1 Z
 adopter AH0 D AA1 P T ER0
@@ -1621,8 +1616,7 @@ affixing AH0 F IH1 K S IH0 NG
 affleck AE1 F L IH0 K
 afflerbach AE1 F L ER0 B AA2 K
 afflict AH0 F L IH1 K T
-afflicted AH0 F L IH1 K T AH0 D
-afflicted(2) AH0 F L IH1 K T IH0 D
+afflicted AH0 F L IH1 K T IH0 D
 afflicting AH0 F L IH1 K T IH0 NG
 affliction AH0 F L IH1 K SH AH0 N
 afflictions AH0 F L IH1 K SH AH0 N Z
@@ -1845,7 +1839,7 @@ aging EY1 JH IH0 NG
 agins EY1 G IH0 N Z
 agip EY1 G IH0 P
 agitate AE1 JH AH0 T EY2 T
-agitated AE1 JH AH0 T EY2 T AH0 D
+agitated AE1 JH AH0 T EY2 T IH0 D
 agitating AE1 JH AH0 T EY2 T IH0 NG
 agitation AE2 JH AH0 T EY1 SH AH0 N
 agitator AE1 JH AH0 T EY2 T ER0
@@ -3029,7 +3023,7 @@ alltime AO1 L T AY2 M
 allton AO1 L T AH0 N
 alltop AO1 L T AA2 P
 allude AH0 L UW1 D
-alluded AH0 L UW1 D AH0 D
+alluded AH0 L UW1 D IH0 D
 alludes AH0 L UW1 D Z
 alluding AH0 L UW1 D IH0 NG
 allum AE1 L AH0 M
@@ -3230,7 +3224,7 @@ alterman AO1 L T ER0 M AH0 N
 alternacare AO0 L T ER1 N AH0 K EH2 R
 alternate AO1 L T ER0 N AH0 T
 alternate(2) AO1 L T ER0 N EY2 T
-alternated AO1 L T ER0 N EY2 T AH0 D
+alternated AO1 L T ER0 N EY2 T IH0 D
 alternately AO1 L T ER0 N AH0 T L IY0
 alternates AO1 L T ER0 N EY2 T S
 alternating AO1 L T ER0 N EY2 T IH0 NG
@@ -3578,8 +3572,7 @@ amenable(2) AH0 M IY1 N AH0 B AH0 L
 amenaces AH0 M EH1 N AH0 S AH0 Z
 amend AH0 M EH1 N D
 amendable AH0 M EH1 N D AH0 B AH0 L
-amended AH0 M EH1 N D AH0 D
-amended(2) AH0 M EH1 N D IH0 D
+amended AH0 M EH1 N D IH0 D
 amending AH0 M EH1 N D IH0 NG
 amendment AH0 M EH1 N D M AH0 N T
 amendment's AH0 M EH1 N D M AH0 N T S
@@ -4463,10 +4456,9 @@ ano(2) AE1 N Y OW0
 anode AE1 N OW2 D
 anodes AE1 N OW2 D Z
 anoint AH0 N OY1 N T
-anointed AH0 N OY1 N T AH0 D
-anointed(2) AH0 N OY1 N T IH0 D
-anointed(3) AH0 N OY1 N AH0 D
-anointed(4) AH0 N OY1 N IH0 D
+anointed AH0 N OY1 N T IH0 D
+anointed(2) AH0 N OY1 N AH0 D
+anointed(3) AH0 N OY1 N IH0 D
 anomalies AH0 N AA1 M AH0 L IY0 Z
 anomalous AH0 N AA1 M AH0 L AH0 S
 anomaly AH0 N AA1 M AH0 L IY0
@@ -5027,8 +5019,7 @@ appetizing AE1 P IH0 T AY2 Z IH0 NG
 appia AE1 P IY0 AH0
 appian AE1 P IY0 AH0 N
 applaud AH0 P L AO1 D
-applauded AH0 P L AO1 D AH0 D
-applauded(2) AH0 P L AO1 D IH0 D
+applauded AH0 P L AO1 D IH0 D
 applauding AH0 P L AO1 D IH0 NG
 applauds AH0 P L AO1 D Z
 applause AH0 P L AO1 Z
@@ -5073,8 +5064,7 @@ appling(2) AE1 P L IH0 NG
 apply AH0 P L AY1
 applying AH0 P L AY1 IH0 NG
 appoint AH0 P OY1 N T
-appointed AH0 P OY1 N T AH0 D
-appointed(2) AH0 P OY1 N T IH0 D
+appointed AH0 P OY1 N T IH0 D
 appointee AH0 P OY0 N T IY1
 appointee(2) AH0 P OY1 N T IY0
 appointees AH0 P OY0 N T IY1 Z
@@ -5108,7 +5098,7 @@ appreciative(2) AH0 P R IY1 SH Y AH0 T IH0 V
 appreciatively AH0 P R IY1 SH IY0 EY2 T IH0 V L IY0
 appreciatively(2) AH0 P R IY1 SH Y AH0 T IH0 V L IY0
 apprehend AE2 P R IH0 HH EH1 N D
-apprehended AE2 P R IH0 HH EH1 N D AH0 D
+apprehended AE2 P R IH0 HH EH1 N D IH0 D
 apprehending AE2 P R IH0 HH EH1 N D IH0 NG
 apprehension AE2 P R IH0 HH EH1 N SH AH0 N
 apprehensions AE2 P R IH0 HH EH1 N SH AH0 N Z
@@ -5152,7 +5142,7 @@ approving AH0 P R UW1 V IH0 NG
 approvingly AH0 P R UW1 V IH0 NG L IY0
 approximate AH0 P R AA1 K S AH0 M AH0 T
 approximate(2) AH0 P R AA1 K S AH0 M EY2 T
-approximated AH0 P R AA1 K S AH0 M EY2 T AH0 D
+approximated AH0 P R AA1 K S AH0 M EY2 T IH0 D
 approximately AH0 P R AA1 K S AH0 M AH0 T L IY0
 approximates AH0 P R AA1 K S AH0 M AH0 T S
 approximates(2) AH0 P R AA1 K S AH0 M EY2 T S
@@ -5841,8 +5831,7 @@ arreguin AA0 R EY0 G W IY1 N
 arrendondo AA0 R EH0 N D OW1 N D OW0
 arreola AA0 R IY0 AA1 L AH0
 arrest ER0 EH1 S T
-arrested ER0 EH1 S T AH0 D
-arrested(2) ER0 EH1 S T IH0 D
+arrested ER0 EH1 S T IH0 D
 arresting ER0 EH1 S T IH0 NG
 arrests ER0 EH1 S T S
 arrhythmia ER0 IH1 DH M IY0 AH0
@@ -5948,7 +5937,7 @@ articles(2) AA1 R T IH0 K AH0 L Z
 articular AA0 R T IH1 K Y AH0 L ER2
 articulate AA0 R T IH1 K Y AH0 L EY2 T
 articulate(2) AA0 R T IH1 K Y AH0 L AH0 T
-articulated AA0 R T IH1 K Y AH0 L EY2 T AH0 D
+articulated AA0 R T IH1 K Y AH0 L EY2 T IH0 D
 articulates AA0 R T IH1 K Y AH0 L AH0 T S
 articulating AA0 R T IH1 K Y AH0 L EY2 T IH0 NG
 articulation AA2 R T IH0 K Y AH0 L EY1 SH AH0 N
@@ -6058,7 +6047,7 @@ ascend AH0 S EH1 N D
 ascendance AH0 S EH1 N D AH0 N S
 ascendancy AH0 S EH1 N D AH0 N S IY0
 ascendant AH0 S EH1 N D AH0 N T
-ascended AH0 S EH1 N D AH0 D
+ascended AH0 S EH1 N D IH0 D
 ascendency AH0 S EH1 N D AH0 N S IY0
 ascending AH0 S EH1 N D IH0 NG
 ascends AH0 S EH1 N D Z
@@ -6266,7 +6255,7 @@ assante AA0 S AA1 N T IY0
 assassin AH0 S AE1 S AH0 N
 assassin's AH0 S AE1 S AH0 N Z
 assassinate AH0 S AE1 S AH0 N EY2 T
-assassinated AH0 S AE1 S AH0 N EY2 T AH0 D
+assassinated AH0 S AE1 S AH0 N EY2 T IH0 D
 assassinating AH0 S AE1 S AH0 N EY2 T IH0 NG
 assassination AH0 S AE2 S AH0 N EY1 SH AH0 N
 assassinations AH0 S AE2 S AH0 N EY1 SH AH0 N Z
@@ -6300,7 +6289,7 @@ assemblymen AH0 S EH1 M B L IY0 M IH0 N
 assemblywoman AH0 S EH1 M B L IY0 W UH2 M AH0 N
 assent AH0 S EH1 N T
 assert AH0 S ER1 T
-asserted AH0 S ER1 T AH0 D
+asserted AH0 S ER1 T IH0 D
 assertedly AH0 S ER1 T IH0 D L IY0
 asserting AH0 S ER1 T IH0 NG
 assertion AH0 S ER1 SH AH0 N
@@ -6344,8 +6333,7 @@ assist AH0 S IH1 S T
 assistance AH0 S IH1 S T AH0 N S
 assistant AH0 S IH1 S T AH0 N T
 assistants AH0 S IH1 S T AH0 N T S
-assisted AH0 S IH1 S T AH0 D
-assisted(2) AH0 S IH1 S T IH0 D
+assisted AH0 S IH1 S T IH0 D
 assisting AH0 S IH1 S T IH0 NG
 assists AH0 S IH1 S T S
 assocation AE2 S AH0 K EY1 SH AH0 N
@@ -6355,8 +6343,8 @@ associate(3) AH0 S OW1 SH IY0 AH0 T
 associate(4) AH0 S OW1 SH IY0 EY2 T
 associate's AH0 S OW1 S IY0 AH0 T S
 associate's(2) AH0 S OW1 SH IY0 AH0 T S
-associated AH0 S OW1 S IY0 EY2 T AH0 D
-associated(2) AH0 S OW1 SH IY0 EY2 T AH0 D
+associated AH0 S OW1 S IY0 EY2 T IH0 D
+associated(2) AH0 S OW1 SH IY0 EY2 T IH0 D
 associates AH0 S OW1 S IY0 AH0 T S
 associates(2) AH0 S OW1 S IY0 EY2 T S
 associates(3) AH0 S OW1 SH IY0 AH0 T S
@@ -6656,7 +6644,7 @@ atteberry AE1 T B EH0 R IY0
 attebery AH0 T EH1 B ER0 IY0
 attebury AE1 T B EH0 R IY0
 attempt AH0 T EH1 M P T
-attempted AH0 T EH1 M P T AH0 D
+attempted AH0 T EH1 M P T IH0 D
 attempting AH0 T EH1 M P T IH0 NG
 attempts AH0 T EH1 M P T S
 attempts(2) AH0 T EH1 M P S
@@ -6667,7 +6655,7 @@ attendant AH0 T EH1 N D AH0 N T
 attendant's AH0 T EH1 N D AH0 N T S
 attendants AH0 T EH1 N D AH0 N T S
 attendants' AH0 T EH1 N D AH0 N T S
-attended AH0 T EH1 N D AH0 D
+attended AH0 T EH1 N D IH0 D
 attendee AH0 T EH1 N D IY1
 attendees AH0 T EH1 N D IY1 Z
 attending AH0 T EH1 N D IH0 NG
@@ -6709,7 +6697,7 @@ attorney's AH0 T ER1 N IY0 Z
 attorneys AH0 T ER1 N IY0 Z
 attorneys' AH0 T ER1 N IY0 Z
 attract AH0 T R AE1 K T
-attracted AH0 T R AE1 K T AH0 D
+attracted AH0 T R AE1 K T IH0 D
 attracting AH0 T R AE1 K T IH0 NG
 attraction AH0 T R AE1 K SH AH0 N
 attractions AH0 T R AE1 K SH AH0 N Z
@@ -6720,7 +6708,7 @@ attracts AH0 T R AE1 K T S
 attributable AH0 T R IH1 B Y AH0 T AH0 B AH0 L
 attribute AE1 T R AH0 B Y UW2 T
 attribute(2) AH0 T R IH1 B Y UW2 T
-attributed AH0 T R IH1 B Y AH0 T AH0 D
+attributed AH0 T R IH1 B Y AH0 T IH0 D
 attributes AE1 T R AH0 B Y UW2 T S
 attributes(2) AH0 T R IH1 B Y UW2 T S
 attributing AH0 T R IH1 B Y AH0 T IH0 NG
@@ -6851,7 +6839,7 @@ aught AO1 T
 augment AO0 G M EH1 N T
 augmentable AA0 G M EH1 N T AH0 B AH0 L
 augmentation AA2 G M EH0 N T EY1 SH AH0 N
-augmented AA0 G M EH1 N T AH0 D
+augmented AA0 G M EH1 N T IH0 D
 augmenting AO1 G M EH2 N T IH0 NG
 augsburg AO1 G Z B ER0 G
 augsburger AW1 G Z B ER0 G ER0
@@ -6985,7 +6973,7 @@ authentic(4) AH0 TH EH1 N IH0 K
 authentically AO2 TH EH1 N T IH0 K L IY0
 authentically(2) AO2 TH EH1 N IH0 K L IY0
 authenticate AO0 TH EH1 N T AH0 K EY2 T
-authenticated AO0 TH EH1 N T AH0 K EY2 T AH0 D
+authenticated AO0 TH EH1 N T AH0 K EY2 T IH0 D
 authenticating AO0 TH EH1 N T AH0 K EY2 T IH0 NG
 authentication AO0 TH EH2 N T AH0 K EY1 SH AH0 N
 authentications AO0 TH EH2 N T AH0 K EY1 SH AH0 N Z
@@ -7184,7 +7172,7 @@ aversion AH0 V ER1 ZH AH0 N
 aversions AH0 V ER1 ZH AH0 N Z
 aversive AH0 V ER1 S AH0 V
 avert AH0 V ER1 T
-averted AH0 V ER1 T AH0 D
+averted AH0 V ER1 T IH0 D
 averting AH0 V ER1 T IH0 NG
 averts AH0 V ER1 T S
 avery EY1 V ER0 IY0
@@ -7237,8 +7225,7 @@ avodon AE1 V AH0 D AA0 N
 avoid AH0 V OY1 D
 avoidable AH0 V OY1 D AH0 B AH0 L
 avoidance AH0 V OY1 D AH0 N S
-avoided AH0 V OY1 D AH0 D
-avoided(2) AH0 V OY1 D IH0 D
+avoided AH0 V OY1 D IH0 D
 avoiding AH0 V OY1 D IH0 NG
 avoids AH0 V OY1 D Z
 avolio AH0 V OW1 L IY0 OW0
@@ -7263,8 +7250,7 @@ aw AO1
 awacs EY1 W AE2 K S
 awad AH0 W AA1 D
 await AH0 W EY1 T
-awaited AH0 W EY1 T AH0 D
-awaited(2) AH0 W EY1 T IH0 D
+awaited AH0 W EY1 T IH0 D
 awaiting AH0 W EY1 T IH0 NG
 awaits AH0 W EY1 T S
 awake AH0 W EY1 K
@@ -7275,8 +7261,7 @@ awakens AH0 W EY1 K AH0 N Z
 awalt AA1 V AH0 L T
 awan EY1 W AH0 N
 award AH0 W AO1 R D
-awarded AH0 W AO1 R D AH0 D
-awarded(2) AH0 W AO1 R D IH0 D
+awarded AH0 W AO1 R D IH0 D
 awarding AH0 W AO1 R D IH0 NG
 awards AH0 W AO1 R D Z
 aware AH0 W EH1 R
@@ -7652,8 +7637,7 @@ backgammon B AE1 K G AE2 M AH0 N
 background B AE1 K G R AW2 N D
 backgrounds B AE1 K G R AW2 N D Z
 backhand B AE1 K HH AE2 N D
-backhanded B AE1 K HH AE2 N D AH0 D
-backhanded(2) B AE1 K HH AE2 N D IH0 D
+backhanded B AE1 K HH AE2 N D IH0 D
 backhaus B AE1 K HH AW2 S
 backhoe B AE1 K HH OW2
 backhoes B AE1 K HH OW2 Z
@@ -7664,7 +7648,7 @@ backless B AE1 K L AH0 S
 backlight B AE1 K L AY2 T
 backlights B AE1 K L AY2 T S
 backlist B AE1 K L IH2 S T
-backlisted B AE1 K L IH2 S T AH0 D
+backlisted B AE1 K L IH2 S T IH0 D
 backlog B AE1 K L AA2 G
 backlog(2) B AE1 K L AO2 G
 backlogged B AE1 K L AA2 G D
@@ -12430,8 +12414,7 @@ blemishes B L EH1 M IH0 SH IH0 Z
 blend B L EH1 N D
 blenda B L EH1 N D AH0
 blendax B L EH1 N D AE2 K S
-blended B L EH1 N D AH0 D
-blended(2) B L EH1 N D IH0 D
+blended B L EH1 N D IH0 D
 blender B L EH1 N D ER0
 blenders B L EH1 N D ER0 Z
 blending B L EH1 N D IH0 NG
@@ -18472,8 +18455,7 @@ cardassian K AH0 R D AA1 S IY0 AH0 N
 cardassians K AH0 R D AA1 S IY0 AH0 N Z
 cardboard K AA1 R D B AO2 R D
 cardboards K AA1 R D B AO2 R D Z
-carded K AA1 R D AH0 D
-carded(2) K AA1 R D IH0 D
+carded K AA1 R D IH0 D
 cardell K AA0 R D EY1 L
 cardella K AA2 R D EH1 L AH0
 cardello K AA2 R D EH1 L OW0
@@ -19826,7 +19808,7 @@ celts S EH1 L T S
 celts(2) K EH1 L T S
 cement S AH0 M EH1 N T
 cement(2) S IH0 M EH1 N T
-cemented S AH0 M EH1 N T AH0 D
+cemented S AH0 M EH1 N T IH0 D
 cemented(2) S IH0 M EH1 N T IH0 D
 cementing S IH0 M EH1 N T IH0 NG
 cementos S EH0 M EH1 N T OW0 S
@@ -23549,8 +23531,7 @@ commack K AA1 M AH0 K
 command K AH0 M AE1 N D
 command's K AH0 M AE1 N D Z
 commandant K AA2 M AH0 N D AA1 N T
-commanded K AH0 M AE1 N D AH0 D
-commanded(2) K AH0 M AE1 N D IH0 D
+commanded K AH0 M AE1 N D IH0 D
 commandeer K AA2 M AH0 N D IH1 R
 commandeered K AA2 M AH0 N D IH1 R D
 commander K AH0 M AE1 N D ER0
@@ -24285,8 +24266,7 @@ confidant K AA1 N F AH0 D AA2 N T
 confidante K AA1 N F AH0 D AE2 N T
 confidants K AA1 N F AH0 D AE2 N T S
 confide K AH0 N F AY1 D
-confided K AH0 N F AY1 D AH0 D
-confided(2) K AH0 N F AY1 D IH0 D
+confided K AH0 N F AY1 D IH0 D
 confidence K AA1 N F AH0 D AH0 N S
 confidence's K AA1 N F AH0 D AH0 N S AH0 Z
 confidences K AA1 N F AH0 D AH0 N S IH0 Z
@@ -24497,8 +24477,7 @@ connaught's K AA1 N AO0 T S
 connaughton K AA1 N AO0 T AA0 N
 connaway K AA1 N AH0 W EY2
 connect K AH0 N EH1 K T
-connected K AH0 N EH1 K T AH0 D
-connected(2) K AH0 N EH1 K T IH0 D
+connected K AH0 N EH1 K T IH0 D
 connecter K AH0 N EH1 K T ER0
 connecticut K AH0 N EH1 T AH0 K AH0 T
 connecticut's K AH0 N EH1 T AH0 K AH0 T S
@@ -26027,10 +26006,9 @@ count K AW1 N T
 countable K AW1 N T AH0 B AH0 L
 countdown K AW1 N T D AW2 N
 countdowns K AW1 N T D AW2 N Z
-counted K AW1 N T AH0 D
-counted(2) K AW1 N T IH0 D
-counted(3) K AW1 N IH0 D
-counted(4) K AW1 N AH0 D
+counted K AW1 N T IH0 D
+counted(2) K AW1 N IH0 D
+counted(3) K AW1 N AH0 D
 countenance K AW1 N T AH0 N AH0 N S
 countenanced K AW1 N T AH0 N AH0 N S T
 countenances K AW1 N T AH0 N AH0 N S IH0 Z
@@ -26039,122 +26017,73 @@ counteract K AW1 N T ER0 AE2 K T
 counteracted K AW1 N T ER0 AE2 K T IH0 D
 counteracting K AW2 N T ER0 AE1 K T IH0 NG
 counterattack K AW1 N T ER0 AH0 T AE2 K
-counterattack(2) K AW1 N ER0 AH0 T AE2 K
 counterattacked K AW2 N T ER0 AH0 T AE1 K T
-counterattacked(2) K AW2 N ER0 AH0 T AE1 K T
 counterattacking K AW1 N T ER0 AH0 T AE2 K IH0 NG
-counterattacking(2) K AW1 N ER0 AH0 T AE2 K IH0 NG
 counterattacks K AW1 N T ER0 AH0 T AE2 K S
-counterattacks(2) K AW1 N ER0 AH0 T AE2 K S
 counterbalance K AW1 N T ER0 B AE2 L AH0 N S
-counterbalance(2) K AW1 N ER0 B AE2 L AH0 N S
 counterbalanced K AW2 N T ER0 B AE1 L AH0 N S T
-counterbalanced(2) K AW2 N ER0 B AE1 L AH0 N S T
 counterbalances K AW1 N T ER0 B AE2 L AH0 N S IH0 Z
-counterbalances(2) K AW1 N ER0 B AE2 L AH0 N S IH0 Z
 counterbalancing K AW1 N T ER0 B AE2 L AH0 N S IH0 NG
-counterbalancing(2) K AW1 N ER0 B AE2 L AH0 N S IH0 NG
 counterbid K AW2 N T ER0 B IH1 D
 counterbids K AW2 N T ER0 B IH1 D Z
 counterchallenge K AW1 N T ER0 CH AE2 L AH0 N JH
-counterchallenge(2) K AW1 N ER0 CH AE2 L AH0 N JH
 counterchallenges K AW1 N T ER0 CH AE2 L AH0 N JH AH0 Z
-counterchallenges(2) K AW1 N ER0 CH AE2 L AH0 N JH AH0 Z
 countercharge K AW1 N T ER0 CH AA2 R JH
-countercharge(2) K AW1 N ER0 CH AA2 R JH
 countercharges K AW1 N T ER0 CH AA2 R JH IH0 Z
-countercharges(2) K AW1 N ER0 CH AA2 R JH IH0 Z
 counterclaim K AW1 N T ER0 K L EY2 M
 counterclaims K AW1 N T ER0 K L EY2 M Z
 counterclockwise K AW2 N T ER0 K L AO1 K W AY0 Z
 counterclockwise(2) K AW2 N ER0 K L AO1 K W AY0 Z
 countercultural K AW2 N T ER0 K AH1 L CH ER0 AH0 L
-countercultural(2) K AW2 N ER0 K AH1 L CH ER0 AH0 L
 counterculture K AW1 N T ER0 K AH2 L CH ER0
 counterculture(2) K AW1 N ER0 K AH2 L CH ER0
 countered K AW1 N T ER0 D
-countered(2) K AW1 N ER0 D
 counterespionage K AW2 N T ER0 EH1 S P IY0 AH0 N AA0 JH
 counterfeit K AW1 N T ER0 F IH2 T
-counterfeit(2) K AW1 N ER0 F IH2 T
 counterfeited K AW1 N T ER0 F IH2 T IH0 D
-counterfeited(2) K AW1 N ER0 F IH2 T IH0 D
 counterfeiter K AW1 N T ER0 F IH2 T ER0
-counterfeiter(2) K AW1 N ER0 F IH2 T ER0
 counterfeiters K AW1 N T ER0 F IH2 T ER0 Z
-counterfeiters(2) K AW1 N ER0 F IH2 T ER0 Z
 counterfeiting K AW1 N T ER0 F IH2 T IH0 NG
-counterfeiting(2) K AW1 N ER0 F IH2 T IH0 NG
 counterfeits K AW1 N T ER0 F IH2 T S
-counterfeits(2) K AW1 N ER0 F IH2 T S
 counterforce K AW1 N T ER0 F AO2 R S
 counterforces K AW1 N T ER0 F AO2 R S IH0 Z
 countering K AW1 N T ER0 IH0 NG
-countering(2) K AW1 N ER0 IH0 NG
 counterinsurgencies K AW2 N T ER0 IH0 N S ER1 JH AH0 N S IY0 Z
-counterinsurgencies(2) K AW2 N ER0 IH0 N S ER1 JH AH0 N S IY0 Z
 counterinsurgency K AW2 N T ER0 IH0 N S ER1 JH AH0 N S IY0
-counterinsurgency(2) K AW2 N ER0 IH0 N S ER1 JH AH0 N S IY0
 counterintelligence K AW2 N T ER0 IH0 N T EH1 L IH0 JH AH0 N S
-counterintelligence(2) K AW2 N ER0 IH0 N T EH1 L IH0 JH AH0 N S
 counterlife K AW1 N T ER0 L AY2 F
 counterman K AW1 N T ER0 M AE2 N
 countermeasure K AW1 N T ER0 M EH2 ZH ER0
-countermeasure(2) K AW1 N ER0 M EH2 ZH ER0
 countermeasures K AW1 N T ER0 M EH2 ZH ER0 Z
-countermeasures(2) K AW1 N ER0 M EH2 ZH ER0 Z
 countermove K AW1 N T ER0 M UW2 V
 countermoves K AW1 N T ER0 M UW2 V Z
 counteroffensive K AW2 N T ER0 AO0 F EH1 N S IH0 V
-counteroffensive(2) K AW2 N ER0 AO0 F EH1 N S IH0 V
 counteroffensives K AW2 N T ER0 AO0 F EH1 N S IH0 V Z
-counteroffensives(2) K AW2 N ER0 AO0 F EH1 N S IH0 V Z
 counteroffer K AW1 N T ER0 AO2 F ER0
-counteroffer(2) K AW1 N ER0 AO2 F ER0
 counteroffers K AW1 N T ER0 AO2 F ER0 Z
-counteroffers(2) K AW1 N ER0 AO2 F ER0 Z
 counterpart K AW1 N T ER0 P AA2 R T
-counterpart(2) K AW1 N ER0 P AA2 R T
 counterparts K AW1 N T ER0 P AA2 R T S
-counterparts(2) K AW1 N ER0 P AA2 R T S
 counterparty K AW1 N T ER0 P AA2 R T IY0
 counterpoint K AW1 N T ER0 P OY2 N T
-counterpoint(2) K AW1 N ER0 P OY2 N T
 counterpoints K AW1 N T ER0 P OY2 N T S
-counterpoints(2) K AW1 N ER0 P OY2 N T S
 counterproductive K AW1 N T ER0 P R AH0 D AH2 K T IH0 V
-counterproductive(2) K AW1 N ER0 P R AH0 D AH2 K T IH0 V
 counterproposal K AW1 N T ER0 P R AH0 P OW2 Z AH0 L
-counterproposal(2) K AW1 N ER0 P R AH0 P OW2 Z AH0 L
 counterproposals K AW1 N T ER0 P R AH0 P OW2 Z AH0 L Z
-counterproposals(2) K AW1 N ER0 P R AH0 P OW2 Z AH0 L Z
 counterpunch K AW1 N T ER0 P AH2 N CH
 counterrevolt K AW1 N T ER0 R IY0 V OW2 L T
-counterrevolt(2) K AW1 N ER0 R IY0 V OW2 L T
 counterrevolution K AW2 N T ER0 R EH0 V AH0 L UW1 SH AH0 N
-counterrevolution(2) K AW2 N ER0 R EH0 V AH0 L UW1 SH AH0 N
 counterrevolutionary K AW2 N T ER0 R EH0 V AH0 L UW1 SH AH0 N EH2 R IY0
-counterrevolutionary(2) K AW2 N ER0 R EH0 V AH0 L UW1 SH AH0 N EH2 R IY0
 counters K AW1 N T ER0 Z
 countersue K AW1 N T ER0 S UW2
-countersue(2) K AW1 N ER0 S UW2
 countersued K AW1 N T ER0 S UW2 D
-countersued(2) K AW1 N ER0 S UW2 D
 countersuing K AW1 N T ER0 S UW2 IH0 NG
-countersuing(2) K AW1 N ER0 S UW2 IH0 NG
 countersuit K AW1 N T ER0 S UW2 T
-countersuit(2) K AW1 N ER0 S UW2 T
 countertenor K AW1 N T ER0 T EH2 N ER0
 counterterrorism K AW1 N T ER0 T EH2 R ER0 IH2 Z AH0 M
-counterterrorism(2) K AW1 N ER0 T EH2 R ER0 IH2 Z AH0 M
 counterterrorist K AW2 N T ER0 T EH1 R ER0 IH0 S T
-counterterrorist(2) K AW2 N ER0 T EH1 R ER0 IH0 S T
 counterterrorists K AW2 N T ER0 T EH1 R ER0 IH0 S T S
-counterterrorists(2) K AW2 N ER0 T EH1 R ER0 IH0 S
 countertop K AW1 N T ER0 T AA2 P
-countertop(2) K AW1 N ER0 T AA2 P
 countertops K AW1 N T ER0 T AA2 P S
-countertops(2) K AW1 N ER0 T AA2 P S
 countertrade K AW1 N T ER0 T R EY2 D
 countervail K AW1 N T ER0 V EY2 L
 countervailing K AW1 N T ER0 V EY2 L IH0 NG
@@ -26825,7 +26754,7 @@ cresswell K R EH1 S W EH2 L
 cressy K R EH1 S IY0
 crest K R EH1 S T
 crestar K R EH1 S T AA2 R
-crested K R EH1 S T AH0 D
+crested K R EH1 S T IH0 D
 crestfallen K R EH1 S T F AO2 L AH0 N
 cresting K R EH1 S T IH0 NG
 crestmont K R EH1 S T M AA2 N T
@@ -30761,8 +30690,7 @@ depaolo D IH0 P AW1 L OW2
 depardieu D IY2 P AA0 R D Y AH1
 depardieu(2) D IY2 P AA0 R D UW1
 depart D IH0 P AA1 R T
-departed D IH0 P AA1 R T AH0 D
-departed(2) D IH0 P AA1 R T IH0 D
+departed D IH0 P AA1 R T IH0 D
 departing D IH0 P AA1 R T IH0 NG
 department D IH0 P AA1 R T M AH0 N T
 department's D IH0 P AA1 R T M AH0 N T S
@@ -31953,9 +31881,8 @@ dicta D IH1 K T AA0
 dictaphone D IH1 K T AH0 F OW2 N
 dictate D IH0 K T EY1 T
 dictate(2) D IH1 K T EY2 T
-dictated D IH0 K T EY1 T AH0 D
-dictated(2) D IH1 K T EY2 T AH0 D
-dictated(3) D IH1 K T EY2 T IH0 D
+dictated D IH0 K T EY1 T IH0 D
+dictated(2) D IH1 K T EY2 T IH0 D
 dictates D IH0 K T EY1 T S
 dictates(2) D IH1 K T EY2 T S
 dictating D IH1 K T EY2 T IH0 NG
@@ -32222,7 +32149,7 @@ dilapidate D AH0 L AE1 P AH0 D EY2 T
 dilapidated D AH0 L AE1 P AH0 D EY2 T IH0 D
 dilatation D IH2 L AH0 T EY1 SH AH0 N
 dilate D AY2 L EY1 T
-dilated D AY0 L EY1 T AH0 D
+dilated D AY2 L EY1 T IH0 D
 dilation D AY2 L EY1 SH AH0 N
 dilatory D IH1 L AH0 T AO2 R IY0
 dilaura D IH0 L AO1 R AH0
@@ -33489,7 +33416,7 @@ divestments(3) D IH0 V EH1 S M AH0 N T S
 divests D AY0 V EH1 S T S
 divi D IY1 V IY0
 divide D IH0 V AY1 D
-divided D IH0 V AY1 D AH0 D
+divided D IH0 V AY1 D IH0 D
 dividend D IH1 V IH0 D EH2 N D
 dividend's D IH1 V AH0 D EH2 N D Z
 dividends D IH1 V AH0 D EH2 N D Z
@@ -36523,8 +36450,8 @@ eduard EH1 D W ER0 D
 eduardo EH0 D W AA1 R D OW0
 educate EH1 JH AH0 K EY2 T
 educate(2) EH1 JH Y UW0 K EY2 T
-educated EH1 JH AH0 K EY2 T AH0 D
-educated(2) EH1 JH Y UW0 K EY2 T AH0 D
+educated EH1 JH AH0 K EY2 T IH0 D
+educated(2) EH1 JH Y UW0 K EY2 T IH0 D
 educates EH1 JH AH0 K EY2 T S
 educates(2) EH1 JH Y AH0 K EY2 T S
 educates(3) EH1 JH UW0 K EY2 T S
@@ -36584,10 +36511,9 @@ effacing IH0 F EY1 S IH0 NG
 effect IH0 F EH1 K T
 effect(2) IY1 F EH0 K T
 effect(3) AH0 F EH1 K T
-effected IH0 F EH1 K T AH0 D
-effected(2) IH0 F EH1 K T IH0 D
-effected(3) IY1 F EH0 K T AH0 D
-effected(4) IY1 F EH0 K T IH0 D
+effected IH0 F EH1 K T IH0 D
+effected(2) IY1 F EH0 K T AH0 D
+effected(3) IY1 F EH0 K T IH0 D
 effecting IH0 F EH1 K T IH0 NG
 effecting(2) IY1 F EH0 K T IH0 NG
 effective IH0 F EH1 K T IH0 V
@@ -40123,8 +40049,7 @@ exec EH2 G Z EH1 K
 execrable EH2 G Z EH1 K R AH0 B AH0 L
 execs EH2 G Z EH1 K S
 execute EH1 K S AH0 K Y UW2 T
-executed EH1 K S AH0 K Y UW2 T AH0 D
-executed(2) EH1 K S AH0 K Y UW2 T IH0 D
+executed EH1 K S AH0 K Y UW2 T IH0 D
 executes EH1 K S AH0 K Y UW2 T S
 executing EH1 K S AH0 K Y UW2 T IH0 NG
 execution EH2 K S AH0 K Y UW1 SH AH0 N
@@ -40178,8 +40103,7 @@ exhalation EH2 K S HH AH0 L EY1 SH AH0 N
 exhale EH0 K S HH EY1 L
 exhaled EH0 K S HH EY1 L D
 exhaust IH0 G Z AO1 S T
-exhausted IH0 G Z AO1 S T AH0 D
-exhausted(2) IH0 G Z AO1 S T IH0 D
+exhausted IH0 G Z AO1 S T IH0 D
 exhausting IH0 G Z AO1 S T IH0 NG
 exhaustion IH0 G Z AO1 S CH AH0 N
 exhaustive IH0 G Z AO1 S T IH0 V
@@ -44527,8 +44451,7 @@ foundation F AW0 N D EY1 SH AH0 N
 foundation's F AW0 N D EY1 SH AH0 N Z
 foundational F AW0 N D EY1 SH AH0 N AH0 L
 foundations F AW0 N D EY1 SH AH0 N Z
-founded F AW1 N D AH0 D
-founded(2) F AW1 N D IH0 D
+founded F AW1 N D IH0 D
 founder F AW1 N D ER0
 founder's F AW1 N D ER0 Z
 foundered F AW1 N D ER0 D
@@ -53199,8 +53122,7 @@ harvel HH AA1 R V AH0 L
 harvell HH AA1 R V AH0 L
 harvest HH AA1 R V AH0 S T
 harvestable HH AA1 R V AH0 S T AH0 B AH0 L
-harvested HH AA1 R V AH0 S T AH0 D
-harvested(2) HH AA1 R V AH0 S T IH0 D
+harvested HH AA1 R V AH0 S T IH0 D
 harvester HH AA1 R V AH0 S T ER0
 harvesters HH AA1 R V AH0 S T ER0 Z
 harvesting HH AA1 R V AH0 S T IH0 NG
@@ -53433,8 +53355,7 @@ hauls HH AO1 L Z
 haulsey HH AO1 L S IY0
 haun HH AO1 N
 haunt HH AO1 N T
-haunted HH AO1 N T AH0 D
-haunted(2) HH AO1 N T IH0 D
+haunted HH AO1 N T IH0 D
 haunting HH AO1 N T IH0 NG
 hauntingly HH AO1 N T IH0 NG L IY0
 haunts HH AO1 N T S
@@ -54654,7 +54575,7 @@ heppner HH EH1 P N ER0
 heptathlon HH EH0 P T AE1 TH L AA0 N
 hepworth HH EH1 P W ER0 TH
 her HH ER1
-her(2) HH ER1
+her(2) HH ER0
 her's HH ER1 Z
 hera HH IH1 R AH0
 heradia HH ER0 AA1 D IY0 AH0
@@ -55721,7 +55642,6 @@ hitter's HH IH1 T ER0 Z
 hitters HH IH1 T ER0 Z
 hitting HH IH1 T IH0 NG
 hittite HH IH1 T AY2 T
-hittite(2) HH IH1 T AY2 T
 hittle HH IH1 T AH0 L
 hittner HH IH1 T N ER0
 hitty HH IH1 T IY0
@@ -59247,7 +59167,7 @@ inconveniences IH2 N K AH0 N V IY1 N Y AH0 N S IH0 Z
 inconvenient IH2 N K AH0 N V IY1 N Y AH0 N T
 incoordination IH2 N K OW2 AO1 R D AH0 N EY2 SH AH0 N
 incorporate IH2 N K AO1 R P ER0 EY2 T
-incorporated IH0 N K AO1 R P ER0 EY2 T AH0 D
+incorporated IH2 N K AO1 R P ER0 EY2 T IH0 D
 incorporated(2) IH0 N K AO1 R P ER0 EY2 T IH0 D
 incorporated's IH2 N K AO1 R P ER0 EY2 T IH0 D Z
 incorporates IH2 N K AO1 R P ER0 EY2 T S
@@ -59312,7 +59232,7 @@ inda IY1 N D AH0
 indaba IH2 N D AA1 B AH0
 indal IH1 N D AH0 L
 indata IH2 N D AA1 T AH0
-indebted IH0 N D EH1 T AH0 D
+indebted IH2 N D EH1 T IH0 D
 indebted(2) IH0 N D EH1 T IH0 D
 indebtedness IH2 N D EH1 T IH0 D N IH0 S
 indecency IH2 N D IY1 S AH0 N S IY0
@@ -59391,7 +59311,7 @@ indices IH1 N D IH0 S IY2 Z
 indices(2) IH1 N D AH0 S IH0 Z
 indicia IH2 N D IH1 S Y AH0
 indict IH2 N D AY1 T
-indicted IH0 N D AY1 T AH0 D
+indicted IH2 N D AY1 T IH0 D
 indicted(2) IH0 N D AY1 T IH0 D
 indicting IH2 N D AY1 T IH0 NG
 indictment IH2 N D AY1 T M AH0 N T
@@ -59480,7 +59400,7 @@ induces IH2 N D UW1 S IH0 Z
 inducing IH2 N D UW1 S IH0 NG
 induct IH2 N D AH1 K T
 inductance IH2 N D AH1 K T AH0 N S
-inducted IH0 N D AH1 K T AH0 D
+inducted IH2 N D AH1 K T IH0 D
 inducted(2) IH0 N D AH1 K T IH0 D
 inductee IH2 N D AH1 K T IY1
 inductees IH2 N D AH1 K T IY1 Z
@@ -59606,7 +59526,7 @@ infatuating IH2 N F AE1 CH UW0 EY2 T IH0 NG
 infatuation IH2 N F AE2 CH UW0 EY1 SH AH0 N
 infeasible IH2 N F IY1 Z AH0 B AH0 L
 infect IH2 N F EH1 K T
-infected IH0 N F EH1 K T AH0 D
+infected IH2 N F EH1 K T IH0 D
 infected(2) IH0 N F EH1 K T IH0 D
 infecting IH2 N F EH1 K T IH0 NG
 infection IH2 N F EH1 K SH AH0 N
@@ -59630,7 +59550,7 @@ infertility IH2 N F ER0 T IH1 L IH0 T IY2
 infest IH2 N F EH1 S T
 infestation IH2 N F EH1 S T EY1 SH AH0 N
 infestations IH2 N F EH2 S T EY1 SH AH0 N Z
-infested IH0 N F EH1 S T AH0 D
+infested IH2 N F EH1 S T IH0 D
 infested(2) IH0 N F EH1 S T IH0 D
 infests IH2 N F EH1 S T S
 infidel IH1 N F IH0 D EH2 L
@@ -59642,9 +59562,7 @@ infielder IH1 N F IY2 L D ER0
 infielders IH1 N F IY2 L D ER0 Z
 infighting IH1 N F AY2 T IH0 NG
 infiltrate IH1 N F IH0 L T R EY2 T
-infiltrate(2) IH1 N F IH0 L T R EY2 T
 infiltrated IH1 N F IH0 L T R EY2 T IH0 D
-infiltrated(2) IH1 N F IH0 L T R EY2 T IH0 D
 infiltrating IH2 N F IH1 L T R EY2 T IH0 NG
 infiltration IH2 N F IH0 L T R EY1 SH AH0 N
 infiltrator IH1 N F IH0 L T R EY2 T ER0
@@ -59672,7 +59590,7 @@ inflammation IH2 N F L AH0 M EY1 SH AH0 N
 inflammatory IH0 N F L AE1 M AH0 T AO2 R IY0
 inflatable IH0 N F L EY1 T AH0 B AH0 L
 inflate IH0 N F L EY1 T
-inflated IH0 N F L EY1 T AH0 D
+inflated IH2 N F L EY1 T IH0 D
 inflated(2) IH0 N F L EY1 T IH0 D
 inflates IH2 N F L EY1 T S
 inflating IH2 N F L EY1 T IH0 NG
@@ -59757,7 +59675,7 @@ infringements IH2 N F R IH1 N JH M AH0 N T S
 infringes IH2 N F R IH1 N JH IH0 Z
 infringing IH2 N F R IH1 N JH IH0 NG
 infuriate IH2 N F Y UH1 R IY0 EY2 T
-infuriated IH0 N F Y UH1 R IY0 EY2 T AH0 D
+infuriated IH2 N F Y UH1 R IY0 EY2 T IH0 D
 infuriated(2) IH0 N F Y UH1 R IY0 EY2 T IH0 D
 infuriates IH2 N F Y UH1 R IY0 EY2 T S
 infuriating IH2 N F Y UH1 R IY0 EY2 T IH0 NG
@@ -60226,7 +60144,7 @@ institucional IH2 N S T IH0 T UW2 S IY0 AH0 N AE1 L
 institut IH1 N S T IH0 T UW0 T
 institute IH1 N S T AH0 T UW2 T
 institute's IH1 N S T IH0 T UW0 T S
-instituted IH1 N S T AH0 T UW2 T AH0 D
+instituted IH1 N S T AH0 T UW2 T IH0 D
 institutes IH1 N S T AH0 T UW2 T S
 institutes' IH1 N S T IH0 T UW2 T S
 instituting IH1 N S T IH0 T UW2 T IH0 NG
@@ -60393,7 +60311,7 @@ intelogic IH2 N T AH0 L AA1 JH IH0 K
 intelsat IH2 N T EH1 L S AE0 T
 intemperate IH2 N T EH1 M P ER0 AH0 T
 intend IH2 N T EH1 N D
-intended IH0 N T EH1 N D AH0 D
+intended IH2 N T EH1 N D IH0 D
 intended(2) IH0 N T EH1 N D IH0 D
 intending IH2 N T EH1 N D IH0 NG
 intends IH2 N T EH1 N D Z
@@ -60513,7 +60431,7 @@ interest IH1 N T R AH0 S T
 interest(2) IH1 N T R IH0 S T
 interest(3) IH1 N T ER0 AH0 S T
 interest(4) IH1 N T ER0 IH0 S T
-interested IH1 N T R AH0 S T AH0 D
+interested IH1 N T R AH0 S T IH0 D
 interested(2) IH1 N T R IH0 S T IH0 D
 interested(3) IH1 N T ER0 AH0 S T AH0 D
 interested(4) IH1 N T ER0 IH0 S T IH0 D
@@ -60847,7 +60765,7 @@ intones IH2 N T OW1 N Z
 intoning IH2 N T OW1 N IH0 NG
 intourist IH2 N T UH1 R IH0 S T
 intoxicate IH2 N T AA1 K S AH0 K EY2 T
-intoxicated IH0 N T AA1 K S AH0 K EY2 T AH0 D
+intoxicated IH0 N T AA1 K S AH0 K EY2 T IH0 D
 intoxicated(2) IH0 N T AA1 K S IH0 K EY2 T IH0 D
 intoxicates IH2 N T AA1 K S AH0 K EY2 T S
 intoxicating IH2 N T AA1 K S IH0 K EY2 T IH0 NG
@@ -71467,7 +71385,6 @@ lo L OW1
 lo's L OW1 Z
 load L OW1 D
 loaded L OW1 D IH0 D
-loaded(2) L OW1 D AH0 D
 loader L OW1 D ER0
 loaders L OW1 D ER0 Z
 loadholt L OW1 D HH OW2 L T
@@ -85130,8 +85047,8 @@ nonresident N AA0 N R EH1 Z AH0 D AH0 N T
 nonresidential N AA2 N R EH2 Z AH0 D EH1 N SH AH0 L
 nonresidents N AA0 N R EH1 Z AH0 D AH0 N T S
 nonresponsive N AA0 N R IH0 S P AA1 N S IH0 V
-nonrestricted N AA0 N R IH0 S T R IH1 K T AH0 D
-nonrestricted(2) N AA0 N R IY0 S T R IH1 K T AH0 D
+nonrestricted N AA0 N R IH0 S T R IH1 K T IH0 D
+nonrestricted(2) N AA0 N R IY0 S T R IH1 K T IH0 D
 nonroman N AA0 N R OW1 M AH0 N
 nonruling N AA0 N R UW1 L IH0 NG
 nonsectarian N AA2 N S EH0 K T EH1 R IY0 AH0 N
@@ -88225,8 +88142,7 @@ outmaneuvering AW0 T M AH0 N UW1 V ER0 IH0 NG
 outmaneuvers AW0 T M AH0 N UW1 V ER0 Z
 outmanned AW2 T M AE1 N D
 outmode AW2 T M OW1 D
-outmoded AW2 T M OW1 D AH0 D
-outmoded(2) AW2 T M OW1 D IH0 D
+outmoded AW2 T M OW1 D IH0 D
 outnumber AW0 T N AH1 M B ER0
 outnumbered AW2 T N AH1 M B ER0 D
 outnumbering AW1 T N AH2 M B ER0 IH0 NG
@@ -88296,7 +88212,7 @@ outsized AW1 T S AY2 Z D
 outskirt AW1 T S K ER2 T
 outskirts AW1 T S K ER2 T S
 outsmart AW1 T S M AA2 R T
-outsmarted AW1 T S M AA2 R T AH0 D
+outsmarted AW1 T S M AA2 R T IH0 D
 outsmarting AW1 T S M AA2 R T IH0 NG
 outsmarts AW1 T S M AA2 R T S
 outsold AW0 T S OW1 L D
@@ -88326,7 +88242,7 @@ outtakes AW1 T T EY2 K S
 outtakes(2) AW1 T EY2 K S
 outten AW1 T AH0 N
 outvote AW0 T V OW1 T
-outvoted AW0 T V OW1 T AH0 D
+outvoted AW0 T V OW1 T IH0 D
 outvotes AW0 T V OW1 T S
 outvoting AW0 T V OW1 T IH0 NG
 outward AW1 T W ER0 D
@@ -88338,7 +88254,7 @@ outweighing AW1 T W EY2 IH0 NG
 outweighs AW1 T W EY2 Z
 outwit AW1 T W IH2 T
 outwits AW1 T W IH2 T S
-outwitted AW1 T W IH2 T AH0 D
+outwitted AW1 T W IH2 T IH0 D
 outwitting AW1 T W IH2 T IH0 NG
 ouzts AW1 Z T S
 ouzts(2) AW1 S T S
@@ -88458,7 +88374,7 @@ overexposes OW2 V ER0 IH0 K S P OW1 Z IH0 Z
 overexposing OW2 V ER0 IH0 K S P OW1 Z IH0 NG
 overexposure OW2 V ER0 IH0 K S P OW1 ZH ER0
 overextend OW2 V ER0 IH0 K S T EH1 N D
-overextended OW2 V ER0 IH0 K S T EH1 N D AH0 D
+overextended OW2 V ER0 IH0 K S T EH1 N D IH0 D
 overextending OW2 V ER0 IH0 K S T EH1 N D IH0 NG
 overextends OW2 V ER0 IH0 K S T EH1 N D Z
 overfed OW2 V ER0 F EH1 D
@@ -88576,7 +88492,7 @@ overproducers OW1 V ER0 P R AH0 D UW1 S ER0 Z
 overproducing OW2 V ER0 P R AH0 D Y UW1 S IH0 NG
 overproduction OW1 V ER0 P R AH0 D AH1 K SH AH0 N
 overprotect OW2 V ER0 P R AH0 T EH1 K T
-overprotected OW2 V ER0 P R AH0 T EH1 K T AH0 D
+overprotected OW2 V ER0 P R AH0 T EH1 K T IH0 D
 overprotection OW2 V ER0 P R AH0 T EH1 K SH AH0 N
 overprotective OW2 V ER0 P R AH0 T EH1 K T AH0 V
 overqualified OW1 V ER0 K W AA2 L AH0 F AY2 D
@@ -88834,7 +88750,7 @@ oxydative AA2 K S AH0 D AY1 T IH0 V
 oxygen AA1 K S AH0 JH AH0 N
 oxygen(2) AA1 K S IH0 JH AH0 N
 oxygenate AA1 K S AH0 JH AH0 N EY2 T
-oxygenated AA1 K S AH0 JH AH0 N EY2 T AH0 D
+oxygenated AA1 K S AH0 JH AH0 N EY2 T IH0 D
 oxymoron AA2 K S IY1 M AO1 R AA0 N
 oxytocin AA2 K S AH0 T OW1 S AH0 N
 oy OY1
@@ -88974,8 +88890,7 @@ paczkowski P AH0 CH K AO1 F S K IY0
 pad P AE1 D
 padawan P AA1 D AA2 W AH0 N
 paddack P AE1 D AH0 K
-padded P AE1 D AH0 D
-padded(2) P AE1 D IH0 D
+padded P AE1 D IH0 D
 padden P AE1 D AH0 N
 paddies P AE1 D IY0 Z
 padding P AE1 D IH0 NG
@@ -89094,10 +89009,9 @@ paint P EY1 N T
 paintball P EY1 N T B AA2 L
 paintbrush P EY1 N T B R AH2 SH
 paintbrushes P EY1 N T B R AH2 SH IH0 S
-painted P EY1 N T AH0 D
-painted(2) P EY1 N T IH0 D
-painted(3) P EY1 N AH0 D
-painted(4) P EY1 N IH0 D
+painted P EY1 N T IH0 D
+painted(2) P EY1 N AH0 D
+painted(3) P EY1 N IH0 D
 painter P EY1 N T ER0
 painter(2) P EY1 N ER0
 painter's P EY1 N T ER0 Z
@@ -89285,7 +89199,7 @@ palos P AA1 L OW0 Z
 palpable P AE1 L P AH0 B AH0 L
 palpably P AE1 L P AH0 B L IY0
 palpitate P AE1 L P AH0 T EY0 T
-palpitated P AE1 L P AH0 T EY0 T AH0 D
+palpitated P AE1 L P AH0 T EY0 T IH0 D
 palpitates P AE1 L P AH0 T EY0 T S
 palpitating P AE1 L P AH0 T EY0 T IH0 NG
 palpitation P AE2 L P AH0 T EY1 SH AH0 N
@@ -89928,8 +89842,7 @@ partch P AA1 R CH
 parte P AA1 R T
 parte(2) P AA1 R T EY0
 partecipazioni P AA2 R T EH2 S IH0 P AE2 Z IY0 OW1 N IY0
-parted P AA1 R T AH0 D
-parted(2) P AA1 R T IH0 D
+parted P AA1 R T IH0 D
 partee P AA1 R T IY1
 parten P AA1 R T AH0 N
 partenope P AA1 R T AH0 N OW2 P
@@ -89946,8 +89859,7 @@ participant P AA0 R T IH1 S AH0 P AH0 N T
 participants P AA0 R T IH1 S AH0 P AH0 N T S
 participants' P AA0 R T IH1 S AH0 P AH0 N T S
 participate P AA0 R T IH1 S AH0 P EY2 T
-participated P AA0 R T IH1 S AH0 P EY2 T AH0 D
-participated(2) P AA0 R T IH1 S AH0 P EY2 T IH0 D
+participated P AA0 R T IH1 S AH0 P EY2 T IH0 D
 participates P AA0 R T IH1 S AH0 P EY2 T S
 participating P AA0 R T IH1 S AH0 P EY2 T IH0 NG
 participation P AA0 R T IH2 S AH0 P EY1 SH AH0 N
@@ -90194,8 +90106,7 @@ patella P AH0 T EH1 L AH0
 patenaude P AE1 T IH0 N OW0 D
 patent P AE1 T AH0 N T
 patentable P AE1 T AH0 N T AH0 B AH0 L
-patented P AE1 T AH0 N T AH0 D
-patented(2) P AE1 T AH0 N T IH0 D
+patented P AE1 T AH0 N T IH0 D
 patenting P AE1 T AH0 N T IH0 NG
 patently P AE1 T AH0 N T L IY0
 patents P AE1 T AH0 N T S
@@ -90322,8 +90233,7 @@ pats P AE1 T S
 patsies P AE1 T S IY0 Z
 patsy P AE1 T S IY0
 patt P AE1 T
-patted P AE1 T AH0 D
-patted(2) P AE1 T IH0 D
+patted P AE1 T IH0 D
 pattee P AE1 T IY1
 patten P AE1 T AH0 N
 patten's P AE1 T AH0 N Z
@@ -90865,8 +90775,7 @@ peller P EH1 L ER0
 pellerin P EH1 L ER0 IH0 N
 pellerito P EH0 L ER0 IY1 T OW0
 pellet P EH1 L AH0 T
-pelleted P EH1 L AH0 T AH0 D
-pelleted(2) P EH1 L AH0 T IH0 D
+pelleted P EH1 L AH0 T IH0 D
 pelletier P EH0 L AH0 T IH1 R
 pellets P EH1 L AH0 T S
 pellett P EH1 L IH0 T
@@ -90961,8 +90870,7 @@ pendyala P EH2 D Y AA1 L AH0
 penelas P EH1 N AH0 L AA0 S
 penelope P AH0 N EH1 L AH0 P IY0
 penetrate P EH1 N AH0 T R EY2 T
-penetrated P EH1 N AH0 T R EY2 T AH0 D
-penetrated(2) P EH1 N AH0 T R EY2 T IH0 D
+penetrated P EH1 N AH0 T R EY2 T IH0 D
 penetrates P EH1 N AH0 T R EY2 T S
 penetrating P EH1 N AH0 T R EY2 T IH0 NG
 penetration P EH2 N AH0 T R EY1 SH AH0 N
@@ -91210,7 +91118,7 @@ percipient(2) P ER0 S IH1 P Y AH0 N T
 percival P ER1 S IH0 V AH0 L
 percle P ER1 K AH0 L
 percolate P ER1 K AH0 L EY2 T
-percolated P ER1 K AH0 L EY2 T AH0 D
+percolated P ER1 K AH0 L EY2 T IH0 D
 percolating P ER1 K AH0 L EY2 T IH0 NG
 percolator P ER1 K AH0 L EY2 T ER0
 percolators P ER1 K AH0 L EY2 T ER0 Z
@@ -91251,7 +91159,7 @@ perez P EH1 R EH0 Z
 perfect P ER0 F EH1 K T
 perfect(2) P ER1 F IH2 K T
 perfecta P ER0 F EH1 K T AH0
-perfected P ER0 F EH1 K T AH0 D
+perfected P ER0 F EH1 K T IH0 D
 perfecting P ER0 F EH1 K T IH0 NG
 perfection P ER0 F EH1 K SH AH0 N
 perfectionism P ER0 F EH1 K SH AH0 N IH2 Z AH0 M
@@ -91264,8 +91172,7 @@ perfetti P ER0 F EH1 T IY0
 perfetto P ER0 F EH1 T OW0
 perfidy P ER1 F IH0 D IY0
 perforate P ER1 F ER0 EY2 T
-perforated P ER1 F ER0 EY2 T AH0 D
-perforated(2) P ER1 F ER0 EY2 T IH0 D
+perforated P ER1 F ER0 EY2 T IH0 D
 perforates P ER1 F ER0 EY2 T S
 perforating P ER1 F ER0 EY2 T IH0 NG
 perforation P ER2 F ER0 EY1 SH AH0 N
@@ -91408,13 +91315,12 @@ permit P ER0 M IH1 T
 permit(2) P ER1 M IH2 T
 permits P ER0 M IH1 T S
 permits(2) P ER1 M IH2 T S
-permitted P ER0 M IH1 T AH0 D
-permitted(2) P ER0 M IH1 T IH0 D
+permitted P ER0 M IH1 T IH0 D
 permitting P ER0 M IH1 T IH0 NG
 permount P ER1 M AW2 N T
 permut P ER1 M AH0 T
 permutate P ER1 M Y UW0 T EY2 T
-permutated P ER1 M Y UW0 T EY2 T AH0 D
+permutated P ER1 M Y UW0 T EY2 T IH0 D
 permutates P ER1 M Y UW0 T EY2 T S
 permutating P ER1 M Y UW0 T EY2 T IH0 NG
 permutation P ER2 M Y UW0 T EY1 SH AH0 N
@@ -91517,7 +91423,7 @@ persaud P ER1 S AO0 D
 perschbacher P ER1 SH B AA0 K ER0
 perse P ER1 S
 persecute P ER1 S AH0 K Y UW2 T
-persecuted P ER1 S AH0 K Y UW2 T AH0 D
+persecuted P ER1 S AH0 K Y UW2 T IH0 D
 persecutes P ER1 S AH0 K Y UW2 T S
 persecuting P ER1 S IH0 K Y UW2 T IH0 NG
 persecution P ER2 S AH0 K Y UW1 SH AH0 N
@@ -91546,8 +91452,7 @@ persing P ER1 S IH0 NG
 persinger P ER1 S IH0 N JH ER0
 persis P ER1 S IH0 S
 persist P ER0 S IH1 S T
-persisted P ER0 S IH1 S T AH0 D
-persisted(2) P ER0 S IH1 S T IH0 D
+persisted P ER0 S IH1 S T IH0 D
 persistence P ER0 S IH1 S T AH0 N S
 persistent P ER0 S IH1 S T AH0 N T
 persistently P ER0 S IH1 S T AH0 N T L IY0
@@ -91592,8 +91497,7 @@ perspiring P ER0 S P AY1 R IH0 NG
 persson P ER1 S AH0 N
 persuadable P ER0 S W EY1 D AH0 B AH0 L
 persuade P ER0 S W EY1 D
-persuaded P ER0 S W EY1 D AH0 D
-persuaded(2) P ER0 S W EY1 D IH0 D
+persuaded P ER0 S W EY1 D IH0 D
 persuades P ER0 S W EY1 D Z
 persuading P ER0 S W EY1 D IH0 NG
 persuasion P ER0 S W EY1 ZH AH0 N
@@ -91858,8 +91762,7 @@ petstuff P EH1 T S T AH2 F
 pett P EH1 T
 petta P EH1 T AA0
 pettaway P EH1 T AH0 W EY2
-petted P EH1 T AH0 D
-petted(2) P EH1 T IH0 D
+petted P EH1 T IH0 D
 pettee P EH1 T IY1
 pettengill P EH1 T IH0 NG G AH0 L
 petter P EH1 T ER0
@@ -93007,8 +92910,7 @@ pitt P IH1 T
 pitt's P IH1 T S
 pittance P IH1 T AH0 N S
 pittard P IH1 T ER0 D
-pitted P IH1 T AH0 D
-pitted(2) P IH1 T IH0 D
+pitted P IH1 T IH0 D
 pittencrieff P IH1 T IH0 N K R IY2 F
 pittenger P IH1 T IH0 N JH ER0
 pitting P IH1 T IH0 NG
@@ -93150,7 +93052,7 @@ plaisance P L EY1 S AH0 N S
 plaisted P L AA1 IH0 S T IH0 D
 plaisted(2) P L EY1 S T IH0 D
 plait P L EY1 T
-plaited P L EY1 T AH0 D
+plaited P L EY1 T IH0 D
 plaiting P L EY1 T IH0 NG
 plaits P L EY1 T S
 plake P L EY1 K
@@ -93202,10 +93104,9 @@ plantains P L AE1 N T AH0 N Z
 plantation P L AE2 N T EY1 SH AH0 N
 plantations P L AE2 N T EY1 SH AH0 N Z
 plante P L AE1 N T
-planted P L AE1 N T AH0 D
-planted(2) P L AE1 N T IH0 D
-planted(3) P L AE1 N AH0 D
-planted(4) P L AE1 N IH0 D
+planted P L AE1 N T IH0 D
+planted(2) P L AE1 N AH0 D
+planted(3) P L AE1 N IH0 D
 planter P L AE1 N T ER0
 planters P L AE1 N T ER0 Z
 plantiffs P L AE1 N T IH0 F S
@@ -93246,8 +93147,7 @@ plate P L EY1 T
 plateau P L AE0 T OW1
 plateaued P L AE0 T OW1 D
 plateauing P L AH0 T OW1 IH0 NG
-plated P L EY1 T AH0 D
-plated(2) P L EY1 T IH0 D
+plated P L EY1 T IH0 D
 platek P L AA1 T EH0 K
 platelet P L EY1 T L AH0 T
 platelets P L EY1 T L AH0 T S
@@ -93351,8 +93251,7 @@ plazas(2) P L AE1 Z AH0 Z
 plazic P L EY1 Z IH0 K
 plea P L IY1
 plead P L IY1 D
-pleaded P L IY1 D AH0 D
-pleaded(2) P L IY1 D IH0 D
+pleaded P L IY1 D IH0 D
 pleading P L IY1 D IH0 NG
 pleadings P L IY1 D IH0 NG Z
 pleads P L IY1 D Z
@@ -93463,8 +93362,7 @@ ploch P L AA1 K
 plocher P L AA1 K ER0
 plock P L AA1 K
 plod P L AA1 D
-plodded P L AA1 D AH0 D
-plodded(2) P L AA1 D IH0 D
+plodded P L AA1 D IH0 D
 plodding P L AA1 D IH0 NG
 ploeger P L OW1 G ER0
 ploetz P L OW1 T S
@@ -93483,8 +93381,7 @@ plotner P L AA1 T N ER0
 plotnick P L AA1 T N IH0 K
 plots P L AA1 T S
 plott P L AA1 T
-plotted P L AA1 T AH0 D
-plotted(2) P L AA1 T IH0 D
+plotted P L AA1 T IH0 D
 plotter P L AA1 T ER0
 plotters P L AA1 T ER0 Z
 plotting P L AA1 T IH0 NG
@@ -93742,9 +93639,8 @@ poinsettias(2) P OY0 N S EH1 T AH0 Z
 point P OY1 N T
 point's P OY1 N T S
 pointe P OY1 N T
-pointed P OY1 N T AH0 D
+pointed P OY1 N T IH0 D
 pointed(2) P OY1 N AH0 D
-pointed(3) P OY1 N T IH0 D
 pointedly P OY1 N T IH0 D L IY2
 pointedly(2) P OY1 N AH0 D L IY0
 pointenoire P OY1 N T AH0 N OY2 R
@@ -93963,8 +93859,7 @@ pollsters P OW1 L S T ER0 Z
 pollutant P AH0 L UW1 T AH0 N T
 pollutants P AH0 L UW1 T AH0 N T S
 pollute P AH0 L UW1 T
-polluted P AH0 L UW1 T AH0 D
-polluted(2) P AH0 L UW1 T IH0 D
+polluted P AH0 L UW1 T IH0 D
 polluter P AH0 L UW1 T ER0
 polluters P AH0 L UW1 T ER0 Z
 pollutes P AH0 L UW1 T S
@@ -94281,7 +94176,7 @@ popularizer P AA1 P Y AH0 L ER0 AY2 Z ER0
 popularizing P AA1 P Y AH0 L ER0 AY2 Z IH0 NG
 popularly P AA1 P Y AH0 L ER0 L IY0
 populate P AA1 P Y AH0 L EY2 T
-populated P AA1 P Y AH0 L EY2 T AH0 D
+populated P AA1 P Y AH0 L EY2 T IH0 D
 populating P AA1 P Y AH0 L EY2 T IH0 NG
 population P AA2 P Y AH0 L EY1 SH AH0 N
 populations P AA2 P Y AH0 L EY1 SH AH0 N Z
@@ -94352,8 +94247,7 @@ port P AO1 R T
 port's P AO1 R T S
 port-angeles P AO1 R T AE1 N JH AH0 L IH0 S
 port-arthur P AO1 R T AA1 R TH ER0
-port-au-prince P AO1 R T OW0 P R IH1 N S
-port-au-prince(2) P AO1 R T OW0 P R IH1 N S
+port-au-prince P AO2 R T OW0 P R IH1 N S
 port-clinton P AO1 R T K L IH1 N T AH0 N
 port-london P AO1 R T L AH1 N D AH0 N
 port-victoria P AO1 R T V IH0 K T AO1 R IY0 AH0
@@ -94457,7 +94351,7 @@ posh P AA1 SH
 poshard P AA1 SH ER0 D
 posing P OW1 Z IH0 NG
 posit P AA1 Z AH0 T
-posited P AA1 Z AH0 T AH0 D
+posited P AA1 Z AH0 T IH0 D
 position P AH0 Z IH1 SH AH0 N
 positioned P AH0 Z IH1 SH AH0 N D
 positioning P AH0 Z IH1 SH AH0 N IH0 NG
@@ -94514,7 +94408,7 @@ postcards P OW1 S T K AA2 R D Z
 postcards(2) P OW1 S K AA2 R D Z
 postcrash P OW1 S T K R AE2 SH
 postdate P OW2 S T D EY1 T
-postdated P OW2 S T D EY1 T AH0 D
+postdated P OW2 S T D EY1 T IH0 D
 postdates P OW2 S T D EY1 T S
 postdating P OW2 S T D EY1 T IH0 NG
 postdoctoral P OW2 S T D AA1 K T ER2 AH0 L
@@ -94930,8 +94824,7 @@ precautionary P R IH0 K AO1 SH AH0 N EH0 R IY0
 precautions P R IY0 K AO1 SH AH0 N Z
 precede P R IH0 S IY1 D
 preceded P R IH0 S IY1 D IH0 D
-preceded(2) P R IY0 S IY1 D AH0 D
-preceded(3) P R IY0 S IY1 D IH0 D
+preceded(2) P R IY0 S IY1 D IH0 D
 precedence P R EH1 S AH0 D AH0 N S
 precedent P R EH1 S IH0 D AH0 N T
 precedents P R EH1 S AH0 D AH0 N T S
@@ -95030,8 +94923,7 @@ predictable P R IH0 D IH1 K T AH0 B AH0 L
 predictable(2) P R IY0 D IH1 K T AH0 B AH0 L
 predictably P R IH0 D IH1 K T AH0 B L IY0
 predicted P R IH0 D IH1 K T IH0 D
-predicted(2) P R IY0 D IH1 K T AH0 D
-predicted(3) P R IY0 D IH1 K T IH0 D
+predicted(2) P R IY0 D IH1 K T IH0 D
 predicting P R IH0 D IH1 K T IH0 NG
 predicting(2) P R IY0 D IH1 K T IH0 NG
 prediction P R IY0 D IH1 K SH AH0 N
@@ -95289,7 +95181,7 @@ present(3) P ER0 Z EH1 N T
 presentable P R AH0 Z EH1 N T AH0 B AH0 L
 presentation P R EH2 Z AH0 N T EY1 SH AH0 N
 presentations P R EH2 Z AH0 N T EY1 SH AH0 N Z
-presented P R IY0 Z EH1 N T AH0 D
+presented P R IY0 Z EH1 N T IH0 D
 presented(2) P ER0 Z EH1 N T AH0 D
 presented(3) P R IY0 Z EH1 N AH0 D
 presented(4) P ER0 Z EH1 N AH0 D
@@ -95329,8 +95221,7 @@ preset P R IY0 S EH1 T
 preside P R IH0 Z AY1 D
 preside(2) P R IY0 Z AY1 D
 presided P R IH0 Z AY1 D IH0 D
-presided(2) P R IY0 Z AY1 D AH0 D
-presided(3) P R IY0 Z AY1 D IH0 D
+presided(2) P R IY0 Z AY1 D IH0 D
 presidencies P R EH1 Z AH0 D AH0 N S IY0 Z
 presidency P R EH1 Z AH0 D AH0 N S IY0
 presidency's P R EH1 Z AH0 D AH0 N S IY0 Z
@@ -95442,8 +95333,7 @@ prete P R IY1 T
 preteen P R IY2 T IY1 N
 preteens P R IY2 T IY1 N Z
 pretend P R IY0 T EH1 N D
-pretended P R IY0 T EH1 N D AH0 D
-pretended(2) P R IY0 T EH1 N D IH0 D
+pretended P R IY0 T EH1 N D IH0 D
 pretender P R IY0 T EH1 N D ER0
 pretenders P R IY0 T EH1 N D ER0 Z
 pretending P R IY0 T EH1 N D IH0 NG
@@ -95482,7 +95372,7 @@ preval P R IY1 V AE0 L
 prevalence P R EH1 V AH0 L AH0 N S
 prevalent P R EH1 V AH0 L AH0 N T
 prevaricate P R AH0 V EH1 R AH0 K EY0 T
-prevaricated P R AH0 V EH1 R AH0 K EY0 T AH0 D
+prevaricated P R AH0 V EH1 R AH0 K EY0 T IH0 D
 prevaricates P R AH0 V EH1 R AH0 K EY0 T S
 prevaricating P R AH0 V EH1 R AH0 K EY0 T IH0 NG
 prevarication P R AH0 V EH2 R AH0 K EY1 SH AH0 N
@@ -95688,10 +95578,9 @@ prins P R IH1 N Z
 prinsen P R IH1 N S AH0 N
 print P R IH1 N T
 printable P R IH1 N T AH0 B AH0 L
-printed P R IH1 N T AH0 D
-printed(2) P R IH1 N T IH0 D
-printed(3) P R IH1 N AH0 D
-printed(4) P R IH1 N IH0 D
+printed P R IH1 N T IH0 D
+printed(2) P R IH1 N AH0 D
+printed(3) P R IH1 N IH0 D
 printemps P R IH1 N T EH0 M P S
 printer P R IH1 N T ER0
 printer(2) P R IH1 N ER0
@@ -95857,7 +95746,7 @@ procedures(2) P R OW0 S IY1 JH ER0 Z
 proceed P R AH0 S IY1 D
 proceed(2) P R OW0 S IY1 D
 proceed(3) P ER0 S IY1 D
-proceeded P R AH0 S IY1 D AH0 D
+proceeded P R AH0 S IY1 D IH0 D
 proceeded(2) P R OW0 S IY1 D IH0 D
 proceeding P R AH0 S IY1 D IH0 NG
 proceeding(2) P R OW0 S IY1 D IH0 NG
@@ -95899,14 +95788,14 @@ proconsul P R OW0 K AA1 N S AH0 L
 procopio P R OW0 K OW1 P IY0 OW0
 procordia P R AA0 K AO1 R D IY0 AH0
 procrastinate P R AH0 K R AE1 S T AH0 N EY2 T
-procrastinated P R AH0 K R AE1 S T AH0 N EY2 T AH0 D
+procrastinated P R AH0 K R AE1 S T AH0 N EY2 T IH0 D
 procrastinates P R AH0 K R AE1 S T AH0 N EY2 T S
 procrastinating P R AH0 K R AE1 S T AH0 N EY2 T IH0 NG
 procrastination P R AH0 K R AE2 S T AH0 N EY1 SH AH0 N
 procrastinator P R AH0 K R AE1 S T AH0 N EY2 T ER0
 procrastinators P R AH0 K R AE1 S T AH0 N EY2 T ER0 Z
 procreate P R OW1 K R IY0 EY1 T
-procreated P R OW1 K R IY0 EY1 T AH0 D
+procreated P R OW1 K R IY0 EY1 T IH0 D
 procreates P R OW1 K R IY0 EY1 T S
 procreating P R OW1 K R IY0 EY1 T IH0 NG
 procreation P R OW1 K R IY0 EY1 SH AH0 N
@@ -96153,7 +96042,7 @@ promissory P R AA1 M AH0 S AO2 R IY0
 promo P R OW1 M OW2
 promos P R OW1 M OW2 Z
 promote P R AH0 M OW1 T
-promoted P R AH0 M OW1 T AH0 D
+promoted P R AH0 M OW1 T IH0 D
 promoter P R AH0 M OW1 T ER0
 promoters P R AH0 M OW1 T ER0 Z
 promotes P R AH0 M OW1 T S
@@ -96165,8 +96054,7 @@ promotional(2) P ER0 M OW1 SH AH0 N AH0 L
 promotions P R AH0 M OW1 SH AH0 N Z
 promotions(2) P ER0 M OW1 SH AH0 N Z
 prompt P R AA1 M P T
-prompted P R AA1 M P T AH0 D
-prompted(2) P R AA1 M P T IH0 D
+prompted P R AA1 M P T IH0 D
 prompting P R AA1 M P T IH0 NG
 promptly P R AA1 M P T L IY0
 promptly(2) P R AA1 M P L IY0
@@ -96176,7 +96064,7 @@ proms P R AA1 M Z
 promster P R AA1 M S T ER0
 promsters P R AA1 M S T ER0 Z
 promulgate P R OW0 M AH1 L G EY0 T
-promulgated P R AA1 M AH0 L G EY2 T AH0 D
+promulgated P R AA1 M AH0 L G EY2 T IH0 D
 promulgates P R OW0 M AH1 L G EY0 T S
 promulgating P R AA1 M AH0 L G EY2 T IH0 NG
 promus P R OW1 M AH0 S
@@ -96270,7 +96158,7 @@ proposition P R AA2 P AH0 Z IH1 SH AH0 N
 propositioned P R AA2 P AH0 Z IH1 SH AH0 N D
 propositions P R AA2 P AH0 Z IH1 SH AH0 N Z
 propound P R AH0 P AW1 N D
-propounded P R AH0 P AW1 N D AH0 D
+propounded P R AH0 P AW1 N D IH0 D
 propp P R AA1 P
 propped P R AA1 P T
 propper P R AA1 P ER0
@@ -96374,9 +96262,8 @@ protean(2) P R OW1 T IY0 AH0 N
 protease P R OW1 T IY0 EY2 Z
 protect P R AH0 T EH1 K T
 protect(2) P ER0 T EH1 K T
-protected P R AH0 T EH1 K T AH0 D
-protected(2) P R AH0 T EH1 K T IH0 D
-protected(3) P ER0 T EH1 K T IH0 D
+protected P R AH0 T EH1 K T IH0 D
+protected(2) P ER0 T EH1 K T IH0 D
 protectee P R AH0 T EH1 K T IY0
 protectee(2) P ER0 T EH1 K T IY0
 protectees P R AH0 T EH1 K T IY0 Z
@@ -96417,8 +96304,8 @@ protestantism P R AA1 T AH0 S T AH0 N T IH2 Z AH0 M
 protestants P R AA1 T AH0 S T AH0 N T S
 protestation P R OW2 T EH2 S T EY1 SH AH0 N
 protestations P R OW2 T EH2 S T EY1 SH AH0 N Z
-protested P R AH0 T EH1 S T AH0 D
-protested(2) P R OW1 T EH2 S T AH0 D
+protested P R AH0 T EH1 S T IH0 D
+protested(2) P R OW1 T EH2 S T IH0 D
 protester P R OW1 T EH2 S T ER0
 protesters P R OW1 T EH2 S T ER0 Z
 protesters' P R OW1 T EH2 S T ER0 Z
@@ -96498,8 +96385,7 @@ proverbial P R AH0 V ER1 B IY0 AH0 L
 proverbs P R AA1 V ER0 B Z
 proves P R UW1 V Z
 provide P R AH0 V AY1 D
-provided P R AH0 V AY1 D AH0 D
-provided(2) P R AH0 V AY1 D IH0 D
+provided P R AH0 V AY1 D IH0 D
 providence P R AA1 V AH0 D AH0 N S
 providence's P R AA1 V AH0 D AH0 N S IH0 Z
 provideniya P R OW2 V IH0 D EH1 N IH0 Y AH0
@@ -96712,7 +96598,7 @@ pubic P Y UW1 B IH0 K
 public P AH1 B L IH0 K
 public's P AH1 B L IH0 K S
 public-spirit P AH1 B L IH0 K S P IH1 R IH0 T
-public-spirited P AH1 B L IH0 K S P IH1 R IH0 T AH0 D
+public-spirited P AH1 B L IH0 K S P IH1 R IH0 T IH0 D
 public-spiritedness P AH2 B L IH0 K S P IH1 R IH0 T IH2 D N AH0 S
 publically P AH1 B L IH0 K L IY0
 publication P AH2 B L IH0 K EY1 SH AH0 N
@@ -97056,7 +96942,6 @@ purported P ER0 P AO1 R T IH0 D
 purportedly P ER0 P AO1 R T IH0 D L IY2
 purporting P ER0 P AO1 R T IH0 NG
 purports P ER0 P AO1 R T S
-purports(2) P ER0 P AO1 R T S
 purpose P ER1 P AH0 S
 purposeful P ER1 P AH0 S F AH0 L
 purposefully P ER1 P AH0 S F AH0 L IY0
@@ -97136,7 +97021,7 @@ pussy P UH1 S IY0
 pussycat P UH1 S IY0 K AE2 T
 pussycats P UH1 S IY0 K AE2 T S
 pussyfoot P UH1 S IY0 F UH1 T
-pussyfooted P UH1 S IY0 F UH1 T AH0 D
+pussyfooted P UH1 S IY0 F UH1 T IH0 D
 pussyfooting P UH1 S IY0 F UH1 T IH0 NG
 pussyfoots P UH1 S IY0 F UH1 T S
 pustejovsky P AH0 S T EY0 AA1 V S K IY0
@@ -97571,8 +97456,7 @@ quicktime K W IH1 K T AY2 M
 quid K W IH1 D
 quiescent K W AY0 EH1 S AH0 N T
 quiet K W AY1 AH0 T
-quieted K W AY1 AH0 T AH0 D
-quieted(2) K W AY1 AH0 T IH0 D
+quieted K W AY1 AH0 T IH0 D
 quieter K W AY1 AH0 T ER0
 quietest K W AY1 AH0 T AH0 S T
 quieting K W AY1 AH0 T IH0 NG
@@ -97906,8 +97790,7 @@ radiant R EY1 D IY2 AH0 N T
 radiant(2) R EY1 D Y AH0 N T
 radiate R EY1 D IY0 AH0 T
 radiate(2) R EY1 D IY0 EY2 T
-radiated R EY1 D IY0 EY2 T AH0 D
-radiated(2) R EY1 D IY0 EY2 T IH0 D
+radiated R EY1 D IY0 EY2 T IH0 D
 radiates R EY1 D IY0 EY2 T S
 radiating R EY1 D IY0 EY2 T IH0 NG
 radiation R EY2 D IY0 EY1 SH AH0 N
@@ -98013,8 +97896,7 @@ rafi(2) R AA1 F IY0
 rafik R AE1 F IH0 K
 rafsanjani R AE2 F S AH0 N JH AA1 N IY0
 raft R AE1 F T
-rafted R AE1 F T AH0 D
-rafted(2) R AE1 F T IH0 D
+rafted R AE1 F T IH0 D
 rafter R AE1 F T ER0
 rafters R AE1 F T ER0 Z
 raftery R AE1 F T ER0 IY0
@@ -98460,8 +98342,7 @@ ransone R AE1 N S AH0 N
 rant R AE1 N T
 ranta R AE1 N T AH0
 rantala R AA0 N T AA1 L AH0
-ranted R AE1 N T AH0 D
-ranted(2) R AE1 N T IH0 D
+ranted R AE1 N T IH0 D
 ranting R AE1 N T IH0 NG
 rantoul R AE2 N T UW1 L
 rantz R AE1 N T S
@@ -98621,8 +98502,7 @@ ratcliff R AE1 T K L IH0 F
 ratcliffe R AE1 T K L IH0 F
 rate R EY1 T
 rate's R EY1 T S
-rated R EY1 T AH0 D
-rated(2) R EY1 T IH0 D
+rated R EY1 T IH0 D
 rateliff R AE1 T L IH0 F
 ratepayer R EY1 T P EY2 ER0
 ratepayers R EY1 T P EY2 ER0 Z
@@ -98894,8 +98774,7 @@ reaching R IY1 CH IH0 NG
 reacquire R IY0 AH0 K W AY1 R
 reacquired R IY0 AH0 K W AY1 R D
 react R IY0 AE1 K T
-reacted R IY0 AE1 K T AH0 D
-reacted(2) R IY0 AE1 K T IH0 D
+reacted R IY0 AE1 K T IH0 D
 reacting R IY0 AE1 K T IH0 NG
 reaction R IY0 AE1 K SH AH0 N
 reactionaries R IY0 AE1 K SH AH0 N EH2 R IY0 Z
@@ -99098,8 +98977,7 @@ reassemble R IY2 AH0 S EH1 M B AH0 L
 reassembled R IY2 AH0 S EH1 M B AH0 L D
 reassembly R IY2 AH0 S EH1 M B L IY0
 reassert R IY2 AH0 S ER1 T
-reasserted R IY2 AH0 S ER1 T AH0 D
-reasserted(2) R IY2 AH0 S ER1 T IH0 D
+reasserted R IY2 AH0 S ER1 T IH0 D
 reasserting R IY2 AH0 S ER1 T IH0 NG
 reassertion R IY2 AH0 S ER1 SH AH0 N
 reasserts R IY2 AH0 S ER1 T S
@@ -99259,7 +99137,7 @@ recast R IY0 K AE1 S T
 recasting R IY0 K AE1 S T IH0 NG
 recchia R EH1 K IY0 AH0
 recede R IH0 S IY1 D
-receded R AH0 S IY1 D AH0 D
+receded R AH0 S IY1 D IH0 D
 receded(2) R IH0 S IY1 D IH0 D
 receded(3) R IY0 S IY1 D IH0 D
 recedes R IY0 S IY1 D Z
@@ -99368,7 +99246,7 @@ recitation R EH2 S AH0 T EY1 SH AH0 N
 recitations R EH2 S IH0 T EY1 SH AH0 N Z
 recitatives R EH2 S AH0 T AH0 T IY1 V Z
 recite R AH0 S AY1 T
-recited R AH0 S AY1 T AH0 D
+recited R AH0 S AY1 T IH0 D
 recites R IY0 S AY1 T S
 reciting R IY0 S AY1 T IH0 NG
 reck R EH1 K
@@ -99439,8 +99317,7 @@ recombine R IY2 K AH0 M B AY1 N
 recommend R EH2 K AH0 M EH1 N D
 recommendation R EH2 K AH0 M AH0 N D EY1 SH AH0 N
 recommendations R EH2 K AH0 M AH0 N D EY1 SH AH0 N Z
-recommended R EH2 K AH0 M EH1 N D AH0 D
-recommended(2) R EH2 K AH0 M EH1 N D IH0 D
+recommended R EH2 K AH0 M EH1 N D IH0 D
 recommending R EH2 K AH0 M EH1 N D IH0 NG
 recommends R EH2 K AH0 M EH1 N D Z
 recommit R IH0 K AA1 M IH0 T
@@ -99498,7 +99375,7 @@ record(2) R EH1 K ER0 D
 record(3) R IH0 K AO1 R D
 record's R EH1 K ER0 D Z
 recordable R IH0 K AO1 R D AH0 B AH0 L
-recorded R AH0 K AO1 R D AH0 D
+recorded R AH0 K AO1 R D IH0 D
 recorded(2) R IH0 K AO1 R D IH0 D
 recorder R IH0 K AO1 R D ER0
 recorder(2) R IY0 K AO1 R D ER0
@@ -99587,7 +99464,7 @@ rector R EH1 K T ER0
 rectory R EH1 K T ER0 IY0
 rectum R EH1 K T AH0 M
 recuperate R IH0 K UW1 P ER0 EY2 T
-recuperated R IH0 K UW1 P ER0 EY2 T AH0 D
+recuperated R IH0 K UW1 P ER0 EY2 T IH0 D
 recuperater R IH0 K UW1 P ER0 EY2 T ER0
 recuperates R IH0 K UW1 P ER0 EY2 T S
 recuperating R IH0 K UW1 P ER0 EY2 T IH0 NG
@@ -99623,8 +99500,7 @@ red R EH1 D
 red-eye R EH1 D AY2
 red-eye's R EH1 D AY2 Z
 red-eyes R EH1 D AY2 Z
-red-handed R EH1 D HH AE1 N D AH0 D
-red-handed(2) R EH1 D HH AE1 N D IH0 D
+red-handed R EH1 D HH AE1 N D IH0 D
 red-herring R EH1 D HH EH1 R IH0 NG
 red-herrings R EH1 D HH EH1 R IH0 NG Z
 reda R EY1 D AH0
@@ -99848,8 +99724,7 @@ reeking R IY1 K IH0 NG
 reeks R IY1 K S
 reel R IY1 L
 reelect R IY0 IH0 L EH1 K T
-reelected R IY0 IH0 L EH1 K T AH0 D
-reelected(2) R IY0 IH0 L EH1 K T IH0 D
+reelected R IY0 IH0 L EH1 K T IH0 D
 reelecting R IY0 IH0 L EH1 K T IH0 NG
 reelection R IY0 IH0 L EH1 K SH AH0 N
 reeled R IY1 L D
@@ -99983,7 +99858,7 @@ reflate R IY0 F L EY1 T
 reflation R IY0 F L EY1 SH AH0 N
 reflect R AH0 F L EH1 K T
 reflect(2) R IH0 F L EH1 K T
-reflected R AH0 F L EH1 K T AH0 D
+reflected R AH0 F L EH1 K T IH0 D
 reflected(2) R IH0 F L EH1 K T IH0 D
 reflecting R AH0 F L EH1 K T IH0 NG
 reflecting(2) R IH0 F L EH1 K T IH0 NG
@@ -100112,7 +99987,7 @@ regan R IY1 G AH0 N
 regan's R IY1 G AH0 N Z
 regard R AH0 G AA1 R D
 regard(2) R IH0 G AA1 R D
-regarded R AH0 G AA1 R D AH0 D
+regarded R AH0 G AA1 R D IH0 D
 regarded(2) R IH0 G AA1 R D IH0 D
 regarding R AH0 G AA1 R D IH0 NG
 regarding(2) R IH0 G AA1 R D IH0 NG
@@ -100212,8 +100087,7 @@ regularity R EH2 G Y AH0 L EH1 R AH0 T IY0
 regularly R EH1 G Y AH0 L ER0 L IY0
 regulars R EH1 G Y AH0 L ER0 Z
 regulate R EH1 G Y AH0 L EY2 T
-regulated R EH1 G Y AH0 L EY2 T AH0 D
-regulated(2) R EH1 G Y AH0 L EY2 T IH0 D
+regulated R EH1 G Y AH0 L EY2 T IH0 D
 regulates R EH1 G Y AH0 L EY2 T S
 regulating R EH1 G Y AH0 L EY2 T IH0 NG
 regulatingly R EH1 G Y AH0 L EY2 T IH0 NG L IY0
@@ -100537,8 +100411,7 @@ reitzfeld(2) R AY2 T S F EH0 L D
 reject R IH0 JH EH1 K T
 reject(2) R IY1 JH EH0 K T
 rejected R IH0 JH EH1 K T IH0 D
-rejected(2) R IY0 JH EH1 K T AH0 D
-rejected(3) R IY0 JH EH1 K T IH0 D
+rejected(2) R IY0 JH EH1 K T IH0 D
 rejecting R IH0 JH EH1 K T IH0 NG
 rejecting(2) R IY0 JH EH1 K T IH0 NG
 rejection R IH0 JH EH1 K SH AH0 N
@@ -100583,7 +100456,7 @@ relapsing R IH0 L AE1 P S IH0 NG
 relate R IH0 L EY1 T
 relate(2) R IY0 L EY1 T
 related R IH0 L EY1 T IH0 D
-related(2) R IY0 L EY1 T AH0 D
+related(2) R IY2 L EY1 T IH0 D
 related(3) R IY0 L EY1 T IH0 D
 relates R IH0 L EY1 T S
 relates(2) R IY0 L EY1 T S
@@ -100799,8 +100672,7 @@ remics R EH1 M IH0 K S
 remigio R IH0 M IH1 JH IY0 OW0
 remillard R EH1 M IH0 L ER0 D
 remind R IY0 M AY1 N D
-reminded R IY0 M AY1 N D AH0 D
-reminded(2) R IY0 M AY1 N D IH0 D
+reminded R IY0 M AY1 N D IH0 D
 reminder R IY0 M AY1 N D ER0
 reminders R IY0 M AY1 N D ER0 Z
 reminding R IY0 M AY1 N D IH0 NG
@@ -101008,8 +100880,7 @@ rentable R EH1 N T AH0 B AH0 L
 rental R EH1 N T AH0 L
 rentals R EH1 N T AH0 L Z
 rentas R EH1 N T AH0 Z
-rented R EH1 N T AH0 D
-rented(2) R EH1 N T IH0 D
+rented R EH1 N T IH0 D
 renter R EH1 N T ER0
 renteria R EH0 N T EH1 R IY0 AH0
 renters R EH1 N T ER0 Z
@@ -101065,7 +100936,7 @@ repackaging R IY1 P AE0 K IH0 JH IH0 NG
 repacked R IY0 P AE1 K T
 repaid R IY0 P EY1 D
 repaint R IY0 P EY1 N T
-repainted R IY0 P EY1 N T AH0 D
+repainted R IY0 P EY1 N T IH0 D
 repainting R IY0 P EY1 N T IH0 NG
 repair R IH0 P EH1 R
 repairable R IH0 P EH1 R AH0 B AH0 L
@@ -101104,8 +100975,7 @@ repeat R IH0 P IY1 T
 repeat(2) R IY0 P IY1 T
 repeatable R IH0 P IY1 T AH0 B AH0 L
 repeated R IH0 P IY1 T IH0 D
-repeated(2) R IY0 P IY1 T AH0 D
-repeated(3) R IY0 P IY1 T IH0 D
+repeated(2) R IY0 P IY1 T IH0 D
 repeatedly R IH0 P IY1 T IH0 D L IY0
 repeater R IH0 P IY1 T ER0
 repeaters R IH0 P IY1 T ER0 Z
@@ -101194,8 +101064,8 @@ report's R IY0 P AO1 R T S
 report's(2) R IH0 P AO1 R T S
 reportable R IH0 P AO1 R T AH0 B AH0 L
 reportage R IH0 P AO1 R T IH0 JH
-reported R IY2 P AO1 R T AH0 D
-reported(2) R IH0 P AO1 R T AH0 D
+reported R IY2 P AO1 R T IH0 D
+reported(2) R IH0 P AO1 R T IH0 D
 reportedly R IH0 P AO1 R T AH0 D L IY0
 reportedly(2) R IY0 P AO1 R T AH0 D L IY0
 reporter R IH0 P AO1 R T ER0
@@ -101244,7 +101114,7 @@ representatives(3) R EH2 P R AH0 Z EH1 N AH0 T IH0 V Z
 representatives(4) R EH2 P R IH0 Z EH1 N AH0 T IH0 V Z
 representatives' R EH2 P R AH0 S EH1 N T AH0 T IH0 V Z
 representatives'(2) R EH2 P R AH0 S EH1 N AH0 T IH0 V Z
-represented R EH2 P R AH0 Z EH1 N T AH0 D
+represented R EH2 P R AH0 Z EH1 N T IH0 D
 represented(2) R EH2 P R IH0 Z EH1 N T IH0 D
 represented(3) R EH2 P R AH0 Z EH1 N AH0 D
 represented(4) R EH2 P R IH0 Z EH1 N IH0 D
@@ -101320,7 +101190,7 @@ republicbank's R IY0 P AH1 B L IH0 K B AE2 NG K S
 republics R IY0 P AH1 B L IH0 K S
 republika R IH0 P AH1 B L IH0 K AH0
 repudiate R IY0 P Y UW1 D IY0 EY2 T
-repudiated R IY0 P Y UW1 D IY0 EY2 T AH0 D
+repudiated R IY0 P Y UW1 D IY0 EY2 T IH0 D
 repudiates R IY0 P Y UW1 D IY0 EY2 T S
 repudiating R IY0 P Y UW1 D IY0 EY2 T IH0 NG
 repudiation R IH0 P Y UW2 D IY0 EY1 SH AH0 N
@@ -101339,16 +101209,14 @@ reputation R EH2 P Y AH0 T EY1 SH AH0 N
 reputations R EH2 P Y AH0 T EY1 SH AH0 N Z
 repute R IY0 P Y UW1 T
 reputed R IH0 P Y UW1 T IH0 D
-reputed(2) R IY0 P Y UW1 T AH0 D
-reputed(3) R IY0 P Y UW1 T IH0 D
+reputed(2) R IY0 P Y UW1 T IH0 D
 reputedly R IH0 P Y UW1 T IH0 D L IY0
 requa R EY1 K W AH0
 requalify R IY2 K W AA1 L AH0 F AY2
 request R IH0 K W EH1 S T
 request(2) R IY0 K W EH1 S T
 requested R IH0 K W EH1 S T IH0 D
-requested(2) R IY0 K W EH1 S T AH0 D
-requested(3) R IY0 K W EH1 S T IH0 D
+requested(2) R IY0 K W EH1 S T IH0 D
 requester R IH0 K W EH1 S T ER0
 requesting R IH0 K W EH1 S T IH0 NG
 requesting(2) R IY0 K W EH1 S T IH0 NG
@@ -101398,8 +101266,7 @@ rescigno R EH0 S CH IY1 G N OW0
 rescind R IH0 S IH1 N D
 rescind(2) R IY0 S IH1 N D
 rescinded R IH0 S IH1 N D IH0 D
-rescinded(2) R IY0 S IH1 N D AH0 D
-rescinded(3) R IY0 S IH1 N D IH0 D
+rescinded(2) R IY0 S IH1 N D IH0 D
 rescinding R IH0 S IH1 N D IH0 NG
 rescinds R IH0 S IH1 N D Z
 rescinds(2) R IY0 S IH1 N D Z
@@ -101452,7 +101319,7 @@ resendez R EY0 S EY1 N D EH0 Z
 resendiz R IH0 S EH1 N D IH0 Z
 resent R IH0 Z EH1 N T
 resent(2) R IY0 Z EH1 N T
-resented R IY0 Z EH1 N T AH0 D
+resented R IY0 Z EH1 N T IH0 D
 resented(2) R IY0 Z EH1 N AH0 D
 resentful R IH0 Z EH1 N T F AH0 L
 resenting R IH0 Z EH1 N T IH0 NG
@@ -101557,8 +101424,7 @@ resistance(2) R IY0 Z IH1 S T AH0 N S
 resistant R IH0 Z IH1 S T AH0 N T
 resistant(2) R IY0 Z IH1 S T AH0 N T
 resisted R IH0 Z IH1 S T IH0 D
-resisted(2) R IY0 Z IH1 S T AH0 D
-resisted(3) R IY0 Z IH1 S T IH0 D
+resisted(2) R IY0 Z IH1 S T IH0 D
 resistence R IH0 Z IH1 S T AH0 N S
 resisting R IH0 Z IH1 S T IH0 NG
 resisting(2) R IY0 Z IH1 S T IH0 NG
@@ -101632,8 +101498,7 @@ respectable R IH0 S P EH1 K T AH0 B AH0 L
 respectable(2) R IY0 S P EH1 K T AH0 B AH0 L
 respectably R IY0 S P EH1 K T AH0 B L IY0
 respected R IH0 S P EH1 K T IH0 D
-respected(2) R IY0 S P EH1 K T AH0 D
-respected(3) R IY0 S P EH1 K T IH0 D
+respected(2) R IY0 S P EH1 K T IH0 D
 respectful R IH0 S P EH1 K T F AH0 L
 respectfully R IH0 S P EH1 K T F AH0 L IY0
 respecting R IY0 S P EH1 K T IH0 NG
@@ -104925,8 +104790,7 @@ russum R AH1 S AH0 M
 rust R AH1 S T
 rust's R AH1 S T S
 rustad R AH1 S T AH0 D
-rusted R AH1 S T AH0 D
-rusted(2) R AH1 S T IH0 D
+rusted R AH1 S T IH0 D
 rustic R AH1 S T IH0 K
 rustier R AH1 S T IY0 ER0
 rustiest R AH1 S T IY0 AH0 S T
@@ -105554,7 +105418,7 @@ salis S AA1 L IH0 S
 salisbury S AE1 L Z B ER0 IY0
 saliva S AH0 L AY1 V AH0
 salivate S AE1 L AH0 V EY2 T
-salivated S AE1 L AH0 V EY2 T AH0 D
+salivated S AE1 L AH0 V EY2 T IH0 D
 salivating S AE1 L AH0 V EY2 T IH0 NG
 salizzoni S AE2 L IH0 Z OW1 N IY0
 salk S AO1 K
@@ -105619,8 +105483,7 @@ salsman S AO1 L S M AH0 N
 salt S AO1 L T
 saltarelli S AO0 L T AA0 R EH1 L IY0
 saltbox S AO1 L T B AA2 K S
-salted S AO1 L T AH0 D
-salted(2) S AO1 L T IH0 D
+salted S AO1 L T IH0 D
 salter S AO1 L T ER0
 salter's S AO1 L T ER0 Z
 salters S AO1 L T ER0 Z
@@ -105640,7 +105503,7 @@ salus S AE1 L IH0 S
 salutary S AE1 L Y AH0 T EH2 R IY0
 salutatorian S AH0 L UW2 T AH0 T AO1 R IY0 AH0 N
 salute S AH0 L UW1 T
-saluted S AH0 L UW1 T AH0 D
+saluted S AH0 L UW1 T IH0 D
 salutes S AH0 L UW1 T S
 saluting S AH0 L UW1 T IH0 NG
 salva S AA1 L V AH0
@@ -106331,8 +106194,7 @@ satterly S AE1 T ER0 L IY0
 satterwhite S AE1 T ER0 W AY1 T
 sattler S AE1 T L ER0
 saturate S AE1 CH ER0 EY2 T
-saturated S AE1 CH ER0 EY2 T AH0 D
-saturated(2) S AE1 CH ER0 EY2 T IH0 D
+saturated S AE1 CH ER0 EY2 T IH0 D
 saturating S AE1 CH ER0 EY2 T IH0 NG
 saturation S AE2 CH ER0 EY1 SH AH0 N
 saturday S AE1 T ER0 D IY0
@@ -107797,8 +107659,7 @@ scola S K OW1 L AH0
 scolari S K OW0 L AA1 R IY0
 scolaro S K OW0 L AA1 R OW0
 scold S K OW1 L D
-scolded S K OW1 L D AH0 D
-scolded(2) S K OW1 L D IH0 D
+scolded S K OW1 L D IH0 D
 scolding S K OW1 L D IH0 NG
 scolds S K OW1 L D Z
 scoles S K OW1 L Z
@@ -107899,7 +107760,7 @@ scouring S K AW1 ER0 IH0 NG
 scours S K AW1 ER0 Z
 scout S K AW1 T
 scout's S K AW1 T S
-scouted S K AW1 T AH0 D
+scouted S K AW1 T IH0 D
 scouten S K AW1 T AH0 N
 scouter S K AW1 T ER0
 scouters S K AW1 T ER0 Z
@@ -108271,8 +108132,7 @@ seat S IY1 T
 seat's S IY1 T S
 seatbelt S IY1 T B EH2 L T
 seatbelts S IY1 T B EH2 L T S
-seated S IY1 T AH0 D
-seated(2) S IY1 T IH0 D
+seated S IY1 T IH0 D
 seater S IY1 T ER0
 seating S IY1 T IH0 NG
 seatings S IY1 T IH0 NG Z
@@ -108375,7 +108235,7 @@ secretaries' S EH1 K R IH0 T EH2 R IY0 Z
 secretary S EH1 K R AH0 T EH2 R IY0
 secretary's S EH1 K R AH0 T EH2 R IY0 Z
 secrete S IH0 K R IY1 T
-secreted S AH0 K R IY1 T AH0 D
+secreted S AH0 K R IY1 T IH0 D
 secretion S AH0 K R IY1 SH AH0 N
 secretions S AH0 K R IY1 SH AH0 N Z
 secretive S IY1 K R AH0 T IH0 V
@@ -108482,8 +108342,7 @@ seed S IY1 D
 seed's S IY1 D Z
 seedeater S IY1 D IY2 T ER0
 seedeaters S IY1 D IY2 T ER0 Z
-seeded S IY1 D AH0 D
-seeded(2) S IY1 D IH0 D
+seeded S IY1 D IH0 D
 seeding S IY1 D IH0 NG
 seedling S IY1 D L IH0 NG
 seedlings S IY1 D L IH0 NG Z
@@ -108714,8 +108573,7 @@ seldin S EH1 L D IH0 N
 seldom S EH1 L D AH0 M
 seldon S EH1 L D AH0 N
 select S AH0 L EH1 K T
-selected S AH0 L EH1 K T AH0 D
-selected(2) S AH0 L EH1 K T IH0 D
+selected S AH0 L EH1 K T IH0 D
 selecting S AH0 L EH1 K T IH0 NG
 selection S AH0 L EH1 K SH AH0 N
 selections S AH0 L EH1 K SH AH0 N Z
@@ -109164,8 +109022,7 @@ sep(2) EH1 S IY1 P IY1
 separate S EH1 P ER0 EY2 T
 separate(2) S EH1 P ER0 IH0 T
 separate(3) S EH1 P R AH0 T
-separated S EH1 P ER0 EY2 T AH0 D
-separated(2) S EH1 P ER0 EY2 T IH0 D
+separated S EH1 P ER0 EY2 T IH0 D
 separately S EH1 P ER0 AH0 T L IY0
 separately(2) S EH1 P R AH0 T L IY0
 separateness S EH1 P ER0 AH0 T N AH0 S
@@ -110306,8 +110163,7 @@ shiflet SH IH1 F L IH0 T
 shiflett SH IH1 F L IH0 T
 shifrin SH IH1 F R IH0 N
 shift SH IH1 F T
-shifted SH IH1 F T AH0 D
-shifted(2) SH IH1 F T IH0 D
+shifted SH IH1 F T IH0 D
 shifter SH IH1 F T ER0
 shifting SH IH1 F T IH0 NG
 shiftless SH IH1 F T L IH0 S
@@ -110475,7 +110331,7 @@ shirone SH IH0 R OW1 N
 shirr SH ER1
 shirrell SH ER2 EH1 L
 shirt SH ER1 T
-shirted SH ER1 T AH0 D
+shirted SH ER1 T IH0 D
 shirting SH ER1 T IH0 NG
 shirts SH ER1 T S
 shirtsleeve SH ER1 T S L IY2 V
@@ -110653,7 +110509,7 @@ shorn SH AO1 R N
 shorr SH AO1 R
 short SH AO1 R T
 short-lived SH AO1 R T L AY1 V D
-short-sighted SH AO1 R T S AY1 T AH0 D
+short-sighted SH AO2 R T S AY1 T IH0 D
 short-term SH AO2 R T T ER1 M
 short-winded SH AO1 R T W IH1 N D IH0 D
 shortage SH AO1 R T AH0 JH
@@ -110732,8 +110588,7 @@ shoup SH UW1 P
 shoupe SH UW1 P
 shouse S HH AW1 S
 shout SH AW1 T
-shouted SH AW1 T AH0 D
-shouted(2) SH AW1 T IH0 D
+shouted SH AW1 T IH0 D
 shouting SH AW1 T IH0 NG
 shouts SH AW1 T S
 shoval SH OW1 V AE0 L
@@ -110793,8 +110648,7 @@ shrank SH R AE1 NG K
 shrapnel SH R AE1 P N AH0 L
 shreck SH R EH1 K
 shred SH R EH1 D
-shredded SH R EH1 D AH0 D
-shredded(2) SH R EH1 D IH0 D
+shredded SH R EH1 D IH0 D
 shredder SH R EH1 D ER0
 shredders SH R EH1 D ER0 Z
 shredding SH R EH1 D IH0 NG
@@ -111060,8 +110914,7 @@ sidearm S AY1 D AA0 R M
 sidearms S AY1 D AA0 R M Z
 sidebar S AY1 D B AA2 R
 sidebars S AY1 D B AA2 R Z
-sided S AY1 D AH0 D
-sided(2) S AY1 D IH0 D
+sided S AY1 D IH0 D
 sidek S AY1 D EH2 K
 sidekick S AY1 D K IH2 K
 sideline S AY1 D L AY2 N
@@ -111226,8 +111079,7 @@ sighing S AY1 IH0 NG
 sighs S AY1 Z
 sight S AY1 T
 sight-seer S AY1 T S IY1 R
-sighted S AY1 T AH0 D
-sighted(2) S AY1 T IH0 D
+sighted S AY1 T IH0 D
 sighting S AY1 T IH0 NG
 sightings S AY1 T IH0 NG Z
 sights S AY1 T S
@@ -111949,8 +111801,7 @@ skibinski S K IH0 B IH1 N S K IY0
 skibo S K AY1 B OW0
 skibo(2) S K IY1 B OW0
 skid S K IH1 D
-skidded S K IH1 D AH0 D
-skidded(2) S K IH1 D IH0 D
+skidded S K IH1 D IH0 D
 skidding S K IH1 D IH0 NG
 skidgel S K IH1 JH AH0 L
 skidmore S K IH1 D M AO0 R
@@ -112173,10 +112024,9 @@ slang S L AE1 NG
 slanina S L AA0 N IY1 N AH0
 slankard S L AE1 NG K ER0 D
 slant S L AE1 N T
-slanted S L AE1 N T AH0 D
-slanted(2) S L AE1 N T IH0 D
-slanted(3) S L AE1 N AH0 D
-slanted(4) S L AE1 N IH0 D
+slanted S L AE1 N T IH0 D
+slanted(2) S L AE1 N AH0 D
+slanted(3) S L AE1 N IH0 D
 slanting S L AE1 N T IH0 NG
 slap S L AE1 P
 slapdash S L AE1 P D AE2 SH
@@ -112569,7 +112419,7 @@ smart-ass S M AA1 R T AE2 S
 smartaleck S M AA1 R T EH0 L AH0 K
 smartass S M AA1 R T AE1 S
 smartcard S M AA1 R T K AA2 R D
-smarted S M AA1 R T AH0 D
+smarted S M AA1 R T IH0 D
 smarten S M AA1 R T AH0 N
 smartened S M AA1 R T AH0 N D
 smartening S M AA1 R T AH0 N IH0 NG
@@ -113734,8 +113584,7 @@ sound S AW1 N D
 sound's S AW1 N D Z
 soundbite S AW1 N D B AY2 T
 soundbites S AW1 N D B AY2 T S
-sounded S AW1 N D AH0 D
-sounded(2) S AW1 N D IH0 D
+sounded S AW1 N D IH0 D
 sounder S AW1 N D ER0
 soundest S AW1 N D AH0 S T
 sounding S AW1 N D IH0 NG
@@ -114175,8 +114024,7 @@ spectrum S P EH1 K T R AH0 M
 spectrum's S P EH1 K T R AH0 M Z
 spectrums S P EH1 K T R AH0 M Z
 speculate S P EH1 K Y AH0 L EY2 T
-speculated S P EH1 K Y AH0 L EY2 T AH0 D
-speculated(2) S P EH1 K Y AH0 L EY2 T IH0 D
+speculated S P EH1 K Y AH0 L EY2 T IH0 D
 speculates S P EH1 K Y AH0 L EY2 T S
 speculating S P EH1 K Y AH0 L EY2 T IH0 NG
 speculation S P EH2 K Y AH0 L EY1 SH AH0 N
@@ -114432,7 +114280,7 @@ spires S P AY1 R Z
 spirit S P IH1 R AH0 T
 spirit(2) S P IH1 R IH0 T
 spirit's S P IH1 R IH0 T S
-spirited S P IH1 R IH0 T AH0 D
+spirited S P IH1 R IH0 T IH0 D
 spiritedness S P IH1 R IH0 T IH0 D N AH0 S
 spirito S P IH0 R IY1 T OW2
 spirits S P IH1 R IH0 T S
@@ -114488,8 +114336,7 @@ splatters S P L AE1 T ER0 Z
 splawn S P L AO1 N
 spleen S P L IY1 N
 spleisson S P EY1 S AH0 N
-splendid S P L EH1 N D AH0 D
-splendid(2) S P L EH1 N D IH0 D
+splendid S P L EH1 N D IH0 D
 splendidly S P L EH1 N D AH0 D L IY0
 splendor S P L EH1 N D ER0
 splenic S P L EH1 N IH0 K
@@ -114632,8 +114479,7 @@ spotlighting S P AA1 T L AY2 T IH0 NG
 spotlights S P AA1 T L AY2 T S
 spoto S P OW1 T OW0
 spots S P AA1 T S
-spotted S P AA1 T AH0 D
-spotted(2) S P AA1 T IH0 D
+spotted S P AA1 T IH0 D
 spotter S P AA1 T ER0
 spotters S P AA1 T ER0 Z
 spotting S P AA1 T IH0 NG
@@ -114645,7 +114491,7 @@ spouse's S P AW1 S IH0 Z
 spouses S P AW1 S AH0 Z
 spouses(2) S P AW1 S IH0 Z
 spout S P AW1 T
-spouted S P AW1 T AH0 D
+spouted S P AW1 T IH0 D
 spouting S P AW1 T IH0 NG
 spouts S P AW1 T S
 spracklen S P R AE1 K AH0 L AH0 N
@@ -114755,8 +114601,7 @@ sprouse S P R AW1 S
 sprout S P R AW1 T
 sproutaphile S P R AW1 T AH0 F AY0 L
 sproutaphiles S P R AW1 T AH0 F AY0 L Z
-sprouted S P R AW1 T AH0 D
-sprouted(2) S P R AW1 T IH0 D
+sprouted S P R AW1 T IH0 D
 sprouting S P R AW1 T IH0 NG
 sprouts S P R AW1 T S
 sprow S P R AW1
@@ -114898,8 +114743,7 @@ squirrel S K W ER1 AH0 L
 squirreled S K W ER1 AH0 L D
 squirrels S K W ER1 AH0 L Z
 squirt S K W ER1 T
-squirted S K W ER1 T AH0 D
-squirted(2) S K W ER1 T IH0 D
+squirted S K W ER1 T IH0 D
 squirting S K W ER1 T IH0 NG
 squirts S K W ER1 T S
 squishy S K W IH1 SH IY0
@@ -115204,8 +115048,7 @@ stamour S T AH0 M UH1 R
 stamp S T AE1 M P
 stamped S T AE1 M P T
 stampede S T AE0 M P IY1 D
-stampeded S T AE0 M P IY1 D AH0 D
-stampeded(2) S T AE0 M P IY1 D IH0 D
+stampeded S T AE0 M P IY1 D IH0 D
 stampeding S T AE0 M P IY1 D IH0 NG
 stamper S T AE1 M P ER0
 stampfli S T AE1 M P F L IY0
@@ -115449,8 +115292,7 @@ starstruck S T AA1 R S T R AH2 K
 start S T AA1 R T
 start-up S T AA1 R T AH2 P
 start-ups S T AA1 R T AH1 P S
-started S T AA1 R T AH0 D
-started(2) S T AA1 R T IH0 D
+started S T AA1 R T IH0 D
 starter S T AA1 R T ER0
 starters S T AA1 R T ER0 Z
 starting S T AA1 R T IH0 NG
@@ -115491,8 +115333,7 @@ state S T EY1 T
 state's S T EY1 T S
 state-of-the-art S T EY1 T AA0 F DH EH2 AA1 R T
 statecraft S T EY1 T K R AE2 F T
-stated S T EY1 T AH0 D
-stated(2) S T EY1 T IH0 D
+stated S T EY1 T IH0 D
 statehood S T EY1 T HH UH2 D
 statehouse S T EY1 T HH AW2 S
 statehouses S T EY1 T HH AW2 S IH0 Z
@@ -116256,8 +116097,7 @@ stimson S T IH1 M S AH0 N
 stimulant S T IH1 M Y AH0 L AH0 N T
 stimulants S T IH1 M Y AH0 L AH0 N T S
 stimulate S T IH1 M Y AH0 L EY2 T
-stimulated S T IH1 M Y AH0 L EY2 T AH0 D
-stimulated(2) S T IH1 M Y AH0 L EY2 T IH0 D
+stimulated S T IH1 M Y AH0 L EY2 T IH0 D
 stimulates S T IH1 M Y AH0 L EY2 T S
 stimulating S T IH1 M Y AH0 L EY2 T IH0 NG
 stimulation S T IH2 M Y AH0 L EY1 SH AH0 N
@@ -116719,8 +116559,7 @@ stranahan S T R AE1 N AH0 HH AE0 N
 strand S T R AE1 N D
 strandberg S T R AE1 N D B ER0 G
 strande S T R AE1 N D
-stranded S T R AE1 N D AH0 D
-stranded(2) S T R AE1 N D IH0 D
+stranded S T R AE1 N D IH0 D
 stranding S T R AE1 N D IH0 NG
 strandline S T R AE1 N D L AY2 N
 strandline(2) S T R AE1 N L AY2 N
@@ -117449,7 +117288,7 @@ submissions S AH0 B M IH1 SH AH0 N Z
 submissive S AH0 B M IH1 S IH0 V
 submit S AH0 B M IH1 T
 submits S AH2 B M IH1 T S
-submitted S AH0 B M IH1 T AH0 D
+submitted S AH0 B M IH1 T IH0 D
 submitting S AH0 B M IH1 T IH0 NG
 subnotebook S AH1 B N OW1 T B UH2 K
 subordinate S AH0 B AO1 R D AH0 N EY2 T
@@ -117534,7 +117373,7 @@ substantive S AH1 B S T AH0 N T IH0 V
 substantively S AH1 B S T AH0 N T IH0 V L IY0
 substation S AH1 B S T EY2 SH AH0 N
 substitute S AH1 B S T AH0 T UW2 T
-substituted S AH1 B S T AH0 T UW2 T AH0 D
+substituted S AH1 B S T AH0 T UW2 T IH0 D
 substitutes S AH1 B S T AH0 T UW2 T S
 substituting S AH1 B S T IH0 T UW2 T IH0 NG
 substitution S AH2 B S T IH0 T UW1 SH AH0 N
@@ -117588,8 +117427,7 @@ subzero S AH2 B Z IH1 R OW0
 subzero(2) S AH2 B Z IY1 R OW0
 suc S AH1 K
 succeed S AH0 K S IY1 D
-succeeded S AH0 K S IY1 D AH0 D
-succeeded(2) S AH0 K S IY1 D IH0 D
+succeeded S AH0 K S IY1 D IH0 D
 succeeding S AH0 K S IY1 D IH0 NG
 succeeds S AH0 K S IY1 D Z
 success S AH0 K S EH1 S
@@ -117720,8 +117558,7 @@ sugden S AH1 G D AH0 N
 sugerman S UW1 G ER0 M AH0 N
 sugg S AH1 G
 suggest S AH0 JH EH1 S T
-suggested S AH0 JH EH1 S T AH0 D
-suggested(2) S AH0 JH EH1 S T IH0 D
+suggested S AH0 JH EH1 S T IH0 D
 suggestible S AH0 JH EH1 S T AH0 B AH0 L
 suggesting S AH0 JH EH1 S T IH0 NG
 suggestion S AH0 JH EH1 S CH AH0 N
@@ -117763,8 +117600,7 @@ suitably S UW1 T AH0 B L IY0
 suitcase S UW1 T K EY2 S
 suitcases S UW1 T K EY2 S IH0 Z
 suite S W IY1 T
-suited S UW1 T AH0 D
-suited(2) S UW1 T IH0 D
+suited S UW1 T IH0 D
 suiter S UW1 T ER0
 suites S W IY1 T S
 suiting S UW1 T IH0 NG
@@ -118143,7 +117979,7 @@ supers S UW1 P ER0 Z
 supersaver S UW1 P ER0 S EY2 V ER0
 supersecret S UW1 P ER0 S IY2 K R IH0 T
 supersede S UW2 P ER0 S IY1 D
-superseded S UW2 P ER0 S IY1 D AH0 D
+superseded S UW2 P ER0 S IY1 D IH0 D
 supersedes S UW2 P ER0 S IY1 D Z
 superseding S UW2 P ER0 S IY1 D IH0 NG
 supersonic S UW2 P ER0 S AA1 N IH0 K
@@ -118184,7 +118020,7 @@ supper S AH1 P ER0
 suppers S AH1 P ER0 Z
 suppes S AH1 P S
 supplant S AH0 P L AE1 N T
-supplanted S AH0 P L AE1 N T AH0 D
+supplanted S AH0 P L AE1 N T IH0 D
 supplanting S AH0 P L AE1 N T IH0 NG
 supplants S AH0 P L AE1 N T S
 supple S AH1 P AH0 L
@@ -118197,7 +118033,7 @@ supplementary S AH2 P L AH0 M EH1 N T ER0 IY0
 supplementary(2) S AH2 P L AH0 M EH1 N ER0 IY0
 supplementary(3) S AH2 P L AH0 M EH1 N T R IY0
 supplementary(4) S AH2 P L AH0 M EH1 N CH R IY0
-supplemented S AH1 P L AH0 M EH2 N T AH0 D
+supplemented S AH2 P L AH0 M EH2 N T IH0 D
 supplementing S AH1 P L AH0 M AH0 N T IH0 NG
 supplementing(2) S AH1 P L AH0 M EH1 N T IH0 NG
 supplements S AH1 P L AH0 M AH0 N T S
@@ -118214,8 +118050,7 @@ supply's S AH0 P L AY1 Z
 supplying S AH0 P L AY1 IH0 NG
 support S AH0 P AO1 R T
 supportable S AH0 P AO1 R T AH0 B AH0 L
-supported S AH0 P AO1 R T AH0 D
-supported(2) S AH0 P AO1 R T IH0 D
+supported S AH0 P AO1 R T IH0 D
 supporter S AH0 P AO1 R T ER0
 supporters S AH0 P AO1 R T ER0 Z
 supporting S AH0 P AO1 R T IH0 NG
@@ -118363,8 +118198,7 @@ surrogates S ER1 AH0 G AH0 T S
 surrogates(2) S ER1 AH0 G EY2 T S
 surrogation S ER0 AH0 G EY1 SH AH0 N
 surround S ER0 AW1 N D
-surrounded S ER0 AW1 N D AH0 D
-surrounded(2) S ER0 AW1 N D IH0 D
+surrounded S ER0 AW1 N D IH0 D
 surrounding S ER0 AW1 N D IH0 NG
 surroundings S ER0 AW1 N D IH0 NG Z
 surrounds S ER0 AW1 N D Z
@@ -118426,8 +118260,7 @@ susong S AH1 S AO0 NG
 suspect S AH0 S P EH1 K T
 suspect(2) S AH1 S P EH2 K T
 suspect's S AH0 S P EH1 K T S
-suspected S AH0 S P EH1 K T AH0 D
-suspected(2) S AH0 S P EH1 K T IH0 D
+suspected S AH0 S P EH1 K T IH0 D
 suspecting S AH0 S P EH1 K T IH0 NG
 suspects S AH0 S P EH1 K T S
 suspects(2) S AH1 S P EH2 K T S
@@ -118435,8 +118268,7 @@ suspects(3) S AH0 S P EH1 K S
 suspects(4) S AH1 S P EH2 K S
 suspects' S AH1 S P EH2 K T S
 suspend S AH0 S P EH1 N D
-suspended S AH0 S P EH1 N D AH0 D
-suspended(2) S AH0 S P EH1 N D IH0 D
+suspended S AH0 S P EH1 N D IH0 D
 suspender S AH0 S P EH1 N D ER0
 suspenders S AH0 S P EH1 N D ER0 Z
 suspending S AH0 S P EH1 N D IH0 NG
@@ -119472,8 +119304,7 @@ talcs T AE1 L K S
 talcum T AE1 L K AH0 M
 tale T EY1 L
 talent T AE1 L AH0 N T
-talented T AE1 L AH0 N T AH0 D
-talented(2) T AE1 L AH0 N T IH0 D
+talented T AE1 L AH0 N T IH0 D
 talents T AE1 L AH0 N T S
 talerico T AA0 L ER0 IY1 K OW0
 tales T EY1 L Z
@@ -119889,8 +119720,7 @@ tassinari T AA0 S IY0 N AA1 R IY2
 tasso T AE1 S OW2
 tassone T AA0 S OW1 N IY2
 taste T EY1 S T
-tasted T EY1 S T AH0 D
-tasted(2) T EY1 S T IH0 D
+tasted T EY1 S T IH0 D
 tasteful T EY1 S T F AH0 L
 tastefully T EY1 S T F AH0 L IY0
 tasteless T EY1 S T L AH0 S
@@ -120537,8 +120367,7 @@ temps T EH1 M P S
 tempt T EH1 M P T
 temptation T EH0 M T EY1 SH AH0 N
 temptations T EH0 M T EY1 SH AH0 N Z
-tempted T EH1 M P T AH0 D
-tempted(2) T EH1 M P T IH0 D
+tempted T EH1 M P T IH0 D
 tempting T EH1 M P T IH0 NG
 temptress T EH1 M P T R IH0 S
 tempts T EH1 M P T S
@@ -120559,8 +120388,7 @@ tenbrink T EH1 N B R IH2 NG K
 tench T EH1 N CH
 tencza T EH1 N CH AH0
 tend T EH1 N D
-tended T EH1 N D AH0 D
-tended(2) T EH1 N D IH0 D
+tended T EH1 N D IH0 D
 tendencies T EH1 N D AH0 N S IY0 Z
 tendency T EH1 N D AH0 N S IY0
 tendentious T EH2 N D EH1 N SH AH0 S
@@ -120704,8 +120532,7 @@ terminal T ER1 M AH0 N AH0 L
 terminally T ER1 M AH0 N AH0 L IY0
 terminals T ER1 M AH0 N AH0 L Z
 terminate T ER1 M AH0 N EY2 T
-terminated T ER1 M AH0 N EY2 T AH0 D
-terminated(2) T ER1 M AH0 N EY2 T IH0 D
+terminated T ER1 M AH0 N EY2 T IH0 D
 terminates T ER1 M IH0 N EY2 T S
 terminating T ER1 M AH0 N EY2 T IH0 NG
 termination T ER0 M AH0 N EY1 SH AH0 N
@@ -120844,8 +120671,7 @@ testa T EH1 S T AH0
 testament T EH1 S T AH0 M AH0 N T
 testamentary T EH2 S T AH0 M EH1 N T ER0 IY0
 testaments T EH1 S T AH0 M AH0 N T S
-tested T EH1 S T AH0 D
-tested(2) T EH1 S T IH0 D
+tested T EH1 S T IH0 D
 tester T EH1 S T ER0
 testerman T EH1 S T ER0 M AH0 N
 testers T EH1 S T ER0 Z
@@ -121539,8 +121365,7 @@ thrashes TH R AE1 SH IH0 Z
 thrashing TH R AE1 SH IH0 NG
 thread TH R EH1 D
 threadbare TH R EH1 D B EH2 R
-threaded TH R EH1 D AH0 D
-threaded(2) TH R EH1 D IH0 D
+threaded TH R EH1 D IH0 D
 threadfin TH R EH1 D F IH0 N
 threadgill TH R EH1 D G IH2 L
 threading TH R EH1 D IH0 NG
@@ -121717,8 +121542,7 @@ thusfar DH AH1 S F AA2 R
 thusly DH AH1 S L IY0
 thuy T UW1
 thwart TH W AO1 R T
-thwarted TH W AO1 R T AH0 D
-thwarted(2) TH W AO1 R T IH0 D
+thwarted TH W AO1 R T IH0 D
 thwarting TH W AO1 R T IH0 NG
 thwarts TH W AO1 R T S
 thweatt TH W IY1 T
@@ -121928,8 +121752,7 @@ tilman T IH1 L M AH0 N
 tilney T IH1 L N IY0
 tilson T IH1 L S AH0 N
 tilt T IH1 L T
-tilted T IH1 L T AH0 D
-tilted(2) T IH1 L T IH0 D
+tilted T IH1 L T IH0 D
 tilth T IH1 L TH
 tilting T IH1 L T IH0 NG
 tilton T IH1 L T AH0 N
@@ -122355,7 +122178,7 @@ tolerances T AA1 L ER0 AH0 N S IH0 Z
 tolerant T AA1 L ER0 AH0 N T
 tolerants T AA1 L ER0 AH0 N T S
 tolerate T AA1 L ER0 EY2 T
-tolerated T AA1 L ER0 EY2 T AH0 D
+tolerated T AA1 L ER0 EY2 T IH0 D
 tolerates T AO1 L ER0 EY2 T S
 tolerating T AA1 L ER0 EY2 T IH0 NG
 toleration T AA2 L ER0 EY1 SH AH0 N
@@ -123321,7 +123144,7 @@ transits T R AE1 N Z IH0 T S
 transkei T R AE1 N Z K EY2
 translate T R AE0 N Z L EY1 T
 translate(2) T R AE0 N S L EY1 T
-translated T R AE0 N Z L EY1 T AH0 D
+translated T R AE0 N Z L EY1 T IH0 D
 translated(2) T R AE0 N S L EY1 T IH0 D
 translates T R AE0 N Z L EY1 T S
 translates(2) T R AE1 N S L EY2 T S
@@ -123381,7 +123204,7 @@ transport(2) T R AE1 N S P AO0 R T
 transportable T R AE0 N S P AO1 R T AH0 B AH0 L
 transportation T R AE2 N S P ER0 T EY1 SH AH0 N
 transportation's T R AE2 N S P ER0 T EY1 SH AH0 N Z
-transported T R AE0 N S P AO1 R T AH0 D
+transported T R AE0 N S P AO1 R T IH0 D
 transporter T R AE0 N S P AO1 R T ER0
 transporters T R AE0 N S P AO1 R T ER0 Z
 transporting T R AE0 N S P AO1 R T IH0 NG
@@ -123542,8 +123365,7 @@ treasury's T R EH1 ZH ER0 IY0 Z
 treasurys T R EH1 ZH ER0 IY0 Z
 treat T R IY1 T
 treatable T R IY1 T AH0 B AH0 L
-treated T R IY1 T AH0 D
-treated(2) T R IY1 T IH0 D
+treated T R IY1 T IH0 D
 treater T R IY1 T ER0
 treaters T R IY1 T ER0 Z
 treaties T R IY1 T IY0 Z
@@ -124018,8 +123840,7 @@ trotman T R AA1 T M AH0 N
 trots T R AA1 T S
 trotsky T R AA1 T S K IY2
 trott T R AA1 T
-trotted T R AA1 T AH0 D
-trotted(2) T R AA1 T IH0 D
+trotted T R AA1 T IH0 D
 trotten T R AA1 T AH0 N
 trotter T R AA1 T ER0
 trottier T R AA1 T IY0 ER0
@@ -124357,8 +124178,7 @@ tufnel T AH1 F N IH0 L
 tufo T UW1 F OW0
 tuft T AH1 F T
 tufte T AH1 F T
-tufted T AH1 F T AH0 D
-tufted(2) T AH1 F T IH0 D
+tufted T AH1 F T IH0 D
 tuftlike T AH1 F T L AY2 K
 tufts T AH1 F T S
 tug T AH1 G
@@ -124779,8 +124599,7 @@ twirling T W ER1 L IH0 NG
 twirls T W ER1 L Z
 twiss T W IH1 S
 twist T W IH1 S T
-twisted T W IH1 S T AH0 D
-twisted(2) T W IH1 S T IH0 D
+twisted T W IH1 S T IH0 D
 twister T W IH1 S T ER0
 twister's T W IH1 S T ER0 Z
 twisters T W IH1 S T ER0 Z
@@ -125336,7 +125155,7 @@ unconstitutional AH2 N K AA2 N S T AH0 T UW1 SH AH0 N AH0 L
 unconstitutionally AH2 N K AA2 N S T AH0 T UW1 SH AH0 N AH0 L IY0
 unconstitutionally(2) AH2 N K AA2 N S T AH0 T UW1 SH N AH0 L IY0
 unconstrained AH2 N K AH0 N S T R EY1 N D
-uncontaminated AH2 N K AH0 N T AE1 M AH0 N EY2 T AH0 D
+uncontaminated AH2 N K AH0 N T AE1 M AH0 N EY2 T IH0 D
 uncontested AH2 N K AH0 N T EH1 S T IH0 D
 uncontradicted AH2 N K AO0 N T R AH0 D IH1 K T IH0 D
 uncontrollable AH2 N K AH0 N T R OW1 L AH0 B AH0 L
@@ -125709,7 +125528,7 @@ unflattering AH0 N F L AE1 T ER0 IH0 NG
 unflinching AH0 N F L IH1 N CH IH0 NG
 unfocused AH0 N F OW1 K AH0 S T
 unfold AH0 N F OW1 L D
-unfolded AH0 N F OW1 L D AH0 D
+unfolded AH0 N F OW1 L D IH0 D
 unfolding AH0 N F OW1 L D IH0 NG
 unfolds AH0 N F OW1 L D Z
 unforeseeable AH2 N F AO0 R S IY1 AH0 B AH0 L
@@ -125840,7 +125659,7 @@ unintended AH2 N IH0 N T EH1 N D IH0 D
 unintentional AH2 N IH0 N T EH1 N SH AH0 N AH0 L
 unintentionally AH2 N IH0 N T EH1 N SH AH0 N AH0 L IY0
 unintentionally(2) AH2 N IH0 N T EH1 N SH N AH0 L IY0
-uninterested AH0 N IH1 N T R AH0 S T AH0 D
+uninterested AH0 N IH1 N T R AH0 S T IH0 D
 uninteresting AH0 N IH1 N T R AH0 S T IH0 NG
 uninterrupted AH2 N IH0 N T ER0 AH1 P T IH0 D
 uninterrupted(2) AH2 N IH0 N ER0 AH1 P T IH0 D
@@ -125886,8 +125705,7 @@ unitarian Y UW2 N AH0 T EH1 R IY0 AH0 N
 unitary Y UW1 N IH0 T EH2 R IY0
 unitas Y UW0 N AY1 T AH0 S
 unite Y UW1 N AY2 T
-united Y UW0 N AY1 T AH0 D
-united(2) Y UW0 N AY1 T IH0 D
+united Y UW0 N AY1 T IH0 D
 united's Y UW0 N AY1 T AH0 D Z
 unitedbank Y UW2 N AY1 T IH0 D B AE1 NG K
 unitek Y UW1 N IH0 T EH2 K
@@ -125939,7 +125757,7 @@ unlabeled AH0 N L EY1 B AH0 L D
 unland AH1 N L AH0 N D
 unlawful AH0 N L AO1 F AH0 L
 unlawfully AH0 N L AO1 F AH0 L IY0
-unleaded AH0 N L EH1 D AH0 D
+unleaded AH0 N L EH1 D IH0 D
 unleash AH0 N L IY1 SH
 unleashed AH0 N L IY1 SH T
 unleashes AH0 N L IY1 SH IH0 Z
@@ -125949,14 +125767,13 @@ unleveraged AH0 N L EH1 V R IH0 JH D
 unlicensed AH0 N L AY1 S AH0 N S T
 unlike AH0 N L AY1 K
 unlikely AH0 N L AY1 K L IY0
-unlimited AH0 N L IH1 M AH0 T AH0 D
+unlimited AH0 N L IH1 M AH0 T IH0 D
 unlimited(2) AH0 N L IH1 M IH0 T IH0 D
 unlined AH0 N L AY1 N D
 unlisted AH0 N L IH1 S T IH0 D
 unlivable AH0 N L IH1 V AH0 B AH0 L
 unload AH0 N L OW1 D
-unloaded AH0 N L OW1 D AH0 D
-unloaded(2) AH0 N L OW1 D IH0 D
+unloaded AH0 N L OW1 D IH0 D
 unloading AH0 N L OW1 D IH0 NG
 unloads AH0 N L OW1 D Z
 unlock AH0 N L AA1 K
@@ -126363,9 +126180,8 @@ updyke AH1 P D AY2 K
 upfront AH1 P F R AH2 N T
 upgrade AH0 P G R EY1 D
 upgrade(2) AH1 P G R EY1 D
-upgraded AH0 P G R EY1 D AH0 D
-upgraded(2) AH1 P G R EY2 D AH0 D
-upgraded(3) AH1 P G R EY2 D IH0 D
+upgraded AH0 P G R EY1 D IH0 D
+upgraded(2) AH1 P G R EY2 D IH0 D
 upgrader AH1 P G R EY2 D ER0
 upgrades AH0 P G R EY1 D Z
 upgrades(2) AH1 P G R EY2 D Z
@@ -126737,8 +126553,8 @@ vacancy V EY1 K AH0 N S IY0
 vacant V EY1 K AH0 N T
 vacanti V AH0 K AE1 N T IY0
 vacate V EY1 K EY0 T
-vacated V EY0 K EY1 T AH0 D
-vacated(2) V EY1 K EY0 T AH0 D
+vacated V EY0 K EY1 T IH0 D
+vacated(2) V EY1 K EY0 T IH0 D
 vacating V EY1 K EY0 T IH0 NG
 vacation V EY0 K EY1 SH AH0 N
 vacationed V EY0 K EY1 SH AH0 N D
@@ -126886,7 +126702,7 @@ valiantly V AE1 L Y AH0 N T L IY0
 valid V AE1 L IH0 D
 valida V AA0 L IY1 D AH0
 validate V AE1 L AH0 D EY0 T
-validated V AE1 L AH0 D EY0 T AH0 D
+validated V AE1 L AH0 D EY0 T IH0 D
 validates V AE1 L AH0 D EY2 T S
 validating V AE1 L AH0 D EY2 T IH0 NG
 validation V AE2 L AH0 D EY1 SH AH0 N
@@ -127386,7 +127202,7 @@ variations V EH2 R IY0 EY1 SH AH0 N Z
 varick V EH1 R IH0 K
 varied V EH1 R IY0 D
 variegate V EH1 R IH0 G EY0 T
-variegated V EH1 R IH0 G EY0 T AH0 D
+variegated V EH1 R IH0 G EY0 T IH0 D
 varies V EH1 R IY0 Z
 varietal V ER0 IY1 T AH0 L
 varietals V ER0 AY1 AH0 T AH0 L Z
@@ -127507,8 +127323,7 @@ vaughn's V AO1 N Z
 vaughns V AO1 N Z
 vaught V AO1 T
 vault V AO1 L T
-vaulted V AO1 L T AH0 D
-vaulted(2) V AO1 L T IH0 D
+vaulted V AO1 L T IH0 D
 vaulting V AO1 L T IH0 NG
 vaults V AO1 L T S
 vaunted V AO1 N T IH0 D
@@ -128007,8 +127822,7 @@ vest V EH1 S T
 vesta V EH1 S T AH0
 vestal V EH1 S T AH0 L
 vestar V EH1 S T ER0
-vested V EH1 S T AH0 D
-vested(2) V EH1 S T IH0 D
+vested V EH1 S T IH0 D
 vester V EH1 S T ER0
 vestibular V EH2 S T IH1 B Y UW0 L ER0
 vestibule V EH1 S T IH0 B Y UW2 L
@@ -128041,7 +127855,6 @@ veterinarians(2) V EH2 T ER0 AH0 N EH1 R IY0 AH0 N Z
 veterinary V EH1 T R AH0 N EH2 R IY0
 veteto V EH0 T EH1 T OW0
 veto V IY1 T OW2
-veto(2) V IY1 T OW2
 vetoed V IY1 T OW2 D
 vetoes V IY1 T OW2 Z
 vetoing V IY1 T OW2 IH0 NG
@@ -128752,7 +128565,7 @@ vocation V OW0 K EY1 SH AH0 N
 vocational V OW0 K EY1 SH AH0 N AH0 L
 vocations V OW0 K EY1 SH AH0 N Z
 vociferate V AH0 S IH1 F ER0 EY0 T
-vociferated V AH0 S IH1 F ER0 EY0 T AH0 D
+vociferated V AH0 S IH1 F ER0 EY0 T IH0 D
 vociferates V AH0 S IH1 F ER0 EY0 T S
 vociferating V AH0 S IH1 F ER0 EY0 T IH0 NG
 vociferous V OW0 S IH1 F ER0 AH0 S
@@ -129138,8 +128951,7 @@ wactlar W AA1 K T L ER0
 wad W AA1 D
 wada W AA1 D AH0
 wadas W AA1 D AH0 Z
-wadded W AA1 D AH0 D
-wadded(2) W AA1 D IH0 D
+wadded W AA1 D IH0 D
 waddell W AA0 D EH1 L
 waddie W AA1 D IY0
 waddill W AO1 D IH1 L
@@ -129284,8 +129096,7 @@ waists W EY1 S T S
 wait W EY1 T
 waite W EY1 T
 waite's W EY1 T S
-waited W EY1 T AH0 D
-waited(2) W EY1 T IH0 D
+waited W EY1 T IH0 D
 waiter W EY1 T ER0
 waiter's W EY1 T ER0 Z
 waiters W EY1 T ER0 Z
@@ -129903,8 +129714,7 @@ waste W EY1 S T
 waste's W EY1 S T S
 wastebasket W EY1 S T B AE2 S K AH0 T
 wastebaskets W EY1 S T B AE2 S K AH0 T S
-wasted W EY1 S T AH0 D
-wasted(2) W EY1 S T IH0 D
+wasted W EY1 S T IH0 D
 wasteful W EY1 S T F AH0 L
 wastefulness W EY1 S T F AH0 L N AH0 S
 wasteland W EY1 S T L AE2 N D
@@ -130218,8 +130028,7 @@ weckwerth W EH1 K W ER0 TH
 wed W EH1 D
 wedbush W EH1 D B UH2 SH
 wedd W EH1 D
-wedded W EH1 D AH0 D
-wedded(2) W EH1 D IH0 D
+wedded W EH1 D IH0 D
 weddell W EH1 D AH0 L
 wedding W EH1 D IH0 NG
 wedding's W EH1 D IH0 NG Z
@@ -130556,7 +130365,7 @@ welker W EH1 L K ER0
 well W EH1 L
 well-being W EH2 L B IY1 IH0 NG
 well-doer W EH1 L D UW1 R
-well-educated W EH1 L EH0 JH AH0 K EY1 T AH0 D
+well-educated W EH1 L EH1 JH AH0 K EY2 T IH0 D
 well-known W EH1 L N OW1 N
 welland W EH1 L AH0 N D
 wellbeing W EH2 L B IY1 IH0 NG
@@ -133986,8 +133795,7 @@ yiddish Y IH1 D IH0 SH
 yie Y IY1
 yie(2) Y AY1
 yield Y IY1 L D
-yielded Y IY1 L D AH0 D
-yielded(2) Y IY1 L D IH0 D
+yielded Y IY1 L D IH0 D
 yielding Y IY1 L D IH0 NG
 yields Y IY1 L D Z
 yigal Y IH0 G AE1 L
