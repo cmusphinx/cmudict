@@ -775,21 +775,13 @@ ackley AE1 K L IY0
 acklin AE1 K L IH0 N
 ackman AE1 K M AH0 N
 acknowledge AE0 K N AA1 L IH0 JH
-acknowledge(2) IH0 K N AA1 L IH0 JH
 acknowledgeable AE0 K N AA1 L IH0 JH AH0 B AH0 L
-acknowledgeable(2) IH0 K N AA1 L IH0 JH AH0 B AH0 L
 acknowledged AE0 K N AA1 L IH0 JH D
-acknowledged(2) IH0 K N AA1 L IH0 JH D
 acknowledgement AE0 K N AA1 L IH0 JH M AH0 N T
-acknowledgement(2) IH0 K N AA1 L IH0 JH M AH0 N T
 acknowledgements AE0 K N AA1 L IH0 JH M AH0 N T S
-acknowledgements(2) IH0 K N AA1 L IH0 JH M AH0 N T S
 acknowledges AE0 K N AA1 L IH0 JH IH0 Z
-acknowledges(2) IH0 K N AA1 L IH0 JH IH0 Z
 acknowledging AE0 K N AA1 L IH0 JH IH0 NG
-acknowledging(2) IH0 K N AA1 L IH0 JH IH0 NG
 acknowledgment AE0 K N AA1 L IH0 JH M AH0 N T
-acknowledgment(2) IH0 K N AA1 L IH0 JH M AH0 N T
 acknowledgments AE0 K N AA1 L IH0 JH M AH0 N T S
 ackroyd AE1 K R OY2 D
 ackroyd's AE1 K R OY2 D Z
@@ -1378,14 +1370,10 @@ advanta(2) AH0 D V AE1 N T AH0
 advanta's AE0 D V AE1 N T AH0 Z
 advanta's(2) AH0 D V AE1 N T AH0 Z
 advantage AE0 D V AE1 N T IH0 JH
-advantage(2) AH0 D V AE1 N T IH0 JH
 advantaged AE0 D V AE1 N T IH0 JH D
-advantaged(2) AH0 D V AE1 N T IH0 JH D
 advantageous AE2 D V AH0 N T EY1 JH AH0 S
 advantages AE0 D V AE1 N T IH0 JH IH0 Z
-advantages(2) AH0 D V AE1 N T IH0 JH IH0 Z
 advantest AE0 D V AE1 N T AH0 S T
-advantest(2) AH0 D V AE1 N T AH0 S T
 advection AE0 D V EH1 K SH AH0 N
 advent AE1 D V EH2 N T
 adventist AE1 D V EH2 N T IH0 S T
@@ -1397,11 +1385,8 @@ adventurer(2) AH0 D V EH1 N CH ER0 ER0
 adventurers AE0 D V EH1 N CH ER0 ER0 Z
 adventurers(2) AH0 D V EH1 N CH ER0 ER0 Z
 adventures AE0 D V EH1 N CH ER0 Z
-adventures(2) AH0 D V EH1 N CH ER0 Z
 adventuresome AE0 D V EH1 N CH ER0 S AH0 M
-adventuresome(2) AH0 D V EH1 N CH ER0 S AH0 M
 adventurism AE0 D V EH1 N CH ER0 IH2 Z AH0 M
-adventurism(2) AH0 D V EH1 N CH ER0 IH2 Z AH0 M
 adventurous AE0 D V EH1 N CH ER0 AH0 S
 adventurous(2) AH0 D V EH1 N CH ER0 AH0 S
 adverb AE1 D V ER0 B
@@ -1420,7 +1405,7 @@ advert AE1 D V ER0 T
 advertise AE1 D V ER0 T AY2 Z
 advertised AE1 D V ER0 T AY2 Z D
 advertised(2) AE2 D V ER0 T AY1 Z D
-advertisement AH0 D V ER1 T AH0 Z M AH0 N T
+advertisement AE0 D V ER1 T AH0 Z M AH0 N T
 advertisement(2) AE2 D V ER0 T AY1 Z M AH0 N T
 advertisements AE1 D V ER0 T AY2 Z M AH0 N T S
 advertiser AE1 D V ER0 T AY2 Z ER0
@@ -1453,12 +1438,9 @@ advisers' AE2 D V AY1 Z ER0 Z
 advises AE0 D V AY1 Z IH0 Z
 advising AE0 D V AY1 Z IH0 NG
 advisor AE0 D V AY1 Z ER0
-advisor(2) AH0 D V AY1 Z ER0
 advisories AH0 D V AY1 Z ER0 IY0 Z
 advisors AE0 D V AY1 Z ER0 Z
-advisors(2) AH0 D V AY1 Z ER0 Z
 advisory AE0 D V AY1 Z ER0 IY0
-advisory(2) AH0 D V AY1 Z ER0 IY0
 advo AE1 D V OW0
 advocacy AE1 D V AH0 K AH0 S IY0
 advocate AE1 D V AH0 K AH0 T
@@ -13473,8 +13455,8 @@ bonnette B AH0 N EH1 T
 bonneville B AA1 N AH0 V IH2 L
 bonnevilles B AA1 N AH0 V IH2 L Z
 bonney B AA1 N IY0
-bonnibel B AA1 N IH0 B AH0 L
-bonnibelle B AA1 N IH0 B AH0 L
+bonnibel B AA1 N IH0 B EH0 L
+bonnibelle B AA1 N IH0 B EH0 L
 bonnie B AA1 N IY0
 bonnie's B AA1 N IY0 Z
 bonnin B AA1 N IH0 N
@@ -20895,12 +20877,12 @@ chevron SH EH1 V R AH0 N
 chevron(2) SH EH1 V R AA0 N
 chevron's SH EH1 V R AH0 N Z
 chevron's(2) SH EH1 V R AA0 N Z
-chevy CH EH1 V IY0
-chevy(2) SH EH1 V IY0
-chevy's CH EH1 V IY0 Z
-chevy's(2) SH EH1 V IY0 Z
-chevys CH EH1 V IH0 S
-chevys(2) SH EH1 V IH0 S
+chevy SH EH1 V IY2
+chevy(2) CH EH1 V IY2
+chevy's SH EH1 V IY2 Z
+chevy's(2) CH EH1 V IY2 Z
+chevys SH EH1 V IY2 S
+chevys(2) CH EH1 V IY2 S
 chew CH UW1
 chewed CH UW1 D
 chewer CH UW1 ER0
@@ -21535,8 +21517,7 @@ chupp CH AH1 P
 chura CH UH1 R AH0
 church CH ER1 CH
 church's CH ER1 CH AH0 Z
-churches CH ER1 CH AH0 Z
-churches(2) CH ER1 CH IH0 Z
+churches CH ER1 CH IH0 Z
 churches' CH ER1 CH IH0 Z
 churchgoer CH ER1 CH G OW2 ER0
 churchgoers CH ER1 CH G OW2 ER0 Z
@@ -23180,13 +23161,9 @@ collectivization K AH0 L EH2 K T IH0 V IH0 Z EY1 SH AH0 N
 collectivize K AH0 L EH1 K T IH0 V AY2 Z
 collectivized K AH0 L EH1 K T IH0 V AY2 Z D
 collector K AH0 L EH1 K T ER0
-collector(2) K L EH1 K T ER0
 collector's K AH0 L EH1 K T ER0 Z
-collector's(2) K L EH1 K T ER0 Z
 collectors K AH0 L EH1 K T ER0 Z
-collectors(2) K L EH1 K T ER0 Z
 collectors' K AH0 L EH1 K T ER0 Z
-collectors'(2) K L EH1 K T ER0 Z
 collects K AH0 L EH1 K T S
 colledge K AA1 L IH0 JH
 colleen K AA2 L IY1 N
@@ -29270,11 +29247,9 @@ decathlete D IY0 K AE1 TH L IY0 T
 decathlon D IY0 K AE1 TH L AO0 N
 decato D IH0 K AA1 T OW0
 decatur D IH0 K EY1 T ER0
-decay D AH0 K EY1
-decay(2) D IH0 K EY1
+decay D IH0 K EY1
 decayed D AH0 K EY1 D
-decaying D AH0 K EY1 IH0 NG
-decaying(2) D IH0 K EY1 IH0 NG
+decaying D IH0 K EY1 IH0 NG
 decays D AH0 K EY1 Z
 decca D EH1 K AH0
 decease D IH0 S IY1 S
@@ -32081,10 +32056,8 @@ digesting D AY0 JH EH1 S T IH0 NG
 digesting(2) D AY1 JH EH2 S T IH0 NG
 digestion D AY0 JH EH1 S CH AH0 N
 digestive D AY0 JH EH1 S T IH0 V
-digests D AH0 JH EH1 S T S
+digests D AY2 JH EH1 S T S
 digests(2) D AY1 JH EH0 S T S
-digests(3) D AH0 JH EH1 S
-digests(4) D AY1 JH EH0 S
 digga D IH1 G AH0
 digger D IH1 G ER0
 diggers D IH1 G ER0 Z
@@ -33383,10 +33356,8 @@ diversionary D AY0 V ER1 ZH AH0 N EH2 R IY0
 diversionary(2) D IH0 V ER1 ZH AH0 N EH2 R IY0
 diversions D IH0 V ER1 ZH AH0 N Z
 diversions(2) D AY0 V ER1 ZH AH0 N Z
-diversity D IH0 V ER1 S AH0 T IY0
-diversity(2) D IH0 V ER1 S IH0 T IY0
-diversity(3) D AY0 V ER1 S AH0 T IY0
-diversity(4) D AY0 V ER1 S IH0 T IY0
+diversity D IH0 V ER1 S IH0 T IY0
+diversity(2) D AY0 V ER1 S IH0 T IY0
 divert D AY0 V ER1 T
 divert(2) D IH0 V ER1 T
 diverted D AY0 V ER1 T IH0 D
@@ -36525,9 +36496,7 @@ effectiveness(2) IY1 F EH0 K T IH0 V N AH0 S
 effector IH0 F EH1 K T ER0
 effectors IH0 F EH1 K T ER0 Z
 effects IH0 F EH1 K T S
-effects(2) IH0 F EH1 K S
-effects(3) IY1 F EH0 K T S
-effects(4) IY1 F EH0 K S
+effects(2) IY1 F EH0 K T S
 effectuate IH0 F EH1 K CH UW0 EY2 T
 effeminate IY0 F EH1 M IH0 N AH0 T
 efferent EH1 F ER0 AH0 N T
@@ -37698,7 +37667,6 @@ emotive(2) IY1 M OW2 T IH0 V
 empanel IH0 M P AE1 N AH0 L
 empaneled IH0 M P AE1 N AH0 L D
 empaneling EH0 M P AE1 N AH0 L IH0 NG
-empaneling(2) EH0 M P AE1 N L IH0 NG
 empath EH1 M P AE2 TH
 empathetic EH2 M P AH0 TH EH1 T IH0 K
 empathize EH1 M P AH0 TH AY2 Z
@@ -39236,10 +39204,9 @@ esselte EH0 S EH1 L T IY0
 essen EH1 S AH0 N
 essenburg EH1 S AH0 N B ER0 G
 essence EH1 S AH0 N S
-essential IH0 S EH1 N SH AH0 L
+essential EH0 S EH1 N SH AH0 L
 essential(2) IY0 S EH1 N SH AH0 L
-essential(3) AH0 S EH1 N SH AH0 L
-essentially IH0 S EH1 N SH AH0 L IY0
+essentially EH0 S EH1 N SH AH0 L IY0
 essentially(2) IY0 S EH1 N SH AH0 L IY0
 essentials EH0 S EH1 N SH AH0 L Z
 essentials(2) IY0 S EH1 N SH AH0 L Z
@@ -39259,19 +39226,12 @@ esson EH1 S AH0 N
 est EH1 S T
 esta EH1 S T AH0
 establish IH0 S T AE1 B L IH0 SH
-establish(2) IY0 S T AE1 B L IH0 SH
 established IH0 S T AE1 B L IH0 SH T
-established(2) IY0 S T AE1 B L IH0 SH T
 establishes IH0 S T AE1 B L IH0 SH IH0 Z
-establishes(2) IY0 S T AE1 B L IH0 SH IH0 Z
 establishing IH0 S T AE1 B L IH0 SH IH0 NG
-establishing(2) IY0 S T AE1 B L IH0 SH IH0 NG
 establishment IH0 S T AE1 B L IH0 SH M AH0 N T
-establishment(2) IY0 S T AE1 B L IH0 SH M AH0 N T
 establishment's EH0 S T AE1 B L IH0 SH M AH0 N T S
-establishment's(2) IY0 S T AE1 B L IH0 SH M AH0 N T S
 establishments EH0 S T AE1 B L IH0 SH M AH0 N T S
-establishments(2) IY0 S T AE1 B L IH0 SH M AH0 N T S
 estabrook EH1 S T AH0 B R UH2 K
 estabrooks EH1 S T AH0 B R UH0 K S
 estai EH1 S T EY0
@@ -39872,7 +39832,7 @@ ex-girlfriends EH1 K Z G ER1 L F R EH2 N D Z
 ex-husband EH1 K S HH AH1 Z B AH0 N D
 ex-husbands EH1 K S HH AH1 Z B AH0 N D Z
 ex-voto EH0 K S V OW1 T OW1
-ex-wife EH1 G Z W AY1 F
+ex-wife EH1 K S W AY1 F
 ex-wives EH1 K S W AY1 V Z
 exabyte EH1 K S AH0 B AY2 T
 exacerbate IH0 G Z AE1 S ER0 B EY2 T
@@ -40259,19 +40219,13 @@ experiential EH0 K S P EH2 R IY0 EH1 N SH AH0 L
 experiment IH0 K S P EH1 R AH0 M AH0 N T
 experiment's IH0 K S P EH1 R AH0 M AH0 N T S
 experimental IH0 K S P EH2 R IH0 M EH1 N T AH0 L
-experimental(2) IH0 K S P ER0 M EH1 N T AH0 L
-experimental(3) IH0 K S P EH2 R IH0 M EH1 N AH0 L
-experimental(4) IH0 K S P ER0 M EH1 N AH0 L
 experimentalist IH0 K S P EH2 R AH0 M EH1 N T AH0 L IH0 S T
-experimentalist(2) IH0 K S P EH2 R AH0 M EH1 N AH0 L IH0 S T
 experimentally IH0 K S P EH2 R AH0 M EH1 N T AH0 L IY0
-experimentally(2) IH0 K S P EH0 R AH0 M EH1 N AH0 L IY0
 experimentation IH0 K S P EH2 R AH0 M AH0 N T EY1 SH AH0 N
 experimented IH0 K S P EH1 R AH0 M AH0 N T AH0 D
 experimenter IH0 K S P EH1 R AH0 M EH2 N T ER0
 experimenters IH0 K S P EH1 R AH0 M EH2 N T ER0 Z
 experimenting EH0 K S P EH1 R AH0 M EH2 N T IH0 NG
-experimenting(2) EH0 K S P EH1 R AH0 M EH0 N IH0 NG
 experiments IH0 K S P EH1 R AH0 M AH0 N T S
 expert EH1 K S P ER0 T
 expert's EH1 K S P ER0 T S
@@ -42653,7 +42607,6 @@ fingernail F IH1 NG G ER0 N EY2 L
 fingernails F IH1 NG G ER0 N EY2 L Z
 fingerpaint F IH1 NG G ER0 P EY2 N T
 fingerpainted F IH1 NG G ER0 P EY2 N T IH0 D
-fingerpainted(2) F IH1 NG G ER0 P EY2 N IH0 D
 fingerpointing F IH1 NG G ER0 P OY2 N T IH0 NG
 fingerprint F IH1 NG G ER0 P R IH2 N T
 fingerprinted F IH1 NG G ER0 P R IH2 N T IH0 D
@@ -49856,58 +49809,35 @@ grandkid(2) G R AE1 N K IH2 D
 grandkids G R AE1 N D K IH2 D Z
 grandkids(2) G R AE1 N K IH2 D Z
 grandly G R AE1 N D L IY0
-grandma G R AE1 M AA0
-grandma(2) G R AE1 N D M AA0
+grandma G R AE1 N D M AA0
 grandma's G R AE1 N D M AA2 Z
-grandma's(2) G R AE1 M AA2 Z
 grandmaison G R AE1 N D M AY2 Z AA1 N
 grandmaison(2) G R AE1 N D M EY1 S AH0 N
 grandmas G R AE1 N D M AA2 Z
-grandmas(2) G R AE1 N M AA2 Z
-grandmas(3) G R AE1 M AA2 Z
 grandmaster G R AE1 N D M AE1 S T ER0
 grandmaster(2) G R AE1 N M AE1 S T ER0
 grandmet G R AE1 N D M EH2 T
 grandmother G R AE1 N D M AH2 DH ER0
-grandmother(2) G R AE1 N M AH2 DH ER0
-grandmother(3) G R AE1 M AH2 DH ER0
 grandmother's G R AE1 N D M AH2 DH ER0 Z
-grandmother's(2) G R AE1 M AH2 DH ER0 Z
-grandmother's(3) G R AE1 N M AH2 DH ER0 Z
 grandmotherly G R AE1 N D M AH2 DH ER0 L IY0
-grandmotherly(2) G R AE1 N M AH2 DH ER0 L IY0
-grandmotherly(3) G R AE1 M AH2 DH ER0 L IY0
 grandmothers G R AE1 N D M AH2 DH ER0 Z
-grandmothers(2) G R AE1 N M AH2 DH ER0 Z
-grandmothers(3) G R AE1 M AH2 DH ER0 Z
 grandnephew G R AE1 N D N EH1 F Y UW0
 grandnephews G R AE1 N D N EH1 F Y UW0 Z
 grandon G R AE1 N D AA0 N
 grandpa G R AE1 N D P AA2
-grandpa(2) G R AE1 N P AA2
-grandpa(3) G R AE1 M P AA2
 grandpa's G R AE1 N P AA2 Z
 grandparent G R AE1 N D P EH2 R AH0 N T
-grandparent(2) G R AE1 N P EH2 R AH0 N T
 grandparents G R AE1 N D P EH2 R AH0 N T S
-grandparents(2) G R AE1 N P EH2 R AH0 N T S
 grandparents' G R AE1 N D P EH2 R AH0 N T S
-grandparents'(2) G R AE1 N P EH2 R AH0 N T S
 grandpas G R AE1 N D P AA2 Z
 grandpre G R AE1 N D P R EY2
 grands G R AE1 N D Z
 grandson G R AE1 N D S AH2 N
-grandson(2) G R AE1 N S AH2 N
 grandson's G R AE1 N D S AH2 N Z
-grandson's(2) G R AE1 N S AH2 N Z
 grandsons G R AE1 N D S AH2 N Z
-grandsons(2) G R AE1 N S AH2 N Z
 grandstaff G R AE1 N D S T AE2 F
-grandstaff(2) G R AE1 N S T AE2 F
 grandstand G R AE1 N D S T AE2 N D
-grandstand(2) G R AE1 N S T AE2 N D
 grandstanding G R AE1 N D S T AE2 N D IH0 NG
-grandstanding(2) G R AE1 N S T AE2 N D IH0 NG
 grandt G R AE1 N T
 granduncle G R AE1 N D AH1 NG K AH0 L
 granduncles G R AE1 N D AH1 NG K AH0 L Z
@@ -58240,32 +58170,18 @@ iden AY1 D AH0 N
 ident AY0 D EH1 N T
 identa AY0 D EH1 N T AH0
 identical AY0 D EH1 N T IH0 K AH0 L
-identical(2) AY0 D EH1 N IH0 K AH0 L
 identics AY0 D EH1 N T IH0 K S
-identics(2) AY0 D EH1 N IH0 K S
 identifiable AY0 D EH1 N T AH0 F AY2 AH0 B AH0 L
-identifiable(2) AY0 D EH1 N AH0 F AY2 AH0 B AH0 L
 identification AY0 D EH2 N T AH0 F AH0 K EY1 SH AH0 N
-identification(2) AY0 D EH2 N AH0 F AH0 K EY1 SH AH0 N
 identifications AY0 D EH2 N T AH0 F AH0 K EY1 SH AH0 N Z
-identifications(2) AY0 D EH2 N AH0 F AH0 K EY1 SH AH0 N Z
 identified AY0 D EH1 N T AH0 F AY2 D
-identified(2) AY0 D EH1 N AH0 F AY2 D
 identifier AY0 D EH1 N T AH0 F AY2 ER0
-identifier(2) AY0 D EH1 N AH0 F AY2 ER0
 identifies AY0 D EH1 N T AH0 F AY2 Z
-identifies(2) AY0 D EH1 N AH0 F AY2 Z
 identify AY0 D EH1 N T AH0 F AY2
-identify(2) AY0 D EH1 N AH0 F AY2
 identifying AY0 D EH1 N T AH0 F AY2 IH0 NG
-identifying(2) AY0 D EH1 N AH0 F AY2 IH0 NG
 identikit AY0 D EH1 N T IH0 K IH2 T
 identities AY0 D EH1 N T IH0 T IY2 Z
-identities(2) AY0 D EH1 N IH0 T IY0 Z
-identity AY0 D EH1 N T AH0 T IY2
-identity(2) AY0 D EH1 N T IH0 T IY0
-identity(3) AY0 D EH1 N IH0 T IY0
-identity(4) AY0 D EH1 N AH0 T IY0
+identity AY0 D EH1 N T IH0 T IY2
 ideological AY2 D IY0 AH0 L AA1 JH IH0 K AH0 L
 ideologically AY2 D IY0 AH0 L AA1 JH IH0 K L IY0
 ideologies AY2 D IY0 AA1 L AH0 JH IY0 Z
@@ -59195,11 +59111,8 @@ incredulity IH2 N K R AH0 D UW1 L IH0 T IY0
 incredulous IH2 N K R EH1 JH AH0 L AH0 S
 increment IH1 N K R AH0 M AH0 N T
 incremental IH2 N K R AH0 M EH1 N T AH0 L
-incremental(2) IH2 N K R AH0 M EH1 N AH0 L
 incrementalism IH2 N K R AH0 M EH1 N T AH0 L IH2 Z M
-incrementalism(2) IH2 N K R AH0 M EH1 N AH0 L IH0 Z M
 incrementally IH2 N K R AH0 M EH1 N T AH0 L IY2
-incrementally(2) IH0 N K R AH0 M EH1 N AH0 L IY0
 incremented IH1 N K R AH0 M EH2 N T IH0 D
 increments IH1 NG K R AH0 M AH0 N T S
 incriminate IH2 N K R IH1 M AH0 N EY2 T
@@ -59312,7 +59225,6 @@ indices(2) IH1 N D AH0 S IH0 Z
 indicia IH2 N D IH1 S Y AH0
 indict IH2 N D AY1 T
 indicted IH2 N D AY1 T IH0 D
-indicted(2) IH0 N D AY1 T IH0 D
 indicting IH2 N D AY1 T IH0 NG
 indictment IH2 N D AY1 T M AH0 N T
 indictments IH2 N D AY1 T M AH0 N T S
@@ -59339,7 +59251,6 @@ indigo(2) IH1 N D IH0 G OW2
 indira IH2 N D IH1 R AH0
 indirect IH2 N D ER0 EH1 K T
 indirectly IH2 N D ER0 EH1 K T L IY2
-indirectly(2) IH0 N D ER0 EH1 K L IY0
 indiscreet IH2 N D IH0 S K R IY1 T
 indiscretion IH2 N D IH0 S K R EH1 SH AH0 N
 indiscretions IH2 N D IH0 S K R EH1 SH AH0 N Z
@@ -59401,7 +59312,6 @@ inducing IH2 N D UW1 S IH0 NG
 induct IH2 N D AH1 K T
 inductance IH2 N D AH1 K T AH0 N S
 inducted IH2 N D AH1 K T IH0 D
-inducted(2) IH0 N D AH1 K T IH0 D
 inductee IH2 N D AH1 K T IY1
 inductees IH2 N D AH1 K T IY1 Z
 induction IH2 N D AH1 K SH AH0 N
@@ -59527,7 +59437,6 @@ infatuation IH2 N F AE2 CH UW0 EY1 SH AH0 N
 infeasible IH2 N F IY1 Z AH0 B AH0 L
 infect IH2 N F EH1 K T
 infected IH2 N F EH1 K T IH0 D
-infected(2) IH0 N F EH1 K T IH0 D
 infecting IH2 N F EH1 K T IH0 NG
 infection IH2 N F EH1 K SH AH0 N
 infections IH2 N F EH1 K SH AH0 N Z
@@ -59551,7 +59460,6 @@ infest IH2 N F EH1 S T
 infestation IH2 N F EH1 S T EY1 SH AH0 N
 infestations IH2 N F EH2 S T EY1 SH AH0 N Z
 infested IH2 N F EH1 S T IH0 D
-infested(2) IH0 N F EH1 S T IH0 D
 infests IH2 N F EH1 S T S
 infidel IH1 N F IH0 D EH2 L
 infidelities IH2 N F IH0 D EH1 L IH0 T IY0 Z
@@ -59574,8 +59482,7 @@ infinitesimal IH2 N F IH0 N IH0 T EH1 S IH0 M AH0 L
 infiniti IH2 N F IH1 N IH0 T IY0
 infinitive IH2 N F IH1 N IH0 T IH0 V
 infinitum IH2 N F IH1 N IH0 T AH0 M
-infinity IH0 N F IH1 N AH0 T IY0
-infinity(2) IH0 N F IH1 N IH0 T IY0
+infinity IH2 N F IH1 N IH0 T IY0
 infirm IH0 N F ER1 M
 infirmary IH0 N F ER1 M ER0 IY0
 infirmed IH0 N F ER1 M D
@@ -59591,7 +59498,6 @@ inflammatory IH0 N F L AE1 M AH0 T AO2 R IY0
 inflatable IH0 N F L EY1 T AH0 B AH0 L
 inflate IH0 N F L EY1 T
 inflated IH2 N F L EY1 T IH0 D
-inflated(2) IH0 N F L EY1 T IH0 D
 inflates IH2 N F L EY1 T S
 inflating IH2 N F L EY1 T IH0 NG
 inflation IH2 N F L EY1 SH AH0 N
@@ -60638,19 +60544,12 @@ interrogatories IH2 N T EH0 R AA1 G AH0 T AO2 R IY0 Z
 interrogators IH2 N T EH1 R AH0 G EY2 T ER0 Z
 interrogatory IH2 N T EH0 R AA1 G AH0 T AO2 R IY0
 interrupt IH2 N T ER0 AH1 P T
-interrupt(2) IH2 N ER0 AH1 P T
 interrupted IH2 N T ER0 AH1 P T IH0 D
-interrupted(2) IH2 N ER0 AH1 P T IH0 D
 interruptible IH2 N T ER0 R AH1 P T IH0 B AH0 L
-interruptible(2) IH2 N ER0 R AH1 P T IH0 B AH0 L
 interrupting IH2 N T ER0 AH1 P T IH0 NG
-interrupting(2) IH2 N ER0 AH1 P T IH0 NG
 interruption IH2 N T ER0 AH1 P SH AH0 N
-interruption(2) IH2 N ER0 AH1 P SH AH0 N
 interruptions IH2 N T ER0 AH1 P SH AH0 N Z
-interruptions(2) IH2 N ER0 AH1 P SH AH0 N Z
 interrupts IH2 N T ER0 AH1 P T S
-interrupts(2) IH2 N ER0 AH1 P T S
 interscholastic IH2 N T ER0 S K AH0 L AE1 S T IH0 K
 interscope IH1 N T ER0 S K OW2 P
 intersec IH1 N T ER0 S EH0 K
@@ -60682,49 +60581,26 @@ intertwined IH2 N T ER0 T W AY1 N D
 intertwining IH1 N T ER0 T W AY2 N IH0 NG
 interurban IH2 N T ER0 ER1 B AH0 N
 interval IH1 N T ER0 V AH0 L
-interval(2) IH1 N ER0 V AH0 L
 intervals IH1 N T ER0 V AH0 L Z
-intervals(2) IH1 N ER0 V AH0 L Z
 intervene IH2 N T ER0 V IY1 N
-intervene(2) IH2 N ER0 V IY1 N
 intervened IH2 N T ER0 V IY1 N D
-intervened(2) IH2 N ER0 V IY1 N D
 intervenes IH2 N T ER0 V IY1 N Z
-intervenes(2) IH2 N ER0 V IY1 N Z
 intervening IH2 N T ER0 V IY1 N IH0 NG
-intervening(2) IH2 N ER0 V IY1 N IH0 NG
 intervenor IH2 N T ER0 V IY1 N ER0
-intervenor(2) IH2 N ER0 V IY1 N ER0
 intervenors IH2 N T ER0 V IY1 N ER0 Z
-intervenors(2) IH2 N ER0 V IY1 N ER0 Z
 intervention IH2 N T ER0 V EH1 N SH AH0 N
-intervention(2) IH2 N ER0 V EH1 N SH AH0 N
 interventionism IH2 N T ER0 V EH1 N SH AH0 N IH2 Z AH0 M
-interventionism(2) IH2 N ER0 V EH1 N SH AH0 N IH2 Z AH0 M
 interventionist IH2 N T ER0 V EH1 N SH AH0 N IH0 S T
-interventionist(2) IH2 N ER0 V EH1 N SH AH0 N IH0 S T
 interventionists IH2 N T ER0 V EH1 N SH AH0 N IH0 S T S
-interventionists(2) IH2 N ER0 V EH1 N SH AH0 N IH0 S T S
-interventionists(3) IH2 N T ER0 V EH1 N SH AH0 N IH0 S
-interventionists(4) IH2 N ER0 V EH1 N SH AH0 N IH0 S
 interventions IH2 N T ER0 V EH1 N SH AH0 N Z
-interventions(2) IH2 N ER0 V EH1 N SH AH0 N Z
 interview IH1 N T ER0 V Y UW2
-interview(2) IH1 N ER0 V Y UW2
 interviewed IH1 N T ER0 V Y UW2 D
-interviewed(2) IH1 N ER0 V Y UW2 D
 interviewee IH2 N T ER0 V Y UW0 IY1
-interviewee(2) IH0 N ER0 V Y UW0 IY1
 interviewees IH2 N T ER0 V Y UW0 IY1 Z
-interviewees(2) IH0 N ER0 V Y UW0 IY1 Z
 interviewer IH1 N T ER0 V Y UW2 ER0
-interviewer(2) IH1 N ER0 V Y UW2 ER0
 interviewers IH1 N T ER0 V Y UW2 ER0 Z
-interviewers(2) IH1 N ER0 V Y UW2 ER0 Z
 interviewing IH1 N T ER0 V Y UW2 IH0 NG
-interviewing(2) IH1 N ER0 V Y UW2 IH0 NG
 interviews IH1 N T ER0 V Y UW2 Z
-interviews(2) IH1 N ER0 V Y UW2 Z
 intervoice IH2 N T ER0 V OY1 S
 interweave IH2 N T ER0 W IY1 V
 interweaving IH2 N T ER0 W IY1 V IH0 NG
@@ -61050,7 +60926,7 @@ iowan AY1 AH0 W AH0 N
 iowan(2) AY1 OW0 AH0 N
 iowans AY1 AH0 W AH0 N Z
 iowans(2) AY1 OW0 AH0 N Z
-ip IH1 P IY1
+ip AY1 P IY1
 ip(2) IH1 P
 ipad AY1 P AE2 D
 ipads AY1 P AE2 D Z
@@ -70339,30 +70215,18 @@ libeled L AY1 B AH0 L D
 libelous L AY1 B AH0 L AH0 S
 liberace L IH2 B ER2 AA1 CH IY2
 liberal L IH1 B ER2 AH0 L
-liberal(2) L IH1 B R AH0 L
 liberalism L IH1 B ER2 AH0 L IH2 Z AH0 M
-liberalism(2) L IH1 B R AH0 L IH2 Z AH0 M
-liberalism's L IH1 B ER0 R AH0 L IH2 Z AH0 M Z
-liberalism's(2) L IH1 B R AH0 L IH2 Z AH0 M Z
+liberalism's L IH1 B ER2 AH0 L IH2 Z AH0 M Z
 liberality L IH2 B ER2 AE1 L AH0 T IY2
-liberalization L IH2 B AH0 R AH0 L IH0 Z EY1 SH AH0 N
-liberalization(2) L IH2 B R AH0 L IH0 Z EY1 SH AH0 N
+liberalization L IH2 B ER2 AH0 L IH0 Z EY1 SH AH0 N
 liberalizations L IH2 B ER2 AH0 L IH0 Z EY1 SH AH0 N Z
-liberalizations(2) L IH0 B R AH0 L IH0 Z EY1 SH AH0 N Z
 liberalize L IH1 B ER2 AH0 L AY2 Z
-liberalize(2) L IH1 B R AH0 L AY2 Z
 liberalized L IH1 B ER2 AH0 L AY2 Z D
-liberalized(2) L IH1 B R AH0 L AY2 Z D
 liberalizes L IH1 B ER2 AH0 L AY2 Z IH0 Z
-liberalizes(2) L IH1 B R AH0 L AY2 Z IH0 Z
 liberalizing L IH1 B ER2 AH0 L AY2 Z IH0 NG
-liberalizing(2) L IH1 B R AH0 L AY2 Z IH0 NG
 liberally L IH1 B ER2 AH0 L IY2
-liberally(2) L IH1 B R AH0 L IY0
 liberals L IH1 B ER2 AH0 L Z
-liberals(2) L IH1 B R AH0 L Z
 liberals' L IH1 B ER2 AH0 L Z
-liberals'(2) L IH1 B R AH0 L Z
 liberate L IH1 B ER2 EY2 T
 liberated L IH1 B ER2 EY2 T IH0 D
 liberati L IY0 B ER2 AA1 T IY2
@@ -89010,20 +88874,12 @@ paintball P EY1 N T B AA2 L
 paintbrush P EY1 N T B R AH2 SH
 paintbrushes P EY1 N T B R AH2 SH IH0 S
 painted P EY1 N T IH0 D
-painted(2) P EY1 N AH0 D
-painted(3) P EY1 N IH0 D
 painter P EY1 N T ER0
-painter(2) P EY1 N ER0
 painter's P EY1 N T ER0 Z
-painter's(2) P EY1 N ER0 Z
 painterly P EY1 N T ER0 L IY0
-painterly(2) P EY1 N ER0 L IY0
 painters P EY1 N T ER0 Z
-painters(2) P EY1 N ER0 Z
 painting P EY1 N T IH0 NG
-painting(2) P EY1 N IH0 NG
 paintings P EY1 N T IH0 NG Z
-paintings(2) P EY1 N IH0 NG Z
 paints P EY1 N T S
 pair P EH1 R
 paired P EH1 R D
@@ -90735,7 +90591,7 @@ peko P IY1 K OW2
 pekrul P EH1 K R AH0 L
 peladeau P EH1 L AH0 D OW2
 pelaez P EY0 L AA1 EH0 Z
-pelagia P EH0 L AA1 JH AH0
+pelagia P EH0 L AA1 JH IY0 AH0
 pelagian P IH0 L EY1 JH IY0 AH0 N
 pelagians P IH0 L EY1 JH IY0 AH0 N Z
 pelagic P AH0 L AE1 JH IH0 K
@@ -93105,8 +92961,6 @@ plantation P L AE2 N T EY1 SH AH0 N
 plantations P L AE2 N T EY1 SH AH0 N Z
 plante P L AE1 N T
 planted P L AE1 N T IH0 D
-planted(2) P L AE1 N AH0 D
-planted(3) P L AE1 N IH0 D
 planter P L AE1 N T ER0
 planters P L AE1 N T ER0 Z
 plantiffs P L AE1 N T IH0 F S
@@ -93633,9 +93487,7 @@ poindexter's P OY1 N D EH2 K S T ER0 Z
 poinot P OY1 N AA2 T
 poinsett P OY1 N S IH0 T
 poinsettia P OY2 N S EH1 T IY2 AH0
-poinsettia(2) P OY0 N S EH1 T AH0
 poinsettias P OY2 N S EH1 T IY2 AH0 Z
-poinsettias(2) P OY0 N S EH1 T AH0 Z
 point P OY1 N T
 point's P OY1 N T S
 pointe P OY1 N T
@@ -96261,31 +96113,17 @@ protean P R OW0 T IY1 AH0 N
 protean(2) P R OW1 T IY0 AH0 N
 protease P R OW1 T IY0 EY2 Z
 protect P R AH0 T EH1 K T
-protect(2) P ER0 T EH1 K T
 protected P R AH0 T EH1 K T IH0 D
-protected(2) P ER0 T EH1 K T IH0 D
 protectee P R AH0 T EH1 K T IY0
-protectee(2) P ER0 T EH1 K T IY0
 protectees P R AH0 T EH1 K T IY0 Z
-protectees(2) P ER0 T EH1 K T IY0 Z
 protecting P R AH0 T EH1 K T IH0 NG
-protecting(2) P ER0 T EH1 K T IH0 NG
 protection P R AH0 T EH1 K SH AH0 N
-protection(2) P ER0 T EH1 K SH AH0 N
 protectionism P R AH0 T EH1 K SH AH0 N IH2 Z AH0 M
-protectionism(2) P ER0 T EH1 K SH AH0 N IH2 Z AH0 M
 protectionist P R AH0 T EH1 K SH AH0 N IH0 S T
-protectionist(2) P ER0 T EH1 K SH AH0 N IH0 S T
 protectionists P R AH0 T EH1 K SH AH0 N IH0 S T S
-protectionists(2) P ER0 T EH1 K SH AH0 N IH0 S T S
-protectionists(3) P R AH0 T EH1 K SH AH0 N IH0 S
-protectionists(4) P ER0 T EH1 K SH AH0 N IH0 S
 protections P R AH0 T EH1 K SH AH0 N Z
-protections(2) P ER0 T EH1 K SH AH0 N Z
 protective P R AH0 T EH1 K T IH0 V
-protective(2) P ER0 T EH1 K T IH0 V
 protectively P R AH0 T EH1 K T IH0 V L IY0
-protectively(2) P ER0 T EH1 K T IH0 V L IY0
 protector P R AH0 T EH1 K T ER0
 protectorate P R AH0 T EH1 K T ER0 AH0 T
 protectors P R AH0 T EH1 K T ER0 Z
@@ -97234,26 +97072,16 @@ quang K W AO1 NG
 quant K W AE1 N T
 quantico K W AA1 N T IH0 K OW0
 quantifiable K W AA2 N T IH0 F AY1 AH0 B EH0 L
-quantifiable(2) K W AA2 N IH0 F AY1 AH0 B EH0 L
 quantification K W AA2 N T IH0 F AH0 K EY1 SH AH0 N
 quantified K W AA1 N T IH0 F AY2 D
-quantified(2) K W AA1 N IH0 F AY2 D
 quantify K W AA1 N T IH0 F AY2
-quantify(2) K W AA1 N IH0 F AY2
 quantifying K W AA1 N T IH0 F AY2 IH0 NG
-quantifying(2) K W AA1 N IH0 F AY2 IH0 NG
 quantitative K W AA1 N T IH0 T EY2 T IH0 V
-quantitative(2) K W AA1 N IH0 T EY2 T IH0 V
 quantitatively K W AA2 N T IH0 T EY1 T AH0 V L IY0
-quantitatively(2) K W AA2 N IH0 T EY1 T AH0 V L IY0
 quantities K W AA1 N T AH0 T IY0 Z
-quantities(2) K W AA1 N AH0 T IY0 Z
 quantity K W AA1 N T AH0 T IY0
-quantity(2) K W AA1 N AH0 T IY0
 quantum K W AA1 N T AH0 M
-quantum(2) K W AA1 N AH0 M
 quantum's K W AA1 N T AH0 M Z
-quantum's(2) K W AA1 N AH0 M Z
 quaquil K W AE1 K W IH0 L
 quaranta K W ER0 AE1 N T AH0
 quarante K W ER0 AA1 N T EY0
@@ -97281,27 +97109,17 @@ quarrying K W AO1 R IY0 IH0 NG
 quart K W AO1 R T
 quartararo K W AA0 R T AA0 R AA1 R OW0
 quarter K W AO1 R T ER0
-quarter(2) K AO1 R T ER0
 quarter's K W AO1 R T ER0 Z
-quarter's(2) K AO1 R T ER0 Z
 quarterback K W AO1 R T ER0 B AE2 K
-quarterback(2) K AO1 R T ER0 B AE2 K
 quarterbacking K W AO1 R T ER0 B AE2 K IH0 NG
-quarterbacking(2) K AO1 R T ER0 B AE2 K IH0 NG
 quarterbacks K W AO1 R T ER0 B AE2 K S
-quarterbacks(2) K AO1 R T ER0 B AE2 K S
 quarterdeck K W AO1 R T ER0 D EH2 K
-quarterdeck(2) K AO1 R T ER0 D EH2 K
 quarterly K W AO1 R T ER0 L IY0
-quarterly(2) K AO1 R T ER0 L IY0
 quarterman K W AO1 R T ER0 M AH0 N
-quarterman(2) K AO1 R T ER0 M AH0 N
 quartermaster K W AO1 R T ER0 M AE2 S T ER0
-quartermaster(2) K AO1 R T ER0 M AE2 S T ER0
 quarters K W AO1 R T ER0 Z
-quarters' K W AA1 R T ER0 Z
-quarters's K AO1 R T ER0 Z
-quarters's(2) K W AO1 R T ER0 Z
+quarters' K W AO1 R T ER0 Z
+quarters's K W AO1 R T ER0 Z
 quartet K W AO0 R T EH1 T
 quartet's K W AO0 R T EH1 T S
 quartets K W AO0 R T EH1 T S
@@ -99856,14 +99674,10 @@ reflagged R IY0 F L AE1 G D
 reflagging R IY0 F L AE1 G IH0 NG
 reflate R IY0 F L EY1 T
 reflation R IY0 F L EY1 SH AH0 N
-reflect R AH0 F L EH1 K T
-reflect(2) R IH0 F L EH1 K T
-reflected R AH0 F L EH1 K T IH0 D
-reflected(2) R IH0 F L EH1 K T IH0 D
-reflecting R AH0 F L EH1 K T IH0 NG
-reflecting(2) R IH0 F L EH1 K T IH0 NG
-reflection R AH0 F L EH1 K SH AH0 N
-reflection(2) R IH0 F L EH1 K SH AH0 N
+reflect R IH0 F L EH1 K T
+reflected R IH0 F L EH1 K T IH0 D
+reflecting R IH0 F L EH1 K T IH0 NG
+reflection R IH0 F L EH1 K SH AH0 N
 reflections R IH0 F L EH1 K SH AH0 N Z
 reflective R IH0 F L EH1 K T IH0 V
 reflectone R IY0 F L EH1 K T OW2 N
@@ -99871,7 +99685,6 @@ reflectone's R IY0 F L EH1 K T OW2 N Z
 reflector R IH0 F L EH1 K T ER0
 reflectors R IH0 F L EH1 K T ER0 Z
 reflects R IH0 F L EH1 K T S
-reflects(2) R IH0 F L EH1 K S
 reflex R IY1 F L EH0 K S
 reflexes R IY1 F L EH0 K S AH0 Z
 reflexive R AH0 F L EH1 K S IH0 V
@@ -99985,12 +99798,9 @@ regaling R IH0 G EY1 L IH0 NG
 regally R IY1 G AH0 L IY0
 regan R IY1 G AH0 N
 regan's R IY1 G AH0 N Z
-regard R AH0 G AA1 R D
-regard(2) R IH0 G AA1 R D
-regarded R AH0 G AA1 R D IH0 D
-regarded(2) R IH0 G AA1 R D IH0 D
-regarding R AH0 G AA1 R D IH0 NG
-regarding(2) R IH0 G AA1 R D IH0 NG
+regard R IH0 G AA1 R D
+regarded R IH0 G AA1 R D IH0 D
+regarding R IH0 G AA1 R D IH0 NG
 regardless R AH0 G AA1 R D L AH0 S
 regards R IH0 G AA1 R D Z
 regas R IY1 G AH0 Z
@@ -101097,8 +100907,7 @@ reppond R EH1 P AH0 N D
 reppucci R EH0 P UW1 CH IY0
 repr R EH1 P ER0
 reprehensible R EH2 P R IH0 HH EH1 N S AH0 B AH0 L
-represent R EH2 P R AH0 Z EH1 N T
-represent(2) R EH2 P R IH0 Z EH1 N T
+represent R EH2 P R IH0 Z EH1 N T
 representation R EH2 P R AH0 Z EH0 N T EY1 SH AH0 N
 representational R EH2 P R AH0 Z AH0 N T EY1 SH AH0 N AH0 L
 representations R EH2 P R AH0 Z AH0 N T EY1 SH AH0 N Z
@@ -101114,14 +100923,9 @@ representatives(3) R EH2 P R AH0 Z EH1 N AH0 T IH0 V Z
 representatives(4) R EH2 P R IH0 Z EH1 N AH0 T IH0 V Z
 representatives' R EH2 P R AH0 S EH1 N T AH0 T IH0 V Z
 representatives'(2) R EH2 P R AH0 S EH1 N AH0 T IH0 V Z
-represented R EH2 P R AH0 Z EH1 N T IH0 D
-represented(2) R EH2 P R IH0 Z EH1 N T IH0 D
-represented(3) R EH2 P R AH0 Z EH1 N AH0 D
-represented(4) R EH2 P R IH0 Z EH1 N IH0 D
+represented R EH2 P R IH0 Z EH1 N T IH0 D
 representing R EH2 P R IH0 Z EH1 N T IH0 NG
-representing(2) R EH2 P R IH0 Z EH1 N IH0 NG
-represents R EH2 P R AH0 Z EH1 N T S
-represents(2) R EH2 P R IH0 Z EH1 N T S
+represents R EH2 P R IH0 Z EH1 N T S
 repress R IY0 P R EH1 S
 repressed R IY0 P R EH1 S T
 repressing R IY0 P R EH1 S IH0 NG
@@ -105693,17 +105497,11 @@ sanctify S AE1 NG K T AH0 F AY0
 sanctimonious S AE2 NG K T AH0 M OW1 N IY0 AH0 S
 sanctimony S AE1 NG K T IH0 M OW2 N IY0
 sanction S AE1 NG K SH AH0 N
-sanction(2) S AE1 NG SH AH0 N
 sanction's S AE1 NG K SH AH0 N Z
-sanction's(2) S AE1 NG SH AH0 N Z
 sanctioned S AE1 NG K SH AH0 N D
-sanctioned(2) S AE1 NG SH AH0 N D
 sanctioning S AE1 NG K SH AH0 N IH0 NG
-sanctioning(2) S AE1 NG SH AH0 N IH0 NG
 sanctions S AE1 NG K SH AH0 N Z
-sanctions(2) S AE1 NG SH AH0 N Z
 sanctions' S AE1 NG K SH AH0 N Z
-sanctions'(2) S AE1 NG SH AH0 N Z
 sanctity S AE1 NG K T IH0 T IY0
 sanctuaries S AE1 NG K CH UW0 EH2 R IY0 Z
 sanctuary S AE1 NG K CH UW0 EH2 R IY0
@@ -105879,15 +105677,10 @@ santa S AE1 N T AH0
 santa(2) S AE1 N AH0
 santa's S AE1 N T AH0 Z
 santa-croce S AE1 N T AH0 K R OW1 CH IY0
-santa-croce(2) S AE1 N AH0 K R OW1 CH IY0
 santa-cruz S AE1 N T AH0 K R UW1 Z
-santa-cruz(2) S AE1 N AH0 K R UW1 Z
 santa-fe S AE1 N T AH0 F EY1
-santa-fe(2) S AE1 N AH0 F EY1
 santa-fe's S AE1 N T AH0 F EY1 Z
-santa-fe's(2) S AE1 N AH0 F EY1 Z
 santa-maria S AE1 N T AH0 M ER0 IY1 AH0
-santa-maria(2) S AE1 N AH0 M ER0 IY1 AH0
 santagata S AA0 N T AA0 G AA1 T AH0
 santala S AE0 N T AA1 L AH0
 santana S AE0 N T AE1 N AH0
@@ -108206,19 +107999,14 @@ seco S EH1 K OW0
 secom S EH1 K AA0 M
 secomerica S EH2 K OW0 M EH1 R IH0 K AH0
 second S EH1 K AH0 N D
-second(2) S EH1 K AH0 N
 second's S EH1 K AH0 N D Z
 secondaries S EH1 K AH0 N D EH2 R IY0 Z
 secondarily S EH2 K AH0 N D EH1 R AH0 L IY0
 secondary S EH1 K AH0 N D EH2 R IY0
 seconded S EH1 K AH0 N D IH0 D
-seconded(2) S EH1 K AH0 N AH0 D
 secondhand S EH1 K AH0 N D HH AE2 N D
-secondhand(2) S EH1 K AH0 N HH AE2 N D
 secondly S EH1 K AH0 N D L IY0
-secondly(2) S EH1 K AH0 N L IY0
 seconds S EH1 K AH0 N D Z
-seconds(2) S EH1 K AH0 N Z
 secor S EH1 K ER0
 secord S IY1 K AO0 R D
 secord's S IY1 K AO0 R D Z
@@ -114284,16 +114072,13 @@ spirited S P IH1 R IH0 T IH0 D
 spiritedness S P IH1 R IH0 T IH0 D N AH0 S
 spirito S P IH0 R IY1 T OW2
 spirits S P IH1 R IH0 T S
-spiritual S P IH1 R IH0 CH AH0 W AH0 L
-spiritual(2) S P IH1 R IH0 CH W AH0 L
-spiritualism S P IH1 R IH0 CH AH0 W AH0 L IH0 Z M
-spiritualism(2) S P IH1 R IH0 CH W AH0 L IH2 Z M
-spiritualist S P IH1 R IH0 CH AH0 W AH0 L IH0 S T
-spiritualists S P IH1 R IH0 CH AH0 W AH0 L IH0 S T S
-spirituality S P IH2 R IH0 CH AH0 W AE1 L AH0 T IY0
-spiritually S P IH1 R IH0 CH AH0 W AH0 L IY0
-spirituals S P IH1 R IH0 CH AH0 W AH0 L Z
-spirituals(2) S P IH1 R IH0 CH W AH0 L Z
+spiritual S P IH1 R IH0 CH UW2 AH0 L
+spiritualism S P IH1 R IH0 CH UW2 AH0 L IH2 Z M
+spiritualist S P IH1 R IH0 CH UW2 AH0 L IH2 S T
+spiritualists S P IH1 R IH0 CH UW2 AH0 L IH2 S T S
+spirituality S P IH2 R IH0 CH UW2 AE1 L AH0 T IY2
+spiritually S P IH1 R IH0 CH UW2 AH0 L IY2
+spirituals S P IH1 R IH0 CH UW2 AH0 L Z
 spiro S P IH1 R OW2
 spiro's S P IH1 R OW2 Z
 spiros S P IH1 R OW2 Z
@@ -114324,8 +114109,7 @@ splain S P L EY1 N
 splaine S P L EY1 N
 splash S P L AE1 SH
 splashed S P L AE1 SH T
-splashes S P L AE1 SH AH0 Z
-splashes(2) S P L AE1 SH IH0 Z
+splashes S P L AE1 SH IH0 Z
 splashing S P L AE1 SH IH0 NG
 splashy S P L AE1 SH IY0
 splat S P L AE1 T
@@ -114488,8 +114272,7 @@ spotty S P AA1 T IY0
 spousal S P AW1 Z AH0 L
 spouse S P AW1 S
 spouse's S P AW1 S IH0 Z
-spouses S P AW1 S AH0 Z
-spouses(2) S P AW1 S IH0 Z
+spouses S P AW1 S IH0 Z
 spout S P AW1 T
 spouted S P AW1 T IH0 D
 spouting S P AW1 T IH0 NG
@@ -115331,7 +115114,7 @@ staszewski S T AH0 SH EH1 F S K IY2
 stat S T AE1 T
 state S T EY1 T
 state's S T EY1 T S
-state-of-the-art S T EY1 T AA0 F DH EH2 AA1 R T
+state-of-the-art S T EY2 T AH0 V DH IH0 AA1 R T
 statecraft S T EY1 T K R AE2 F T
 stated S T EY1 T IH0 D
 statehood S T EY1 T HH UH2 D
@@ -117891,7 +117674,6 @@ superbowl S UW1 P ER0 B OW2 L
 superbowl's S UW1 P ER0 B OW2 L Z
 superbowls S UW1 P ER0 B OW2 L Z
 supercalifragilistic S UW2 P ER0 K AE2 L AH0 F R AE1 JH AH0 L IH2 S T IH0 K
-supercalifragilisticexpealidoshus S UW2 P ER0 K AE2 L AH0 F R AE1 JH AH0 L IH2 S T IH0 K EH2 K S P IY0 AE2 L AH0 D OW1 SH AH0 S
 supercenter S UW1 P ER0 S EH2 N T ER0
 supercenters S UW1 P ER0 S EH2 N T ER0 S
 supercharge S UW2 P ER0 CH AA1 R JH
@@ -118264,8 +118046,6 @@ suspected S AH0 S P EH1 K T IH0 D
 suspecting S AH0 S P EH1 K T IH0 NG
 suspects S AH0 S P EH1 K T S
 suspects(2) S AH1 S P EH2 K T S
-suspects(3) S AH0 S P EH1 K S
-suspects(4) S AH1 S P EH2 K S
 suspects' S AH1 S P EH2 K T S
 suspend S AH0 S P EH1 N D
 suspended S AH0 S P EH1 N D IH0 D
@@ -119735,10 +119515,9 @@ tastings T EY1 S T IH0 NG Z
 tasty T EY1 S T IY0
 tat T AE1 T
 tata T AA1 T AA0
-tatar T AE1 T ER0
-tatars T AE1 T ER0 Z
-tatarstan T AA1 T ER0 S T AE2 N
-tatarstan(2) T AA1 T AA2 R S T AE2 N
+tatar T AA2 T AA1 R
+tatars T AA2 T AA1 R Z
+tatarstan T AA2 T AA1 R S T AA2 N
 tate T EY1 T
 tate's T EY1 T S
 tateho T AH0 T EY1 HH OW0
@@ -123745,13 +123524,9 @@ trivia T R IH1 V IY0 AH0
 trivial T R IH1 V IY0 AH0 L
 triviality T R IH2 V IY0 AE1 L AH0 T IY2
 trivialize T R IH1 V IY0 AH0 L AY2 Z
-trivialize(2) T R IH1 V Y AH0 L AY2 Z
 trivialized T R IH1 V IY0 AH0 L AY2 Z D
-trivialized(2) T R IH1 V Y AH0 L AY2 Z D
 trivializes T R IH1 V IY0 AH0 L AY2 Z IH0 Z
-trivializes(2) T R IH1 V Y AH0 L AY2 Z IH0 Z
 trivializing T R IH1 V IY0 AH0 L AY2 Z IH0 NG
-trivializing(2) T R IH1 V Y AH0 L AY2 Z IH0 NG
 trixie T R IH1 K S IY0
 trixy T R IH1 K S IY0
 trizec T R IH1 Z AH0 K
@@ -134775,8 +134550,8 @@ zionists Z AY1 AH0 N IH0 S T S
 zions Z AY1 AH0 N Z
 zip Z IH1 P
 zipcar Z IH1 P K AA2 R
-zipcar's Z IH1 P K AE2 R Z
-zipcars Z IH1 P K AE2 R Z
+zipcar's Z IH1 P K AA2 R Z
+zipcars Z IH1 P K AA2 R Z
 zipf Z IH1 P F
 zipfel Z IH1 P F AH0 L
 zipkin Z IH1 P K IH0 N
