@@ -1212,7 +1212,8 @@ administrator AH0 D M IH1 N AH0 S T R EY2 T ER0
 administrator's AE0 D M IH1 N IH0 S T R EY2 T ER0 Z
 administrators AE0 D M IH1 N IH0 S T R EY2 T ER0 Z
 administrators' AE0 D M IH1 N AH0 S T R EY2 T ER0 Z
-admins AE1 D M IH0 N Z
+admins AH0 D M IH1 N Z
+admins(2) AE1 D M IH0 N Z
 admira AE0 D M AY1 R AH0
 admira's AE0 D M AY1 R AH0 Z
 admirable AE1 D M ER0 AH0 B AH0 L
@@ -58854,6 +58855,7 @@ in IH0 N
 in(2) IH1 N
 in's IH0 N Z
 in's(2) IH1 N Z
+in-depth IH0 N D EH1 P TH
 in-house IH2 N HH AW1 S
 in-law IH2 N L AO1
 in-laws IH2 N L AO1 Z
@@ -59528,6 +59530,7 @@ influenza IH2 N F L UW0 EH1 N Z AH0
 influx IH1 N F L AH2 K S
 info IH1 N F OW0
 infocorp IH1 N F OW0 K AO2 R P
+infographic IH1 N F OW0 G R AE1 F IH0 K
 infomercial IH1 N F OW0 M ER2 SH AH0 L
 infomercial's IH1 N F OW0 M ER2 SH AH0 L Z
 infomercials IH1 N F OW0 M ER2 SH AH0 L Z
@@ -98633,6 +98636,7 @@ readjusted R IY2 AH0 JH AH1 S T IH0 D
 readjusting R IY2 AH0 JH AH1 S T IH0 NG
 readjustment R IY0 AH0 JH AH1 S T M AH0 N T
 readjustments R IY0 AH0 JH AH1 S T M AH0 N T S
+readmission R IY2 AE0 D M IH1 SH AH0 N
 readmit R IY2 AH0 D M IH1 T
 readmitted R IY2 AH0 D M IH1 T IH0 D
 readout R IY1 D AW2 T
@@ -117998,6 +118002,7 @@ surveyed S ER0 V EY1 D
 surveyed(2) S ER1 V EY2 D
 surveying S ER0 V EY1 IH0 NG
 surveying(2) S ER1 V EY2 IH0 NG
+surveymonkey S ER1 V EY2 M AH1 NG K IY0
 surveyor S ER0 V EY1 ER0
 surveyor(2) S ER1 V EY2 ER0
 surveyor's S ER0 V EY1 ER0 Z
@@ -123075,6 +123080,7 @@ traveller T R AE1 V AH0 L ER0
 travellers T R AE1 V AH0 L ER0 Z
 travelling T R AE1 V AH0 L IH0 NG
 travelling(2) T R AE1 V L IH0 NG
+travelocity T R AE1 V AH0 L AA1 S AH0 T IY0
 travelodge T R AE1 V AH0 L AA1 JH
 travelogue T R AE1 V AH0 L AO2 G
 travels T R AE1 V AH0 L Z
@@ -126209,6 +126215,7 @@ uselton Y UW1 S AH0 L T AH0 N
 usenet Y UW1 Z N EH2 T
 user Y UW1 Z ER0
 user's Y UW1 Z ER0 Z
+username UW1 Z ER0 N EY2 M
 users Y UW1 Z ER0 Z
 users' Y UW1 Z ER0 Z
 usery Y UW1 Z ER0 IY0
