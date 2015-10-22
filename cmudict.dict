@@ -11280,6 +11280,7 @@ bhutto's B UW1 T OW0 Z
 bi B AY1
 bi-daily B AY0 D EY1 L IY0
 bi-polar B AY0 P OW1 L ER0
+bi-weekly B AY0 W IY1 K L IY0
 biaggi B IY0 AE1 JH IY0
 biaggini B IY2 AH0 G IY1 N IY0
 biagi B IY0 AA1 JH IY0
@@ -17616,6 +17617,7 @@ callari K AA0 L AA1 R IY0
 callas K AE1 L AH0 Z
 callaway K AE1 L AH0 W EY0
 callaway's K AO1 L AH0 W EY2 Z
+callback K AO1 L B AE2 K
 calle K EY1 L
 callebs K EY1 L EH2 B Z
 called K AO1 L D
@@ -17704,6 +17706,7 @@ caltagirone K AA0 L T AA0 JH IH0 R OW1 N IY0
 caltex K AH1 L T EH1 K S
 caltha K AE1 L DH AH0
 calton K AE1 L T AH0 N
+caltrain K AE1 L T R EY2 N
 caltrans K AE1 L T R AE2 N Z
 calumet K AE2 L Y AH0 M EH1 T
 calumny K AE1 L AH0 M N IY0
@@ -19353,6 +19356,7 @@ catered K EY1 T ER0 D
 caterer K EY1 T ER0 ER0
 caterers K EY1 T ER0 ER0 Z
 catering K EY1 T ER0 IH0 NG
+caterings K AE1 T ER0 IH0 NG Z
 caterino K AA0 T ER0 IY1 N OW0
 caterpillar K AE1 T AH0 P IH2 L ER0
 caterpillar(2) K AE1 T ER0 P IH2 L ER0
@@ -21827,6 +21831,7 @@ citrano CH IY0 T R AA1 N OW0
 citric S IH1 T R IH0 K
 citrin S IH1 T R IH0 N
 citrine S IH2 T R IY1 N
+citrix S IH1 T R IH0 K S
 citro S IH1 T R OW0
 citroen S IH1 T R OW0 N
 citron S IH1 T R AH0 N
@@ -27125,6 +27130,8 @@ crouse K R AW1 S
 crouser K R AW1 S ER0
 crout K R AW1 T
 crouthamel K R AW1 TH AH0 M EH0 L
+crouton K R UW1 T AH0 N
+croutons K R UW1 T AH0 N Z
 crovitz K R OW1 V IH0 T S
 crovitz's K R OW1 V IH0 T S IH0 Z
 crovl K R OW1 V AH0 L
@@ -27567,6 +27574,7 @@ curacao K Y UH1 R AH0 S AW2
 curare K Y UW2 R AE1 R EY2
 curari K Y UW2 R AE1 R EY2
 curate K Y UH1 R AH0 T
+curated K Y UH0 R EY1 T IH0 D
 curative K Y UH1 R AH0 T IH0 V
 curatolo K UH0 R AA0 T OW1 L OW0
 curator K Y UH0 R EY1 T ER0
@@ -37765,6 +37773,7 @@ emptying(2) EH1 M T IY0 IH0 NG
 emrich EH1 M R IH0 K
 emrick EH1 M R IH0 K
 emry EH1 M R IY0
+ems IY1 EH1 M EH1 S
 emslie EH1 M S AH0 L IY0
 emswiler EH1 M Z W AY2 L ER0
 emu IY1 M Y UW2
@@ -58933,6 +58942,7 @@ inbody IH1 N B AA0 D IY0
 inborn IH1 N B AO2 R N
 inbound IH2 N B AW1 N D
 inbound(2) IH1 N B AW0 N D
+inbox IH1 N B AA2 K S
 inbred IH1 N B R EH2 D
 inbreed IH1 N B R IY2 D
 inbreeding IH2 N B R IY1 D IH0 NG
@@ -59790,6 +59800,7 @@ inlay IH1 N L EY2
 inlet IH1 N L EH2 T
 inlets IH1 N L EH2 T S
 inlex IH1 N L EH0 K S
+inline IH2 N L AY1 N
 inlow IH2 N L OW1
 inmac IH1 N M AE0 K
 inman IH1 N M AH0 N
@@ -77849,6 +77860,7 @@ mentz M EH1 N T S
 mentzel M EH1 N T Z AH0 L
 mentzer M EH1 N T Z ER0
 menu M EH1 N Y UW0
+menu's M EH1 N UW0 Z
 menudo M AH0 N Y UW1 D OW0
 menuhin M AH0 N UW1 HH IH0 N
 menuhin(2) M IH0 N Y UW1 IH0 N
@@ -90285,6 +90297,7 @@ payoffs P EY1 AO2 F S
 payola P EY2 OW1 L AH0
 payout P EY1 AW2 T
 payouts P EY1 AW2 T S
+paypal P EY1 P AH2 L
 payroll P EY1 R OW2 L
 payrolls P EY1 R OW2 L Z
 pays P EY1 Z
@@ -94042,6 +94055,7 @@ populists P AA1 P Y AH0 L IH0 S T S
 populists(2) P AA1 P Y AH0 L IH0 S S
 populists(3) P AA1 P Y AH0 L IH0 S
 populous P AA1 P Y AH0 L AH0 S
+popup P AA1 P AH2 P
 popwell P AA1 P W EH2 L
 poquette P AH0 K EH1 T
 por P AO1 R
@@ -122759,6 +122773,7 @@ trainees T R EY1 N IY1 Z
 trainer T R EY1 N ER0
 trainers T R EY1 N ER0 Z
 training T R EY1 N IH0 NG
+trainings T R EY1 N IH0 NG Z
 trainmen T R EY1 N M AH0 N
 trainor T R EY1 N ER0
 trains T R EY1 N Z
