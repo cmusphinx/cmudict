@@ -85860,6 +85860,7 @@ oba OW1 B AH0
 obadiah OW2 B AH0 D AY1 AH0
 obama OW2 B AA1 M AH0
 obama's OW2 B AA1 M AH0 Z
+obamacare OW2 B AA1 M AH0 K EH2 R
 obando OW0 B AE1 N D OW0
 obanion OW0 B AE1 N Y AH0 N
 obannon OW0 B AE1 N AH0 N
@@ -89773,6 +89774,7 @@ partlow P AA1 R T L OW2
 partly P AA1 R T L IY0
 partner P AA1 R T N ER0
 partner's P AA1 R T N ER0 Z
+partnered P AA1 R T N ER0 D
 partnering P AA1 R T N ER0 IH0 NG
 partners P AA1 R T N ER0 Z
 partners' P AA1 R T N ER0 Z
@@ -132683,6 +132685,7 @@ workable W ER1 K AH0 B AH0 L
 workaday W ER1 K AH0 D EY2
 workaholic W ER2 K AH0 HH AA1 L IH0 K
 workaholics W ER2 K AH0 HH AA1 L IH0 K S
+workaround W ER1 K ER0 AW1 N D
 workbench W ER1 K B EH2 N CH
 workbook W ER1 K B UH2 K
 workbooks W ER1 K B UH2 K S
