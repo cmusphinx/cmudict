@@ -4314,6 +4314,7 @@ anisa AE0 N IY1 S AH0
 anise AE1 N AH0 S
 aniseed AE1 N AH0 S IY2 D
 anisette AE2 N AH0 S EH1 T
+aniston AE1 N AH0 S T AH0 N
 anita AH0 N IY1 T AH0
 anitec AE1 N IH0 T EH2 K
 anitole AE1 N IH0 T OW0 L
@@ -4382,8 +4383,7 @@ annihilating AH0 N AY1 AH0 L EY2 T IH0 NG
 annihilation AH0 N AY2 AH0 L EY1 SH AH0 N
 annis AE1 N IY0 Z
 annissa AE0 N IY1 S AH0
-anniston AE1 N IH0 S T IH0 N
-anniston(2) AE1 N IH0 S IH0 N
+anniston AE1 N AH0 S T AH0 N
 anniversaries AE2 N AH0 V ER1 S ER0 IY0 Z
 anniversary AE2 N AH0 V ER1 S ER0 IY0
 anno AE1 N OW0
@@ -4591,6 +4591,7 @@ anti-doping AE2 N T IY0 D OW1 P IH0 NG
 anti-federalist AE2 N T IY0 F EH1 D R AH0 L IH0 S T
 anti-federalists AE2 N T IY0 F EH1 D R AH0 L AH0 S T S
 anti-infective AE1 N T IY0 IH0 N F EH1 K T IH0 V
+anti-war AE2 N T IY0 W AO1 R
 antiabortion AE1 N T IY0 AH0 B AO1 R SH AH0 N
 antiabortion(2) AE1 N T AY0 AH0 B AO1 R SH AH0 N
 antiaircraft AE2 N T AY0 EH1 R K R AE2 F T
@@ -4843,6 +4844,7 @@ apartheid(2) AH0 P AA1 R T AY2 D
 apartheid's AH0 P AA1 R T AY2 T S
 apartheid's(2) AH0 P AA1 R T AY2 D Z
 apartment AH0 P AA1 R T M AH0 N T
+apartment's AH0 P AA1 R T M AH0 N T S
 apartments AH0 P AA1 R T M AH0 N T S
 apathetic AE2 P AH0 TH EH1 T IH0 K
 apathy AE1 P AH0 TH IY0
@@ -8545,6 +8547,7 @@ barbecue's B AA1 R B IH0 K Y UW2 Z
 barbecued B AA1 R B IH0 K Y UW2 D
 barbecueing B AA1 R B IH0 K Y UW2 IH0 NG
 barbecues B AA1 R B IH0 K Y UW2 Z
+barbecuing B AA1 R B IH0 K Y UW2 IH0 NG
 barbed B AA1 R B D
 barbed-wire B AA1 R B D W AY1 R
 barbee B AA1 R B IY1
@@ -20507,6 +20510,7 @@ chatihachi's CH AE2 T IH0 HH AA1 CH IY0 Z
 chatman CH AE1 T M AH0 N
 chatmon CH AE1 T M AH0 N
 chato CH EY1 T OW0
+chatroom CH AE1 T R UW2 M
 chats CH AE1 T S
 chatswood CH AE1 T S W UH2 D
 chatsworth CH AE1 T S W ER2 TH
@@ -26058,6 +26062,7 @@ counterrevolt K AW1 N T ER0 R IY0 V OW2 L T
 counterrevolution K AW2 N T ER0 R EH0 V AH0 L UW1 SH AH0 N
 counterrevolutionary K AW2 N T ER0 R EH0 V AH0 L UW1 SH AH0 N EH2 R IY0
 counters K AW1 N T ER0 Z
+counterstrike K AW1 N T ER0 S T R AY2 K
 countersue K AW1 N T ER0 S UW2
 countersued K AW1 N T ER0 S UW2 D
 countersuing K AW1 N T ER0 S UW2 IH0 NG
@@ -37596,7 +37601,7 @@ emily EH1 M IH0 L IY0
 emily's EH1 M IH0 L IY0 Z
 emina EH0 M IY1 N AH0
 eminase EH2 M IH0 N AA1 S IY0
-eminem EH2 M IH0 N EH1 M
+eminem EH1 M AH0 N AH0 M
 eminence EH1 M AH0 N AH0 N S
 eminences EH1 M AH0 N AH0 N S IH0 Z
 eminent EH1 M AH0 N AH0 N T
@@ -42322,6 +42327,7 @@ fifield F IH1 F IY0 L D
 fiftee F IH1 F T IY0
 fifteen F IH0 F T IY1 N
 fifteen(2) F IH1 F T IY1 N
+fifteen's F IH0 F T IY1 N Z
 fifteens F IH0 F T IY1 N Z
 fifteenth F IH0 F T IY1 N TH
 fifth F IH1 F TH
@@ -49827,6 +49833,7 @@ grandmas G R AE1 N D M AA2 Z
 grandmaster G R AE1 N D M AE1 S T ER0
 grandmaster(2) G R AE1 N M AE1 S T ER0
 grandmet G R AE1 N D M EH2 T
+grandmom G R AE1 N D M AA2 M
 grandmother G R AE1 N D M AH2 DH ER0
 grandmother's G R AE1 N D M AH2 DH ER0 Z
 grandmotherly G R AE1 N D M AH2 DH ER0 L IY0
@@ -52052,6 +52059,7 @@ halloway HH AE1 L OW0 W EY2
 hallowe'en HH AE2 L AH0 W IY1 N
 hallowed HH AE1 L OW0 D
 halloween HH AE2 L AH0 W IY1 N
+halloween's HH AE2 L AH0 W IY1 N Z
 hallowell HH AE1 L AH0 W EH0 L
 hallows HH AE1 L OW0 Z
 hallquist HH AE1 L K W IH0 S T
@@ -53622,6 +53630,7 @@ healthtrust HH EH1 L TH T R AH2 S T
 healthtrust's HH EH1 L TH T R AH2 S T S
 healthvest HH EH1 L TH V EH2 S T
 healthweek HH EH1 L TH W IY2 K
+healthwise HH EH1 L TH W AY2 Z
 healthwork HH EH1 L TH W ER0 K
 healthworks HH EH1 L TH W ER0 K S
 healthy HH EH1 L TH IY0
@@ -57489,6 +57498,7 @@ hummingbirds HH AH1 M IH0 NG B ER2 D Z
 hummus HH UH1 M AH0 S
 humongous HH Y UW0 M AO1 NG G AH0 S
 humor HH Y UW1 M ER0
+humor's HH Y UW1 M ER0 Z
 humoral HH Y UW1 M ER0 AH0 L
 humored HH Y UW1 M ER0 D
 humorist HH Y UW1 M ER0 AH0 S T
@@ -58167,6 +58177,7 @@ ideal's AY0 D IY1 L Z
 idealism AY0 D IY1 L IH0 Z AH0 M
 idealist AY0 D IY1 L IH0 S T
 idealistic AY0 D IY2 AH0 L IH1 S T IH0 K
+idealistically AY0 D IY2 AH0 L IH1 S T IH0 K L IY0
 idealists AY0 D IY1 L IH0 S T S
 idealize AY0 D IY1 L AY2 Z
 idealized AY0 D IY1 AH0 L AY2 Z D
@@ -64573,6 +64584,7 @@ key's K IY1 Z
 key-largo K IY2 L AA1 R G OW0
 key-west K IY2 W EH1 S T
 keyboard K IY1 B AO2 R D
+keyboarding K IY1 B AO2 R D IH0 NG
 keyboards K IY1 B AO2 R D Z
 keycorp K IY1 K AO0 R P
 keycorp's K IY1 K AO0 R P S
@@ -67442,6 +67454,7 @@ labove L AH0 B AH1 V
 labow L AE1 B OW0
 laboy L AH0 B OY1
 labrador L AE1 B R AH0 D AO2 R
+labradors L AE1 B R AH0 D AO2 R Z
 labrake L AE1 B R AH0 K
 labranche L AA0 B R AA1 N K IY0
 labreck L AE1 B R IH0 K
@@ -68023,6 +68036,7 @@ landlady L AE1 N D L EY2 D IY0
 landler L AE1 N D L ER0
 landler's L AE1 N D L ER0 Z
 landless L AE1 N D L AH0 S
+landline L AE1 N D L AY2 N
 landlock L AE1 N D L AA2 K
 landlocked L AE1 N D L AA2 K T
 landlord L AE1 N D L AO2 R D
@@ -69185,6 +69199,7 @@ lebow L AH0 B OW1
 lebow's L AH0 B OW1 Z
 lebowe L IH0 B OW1
 lebowitz L EH1 B AH0 W IH0 T S
+lebowski L IH0 B AA1 F S K IY0
 lebrecht L EH1 B R IH0 K T
 lebreton L EH1 B R IH0 T AA0 N
 lebron L EH1 B R AH0 N
@@ -87614,6 +87629,7 @@ osborne AO1 Z B AO2 R N
 osborne's AO1 Z B AO2 R N Z
 osbourn AA1 S B ER0 N
 osbourne AA1 S B ER0 N
+osbournes AA1 S B ER0 N Z
 osbun AA1 S B AH0 N
 osburn AA1 S B ER2 N
 osby AA1 S B IY0
@@ -93542,6 +93558,7 @@ poitras P OY0 T R AA1 Z
 pokazukha P AO2 K AH0 Z UW1 K AA0
 poke P OW1 K
 poked P OW1 K T
+pokemon P OW1 K EY0 M AH0 N
 poker P OW1 K ER0
 pokes P OW1 K S
 pokeweed P OW1 K W IY2 D
@@ -99776,6 +99793,7 @@ refund R IH0 F AH1 N D
 refund(2) R IY1 F AH2 N D
 refundable R IH0 F AH1 N D AH0 B AH0 L
 refunded R IH0 F AH1 N D IH0 D
+refunders R IH0 F AH1 N D ER0 Z
 refunding R IH0 F AH1 N D IH0 NG
 refundings R IY1 F AH2 N D IH0 NG Z
 refunds R IH0 F AH1 N D Z
@@ -102246,6 +102264,7 @@ ricocheting R IH1 K AH0 SH EY2 IH0 NG
 ricoh R IY1 K OW0
 ricoh's R IY1 K OW0 Z
 ricostruzione R IY0 K OW0 S T R UW0 Z IY0 OW1 N IY0
+ricotta R IY0 K AA1 T AH0
 rid R IH1 D
 ridable R AY1 D AH0 B AH0 L
 riddance R IH1 D AH0 N S
@@ -103907,6 +103926,8 @@ rottinghaus R AA1 T IH0 NG HH AW2 S
 rottler R AA1 T L ER0
 rottman R AA1 T M AH0 N
 rottmann R AA1 T M AH0 N
+rottweiler R AA1 T W AY0 L ER0
+rottweilers R AA1 T W AY0 L ER0 Z
 rotund R OW0 T AH1 N D
 rotunda R OW0 T AH1 N D AH0
 rotundo R OW0 T UW1 N D OW0
@@ -113742,6 +113763,7 @@ speak-easy S P IY1 K IY2 Z IY2
 speake S P IY1 K
 speaker S P IY1 K ER0
 speaker's S P IY1 K ER0 Z
+speakerphone S P IY1 K ER0 F OW2 N
 speakers S P IY1 K ER0 Z
 speakership S P IY1 K ER0 SH IH2 P
 speakes S P IY1 K S
@@ -114204,6 +114226,7 @@ spomer S P OW1 M ER0
 sponaugle S P AA1 N AO0 G AH0 L
 spong S P AO1 NG
 sponge S P AH1 N JH
+spongebob S P AH1 N JH B AA2 B
 sponged S P AH1 N JH D
 spongeform S P AH1 N JH F AO0 R M
 sponges S P AH1 N JH AH0 Z
@@ -115638,6 +115661,7 @@ stepien S T EH1 P IY0 AH0 N
 stepka S T EH1 P K AA2
 stepladder S T EH1 P L AE2 D ER0
 stepladders S T EH1 P L AE2 D ER0 Z
+stepmom S T EH1 P M AA2 M
 stepmother S T EH1 P M AH2 DH ER0
 stepney S T EH1 P N IY0
 stepp S T EH1 P
@@ -117226,6 +117250,7 @@ subverting S AH0 B V ER1 T IH0 NG
 subverts S AH0 B V ER1 T S
 subvolcanic S AH2 B V AA0 L K AE1 N IH0 K
 subway S AH1 B W EY2
+subway's S AH1 B W EY2 Z
 subways S AH1 B W EY2 Z
 subzero S AH2 B Z IH1 R OW0
 subzero(2) S AH2 B Z IY1 R OW0
@@ -129115,6 +129140,7 @@ wally(2) W EY1 L IY0
 wally's W AO1 L IY0 Z
 walmart W AO1 L M AA2 R T
 walmart's W AO1 L M AA2 R T S
+walmarts W AO1 L M AA2 R T S
 walmer W AO1 L M ER0
 walmond W AO1 L M AH0 N D
 walmsley W AO1 L M S L IY0
@@ -132393,6 +132419,7 @@ wolfenbarger W UH1 L F IH0 N B AA0 R G ER0
 wolfenden W UH1 L F EH2 N D AH0 N
 wolfenschmidt W UH1 L F AH0 N SH M IH2 T
 wolfensohn W UH1 L F AH0 N S AH0 N
+wolfenstein W UH1 L F AH0 N S T AY2 N
 wolfer W UH1 L F ER0
 wolfert W UH1 L F ER0 T
 wolff W UH1 L F
