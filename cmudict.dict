@@ -1010,6 +1010,7 @@ adarand AE1 D AH0 R AE2 N D
 adas EY1 D AH0 Z
 aday AH0 D EY1
 adaza AH0 D AA1 Z AH0
+adblock AE1 D B L AA2 K
 adcock AH0 D K AA1 K
 adcox AH0 D K AA1 K S
 add AE1 D
@@ -5429,6 +5430,7 @@ ardrey AA1 R D R IY0
 ardshiel AA1 R D SH IY2 L
 ardsley AA1 R D Z L IY0
 arduini AA0 R D UW0 IY1 N IY0
+arduino AA1 R D W IY1 N OW0
 arduous AA1 R JH UW0 AH0 S
 are AA1 R
 are(2) ER0
@@ -12015,6 +12017,8 @@ bitches B IH1 CH IH0 Z
 bitchiness B IH1 CH IY0 N AH0 S
 bitching B IH1 CH IH0 NG
 bitchy B IH1 CH IY0
+bitcoin B IH1 T K OY1 N
+bitcoins B IH1 T K OY1 N Z
 bite B AY1 T
 biter B AY1 T ER0
 bites B AY1 T S
@@ -21430,6 +21434,7 @@ chromatogram K R OW0 M AE1 T AH0 G R AE0 M
 chromatograms K R OW0 M AE1 T AH0 G R AE0 M Z
 chromatography K R OW0 M AH0 T AA1 G R AH0 F IY0
 chrome K R OW1 M
+chromecast K R OW1 M K AE2 S T
 chrominance K R OW1 M AH0 N AH0 N S
 chromium K R OW1 M IY0 AH0 M
 chromosomal K R OW1 M AH0 S OW2 M AH0 L
@@ -34476,6 +34481,7 @@ downtrodden D AW2 N T R AA1 D AH0 N
 downturn D AW1 N T ER2 N
 downturns D AW1 N T ER2 N Z
 downum D AW1 N AH0 M
+downvote D AW1 N V OW1 T
 downward D AW1 N W ER0 D
 downwardly D AW1 N W ER0 D L IY0
 downwards D AW1 N W ER0 D Z
@@ -34875,6 +34881,7 @@ drop D R AA1 P
 drop(2) D R AO1 P
 drop-off D R AA1 P AO2 F
 drop-offs D R AA1 P AO2 F S
+dropbox D R AA1 P B AA2 K S
 dropkin D R AA1 P K IH0 N
 droplet D R AA1 P L AH0 T
 droplets D R AA1 P L AH0 T S
@@ -39428,6 +39435,7 @@ etzel's EH1 T Z AH0 L Z
 etzioni EH2 T S IY2 OW1 N IY0
 etzkorn EH1 T S K ER0 N
 etzler EH1 T S L ER0
+eu IY1 Y UW2
 euan Y UW1 AH0 N
 eubank Y UW1 B AE0 NG K
 eubanks Y UW1 B AE0 NG K S
@@ -42320,6 +42328,7 @@ fiery F AY1 ER0 IY0
 fieser F IY1 S ER0
 fiest F IY1 IH0 S T
 fiesta F IY0 EH1 S T AH0
+fifa F IH1 F AA0
 fife F AY1 F
 fifer F AY1 F ER0
 fifi F IY1 F IY0
@@ -42816,6 +42825,7 @@ firmly F ER1 M L IY0
 firmness F ER1 M N AH0 S
 firms F ER1 M Z
 firms' F ER1 M Z
+firmware F ER1 M W EH2 R
 firpo F IH1 R P OW0
 firs F ER1 Z
 first F ER1 S T
@@ -46239,6 +46249,7 @@ gambro G AE1 M B R OW0
 gamco G AE1 M K OW0
 game G EY1 M
 game's G EY1 M Z
+gameboy G EY1 M B OY2
 gamecock G EY1 M K AO2 K
 gamecocks G EY1 M K AO2 K S
 gamekeeper G EY1 M K IY2 P ER0
@@ -49251,6 +49262,7 @@ googe G UW1 JH
 googin G UW1 G IH0 N
 googins G UW1 G IH0 N Z
 google G UW1 G AH0 L
+google's G UW1 G AH0 L Z
 googled G UW1 G AH0 L D
 googles G UW1 G AH0 L Z
 googleverse G UW1 G AH0 L V ER2 S
@@ -53588,6 +53600,7 @@ heads-up HH EH1 D Z AH2 P
 headset HH EH1 D S EH2 T
 headsets HH EH1 D S EH2 T S
 headship HH EH1 D SH IH2 P
+headshot HH EH1 D SH AA2 T
 headsman HH EH1 D Z M AH0 N
 headstart HH EH1 D S T AA2 R T
 headstarts HH EH1 D S T AA2 R T S
@@ -57406,6 +57419,7 @@ hulton HH AH1 L T AH0 N
 hultquist HH AH1 L T K W IH0 S T
 hults HH AH1 L T S
 hultz HH AH1 L T S
+hulu HH UW1 L UW2
 hulvey HH AH1 L V IY0
 hum HH AH1 M
 human HH Y UW1 M AH0 N
@@ -60033,6 +60047,7 @@ inspiring IH2 N S P AY1 R IH0 NG
 inspiring(2) IH2 N S P AY1 ER0 IH0 NG
 instabilities IH2 N S T AH0 B IH1 L IH0 T IY0 Z
 instability IH2 N S T AH0 B IH1 L IH0 T IY0
+instagram IH2 N S T AH0 G R AE2 M
 install IH2 N S T AO1 L
 installation IH2 N S T AH0 L EY1 SH AH0 N
 installations IH2 N S T AH0 L EY1 SH AH0 N Z
@@ -64707,6 +64722,7 @@ kicking K IH1 K IH0 NG
 kicklighter K IH1 K L AY2 T ER0
 kickoff K IH1 K AO2 F
 kicks K IH1 K S
+kickstarter K IH1 K S T AA1 R T ER0
 kid K IH1 D
 kid's K IH1 D Z
 kida K IY1 D AH0
@@ -72959,6 +72975,7 @@ macauley M AH0 K AO1 L IY0
 macaw M AH0 K AO1
 macaws M AH0 K AO1 Z
 macbeth M AH0 K B EH1 TH
+macbook M AE1 K B UH2 K
 macbride M AH0 K B R AY1 D
 maccabean M AE2 K AH0 B IY1 AH0 N
 maccabee M AE1 K AH0 B IY2
@@ -79201,6 +79218,7 @@ minea M IH0 N IY1 AH0
 minear M IH0 N IH1 R
 mineau M IH0 N OW1
 minebea M IH2 N AH0 B IY1 AH0
+minecraft M AY1 N K R AE2 F T
 mined M AY1 N D
 mineer M AY1 N ER0
 minefield M AY1 N F IY2 L D
@@ -88211,6 +88229,8 @@ overcharge OW1 V ER0 CH AA2 R JH
 overcharged OW1 V ER0 CH AA1 R JH D
 overcharges OW1 V ER0 CH AA2 R JH IH0 Z
 overcharging OW2 V ER0 CH AA1 R JH IH0 NG
+overclock OW1 V ER0 K L AO1 K
+overclocking OW1 V ER0 K L AO1 K IH0 NG
 overcoat OW1 V ER0 K OW2 T
 overcoats OW1 V ER0 K OW2 T S
 overcome OW1 V ER0 K AH2 M
@@ -100940,6 +100960,8 @@ repossess R IY2 P AH0 Z EH1 S
 repossessed R IY2 P AH0 Z EH1 S T
 repossession R IY2 P AH0 Z EH1 SH AH0 N
 repossessions R IY2 P AH0 Z EH1 SH AH0 N Z
+repost R IY0 P OW1 S T
+reposted R IY0 P OW1 S T IH0 D
 repp R EH1 P
 reppert R EH1 P ER0 T
 reppond R EH1 P AH0 N D
@@ -101333,6 +101355,7 @@ resourceful R IY0 S AO1 R S F AH0 L
 resourcefulness R IY0 S AO1 R S F AH0 L N AH0 S
 resources R IY1 S AO0 R S IH0 Z
 resources' R IY1 S AO0 R S IH0 Z
+respawn R IY2 S P AA1 N
 respeak R IY2 S P IY1 K
 respect R IH0 S P EH1 K T
 respect(2) R IY0 S P EH1 K T
@@ -107671,6 +107694,8 @@ screenings S K R IY1 N IH0 NG Z
 screenplay S K R IY1 N P L EY2
 screenplays S K R IY1 N P L EY2 Z
 screens S K R IY1 N Z
+screenshot S K R IY1 N SH AA2 T
+screenshots S K R IY1 N SH AA2 T S
 screenwriter S K R IY1 N R AY2 T ER0
 screenwriters S K R IY1 N R AY2 T ER0 Z
 screenwriting S K R IY1 N R AY2 T IH0 NG
@@ -107728,6 +107753,7 @@ scroggins S K R AA1 G IH0 N Z
 scroggs S K R AA1 G Z
 scrogham S K R AA1 G HH AH0 M
 scroll S K R OW1 L
+scrolling S K R OW1 L IH0 NG
 scrolls S K R OW1 L Z
 scronce S K R AA1 N S
 scrooge S K R UW1 JH
@@ -108874,6 +108900,7 @@ sephardim S IH0 F AA1 R D IH0 M
 sephardim(2) S EH0 F AA2 R D IY1 M
 sephlon S EH1 F L AO0 N
 sephlon's S EH1 F L AO0 N Z
+sephora S EH0 F AO1 R AH0
 sepia S IY1 P IY0 AH0
 sepich S EH1 P IH0 CH
 sepik S EH1 P IH0 K
@@ -112261,6 +112288,7 @@ smartish S M AA1 R T IH0 SH
 smartly S M AA1 R T L IY0
 smartmoney S M AA1 R T M AH2 N IY0
 smartness S M AA1 R T N IH0 S
+smartphone S M AA1 R T F OW2 N
 smarts S M AA1 R T S
 smartt S M AA1 R T
 smarty S M AA1 R T IY0
@@ -113641,6 +113669,7 @@ spalla S P AE1 L AH0
 spallone S P AE1 L OW2 N
 spalvins S P AE1 L V IH0 N Z
 spam S P AE1 M
+spamming S P AE1 M IH0 NG
 spampinato S P AA0 M P IY0 N AA1 T OW0
 span S P AE1 N
 span's S P AE1 N Z
@@ -114300,6 +114329,7 @@ sporty S P AO1 R T IY0
 sposato S P OW0 S AA1 T OW0
 sposito S P OW0 S IY1 T OW0
 spot S P AA1 T
+spotify S P AO1 T AH0 F AY2
 spotless S P AA1 T L AH0 S
 spotlight S P AA1 T L AY2 T
 spotlighted S P AA1 T L AY2 T IH0 D
@@ -114912,6 +114942,7 @@ stand S T AE1 N D
 stand-by S T AE1 N D B AY2
 stand-up S T AE1 N D AH2 P
 standa S T AE1 N D AH0
+standalone S T AE1 N D AH0 L OW2 N
 standard S T AE1 N D ER0 D
 standard's S T AE1 N D ER0 D Z
 standard-bearer S T AE1 N D ER0 D B EH1 R ER0
@@ -121621,6 +121652,7 @@ timetable T AY1 M T EY2 B AH0 L
 timetables T AY1 M T EY2 B AH0 L Z
 timewise T AY1 M W AY2 Z
 timex T AY1 M EH0 K S
+timezone T AY1 M Z OW1 N
 timid T IH1 M IH0 D
 timidity T AH0 M IH1 D AH0 T IY0
 timidly T IH1 M AH0 D L IY0
@@ -125476,6 +125508,7 @@ uninitiated(2) AH2 N IY0 N IH1 SH IY0 EY2 T IH0 D
 uninjured AH0 N IH1 N JH ER0 D
 uninspired AH2 N IH0 N S P AY1 ER0 D
 uninspiring AH0 N IH0 N S P AY1 R IH0 NG
+uninstall AH2 N IH0 N S T AO1 L
 uninsurable AH0 N IH0 N SH UH1 R AH0 B AH0 L
 uninsured AH2 N IH0 N SH UH1 R D
 unintelligible AH2 N IH0 N T EH1 L AH0 JH AH0 B AH0 L
@@ -126105,6 +126138,9 @@ upturn AH0 P T ER1 N
 upturn(2) AH1 P T ER2 N
 upturns AH1 P T ER2 N Z
 upvote AH1 P V OW1 T
+upvoted AH1 P V OW1 T IH0 D
+upvotes AH1 P V OW1 T S
+upvoting AH1 P V OW1 T IH0 NG
 upward AH1 P W ER0 D
 upwardly AH1 P W ER0 D L IY0
 upwards AH1 P W ER0 D Z
@@ -126242,6 +126278,7 @@ usair Y UW2 EH2 S EH1 R
 usair's Y UW2 EH2 S EH1 R Z
 usairways Y UW2 EH2 S EH1 R W EY2 Z
 usameribancs Y UW2 EH2 S AH0 M EH1 R IH0 B AE2 N K S
+usb Y UW1 EH1 S B IY1
 usbancorp Y UW2 EH2 S B AE1 NG K AO2 R P
 usda Y UW2 EH2 S D IY2 EY1
 use Y UW1 S
@@ -126258,7 +126295,8 @@ uselton Y UW1 S AH0 L T AH0 N
 usenet Y UW1 Z N EH2 T
 user Y UW1 Z ER0
 user's Y UW1 Z ER0 Z
-username UW1 Z ER0 N EY2 M
+username Y UW1 Z ER0 N EY2 M
+usernames Y UW1 Z ER0 N EY2 M Z
 users Y UW1 Z ER0 Z
 users' Y UW1 Z ER0 Z
 usery Y UW1 Z ER0 IY0
@@ -133161,6 +133199,7 @@ xantippe Z AE1 N T IH0 P
 xaver Z EY1 V ER0
 xavier Z EY1 V Y ER0
 xaviera Z EY0 V Y EH1 R AH0
+xbox EH1 K S B AA2 K S
 xebec Z EH1 B AH0 K
 xena Z IY1 N AH0
 xene Z IY1 N
