@@ -12517,6 +12517,7 @@ blockages B L AA1 K IH0 JH IH0 Z
 blockbuster B L AA1 K B AH2 S T ER0
 blockbuster's B L AA1 K B AH2 S T ER0 Z
 blockbusters B L AA1 K B AH2 S T ER0 Z
+blockchain B L AA1 K CH EY1 N
 blocked B L AA1 K T
 blocker B L AA1 K ER0
 blockers B L AA1 K ER0 Z
@@ -17119,6 +17120,7 @@ buzzelli B UW0 T S EH1 L IY0
 buzzer B AH1 Z ER0
 buzzes B AH1 Z IH0 Z
 buzzetta B Y UW0 Z EH1 T AH0
+buzzfeed B AH1 Z F IY1 D
 buzzing B AH1 Z IH0 NG
 buzzword B AH1 Z W ER0 D
 buzzwords B AH1 Z W ER0 D Z
@@ -34482,6 +34484,9 @@ downturn D AW1 N T ER2 N
 downturns D AW1 N T ER2 N Z
 downum D AW1 N AH0 M
 downvote D AW1 N V OW1 T
+downvoted D AW1 N V OW1 T IH0 D
+downvotes D AW1 N V OW1 T S
+downvoting D AW1 N V OW1 T IH0 NG
 downward D AW1 N W ER0 D
 downwardly D AW1 N W ER0 D L IY0
 downwards D AW1 N W ER0 D Z
@@ -37796,6 +37801,7 @@ emulated EH1 M Y AH0 L EY2 T IH0 D
 emulates EH1 M Y AH0 L EY2 T S
 emulating EH1 M Y AH0 L EY2 T IH0 NG
 emulation EH2 M Y AH0 L EY1 SH AH0 N
+emulator EH1 M Y AH0 L EY2 T ER0
 emulex EH1 M Y UW0 L AH0 K S
 emulsifier IH0 M AH1 L S AH0 F AY2 ER0
 emulsion IH0 M AH1 L SH AH0 N
@@ -39418,6 +39424,7 @@ etruscan IH0 T R AH1 S K AH0 N
 etruscans IH0 T R AH1 S K AH0 N Z
 etsty EH1 T S T IY0
 etsu EH1 T S UW0
+etsy EH1 T S IY0
 etta EH1 T AH0
 etter EH1 T ER0
 etters EH1 T ER0 Z
@@ -40548,6 +40555,7 @@ eyerman IY1 ER0 M AH0 N
 eyes AY1 Z
 eyes' AY1 Z
 eyeshade AY1 SH EY2 D
+eyeshadow AY1 SH AE1 D OW0
 eyesight AY1 S AY2 T
 eyesore AY1 S AO2 R
 eyespot AY1 S P AA2 T
@@ -45437,6 +45445,7 @@ fucked F AH1 K T
 fucked-up F AH1 K T AH2 P
 fucker F AH1 K ER0
 fuckers F AH1 K ER0 Z
+fuckin F AH1 K IH0 N
 fucking F AH1 K IH0 NG
 fucks F AH1 K S
 fudala F UW0 D AA1 L AH0
@@ -48696,6 +48705,7 @@ glynn G L IH1 N
 glynnie G L IH1 N IY0
 glynnis G L IH1 N IH0 S
 gm JH IY2 EH1 M
+gmail JH IY1 M EY2 L
 gmbh G AH0 M
 gmbh(2) JH IY1 EH1 M B IY1 EY1 CH
 gnagey N AE1 JH IY0
@@ -61685,6 +61695,7 @@ jai JH AY1
 jai(2) HH AY1
 jail JH EY1 L
 jail's JH EY1 L Z
+jailbreak JH EY1 L B R EY2 K
 jailed JH EY1 L D
 jailer JH EY1 L ER0
 jailers JH EY1 L ER0 Z
@@ -65032,6 +65043,7 @@ kinds K AY1 N D Z
 kinds(2) K AY1 N Z
 kindt K IH1 N T
 kindy K AY1 N D IY0
+kinect K IH0 N EH1 K T
 kinepolis K IH0 N EH1 P AH0 L IH0 S
 kiner K AY1 N ER0
 kines K AY1 N Z
@@ -81391,6 +81403,7 @@ mothballs M AO1 TH B AO2 L Z
 mother M AH1 DH ER0
 mother's M AH1 DH ER0 Z
 mother-in-law M AH1 DH ER0 IH0 N L AO2
+motherboard M AH1 DH ER0 B AO2 R D
 mothercare M AH1 DH ER0 K EH2 R
 motherfucker M AH1 DH ER0 F AH2 K ER0
 motherfucker's M AH1 DH ER0 F AH2 K ER0 Z
@@ -85656,6 +85669,7 @@ nuzzling N AH1 Z AH0 L IH2 NG
 nuzzo N UW1 Z OW0
 nvhome EH1 N V IY1 HH OW1 M
 nvhomes EH1 N V IY1 HH OW1 M Z
+nvidia EH1 N V IH1 D IY0 AH0
 nvryan EH0 N V R AY1 AH0 N
 nyack N AY1 AE2 K
 nyberg N AY1 B ER0 G
@@ -87197,6 +87211,7 @@ optimistically(2) AA2 P T IH0 M IH1 S T IH0 K L IY0
 optimists AA1 P T AH0 M IH0 S T S
 optimization AA0 P T AH0 M AH0 Z EY1 SH AH0 N
 optimize AA1 P T AH0 M AY2 Z
+optimized AA1 P T AH0 M AY2 Z D
 optimum AA1 P T AH0 M AH0 M
 optimus AA1 P T IH0 M AH0 S
 opting AA1 P T IH0 NG
@@ -92088,6 +92103,7 @@ photophoresis F OW2 T OW0 F ER0 IY1 S IH0 S
 photorefractive F OW2 T OW0 R IH0 F R AE1 K T IH0 V
 photos F OW1 T OW2 Z
 photoshop F OW1 T OW2 SH AA2 P
+photoshopped F OW2 T OW0 SH AA1 P T
 photoshopping F OW1 T OW2 SH AA2 P IH0 NG
 photoshops F OW1 T OW2 SH AA2 P S
 photosynthesis F OW2 T OW0 S IH1 N TH AH0 S IH0 S
@@ -92097,6 +92113,7 @@ photovoltaic F OW2 T AH0 V OW2 L T EY1 IH0 K
 photovoltaics F OW1 T OW0 V OW0 L T EY1 IH0 K S
 photronic F OW2 T R AA1 N IH0 K
 photronics F OW2 T R AA1 N IH0 K S
+php P IY1 EY1 CH P IY1
 phrase F R EY1 Z
 phrased F R EY1 Z D
 phraseology F R EY2 Z IY0 AO1 L AO0 JH IY0
@@ -93134,6 +93151,8 @@ playhouse P L EY1 HH AW2 S
 playhouses P L EY1 HH AW2 S IH0 Z
 playin' P L EY1 IH0 N
 playing P L EY1 IH0 NG
+playlist P L EY1 L IH0 S T
+playlists P L EY1 L IH0 S T S
 playmate P L EY1 M EY2 T
 playmates P L EY1 M EY2 T S
 playoff P L EY1 AO2 F
@@ -95007,6 +95026,8 @@ preoccupy P R IY0 AA1 K Y AH0 P AY2
 preoperative P R IY2 AO1 P AH0 R AH0 T IH0 V
 preordain P R IY2 AO0 R D EY1 N
 preordained P R IY2 AO0 R D EY1 N D
+preordered P R IY2 AO0 R D ER0 D
+preorders P R IY2 AO1 R D ER0 Z
 prep P R EH1 P
 prepackage P R IY0 P AE1 K AH0 JH
 prepackaged P R IY0 P AE1 K AH0 JH D
@@ -103126,6 +103147,7 @@ rockresort R AA1 K R IH0 Z AO2 R T
 rockresorts R AA1 K R IH0 Z AO2 R T S
 rockrose R AA1 K R OW2 Z
 rocks R AA1 K S
+rockstar R AA1 K S T AA2 R
 rockville R AA1 K V IH2 L
 rockwell R AA1 K W EH2 L
 rockwell's R AA1 K W EH2 L Z
@@ -103526,6 +103548,7 @@ ron's R AA1 N Z
 rona R OW1 N AH0
 ronald R AA1 N AH0 L D
 ronalda R OW0 N AA1 L D AH0
+ronaldo R OW0 N AA1 L D OW0
 ronan R OW1 N AH0 N
 ronan's R OW1 N AH0 N Z
 ronayne R AA1 N EY2 N
@@ -111325,6 +111348,7 @@ singling(2) S IH1 NG G L IH0 NG
 singly S IH1 NG G L IY0
 sings S IH1 NG Z
 singular S IH1 NG G Y AH0 L ER0
+singularity S IH1 NG G Y AH0 L EH1 R AH0 T IY0
 singularization S IH2 NG G Y AH0 L ER0 IH0 Z EY1 SH AH0 N
 singularly S IH1 NG G Y AH0 L ER0 L IY0
 sinha S IH1 N HH AH0
@@ -113625,6 +113649,7 @@ spacesuits S P EY1 S UW2 T S
 spacewalk S P EY1 S W AA2 K
 spacewalking S P EY1 S W AA2 K IH0 NG
 spacewalks S P EY1 S W AA2 K S
+spacex S P EY1 S AH0 K S
 spacey S P EY1 S IY0
 spacial S P EY1 SH AH0 L
 spacing S P EY1 S IH0 NG
@@ -122044,6 +122069,7 @@ toles T OW1 L Z
 tolhurst T OW1 L HH ER0 S T
 tolin T OW1 L IH0 N
 toliver T OW1 L IH0 V ER0
+tolkien T AO1 L K IY0 EH2 N
 toll T OW1 L
 tolland T AA1 L AH0 N D
 tolland's T AA1 L AH0 N D Z
@@ -127772,6 +127798,7 @@ viator V AY0 EY1 T ER0
 viau V IY0 OW1
 vibbert V IH1 B ER0 T
 vibe V AY1 B
+viber V AY1 B ER0
 vibes V AY1 B Z
 vibhu V IY1 B UW0
 vibrancy V AY1 B R AH0 N S IY0
@@ -130695,6 +130722,7 @@ whatnot W AH1 T N AA2 T
 whatnot(2) HH W AH1 T N AA2 T
 whats W AH0 T S
 whats(2) HH W AH0 T S
+whatsapp W AH2 T S AA1 P
 whatsoever W AH2 T S OW0 EH1 V ER0
 whatsoever(2) HH W AH2 T S OW0 EH1 V ER0
 whay-yu W EY1 Y UW1
@@ -132196,6 +132224,7 @@ wishes W IH1 SH IH0 Z
 wishful W IH1 SH F AH0 L
 wishfully W IH1 SH F AH0 L IY0
 wishing W IH1 SH IH0 NG
+wishlist W IH1 SH L IH0 S T
 wishner W IH1 SH N ER0
 wishnick W IH1 SH N IH0 K
 wishon W IH1 SH AH0 N
