@@ -706,6 +706,7 @@ acetylene AH0 S EH1 T AH0 L IY2 N
 acevedo AE0 S AH0 V EY1 D OW0
 aceves AA0 S EY1 V EH0 S
 acey EY1 S IY0
+ach EY1 S IY1 EY1 CH
 achaean AH0 CH IY1 AH0 N
 achatz AE1 K AH0 T S
 ache EY1 K
@@ -1455,6 +1456,7 @@ advocating AE1 D V AH0 K EY2 T IH0 NG
 advocation AE2 D V AH0 K EY1 SH AH0 N
 adweek AE1 D W IY0 K
 adwell AH0 D W EH1 L
+adwords AE1 D W ER2 D Z
 ady EY1 D IY0
 adz AE1 D Z
 ae EY1
@@ -4451,6 +4453,8 @@ anomie AE1 N AH0 M IY0
 anon AE2 N AO1 N
 anona AA0 N OW1 N AH0
 anonymity AE2 N AH0 N IH1 M IH0 T IY0
+anonymize AH0 N AA1 N AH0 M AY2 Z
+anonymized AH0 N AA1 N AH0 M AY2 Z D
 anonymous AH0 N AA1 N AH0 M AH0 S
 anonymously AH0 N AA1 N AH0 M AH0 S L IY0
 anopheles AA0 N AO1 F IH0 L IY2 Z
@@ -6962,6 +6966,7 @@ authentically AO2 TH EH1 N T IH0 K L IY0
 authentically(2) AO2 TH EH1 N IH0 K L IY0
 authenticate AO0 TH EH1 N T AH0 K EY2 T
 authenticated AO0 TH EH1 N T AH0 K EY2 T IH0 D
+authenticates AO0 TH EH1 N T AH0 K EY2 T S
 authenticating AO0 TH EH1 N T AH0 K EY2 T IH0 NG
 authentication AO0 TH EH2 N T AH0 K EY1 SH AH0 N
 authentications AO0 TH EH2 N T AH0 K EY1 SH AH0 N Z
@@ -8701,6 +8706,8 @@ barings B EH1 R IH0 NG Z
 barings' B EH1 R IH0 NG Z
 baris B AA1 R IY0 Z
 barish B EH1 R IH0 SH
+barista B AA0 R IY1 S T AH0
+baristas B AA0 R IY1 S T AH0 Z
 barite B EH1 R AY0 T
 barites B EH1 R AY0 T S
 baritone B EH1 R AH0 T OW2 N
@@ -11412,6 +11419,7 @@ biderman B AY1 D ER0 M AH0 N
 bidgood B IH1 D G UH2 D
 biding B AY1 D IH0 NG
 bidinger B AY1 D IH0 NG ER0
+bidirectional B IH1 D ER0 EH1 K SH AH0 N AH0 L
 bidlack B IH1 D L AE2 K
 bidlo B IH1 D L OW0
 bidlo's B IH1 D L OW0 Z
@@ -14782,6 +14790,7 @@ breaching B R IY1 CH IH0 NG
 bread B R EH1 D
 breadbasket B R EH1 D B AE2 S K AH0 T
 breadbox B R EH1 D B AA2 K S
+breadcrumb B R EH1 D K R AH1 M
 breaded B R EH1 D IH0 D
 breadfruit B R EH1 D F R UW2 T
 breading B R EH1 D IH0 NG
@@ -19579,6 +19588,7 @@ caves K EY1 V Z
 cavett K AE1 V IH0 T
 cavey K EY1 V IY0
 caviar K AE1 V IY0 AA2 R
+caviar's K AE1 V IY0 AA2 R Z
 cavin K AE1 V IH0 N
 caviness K EY1 V IY0 N IH0 S
 caving K EY1 V IH0 NG
@@ -20361,6 +20371,8 @@ charest SH AA0 R EH1 S T
 charette SH ER0 EH1 T
 charge CH AA1 R JH
 chargeable CH AA1 R JH AH0 B AH0 L
+chargeback CH AA1 R JH B AE2 K
+chargebacks CH AA1 R JH B AE2 K S
 charged CH AA1 R JH D
 charger CH AA1 R JH ER0
 chargers CH AA1 R JH ER0 Z
@@ -22619,6 +22631,7 @@ cnn's S IY1 EH1 N EH1 N Z
 cnn.com S IY1 EH1 N EH1 N D AA1 T K AA1 M
 cnnfn S IY1 EH1 N EH1 N EH1 F EH1 N
 co K OW1
+co-founder K OW1 F AW1 N D ER0
 co-leader K OW0 L IY1 D ER0
 co-leaders K OW0 L IY1 D ER0 Z
 co-op K OW1 AA2 P
@@ -22626,6 +22639,7 @@ co-operative K OW2 AA1 P ER2 AH0 T IH0 V
 co-operative(2) K OW2 AA1 P R AH0 T IH0 V
 co-opt K OW0 AA1 P T
 co-opted K OW0 AA1 P T AH0 D
+co-owner K OW1 OW2 N ER0
 co-wife K OW1 W AY1 F
 co-worker K OW1 W ER1 K ER0
 co-workers K OW1 W ER1 K ER0 Z
@@ -22835,6 +22849,7 @@ coddling K AA1 D AH0 L IH0 NG
 coddling(2) K AA1 D L IH0 NG
 code K OW1 D
 code's K OW1 D Z
+codebase K OW1 D B EY2 S
 codebreaker K OW1 D B R EY2 K ER0
 codebreakers K OW1 D B R EY2 K ER0 Z
 coded K OW1 D IH0 D
@@ -26948,6 +26963,7 @@ crivaro K R IH0 V AE1 R OW0
 crivelli K R IH0 V EH1 L IY0
 crivello K R IH0 V EH1 L OW0
 criven K R IH1 V AH0 N
+crm S IY1 AA1 R EH1 M
 crnkovich S ER1 N AH0 V IH2 CH
 cro K R OW1
 croak K R OW1 K
@@ -27343,6 +27359,7 @@ csaszar T S AA2 SH AA1 R
 csi S IY1 EH2 S AY1
 cspan S IY1 S P AE1 N
 cspi S IY1 EH1 S P IY1 AY1
+csv S IY1 EH1 S V IY1
 ct K AO1 R T
 cuadra K UW0 AA1 D R AH0
 cuadrado K UW0 AA0 D R AA1 D OW0
@@ -27774,6 +27791,7 @@ customer K AH1 S T AH0 M ER0
 customer's K AH1 S T AH0 M ER0 Z
 customers K AH1 S T AH0 M ER0 Z
 customers' K AH1 S T AH0 M ER0 Z
+customizable K AH1 S T AH0 M AY2 Z AH0 B AH0 L
 customize K AH1 S T AH0 M AY2 Z
 customized K AH1 S T AH0 M AY2 Z D
 customizes K AH1 S T AH0 M AY2 Z IH0 Z
@@ -28775,6 +28793,7 @@ datarex(2) D AE1 T ER0 EH2 K S
 datas D EY1 T AH0 Z
 datas(2) D AE1 T AH0 Z
 dataset D EY1 T AH0 S EH2 T
+datasets D EY1 T AH0 S EH2 T S
 date D EY1 T
 date's D EY1 T S
 dated D EY1 T IH0 D
@@ -35792,6 +35811,7 @@ dziuk JH IY0 UW1 K
 dzokhar JH OW2 K AA1 R
 e IY1
 e's IY1 Z
+e-commerce IY1 K AA1 M ER0 S
 e-mail IY1 M EY2 L
 e-mailed IY1 M EY2 L D
 e-mailing IY1 M EY2 L IH0 NG
@@ -40641,6 +40661,7 @@ facciola F AE2 CH IY0 OW1 L AH0
 face F EY1 S
 face-to-face F EY1 S T UW0 F EY1 S
 facebook F EY1 S B UH2 K
+facebook's F EY1 S B UH2 K S
 faced F EY1 S T
 facedown F EY1 S D AW1 N
 faceless F EY1 S L AH0 S
@@ -48797,6 +48818,7 @@ gockley G AA1 K L IY0
 god G AA1 D
 god's G AA1 D Z
 goda G OW1 D AH0
+godaddy G OW1 D AE2 D IY0
 godammit G AA2 D AE1 M IH0 T
 godar G AH0 D AA1 R
 godard G AH0 D AA1 R D
@@ -51729,6 +51751,7 @@ hadlock HH AE1 D L AH0 K
 hadn't HH AE1 D AH0 N T
 hadn't(2) HH AE1 D AH0 N
 hadnot HH AE1 D N AH0 T
+hadoop HH AE1 D UW1 P
 hadoya HH AH0 D OY1 AH0
 hadria HH AE1 D R IY0 AH0
 hadrian HH AE1 D R IY0 AH0 N
@@ -56272,6 +56295,7 @@ homeowner's HH OW1 M OW2 N ER0 Z
 homeowners HH OW1 M OW2 N ER0 Z
 homeowners' HH OW1 M OW2 N ER0 Z
 homeownership HH OW1 M OW2 N ER0 SH IH2 P
+homepage HH OW1 M P EY2 JH
 homeporting HH OW1 M P AO1 R T IH0 NG
 homer HH OW1 M ER0
 homer's HH OW1 M ER0 Z
@@ -56846,6 +56870,7 @@ hotlanta HH AO0 T L AE1 N T AH0
 hotline HH AA1 T L AY2 N
 hotlines HH AA1 T L AY2 N Z
 hotly HH AA1 T L IY0
+hotmail HH AA1 T M EY2 L
 hotpot HH AA1 T P AO2 T
 hots HH AA1 T S
 hotshot HH AA1 SH AA2 T
@@ -57083,6 +57108,7 @@ hoyne HH OY1 N
 hoyos HH OY1 OW0 Z
 hoyt HH OY1 T
 hoyvald HH OY1 V AH0 L D
+hp EY1 CH P IY1
 hr EY1 CH AA1 R
 hrabak HH R AA1 B AH0 K
 hrabak(2) R AA1 B AH0 K
@@ -58175,6 +58201,7 @@ ickes(2) AY1 K IY0 Z
 ickes(3) AY1 K S
 ickes' IH1 K AH0 S
 ickes'(2) IH1 K IY0 Z
+icloud AY1 K L AW1 D
 icon AY1 K AA0 N
 iconic AY2 K AA1 N IH0 K
 iconoclasm AY2 K AA1 N AH0 K L AE2 Z AH0 M
@@ -58222,6 +58249,7 @@ identification AY0 D EH2 N T AH0 F AH0 K EY1 SH AH0 N
 identifications AY0 D EH2 N T AH0 F AH0 K EY1 SH AH0 N Z
 identified AY0 D EH1 N T AH0 F AY2 D
 identifier AY0 D EH1 N T AH0 F AY2 ER0
+identifiers AY0 D EH1 N AH0 F AY2 ER0 Z
 identifies AY0 D EH1 N T AH0 F AY2 Z
 identify AY0 D EH1 N T AH0 F AY2
 identifying AY0 D EH1 N T AH0 F AY2 IH0 NG
@@ -58900,10 +58928,13 @@ in IH0 N
 in(2) IH1 N
 in's IH0 N Z
 in's(2) IH1 N Z
+in-app IH0 N AE1 P
 in-depth IH0 N D EH1 P TH
-in-house IH2 N HH AW1 S
-in-law IH2 N L AO1
-in-laws IH2 N L AO1 Z
+in-house IH0 N HH AW1 S
+in-law IH0 N L AO1
+in-laws IH0 N L AO1 Z
+in-memory IH0 N M EH1 M ER0 IY0
+in-person IH0 N P ER1 S AH0 N
 in. IH1 N
 in.(2) IH1 N CH
 ina IY1 N AH0
@@ -60906,6 +60937,7 @@ invitron IH1 N V IH0 T R AA0 N
 invitron's IH1 N V IH0 T R AA0 N Z
 invocation IH2 N V AH0 K EY1 SH AH0 N
 invoice IH1 N V OY0 S
+invoiced IH0 N V OY1 S T
 invoices IH1 N V OY0 S IH0 Z
 invoicing IH1 N V OY2 S IH0 NG
 invoke IH2 N V OW1 K
@@ -60980,6 +61012,7 @@ iowans(2) AY1 OW0 AH0 N Z
 ip AY1 P IY1
 ip(2) IH1 P
 ipad AY1 P AE2 D
+ipad's AY1 P AE2 D Z
 ipads AY1 P AE2 D Z
 ipalco IY0 P AE1 L K OW0
 ipalco's IY0 P AE1 L K OW0 Z
@@ -70465,6 +70498,7 @@ lifeblood L AY1 F B L AH2 D
 lifeboat L AY1 F B OW2 T
 lifeboats L AY1 F B OW2 T S
 lifeco L IY1 F K OW2
+lifecycle L AY1 F S AY2 K AH0 L
 lifeguard L AY1 F G AA2 R D
 lifeguards L AY1 F G AA2 R D Z
 lifeless L AY1 F L AH0 S
@@ -71588,6 +71622,7 @@ logographic L AO2 G AH0 G R AE1 F IH0 K
 logophilia L OW2 G OW0 F IH1 L IY2 AH0
 logos L OW1 G OW2 Z
 logothetis L OW2 G OW0 TH EH1 T IH0 S
+logout L AO1 G AW2 T
 lograsso L OW0 G R AA1 S OW0
 logs L AO1 G Z
 logsdon L AA1 G Z D AH0 N
@@ -77374,6 +77409,7 @@ meeting M IY1 T IH0 NG
 meeting's M IY1 T IH0 NG Z
 meetings M IY1 T IH0 NG Z
 meets M IY1 T S
+meetup M IY1 T AH2 P
 meetze M IY1 T Z
 meeuwsen M IY2 UW1 S AH0 N
 mefferd M EH1 F ER0 D
@@ -77900,6 +77936,7 @@ mentored M EH1 N T ER0 D
 mentoring M EH1 N T ER0 IH0 NG
 mentors M EH1 N T ER0 Z
 mentors(2) M EH1 N T AO2 R Z
+mentorship M EH1 N T ER0 SH IH2 P
 mentz M EH1 N T S
 mentzel M EH1 N T Z AH0 L
 mentzer M EH1 N T Z ER0
@@ -80232,6 +80269,8 @@ modicum M AA1 D IH0 K AH0 M
 modification M AA2 D AH0 F AH0 K EY1 SH AH0 N
 modifications M AA2 D AH0 F AH0 K EY1 SH AH0 N Z
 modified M AA1 D AH0 F AY2 D
+modifier M AA1 D AH0 F AY2 ER0
+modifiers M AA1 D AH0 F AY2 ER0 Z
 modifies M AA1 D AH0 F AY2 Z
 modify M AA1 D AH0 F AY2
 modifying M AA1 D AH0 F AY2 IH0 NG
@@ -80583,6 +80622,8 @@ monetarism M AA1 N AH0 T ER0 IH2 Z AH0 M
 monetarist M AA1 N AH0 T ER0 IH0 S T
 monetarists M AA1 N AH0 T ER0 IH2 S T S
 monetary M AA1 N AH0 T EH2 R IY0
+monetize M AA1 N AH0 T AY2 Z
+monetizing M AA1 N AH0 T AY2 Z IH0 NG
 monett M AA1 N IH0 T
 monette M AH0 N EH1 T
 money M AH1 N IY0
@@ -82995,6 +83036,7 @@ nationsbank's N EY1 SH AH0 N Z B AE2 NG K S
 nationwide N EY1 SH AH0 N W AY1 D
 nationwide's N EY1 SH AH0 N W AY1 D Z
 native N EY1 T IH0 V
+natively N EY1 T IH0 V L IY0
 natives N EY1 T IH0 V Z
 natividad N AH2 T IH0 V IH0 D AA1 D
 nativism N EY1 T IH0 V IH2 Z AH0 M
@@ -83998,6 +84040,7 @@ neylon N EY1 L AH0 N
 neyman N EY1 M AH0 N
 neysa N EY1 S AH0
 nez N EH1 Z
+nfc EH1 N EH1 F S IY1
 nfl EH1 N EH2 F EH1 L
 ng EH1 NG
 ng(2) IH1 NG
@@ -87212,6 +87255,7 @@ optimists AA1 P T AH0 M IH0 S T S
 optimization AA0 P T AH0 M AH0 Z EY1 SH AH0 N
 optimize AA1 P T AH0 M AY2 Z
 optimized AA1 P T AH0 M AY2 Z D
+optimizing AA1 P T AH0 M AY2 Z IH0 NG
 optimum AA1 P T AH0 M AH0 M
 optimus AA1 P T IH0 M AH0 S
 opting AA1 P T IH0 NG
@@ -90351,7 +90395,9 @@ payola P EY2 OW1 L AH0
 payout P EY1 AW2 T
 payouts P EY1 AW2 T S
 paypal P EY1 P AH2 L
+paypal's P EY1 P AH0 L Z
 payroll P EY1 R OW2 L
+payroll's P EY1 R OW2 L Z
 payrolls P EY1 R OW2 L Z
 pays P EY1 Z
 paysinger P EY1 S IH0 NG G ER0
@@ -92676,6 +92722,7 @@ pint-sized P AY1 N T S AY1 Z D
 pinta P IH1 N T AH0
 pintar P IY0 N T AA1 R
 pinter P AY1 N T ER0
+pinterest P IH1 N T R AH0 S T
 pinto P IH1 N T OW2
 pints P AY1 N T S
 piny P AY1 N IY0
@@ -94613,6 +94660,7 @@ pozo P OW1 Z OW0
 pozos P OW1 Z OW0 S
 pozzi P AA1 Z IY0
 ppm P IY1 P IY1 EH1 M
+pr P IY1 AA1 R
 prab P R AE1 B
 pracht P R AE1 K T
 practicable P R AE1 K T AH0 K AH0 B AH0 L
@@ -94828,6 +94876,7 @@ predecessor P R EH1 D AH0 S EH2 S ER0
 predecessor's P R EH1 D AH0 S EH2 S ER0 Z
 predecessors P R EH1 D AH0 S EH2 S ER0 Z
 predecessors' P R EH2 D AH0 S EH1 S ER0 Z
+predefined P R IY2 D IH0 F AY1 N D
 predestination P R IY2 D EH2 S T AH0 N EY1 SH AH0 N
 predestine P R IY2 D EH1 S T AH0 N
 predestined P R IY2 D EH1 S T AH0 N D
@@ -95633,6 +95682,8 @@ proactively P R OW2 AE1 K T IH0 V L IY2
 prob P R AA1 B
 prob(2) P R OW1 B
 proba P R OW1 B AA0
+probabilistic P R AA2 B AH0 B IH0 L IH1 S T AH0 K
+probabilistically P R AA2 B AH0 B IH0 L IH1 S T AH0 K L IY0
 probabilities P R AA2 B AH0 B IH1 L AH0 T IY2 Z
 probability P R AA2 B AH0 B IH1 L AH0 T IY2
 probable P R AA1 B AH0 B AH0 L
@@ -101199,6 +101250,7 @@ resembles(2) R IY0 Z EH1 M B AH0 L Z
 resembling R IH0 Z EH1 M B AH0 L IH0 NG
 resembling(2) R IY0 Z EH1 M B AH0 L IH0 NG
 resembling(3) R IY0 Z EH1 M B L IH0 NG
+resend R IH0 Z EH1 N D
 resende R IH0 S EH1 N D EY0
 resendes R EH1 S IH0 N D Z
 resendez R EY0 S EY1 N D EH0 Z
@@ -101611,6 +101663,10 @@ retarding R IH0 T AA1 R D IH0 NG
 retarding(2) R IY0 T AA1 R D IH0 NG
 retards R IH0 T AA1 R D Z
 retards(2) R IY0 T AA1 R D Z
+retarget R IY0 T AA1 R G AH0 T
+retargeter R IY0 T AA1 R G AH0 T ER0
+retargeters R IY0 T AA1 R G AH0 T ER0 Z
+retargeting R IY0 T AA1 R G AH0 T IH0 NG
 retell R IY0 T EH1 L
 retelling R IY0 T EH1 L IH0 NG
 retemeyer R EH1 T AH0 M AY2 R
@@ -102907,6 +102963,7 @@ roadcap R OW1 D K AE2 P
 roades R OW1 D Z
 roadhouse R OW1 D HH AW2 S
 roadie R OW1 D IY0
+roadmap R OW1 D M AE2 P
 roadmaster R OW1 D M AE2 S T ER0
 roadrailer R OW1 D R EY2 L ER0
 roadrunner R OW1 D R AH2 N ER0
@@ -104199,6 +104256,7 @@ rozzell R AA1 Z AH0 L
 rozzi R AA1 Z IY0
 rpf AA1 R P IY1 EH1 F
 rpm AA1 R P IY1 EH1 M
+rsvp AA1 R EH1 S V IY1 P IY1
 ru R UW1
 ru(2) AA1 R Y UW1
 rua R UW1 AH0
@@ -104868,6 +104926,7 @@ saar S AA1 R
 saari S AA1 R IY0
 saarinen S AA1 R IH0 N AH0 N
 saarinen(2) S AH0 R IY1 N AH0 N
+saas S AA1 S
 saatchi S AA1 CH IY0
 saatchi's S AA1 CH IY0 Z
 saathoff S AA1 T HH AO2 F
@@ -105273,6 +105332,7 @@ salemme S AE1 L IH0 M
 salerno S AH0 L EH1 R N OW0
 sales S EY1 L Z
 sales' S EY1 L Z
+salesforce S EY1 L Z F AO2 R S
 salesman S EY1 L Z M AH0 N
 salesman's S EY1 L Z M AH0 N Z
 salesmanship S EY1 L Z M AH0 N SH IH2 P
@@ -106338,6 +106398,7 @@ scags S K AE1 G Z
 scahill S K EY1 HH IH2 L
 scaife S K EY1 F
 scala S K AA1 L AH0
+scalability S K EY1 L AH0 B IH1 L IH0 T IY0
 scalable S K EY1 L AH0 B AH0 L
 scalamandre S K AA1 L AH0 M AA2 N D ER0
 scalamandre(2) S K AE1 L AH0 M AE2 N D ER0
@@ -108316,6 +108377,7 @@ segmented S EH1 G M EH2 N T IH0 D
 segmented(2) S EH2 G M EH1 N T IH0 D
 segmented(3) S EH1 G M EH2 N IH0 D
 segmented(4) S EH2 G M EH1 N IH0 D
+segmenting S EH2 G M EH1 N T IH0 NG
 segments S EH1 G M AH0 N T S
 segments(2) S EH2 G M EH1 N T S
 segner S EH1 G N ER0
@@ -112313,6 +112375,7 @@ smartly S M AA1 R T L IY0
 smartmoney S M AA1 R T M AH2 N IY0
 smartness S M AA1 R T N IH0 S
 smartphone S M AA1 R T F OW2 N
+smartphones S M AA1 R T F OW2 N Z
 smarts S M AA1 R T S
 smartt S M AA1 R T
 smarty S M AA1 R T IY0
@@ -114665,6 +114728,7 @@ sroka SH R OW1 K AH0
 sroufe SH R OW1 F
 srpska S R AH1 P S K AH0
 ssangyong S AE1 NG Y AO2 NG
+ssn EH1 S EH1 S EH1 N
 st S T R IY1 T
 st(2) S EY1 N T
 st-charles S EY1 N T CH AA1 R AH0 L Z
@@ -115682,6 +115746,7 @@ steny S T EH1 N IY0
 stenz S T EH1 N Z
 stenzel S T EH1 N Z AH0 L
 step S T EH1 P
+step-by-step S T EH1 P B IY0 S T EH2 P
 stepan S T EH1 P AH0 N
 stepanakert S T AH0 P AE1 N AH0 K ER0 T
 stepanek S T EH1 P AH0 N IH0 K
@@ -118251,6 +118316,7 @@ svitak S V IH1 T AH0 K
 svizzera S V IH0 Z EH1 R AH0
 svoboda S V OW0 B OW1 D AH0
 svoray S V AO1 R EY2
+svp S V IY1 P IY1
 swab S W AA1 B
 swabs S W AA1 B Z
 swaby S W AA1 B IY0
@@ -119132,6 +119198,8 @@ takashimaya T AA2 K AA2 SH IH0 M AA1 Y AH0
 takata T AA0 K AA1 T AH0
 takayama T AA0 K AA0 Y AA1 M AH0
 take T EY1 K
+takeaway T EY1 K AH0 W EY2
+takeaways T EY1 K AH0 W EY2 Z
 takecare T EY1 K EH1 R
 takeda T AA0 K EY1 D AH0
 takei T AA1 K EY2
@@ -119849,6 +119917,7 @@ tebuthiuron T EH2 B AH0 TH Y UW1 R AA0 N
 tec T EH1 K
 tech T EH1 K
 tech's T EH1 K S
+techcrunch T EH1 CH K R AH1 N CH
 techie T EH1 K IY0
 techies T EH1 K IY0 Z
 techint T EH1 CH IH0 N T
@@ -124412,6 +124481,7 @@ tweedy T W IY1 D IY0
 tween T W IY1 N
 tweet T W IY1 T
 tweeted T W IY1 T IH0 D
+tweets T W IY1 T S
 tweezer T W IY1 Z ER0
 tweezerman T W IY1 Z ER0 M AE2 N
 tweezers T W IY1 Z ER0 Z
@@ -124707,6 +124777,7 @@ uhr UH1 R
 uhrich UH1 R IH0 K
 uhrig UH1 R IH0 G
 uhrin UH1 R IH0 N
+ui Y UW1 AY1
 uinta Y UW0 IH1 N T AH0
 uk Y UW2 K EY1
 ukase Y UW1 K EY2 Z
@@ -126039,6 +126110,7 @@ unzip AH0 N Z IH1 P
 unzipped AH0 N Z IH1 P T
 up AH1 P
 up's AH1 P S
+up-front AH1 P F R AH2 N T
 upbeat AH1 P B IY2 T
 upbraid AH1 P B R EY2 D
 upbraided AH0 P B R EY1 D IH0 D
@@ -126253,6 +126325,7 @@ urioste Y ER0 IY0 OW1 S T IY0
 urkel ER1 K AH0 L
 url Y UW2 AA2 R EH1 L
 url(2) UH1 R L
+urls Y UW1 AA1 R EH1 L Z
 urman ER1 M AH0 N
 urn ER1 N
 urness ER1 N AH0 S
@@ -129136,6 +129209,7 @@ walkouts W AO1 K AW2 T S
 walkowiak W AO0 K AW1 IY0 AE0 K
 walkowski W AO0 K AO1 F S K IY0
 walks W AO1 K S
+walkthrough W AO1 K TH R AW0
 walkup W AO1 K AH2 P
 walkure W AO1 K Y ER0
 walkway W AO1 K W EY2
@@ -129894,9 +129968,11 @@ weber's V EY1 B ER0 Z
 weber's(2) W EH1 B ER0 Z
 weberg W EH1 B ER0 G
 webers W EH1 B ER0 Z
+webinar W EH1 B IH0 N ER0
 webley W EH1 B L IY0
 webmaster W EH1 B M AE2 S T ER0
 webmasters W EH1 B M AE2 S T ER0 Z
+webpage W EH1 B P IH0 JH
 webre W EH1 B ER0
 webs W EH1 B Z
 website W EH1 B S AY2 T
@@ -132766,6 +132842,7 @@ worden W ER1 D AH0 N
 wording W ER1 D IH0 NG
 wordless W ER1 D L AH0 S
 wordperfect W ER1 D P ER1 F EH0 K T
+wordpress W ER1 D P R IH0 S
 words W ER1 D Z
 words' W ER1 D Z
 wordsmith W ER1 D S M IH2 TH
@@ -132821,6 +132898,7 @@ worksheet W ER1 K SH IY2 T
 worksheets W ER1 K SH IY2 T S
 workshop W ER1 K SH AA2 P
 workshops W ER1 K SH AA2 P S
+workspace W ER1 K S P EY2 S
 workstation W ER1 K S T EY2 SH AH0 N
 workstations W ER1 K S T EY2 SH AH0 N Z
 workweek W ER1 K W IY2 K
@@ -133239,6 +133317,7 @@ xenophobic Z EH2 N AH0 F AA1 B IH0 K
 xenophon Z EH1 N AH0 F AH0 N
 xenos Z IY1 N OW0 Z
 xeriscape Z EH1 R IH0 S K EY2 P
+xero Z EH1 R OW0
 xerox Z IH1 R AA0 K S
 xerox's Z IH1 R AA0 K S IH0 Z
 xeroxed Z IH1 R AA0 K S T
