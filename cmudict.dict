@@ -86441,7 +86441,7 @@ offerman AO1 F ER0 M AH0 N
 offermann AO1 F ER0 M AH0 N
 offers AO1 F ER0 Z
 offhand AO1 F HH AE1 N D
-office AO1 F AH0 S
+office AO1 F IH0 S
 office's AO1 F AH0 S IH0 Z
 officeholder AO1 F AH0 S HH OW2 L D ER0
 officeholders AO1 F AH0 S HH OW2 L D ER0 Z
@@ -86974,7 +86974,6 @@ onderdonk AA1 N D ER0 D AH0 NG K
 ondo AO1 N D OW0
 ondracek AA1 N D R AH0 S EH0 K
 one W AH1 N
-one(2) HH W AH1 N
 one's W AH1 N Z
 one-eyed W AH2 N AY1 D
 one-legged W AH2 N L EH1 G AH0 D
@@ -133024,9 +133023,9 @@ wowie W AW1 IY0
 wowing W AW1 IH0 NG
 wows W AW1 Z
 woy W OY1
-wozniak V AA1 Z N IY0 AE0 K
+wozniak W AA1 Z N IY0 AE0 K
 woznick W AA1 Z N IH0 K
-woznicki V AH0 Z N IH1 T S K IY0
+woznicki W AH0 Z N IH1 T S K IY0
 wozny W AA1 Z N IY0
 wrack R AE1 K
 wracked R AE1 K T
