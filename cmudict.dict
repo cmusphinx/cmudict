@@ -17225,11 +17225,6 @@ c.'s S IY1 Z
 c.d.s S IY1 D IY1 Z
 c.o.d. S IY1 OW1 D IY1
 c.s S IY1 Z
-c1 S IY1 W AH1 N
-c2 S IY1 T UW1
-c3 S IY1 TH R IY1
-c4 S IY1 F AO1 R
-c5 S IY1 F AY1 V
 ca K AH1
 ca(2) S IY1 EY1
 ca(3) K AA1
@@ -19275,9 +19270,6 @@ casualty(3) K AE1 ZH AH0 L T IY0
 caswell K AE1 Z W EH2 L
 cat K AE1 T
 cat's K AE1 T S
-cat-2 K AE2 T T UW1
-cat-3 K AE2 T TH R IY1
-cat-4 K AE2 T F AO1 R
 cat-o-nine-tails K AE1 T OW0 N AY2 N T EY2 L Z
 cataclysm K AE1 T AH0 K L IH2 S AH0 M
 cataclysmic K AE2 T AH0 K L IH1 Z M IH0 K
@@ -72954,19 +72946,12 @@ m EH1 M
 m'bow M B OW1
 m'bow(2) EH2 M B OW1
 m's EH1 M Z
-m-8 EH1 M EY1 T
-m-80 EH1 M EY1 T IY0
 m-code EH1 M K OW1 D
 m-codes EH1 M K OW1 D Z
 m. EH1 M
 m.'s EH1 M Z
 m.d. EH2 M D IY1
 m.s EH1 M Z
-m1 EH1 M W AH1 N
-m2 EH1 M T UW1
-m3 EH1 M TH R IY1
-m4 EH1 M F AO1 R
-m5 EH1 M F AY1 V
 ma M AA1
 ma'am M AE1 M
 maack M AA1 K
