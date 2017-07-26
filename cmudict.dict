@@ -4599,7 +4599,8 @@ anti-infective AE1 N T IY0 IH0 N F EH1 K T IH0 V
 anti-war AE2 N T IY0 W AO1 R
 antiabortion AE1 N T IY0 AH0 B AO1 R SH AH0 N
 antiabortion(2) AE1 N T AY0 AH0 B AO1 R SH AH0 N
-antiaircraft AE2 N T AY0 EH1 R K R AE2 F T
+antiaircraft AE2 N T IY0 EH1 R K R AE2 F T
+antiaircraft(2) AE2 N T AY0 EH1 R K R AE2 F T
 antibacterial AE2 N T IY0 B AE0 K T IH1 R IY0 AH0 L
 antiballistic AE2 N T IY0 B AH0 L IH1 S T IH0 K
 antibiotic AE2 N T IY0 B AY0 AA1 T IH0 K
