@@ -17849,7 +17849,7 @@ cammisa K AH0 M IY1 S AH0
 cammon K AE1 M AH0 N
 cammy K AE1 M IY0
 camomile K AE2 M AH0 M AY1 L
-camomile(1) K AE2 M AH0 M IY1 L
+camomile(2) K AE2 M AH0 M IY1 L
 camorra K AH0 M AO1 R AH0
 camouflage K AE1 M AH0 F L AA2 ZH
 camouflaged K AE1 M AH0 F L AA2 ZH D
@@ -20207,7 +20207,7 @@ chamlee CH AE1 M L IY0
 chamlong CH AE1 M L AO2 NG
 chamness CH AE1 M N IH0 S
 chamomile K AE2 M AH0 M AY1 L
-chamomile(1) K AE2 M AH0 M IY1 L
+chamomile(2) K AE2 M AH0 M IY1 L
 chamonix CH AE1 M AH0 N IH0 K S
 chamonix(2) SH AE0 M OW0 N IY0
 chamorro CH AH0 M AO1 R OW0
@@ -46156,7 +46156,7 @@ galla G AE1 L AH0
 gallacher G AE1 L AH0 K ER0
 gallager G AO1 L IH0 JH ER0
 gallagher G AE1 L AH0 G ER0
-gallagher(1) G AE1 L AH0 HH ER0
+gallagher(2) G AE1 L AH0 HH ER0
 gallahan G AE1 L AH0 HH AE0 N
 gallaher G AE1 L AH0 HH ER0
 gallamore G AA0 L AA1 M AO0 R
@@ -49573,7 +49573,7 @@ gourds G AO1 R D Z
 gourlay G AO1 R L EY0
 gourley G AO1 R L IY0
 gourmand G UH1 R M AA0 N D
-gourmand(1) G AO1 R M AA0 N D
+gourmand(2) G AO1 R M AA0 N D
 gourment G AO2 R M EH1 N T
 gourmet G UH1 R M EY2
 gourmets G UH1 R M EY2 Z
@@ -75297,8 +75297,8 @@ marzec M AA1 R Z IH0 K
 marzette M AA2 R Z EH1 T
 marzilli M AA0 R Z IY1 L IY2
 marzipan M AA1 R Z AH0 P AE0 N
-marzipan(1) M AA1 R T S AH0 P AA0 N
-marzipan(2) M AA1 R T S AH0 P AE0 N
+marzipan(2) M AA1 R T S AH0 P AA0 N
+marzipan(3) M AA1 R T S AH0 P AE0 N
 marzo M AA1 R Z OW2
 marzolf M AA1 R Z OW2 L F
 marzotto M AA2 R Z AA1 T OW2
@@ -82588,7 +82588,7 @@ naab N AA1 B
 naacp EH2 N EY2 EY2 S IY2 P IY1
 naan N AA1 N
 naas N AA1 Z
-naas(1) N EY1 S
+naas(2) N EY1 S
 nab N AE1 B
 nabb N AE1 B
 nabbed N AE1 B D
@@ -106126,7 +106126,7 @@ satanist S EY1 T AH0 N IH0 S T
 satanjeev S AA2 T AA0 N JH IY1 V
 satans S EY1 T AH0 N Z
 satay S AE0 T EY1
-satay(1) S AA0 T EY1
+satay(2) S AA0 T EY1
 satchell S AE1 CH AH0 L
 satcher S AE1 CH ER0
 sate S EY1 T
@@ -119057,7 +119057,7 @@ tabb T AE1 B
 tabbert T AE1 B ER0 T
 tabbing T AE1 B IH0 NG
 tabbouleh T AH0 B UW1 L EY0
-tabbouleh(1) T AH0 B UW1 L IY0
+tabbouleh(2) T AH0 B UW1 L IY0
 tabby T AE1 B IY0
 taber T EY1 B ER0
 tabernacle T AE1 B ER0 N AE2 K AH0 L
