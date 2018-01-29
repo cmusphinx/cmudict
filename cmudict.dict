@@ -83,6 +83,7 @@ abatements AH0 B EY1 T M AH0 N T S
 abates AH0 B EY1 T S
 abating AH0 B EY1 T IH0 NG
 abattoir AE2 B AH0 T W AA1 R
+abaya AH0 B AY1 AH0
 abba AE1 B AH0
 abbado AH0 B AA1 D OW0
 abbas AH0 B AA1 S
@@ -270,6 +271,7 @@ abolition AE2 B AH0 L IH1 SH AH0 N
 abolitionism AE2 B AH0 L IH1 SH AH0 N IH2 Z AH0 M
 abolitionist AE2 B AH0 L IH1 SH AH0 N AH0 S T
 abolitionists AE2 B AH0 L IH1 SH AH0 N AH0 S T S
+abomasum AH2 B OW0 M EY1 S AH0 M
 abominable AH0 B AA1 M AH0 N AH0 B AH0 L
 abomination AH0 B AA2 M AH0 N EY1 SH AH0 N
 abominations AH0 B AA2 M AH0 N EY1 SH AH0 N Z
@@ -406,6 +408,7 @@ absorbing AH0 B Z AO1 R B IH0 NG
 absorbs AH0 B Z AO1 R B Z
 absorption AH0 B Z AO1 R P SH AH0 N
 absorption(2) AH0 B S AO1 R P SH AH0 N
+absquatulate AE0 B S K W AE1 CH AH0 L EY2 T
 abstain AH0 B S T EY1 N
 abstain(2) AE0 B S T EY1 N
 abstained AH0 B S T EY1 N D
@@ -1327,6 +1330,7 @@ adroit AH0 D R OY1 T
 adroitly AH0 D R OY1 T L IY0
 ads AE1 D Z
 ads' AE1 D Z
+adscititious AE2 D S AH0 T IH1 SH AH0 S
 adsit AE1 D S IH0 T
 adsl EY2 D IY2 EH2 S EH1 L
 adsorption AH0 D S AO1 R P SH AH0 N
@@ -1652,6 +1656,7 @@ aforesaid AH0 F AO1 R S EH2 D
 aforethought AH0 F AO1 R TH AA2 T
 afoul AH0 F AW1 L
 afraid AH0 F R EY1 D
+afreet AE0 F R IY1 T
 afresh AH0 F R EH1 SH
 africa AE1 F R AH0 K AA0
 africa(2) AE1 F R IH0 K AH0
@@ -3784,6 +3789,8 @@ amphibians AE0 M F IH1 B IY0 AH0 N Z
 amphibious AE0 M F IH1 B IY0 AH0 S
 amphibole AE1 M F AH0 B OW2 L
 amphibole(2) AE1 M F IH0 B OW2 L
+amphibology AE2 M F AH0 B AA1 L AH0 JH IY0
+amphisbaena AE2 M F AH0 Z B IY1 N AH0
 amphitheater AE1 M F AH0 TH IY0 EY1 T ER0
 amphitheaters AE1 M F AH0 TH IY0 EY1 T ER0 Z
 amphitheatre AE1 M F AH0 TH IY0 EY1 T ER0
@@ -11593,6 +11600,7 @@ bilbao's B IH0 L B AW1 Z
 bilbaoan B IH0 L B OW1 AH0 N
 bilbaoans B IH0 L B OW1 AH0 N Z
 bilbo B IH1 L B OW2
+bilboes B IH1 L B OW2 Z
 bilbrey B IH1 L B R IY0
 bilbro B IY1 L B R OW0
 bilby B IH1 L B IY0
@@ -11713,6 +11721,7 @@ binding B AY1 N D IH0 NG
 bindings B AY1 N D IH0 NG Z
 bindle B IH1 N D AH0 L
 bindles B IH1 N D AH0 L Z
+bindlestiff B IH1 N D EH0 L S T IH0 F
 bindley B IH1 N D L IY0
 binds B AY1 N D Z
 binegar B IH1 N IH0 G ER0
@@ -12342,6 +12351,7 @@ blatantly B L EY1 T AH0 N T L IY0
 blatchford B L AE1 CH F ER0 D
 blatchley B L AE1 CH L IY0
 blather B L AE1 DH ER0
+blatherskite B L AE1 DH ER0 S K AY2 T
 blatnik B L AE1 T N IH0 K
 blatt B L AE1 T
 blatter B L AE1 T ER0
@@ -13060,6 +13070,7 @@ boeve B OW1 V
 boff B AO1 F
 boffa B AA1 F AH0
 boffo B AO1 F OW0
+boffola B AO0 F OW1 L AH0
 bofors B OW1 F ER0 Z
 bofors's B OW1 F ER0 Z IH0 Z
 bog B AA1 G
@@ -13176,6 +13187,7 @@ boilerplate B OY1 L ER0 P L EY2 T
 boilerplates B OY1 L ER0 P L EY2 T S
 boilers B OY1 L ER0 Z
 boiling B OY1 L IH0 NG
+boilover B OY1 L OW2 V ER0
 boils B OY1 L Z
 boink B OY1 N K
 boipatong B OY1 P AH0 T AO0 NG
@@ -13679,6 +13691,7 @@ boral B AO1 R AH0 L
 borawski B ER0 AA1 F S K IY0
 borax B AO1 R AE2 K S
 borba B AO1 R B AH0
+borborygmus B AO2 R B AH0 R IH1 G M AH0 S
 borchard B ER0 SH AA1 R D
 borchardt B ER0 SH AA1 R D T
 borchelt B AO1 R K IH0 L T
@@ -14846,6 +14859,7 @@ breasting B R EH1 S T IH0 NG
 breastplate B R EH1 S T P L EY2 T
 breasts B R EH1 S T S
 breath B R EH1 TH
+breatharian B R EH0 TH EH1 R IY2 AH0 N
 breathe B R IY1 DH
 breathed B R IY1 DH D
 breather B R IY1 DH ER0
@@ -15915,6 +15929,7 @@ brutsche B R AH1 CH IY0
 brutus B R UW1 T AH0 S
 bruun B R UW1 N
 bruxelles B R AH0 K S EH1 L AH0 S
+bruxism B R AH1 K S IH2 Z AH0 M
 bruyette B R UW0 EH1 T
 bruynes B R UW1 IH0 N Z
 bruzzese B R UW0 T S EY1 Z IY0
@@ -16428,6 +16443,7 @@ bumblebees B AH1 M B AH0 L B IY2 Z
 bumbling B AH1 M B AH0 L IH0 NG
 bumbling(2) B AH1 M B L IH0 NG
 bumbly B AH1 M B L IY0
+bumbo B AH0 M B OW1
 bumgardner B AH1 M G AA2 R D N ER0
 bumgarner B AH1 M G AA2 R N ER0
 bumiputra B UW2 M IY0 P Y UW1 T R AH0
@@ -16782,6 +16798,7 @@ burns's B ER1 N Z IH0 Z
 burnsed B ER1 N Z D
 burnside B ER1 N S AY2 D
 burnside's B ER1 N S AY2 D Z
+burnsides B ER1 N S AY2 D Z
 burnstein B ER1 N S T AY2 N
 burnstein(2) B ER1 N S T IY2 N
 burnsworth B ER1 N Z W ER2 TH
@@ -17342,6 +17359,7 @@ cackling K AE1 K AH0 L IH0 NG
 cackling(2) K AE1 K L IH0 NG
 cacld K AE1 K AH0 L D
 cacld(2) S IY1 EY1 S IY1 EH1 L D IY1
+cacoethes K AE2 K OW0 IY1 TH IY0 Z
 cacophony K AE0 K AA1 F AH0 N IY0
 cacti K AE1 K T AY0
 cacti(2) K AE1 K T IY0
@@ -17668,6 +17686,7 @@ callinan K AE1 L IH0 N AH0 N
 calling K AO1 L IH0 NG
 calliope K AH0 L AY1 AH0 P IY2
 calliopes K AH0 L AY1 AH0 P IY2 Z
+callipygian K AE2 L AH0 P IH1 JH IY0 AH0 N
 callis K AE1 L IH0 S
 callison K AE1 L IH0 S AH0 N
 callister K AO1 L IH0 S T ER0
@@ -17836,6 +17855,7 @@ camillo K AH0 M IH1 L OW0
 caminiti K AA0 M IY0 N IY1 T IY0
 camino K AH0 M IY1 N OW0
 camire K AA0 M IH1 R IY0
+camisado K AE2 M AH0 S EY1 D OW0
 camisole K AE1 M IH0 S OW0 L
 camm K AE1 M
 cammack K AE1 M AH0 K
@@ -18122,6 +18142,8 @@ canonize K AE1 N AH0 N AY2 Z
 canonized K AE1 N AH0 N AY2 Z D
 canons K AE1 N AH0 N Z
 canopy K AE1 N AH0 P IY0
+canorous K EY1 N ER0 AH0 S
+canorous(1) K AH0 N OW1 R AH0 S
 canosa K AH0 N OW1 S AH0
 canova K AA0 N OW1 V AH0
 canoy K AE1 N OY0
@@ -18151,6 +18173,7 @@ canterbury's(2) K AE1 N ER0 B EH2 R IY0 Z
 cantero K AA0 N T EH1 R OW0
 canterra K AA2 N T EH1 R AH0
 cantey K AE1 N T IY0
+cantillate K AE1 N T IH0 L EY2 T
 cantin K AA0 N T IY1 N
 cantina K AE2 N T IY1 N AH0
 cantle K AE1 N T AH0 L
@@ -18814,6 +18837,7 @@ carpetbaggers K AA1 R P AH0 T B AE2 G ER0 Z
 carpeted K AA1 R P AH0 T IH0 D
 carpeting K AA1 R P AH0 T IH0 NG
 carpets K AA1 R P AH0 T S
+carphology K AA2 R F AA1 L AH0 JH IY0
 carpinelli K AA0 R P IY0 N EH1 L IY0
 carping K AA1 R P IH0 NG
 carpino K AA0 R P IY1 N OW0
@@ -19970,6 +19994,7 @@ ceremonial S EH2 R AH0 M OW1 N IY0 AH0 L
 ceremonies S EH1 R AH0 M OW2 N IY0 Z
 ceremony S EH1 R AH0 M OW2 N IY0
 cereno S ER0 EY1 N OW0
+cereology S IH0 R IY0 AA1 L AH0 JH IY1
 ceres S IH1 R IY0 Z
 cerezo S EH2 R EY1 Z OW0
 cerezo(2) S ER0 EY1 Z OW0
@@ -20017,6 +20042,7 @@ certifying S ER1 T AH0 F AY2 IH0 NG
 certitude S ER1 T AH0 T UW2 D
 certo CH EH1 R T OW0
 certron S ER1 T R AA0 N
+cerulean S AH0 R UW1 L IY0 AH0 N
 cerulli CH ER0 UW1 L IY0
 cerullo CH ER0 UW1 L OW0
 cerus S EH1 R AH0 S
@@ -20297,6 +20323,8 @@ chanson SH AA1 N S AO2 N
 chant CH AE1 N T
 chantal CH AE1 N T AH0 L
 chanted CH AE1 N T IH0 D
+chanticleer CH AE2 N T AH0 K L IY1 ER0
+chanticleer(1) SH AE2 N T AH0 K L IY1 ER0
 chantilly SH AE2 N T IH1 L IY0
 chanting CH AE1 N T IH0 NG
 chants CH AE1 N T S
@@ -21063,6 +21091,7 @@ chiles(2) CH IH1 L IY0 Z
 chiles's CH IH1 L IY0 Z IH0 Z
 chili CH IH1 L IY0
 chili's CH IH1 L IY0 Z
+chiliad CH IH1 L IY0 AH0 D
 chilies CH IH1 L IY0 Z
 chilis CH IH1 L IY0 Z
 chill CH IH1 L
@@ -21926,6 +21955,7 @@ claflin K L AE1 F L IH0 N
 clagett K L AE1 JH IH0 T
 clagg K L AE1 G
 claggett K L AE1 G IH0 T
+claggy K L AE1 G IY0
 clague K L AA1 G
 claiborn K L EY1 B ER0 N
 claiborne K L EY1 B ER0 N
@@ -22269,6 +22299,7 @@ cleopatra K L IY2 AH0 P AE1 T R AH0
 cleopatra's K L IY2 AH0 P AE1 T R AH0 Z
 clephane K L EH1 F EY2 N
 clepper K L EH1 P ER0
+clepsydra K L EH1 P S IH0 D R AH0
 clerc K L ER1 K
 clercq K L ER1 K
 clergy K L ER1 JH IY0
@@ -23503,6 +23534,7 @@ comerford K AH0 M ER1 F ER0 D
 comerica K AH0 M EH1 R IH0 K AH0
 comers K AH1 M ER0 Z
 comes K AH1 M Z
+comess K OW1 M EH0 S
 comet K AA1 M AH0 T
 comet's K AA1 M AH0 T S
 cometary K AA1 M AH0 T EH2 R IY0
@@ -24388,6 +24420,7 @@ congested K AH0 N JH EH1 S T AH0 D
 congested(2) K AH0 N JH EH1 S T IH0 D
 congestion K AH0 N JH EH1 S CH AH0 N
 congestive K AH0 N JH EH1 S T IH0 V
+congius K AA1 N JH IY0 AH0 S
 congleton K AA1 NG G AH0 L T AA0 N
 conglomerate K AH0 N G L AA1 M ER0 AH0 T
 conglomerate's K AH0 N G L AA1 M ER0 AH0 T S
@@ -26231,6 +26264,7 @@ cousteau's K UW2 S T OW1 Z
 cousy K UW1 Z IY0
 coutant K UW0 T AO1 N T
 coutee K UW0 T IY1
+couthy K UW1 TH IY0
 couto K AW1 T OW0
 couts K AW1 T S
 coutts K AW1 T S
@@ -27082,6 +27116,7 @@ cropping K R AA1 P IH0 NG
 crops K R AA1 P S
 cropsey K R AA1 P S IY0
 croquet K R OW0 K EY1
+crore K R AO1 R
 cros K R AO1 S
 crosbey K R AA1 S B IY0
 crosbie K R AO1 Z B IY0
@@ -27214,6 +27249,7 @@ crowthers K R OW1 TH ER0 Z
 croxton K R AA1 K S T AH0 N
 croy K R OY1
 croyle K R OY1 L
+croze K R OW1 Z
 crozier K R OW1 ZH ER0
 cruce K R UW1 S
 cruces K R UW1 S IY0 Z
@@ -27606,6 +27642,9 @@ cuppett K AH1 P IH0 T
 cupples K AH1 P AH0 L Z
 cupps K AH1 P S
 cuppy K AH1 P IY0
+cupreous K AH1 P R IY0 AH0 S
+cupreous(1) K UW1 P R IY0 AH0 S
+cupreous(2) K Y UW1 P R IY0 AH0 S
 cups K AH1 P S
 cur K ER1
 curable K Y UH1 R AH0 B AH0 L
@@ -29832,6 +29871,8 @@ degroote D AH0 G R UW1 T
 deguerin D IH0 G ER1 IH0 N
 deguire D EY0 G W IH1 R EY0
 degussa D IH0 G Y UW1 S AH0
+degust D IY1 G AH0 S T
+degust(1) D AH0 G AH1 S T
 degutare D EH2 G UW0 T AA1 R IY0
 degutare's D EH2 G UW0 T AA1 R IY0 Z
 deguzman D EY0 G UW0 Z M AE1 N
@@ -30894,6 +30935,8 @@ deputy(2) D EH1 P Y UW0 T IY0
 depuy D IH0 P W IY1
 dequeker D IH0 K W EH1 K ER0
 der D ER1
+deracinate D AH0 R AE1 S AH0 N EY0 T
+deracinate(1) D IY0 R AE1 S AH0 N EY0 T
 derail D IH0 R EY1 L
 derailed D IH0 R EY1 L D
 derailing D IH0 R EY1 L IH0 NG
@@ -31326,6 +31369,7 @@ detention D IH0 T EH1 N SH AH0 N
 detentions D IH0 T EH1 N SH AH0 N Z
 deter D IH0 T ER1
 deterding D EH1 T ER0 D IH0 NG
+deterge D IH0 T ER1 JH
 detergent D IH0 T ER1 JH AH0 N T
 detergents D IH0 T ER1 JH AH0 N T S
 deteriorate D IH0 T IH1 R IY0 ER0 EY2 T
@@ -32121,6 +32165,7 @@ digging D IH1 G IH0 NG
 diggins D IH1 G IH0 N Z
 diggle D IH1 G AH0 L
 diggs D IH1 G Z
+dight D AY1 T
 digiacomo D IY1 JH AH0 K OW0 M OW0
 digicon D IH1 JH IH0 K AA2 N
 digidyne D IH1 JH IH0 D AY2 N
@@ -33369,6 +33414,7 @@ diurnal D AY0 ER1 N AH0 L
 diurnally D AY0 ER1 N AH0 L IY0
 diva D IY1 V AH0
 divad D IH1 V AE0 D
+divagate D AY1 V AH0 G EY0 T
 divalent D AY0 V EY1 L AH0 N T
 divall D IH1 V AH0 L
 divan D IH0 V AE1 N
@@ -34312,6 +34358,7 @@ doten D OW1 T AH0 N
 doth D AO1 TH
 dothan D AA1 TH AH0 N
 doting D OW1 T IH0 NG
+dotish D OW1 T IH0 SH
 doto D OW1 T OW0
 dots D AA1 T S
 dotson D AA1 T S AH0 N
@@ -34576,6 +34623,7 @@ draconian D R EY0 K OW1 N IY0 AH0 N
 draconian(2) D R AH0 K OW1 N IY0 AH0 N
 dracula D R AE1 K Y UW0 L AH0
 draeger D R EH1 G ER0
+draff D R AE1 F
 draffen D R AE1 F AH0 N
 draft D R AE1 F T
 draft's D R AE1 F T S
@@ -36538,6 +36586,7 @@ eerie IH1 R IY0
 eerily IH1 R AH0 L IY0
 efaw EH1 F AO0
 efecto IH0 F EH1 K T OW0
+effable EH1 F AH0 B AH0 L
 efface IH0 F EY1 S
 effacing IH0 F EY1 S IH0 NG
 effect IH0 F EH1 K T
@@ -37447,6 +37496,7 @@ emaciate IH0 M EY1 SH IY0 EY2 T
 emaciated IH0 M EY1 SH IY0 EY2 T IH0 D
 emaciates IH0 M EY1 SH IY0 EY2 T S
 emaciating IH0 M EY1 SH IY0 EY2 T IH0 NG
+emacity IH0 M AH1 S IH0 T IY0
 emacs IY1 M AE2 K S
 emad IY1 M AE0 D
 email IY0 M EY1 L
@@ -38408,6 +38458,8 @@ ensnares IH0 N S N EH1 R Z
 ensnarl IH0 N S N AA1 R L
 ensnarled IH0 N S N AA1 R L D
 ensor EH1 N S ER0
+ensorcell EH2 N S AO1 R S EH L
+ensorcell(1) IH2 N S AO1 R S EH L
 ensource EH0 N S AO1 R S
 ensrud EH1 N Z R UW2 D
 enstrom EH1 N S T R AH0 M
@@ -39470,6 +39522,7 @@ ettinger's EH1 T IH0 NG ER0 Z
 ettlinger EH1 T L IH0 NG ER0
 etty EH1 T IY0
 etudes EY1 T UW2 D Z
+etui EH T W IY1
 etymological EH2 T AH0 M AH0 L AA1 JH AH0 K AH0 L
 etymology EH2 T AH0 M AA1 L AH0 JH IY0
 etymology(2) EH2 T IH0 M AA1 L AH0 JH IY0
@@ -41044,6 +41097,7 @@ fangman F AE1 NG M AH0 N
 fangs F AE1 NG Z
 fanguy F AH0 NG G W IY1
 fankhauser F AE1 NG K HH AW2 Z ER0
+fankle F AE1 NG K AH0 L
 fanlike F AE1 N L AY2 K
 fann F AE1 N
 fanned F AE1 N D
@@ -43209,6 +43263,7 @@ flathers F L AE1 DH ER0 Z
 flatland F L AE1 T L AE2 N D
 flatlands F L AE1 T L AE0 N D Z
 flatley F L AE1 T L IY0
+flatline F L AE1 T L AY1 N
 flatly F L AE1 T L IY0
 flatness F L AE1 T N AH0 S
 flato F L AE1 T OW0
@@ -43350,6 +43405,7 @@ fleury F L UH1 R IY0
 flew F L UW1
 flewellen F L UW2 EH1 L AH0 N
 flewelling F L UW2 EH1 L IH0 NG
+flews F L UW1 Z
 flex F L EH1 K S
 flexed F L EH1 K S T
 flexer F L EH1 K S ER0
@@ -48403,6 +48459,7 @@ gladys G L AE1 D IH0 S
 gladys' G L AE1 D IH0 S
 glaeser G L EY1 Z ER0
 glahn G L AE1 N
+glaikit G L EY1 K AH0 T
 glam G L AE1 M
 glamor G L AE1 M ER0
 glamorize G L AE1 M ER0 AY2 Z
@@ -48768,6 +48825,7 @@ gnashing N AE1 SH IH0 NG
 gnat N AE1 T
 gnatcatcher N AE1 T K AE2 CH ER0
 gnatcatchers N AE1 T K AE2 CH ER0 Z
+gnathic N AE1 TH AH0 K
 gnats N AE1 T S
 gnau N AW1
 gnaw N AO1
@@ -51692,6 +51750,7 @@ habich HH AE1 B IH0 K
 habicht HH AE1 B IH0 K T
 habig HH AE1 B IH0 G
 habiger HH AE1 B IH0 G ER0
+habile HH AE1 B AH0 L
 habit HH AE1 B AH0 T
 habitable HH AE1 B AH0 T AH0 B AH0 L
 habitat HH AE1 B AH0 T AE2 T
@@ -55454,6 +55513,7 @@ hinkelman HH IH1 NG K AH0 L M AH0 N
 hinkle HH IH1 NG K AH0 L
 hinkley HH IH1 NG K L IY0
 hinkson HH IH1 NG K S AH0 N
+hinky HH IH1 NG K IY0
 hinman HH IH1 N M AH0 N
 hinmen HH IH1 N M EH0 N
 hinn HH IH1 N
@@ -56448,6 +56508,7 @@ honeywell HH AH1 N IY0 W EH2 L
 honeywell's HH AH1 N IY0 W EH2 L Z
 hong HH AO1 NG
 hong-kong HH AO1 NG K AO1 NG
+hongi HH AO1 NG IY0
 hongkong HH AO1 NG K AO0 NG
 hongwei HH AO1 NG W EY1
 honig HH AA1 N IH0 G
