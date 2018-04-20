@@ -64,3 +64,10 @@ only original or only reduced based on perceived frequency in read speech.
 
 This situation might improve in the future
 
+Removing stress
+---------------
+
+For versions of Sphinx and PocketSphinx that do not support it, you may
+remove the stress from the phones of a dictionary with
+
+    swift stripStress.swift
