@@ -2220,7 +2220,9 @@ aisle(2) AY1 AH0 L
 aisles AY1 L Z
 aisles(2) AY1 AH0 L Z
 aisling EY1 S L IH0 NG
+aisling(2) AE1 SH L IH0 NG
 aislinn EY1 S L IH0 N
+aislinn(2) AE1 SH L IH0 NG
 aist EY1 S T
 aitchison EY1 CH IH0 S AH0 N
 aithne EY1 TH N
@@ -17480,6 +17482,7 @@ caisson(2) K EH1 S AH0 N
 caissons K EY1 S AH0 N Z
 caissons(2) K EH1 S AH0 N Z
 caitlin K EY1 T L IH0 N
+caitlin(2) K AE1 T L IY0 N
 caito K EY1 T OW0
 cajole K AH0 JH OW1 L
 cajoled K AH0 JH OW1 L D
@@ -84102,6 +84105,7 @@ nial N AY1 AH0 L
 niall N AY1 L
 niam N AY1 AH0 M
 niamh N AY1 AH0 M
+niamh(2) N IY1 V
 nib N IH1 B
 nibbe N IH1 B
 nibble N IH1 B AH0 L
@@ -111502,6 +111506,7 @@ sinusoidal S AY1 N AH0 S OY2 D AH0 L
 sinusoidally S AY2 N AH0 S OY1 D AH0 L IY0
 sinyard S IH1 N Y AA2 R D
 siobhan SH AW1 B AA2 N
+siobhan(2) SH AH0 V AO1 N
 sioux S UW1
 sip S IH1 P
 sipa S IY1 P AH0
@@ -113470,6 +113475,7 @@ sorcerer S AO1 R S ER0 ER0
 sorcerers S AO1 R S ER0 ER0 Z
 sorcery S AO1 R S ER0 IY0
 sorcha S AO1 R K AH0
+sorcha(2) S AH1 R AH0 K AH0
 sorci S AO1 R CH IY0
 sordid S AO1 R D AH0 D
 sordoni S AO0 R D OW1 N IY0
