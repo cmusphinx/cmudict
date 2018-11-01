@@ -6532,7 +6532,7 @@ atlantica AE2 T L AE1 N T IH0 K AH0
 atlantico AE2 T L AE1 N T IH0 K OW0
 atlantis AE0 T L AE1 N T IH0 S
 atlantis(2) AE0 T L AE1 N IH0 S
-atlantis'(2) AE0 T L AE1 N T IH0 S IH0 Z
+atlantis' AE0 T L AE1 N T IH0 S IH0 Z
 atlantis's AE0 T L AE1 N T IH0 S IH0 Z
 atlas AE1 T L AH0 S
 atlas's AE1 T L AH0 S IH0 Z
@@ -28765,7 +28765,7 @@ davio's D AE1 V IY0 OW0 Z
 davir D AH0 V IH1 R
 davis D EY1 V AH0 S
 davis(2) D EY1 V IH0 S
-davis'(2) D EY1 V AH0 S AH0 Z
+davis' D EY1 V AH0 S AH0 Z
 davis's D EY1 V AH0 S AH0 Z
 davis's(2) D EY1 V IH0 S IH0 Z
 davison D EY1 V IH0 S AH0 N
@@ -35106,7 +35106,7 @@ duisburg D UW1 S B ER0 G
 duitsman D UW1 T S M AH0 N
 duk D AH1 K
 dukakis D UW0 K AA1 K IH0 S
-dukakis'(2) D UW0 K AA1 K IH0 S IH0 Z
+dukakis' D UW0 K AA1 K IH0 S IH0 Z
 dukakis's D UW0 K AA1 K IH0 S IH0 Z
 dukakises D UW0 K AA1 K IH0 S IH0 Z
 dukart D AH1 K AA0 R T
@@ -36086,7 +36086,7 @@ economist's(4) IY0 K AA1 N AH0 M IH0 S
 economists IH0 K AA1 N AH0 M IH0 S T S
 economists(2) IH0 K AA1 N AH0 M IH0 S
 economists(3) IY0 K AA1 N AH0 M IH0 S
-economists'(2) IY0 K AA1 N AH0 M IH0 S T S
+economists' IY0 K AA1 N AH0 M IH0 S T S
 economize IH0 K AA1 N AH0 M AY2 Z
 economize(2) IY0 K AA1 N AH0 M AY2 Z
 economizes IH0 K AA1 N AH0 M AY2 Z AH0 Z
@@ -71789,8 +71789,8 @@ louima L UW0 IY1 M AH0
 louima's L UW0 IY1 M AH0 Z
 louis L UW1 IH0 S
 louis(2) L UW1 IY0
-louis'(2) L UW1 IY0 Z
-louis'(3) L UW1 IH0 S IH0 Z
+louis' L UW1 IY0 Z
+louis'(2) L UW1 IH0 S IH0 Z
 louis's L UW1 IH0 S IH0 Z
 louisa L UW0 IY1 Z AH0
 louisan L UW1 IH0 S AH0 N
@@ -74305,7 +74305,7 @@ marcone M AA0 R K OW1 N IY0
 marconi M AA0 R K OW1 N IY0
 marcor M AA1 R K AO2 R
 marcos M AA1 R K OW0 S
-marcos'(2) M AA1 R K OW0 S IH0 Z
+marcos' M AA1 R K OW0 S IH0 Z
 marcos's M AA1 R K AH0 S IH0 Z
 marcoses M AA0 R K OW1 S IH0 Z
 marcott M AA0 R K AA1 T
@@ -89461,7 +89461,7 @@ partida P AA0 R T IY1 D AH0
 partido P AA0 R T IY1 D OW0
 partied P AA1 R T IY0 D
 parties P AA1 R T IY0 Z
-parties'(2) P AA1 R T IY2 Z
+parties' P AA1 R T IY2 Z
 partin P AA1 R T IH0 N
 parting P AA1 R T IH0 NG
 partington P AA1 R T IH0 NG T AH0 N
@@ -98341,7 +98341,7 @@ reaganite(2) R IY1 G AH0 N AY2 T
 reaganites R EY1 G AH0 N AY2 T S
 reaganomics R EY2 G AH0 N AA1 M IH0 K S
 reagans R EY1 G AH0 N Z
-reagans'(2) R IY1 G AH0 N Z
+reagans' R IY1 G AH0 N Z
 reagen R IY1 G AH0 N
 reagent R IY0 EY1 JH AH0 N T
 reagent(2) R IY1 JH AH0 N T
@@ -99248,7 +99248,7 @@ reese R IY1 S
 reese's R IY1 S IH0 Z
 reeser R IY1 S ER0
 reesjones R IY2 S JH OW1 N Z
-reesjones'(2) R IY2 S JH OW1 N Z AH0 Z
+reesjones' R IY2 S JH OW1 N Z AH0 Z
 reesman R IY1 S M AH0 N
 reesor R IY1 S ER0
 reestablish R IY0 IH0 S T AE1 B L IH0 SH
@@ -100656,7 +100656,7 @@ republicanism R IH0 P AH1 B L IH0 K AH0 N IH2 Z AH0 M
 republicans R IH0 P AH1 B L IH0 K AH0 N Z
 republicans(2) R IY0 P AH1 B L AH0 K AH0 N Z
 republicans(3) R IY0 P AH1 B L IH0 K AH0 N Z
-republicans'(2) R IY0 P AH1 B L IH0 K AH0 N Z
+republicans' R IY0 P AH1 B L IH0 K AH0 N Z
 republicbank R IY0 P AH1 B L IH0 K B AE2 NG K
 republicbank's R IY0 P AH1 B L IH0 K B AE2 NG K S
 republics R IY0 P AH1 B L IH0 K S
@@ -101869,7 +101869,7 @@ ricki R IH1 K IY0
 rickie R IH1 K IY0
 ricklefs R IH1 K L IH0 F S
 rickles R IH1 K AH0 L Z
-rickles'(2) R IH1 K AH0 L Z IH0 Z
+rickles' R IH1 K AH0 L Z IH0 Z
 rickman R IH1 K M AH0 N
 rickner R IH1 K N ER0
 ricks R IH1 K S
