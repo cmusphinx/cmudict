@@ -797,6 +797,8 @@ acoff AE1 K AO0 F
 acog AH0 K AO1 G
 acolyte AE1 K AH0 L AY2 T
 acolytes AE1 K AH0 L AY2 T S
+acomb EY1 K AH0 M
+acomb(2) Y AE1 K AH0 M
 acord AH0 K AO1 R D
 acordia AH0 K AO1 R D IY0 AH0
 acorn EY1 K AO0 R N
