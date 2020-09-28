@@ -26,8 +26,15 @@ aaberg AA1 B ER0 G
 aachen AA1 K AH0 N
 aachener AA1 K AH0 N ER0
 aaker AA1 K ER0
+aalborg AO1 L B AO0 R G
+aalborg(2) AA1 L B AO0 R G
+aalburg AE1 L B ER0 G
+aalen AE1 L AH0 N
+aalen(2) AA1 L AH0 N
 aaliyah AA2 L IY1 AA2
 aalseth AA1 L S EH0 TH
+aalsmeer AA1 L S M IH0 R
+aalto AA1 L T OW2
 aamodt AA1 M AH0 T
 aancor AA1 N K AO2 R
 aardema AA0 R D EH1 M AH0
@@ -482,6 +489,7 @@ academies AH0 K AE1 D AH0 M IY0 Z
 academy AH0 K AE1 D AH0 M IY0
 academy's AH0 K AE1 D AH0 M IY0 Z
 acadia AH0 K EY1 D IY0 AH0
+acaena AH0 S IY1 N AH0
 acampo AH0 K AA1 M P OW0
 acampora AH0 K AE1 M P ER0 AH0
 acampsia AH0 K AE1 M P S Y AH0
