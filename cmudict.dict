@@ -740,6 +740,8 @@ achiever AH0 CH IY1 V ER0
 achievers AH0 CH IY1 V ER0 Z
 achieves AH0 CH IY1 V Z
 achieving AH0 CH IY1 V IH0 NG
+achill AE1 K IH0 L
+achill's AE1 K IH0 L Z
 achille AH0 K IH1 L IY0
 achilles AH0 K IH1 L IY0 Z
 achilles' AH0 K IH1 L IY0 Z
@@ -30762,6 +30764,7 @@ depaula D IH0 P AO1 L AH0
 depaulo D IH0 P AO1 L OW0
 depauw D AH0 P AW1
 depaz D AH0 P AE1 Z
+depeche	D EH0 P EH1 SH
 depend D IH0 P EH1 N D
 dependability D IH0 P EH2 N D AH0 B IH1 L IH0 T IY0
 dependable D IH0 P EH1 N D AH0 B AH0 L
@@ -46288,6 +46291,7 @@ galvez G AA0 L V EH1 Z
 galvin G AE1 L V IH0 N
 galvin's G AE1 L V IH0 N Z
 galway G AA1 L W EY0
+galway's G AA1 L W EY0 Z
 galyean G AE1 L IY0 AH0 N
 galyen G AE1 L IY0 EH0 N
 galyon G AE1 L IY0 AA0 N
@@ -89412,7 +89416,9 @@ pantano P AA0 N T AA1 N OW0
 panted P AE1 N T IH0 D
 pantel P AA0 N T EH1 L
 panter P AE1 N T ER0
+pantera P AE0 N T EH1 R AH0
 pantera's P AA0 N T EH1 R AH0 Z
+pantera's(2) P AE0 N T EH1 R AH0 Z
 pantex P AE1 N T EH0 K S
 panthea P AE1 N TH IY0 AH0
 pantheistic P AE2 N TH IY0 IH1 S T IH0 K
@@ -109084,6 +109090,8 @@ septimus S EH1 P T IH0 M IH0 S
 septuagenarian S EH0 P CH UW2 AH0 JH AH0 N EH1 R IY0 AH0 N
 sepulvado S EY0 P UW0 L V AA1 D OW0
 sepulveda S EY0 P UW0 L V EY1 D AH0
+sepultura S EH1 P UH0 L T UH1 R UH0
+sepultura's S EH1 P UH0 L T UH1 R UH0 Z
 sequa S EH1 K W AH0
 sequa's S EH1 K W AH0 Z
 sequeira S EY0 K W EH1 R AH0
@@ -129835,6 +129843,7 @@ waterfall W AO1 T ER0 F AO2 L
 waterfalls W AO1 T ER0 F AO2 L Z
 waterfield W AO1 T ER0 F IY0 L D
 waterford W AO1 T ER0 F ER0 D
+waterford's W AO1 T ER0 F ER0 D Z
 waterfowl W AO1 T ER0 F AW2 L
 waterfront W AO1 T ER0 F R AH2 N T
 waterfronts W AO1 T ER0 F R AH2 N T S
@@ -130738,6 +130747,8 @@ westlake W EH1 S T L EY2 K
 westland W EH1 S T L AH0 N D
 westleigh W EH1 S T L AY0
 westley W EH1 S T L IY0
+westlife W EH1 S T L AY0 F
+westlife's W EH1 S T L AY0 F S
 westling W EH1 S T L IH0 NG
 westlund W EH1 S T L AH0 N D
 westman W EH1 S T M AH0 N
@@ -130808,6 +130819,8 @@ wetzler W EH1 T S L ER0
 wetzstein W EH1 T S T AY0 N
 wetzstein(2) W EH1 T S T IY0 N
 wever W IY1 V ER0
+wexford W EH1 K S F ER0 D
+wexford's W EH1 K S F ER0 D Z
 wexler W EH1 K S L ER0
 wexner W EH1 K S N ER0
 wey W EY1
@@ -132594,6 +132607,8 @@ wobegon W OW1 B AH0 G AA0 N
 wobig W OW1 B IH0 G
 wobst W AA1 B S T
 woburn W UW1 B ER0 N
+wodehouse W UH1 D HH AW0 S
+wodehouse's W UH1 D HH AW0 S AH0 Z
 wodel W AO1 D AH0 L
 woe W OW1
 woebegone W OW1 B IH0 G AO2 N
@@ -133623,6 +133638,7 @@ yarchoan Y AA0 R CH OW1 N
 yard Y AA1 R D
 yard's Y AA1 R D Z
 yardage Y AA1 R D IH0 JH
+yardbirds Y AA1 R D B ER0 D Z
 yarde Y AA1 R D
 yardeni Y AA0 R D IY1 N IY0
 yarder Y AA1 R D ER0
@@ -134929,6 +134945,7 @@ zoeller Z OW1 L ER0
 zoellick Z OW1 L IH0 K
 zoellner Z OW1 L N ER0
 zoete Z OW1 T IY0
+zoey Z OW1 IY0
 zofagart Z OW1 F AH0 G AA0 R T
 zofran Z OW1 F R AE2 N
 zogby Z AO1 G B IY0
@@ -134961,7 +134978,10 @@ zongol Z AO1 NG G AO0 L
 zoning Z OW1 N IH0 NG
 zoo Z UW1
 zoo's Z UW1 Z
+zooey Z OW1 IY0
 zook Z UH1 K
+zoolander Z UW1 L AE2 N D ER0
+zoolander's Z UW1 L AE2 N D ER0 Z
 zoological Z UW2 L AA1 JH IH0 K AH0 L
 zoologist Z OW0 AA1 L AH0 JH AH0 S T
 zoologists Z OW0 AA1 L AH0 JH AH0 S T S
@@ -134970,6 +134990,7 @@ zoom Z UW1 M
 zoomed Z UW1 M D
 zooming Z UW1 M IH0 NG
 zooms Z UW1 M Z
+zooropa Z UW0 R OW1 P AH0
 zoos Z UW1 Z
 zoot-suit Z UW1 T S UW1 T
 zopfi Z OW1 P F IY0
