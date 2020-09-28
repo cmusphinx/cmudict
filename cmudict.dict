@@ -1008,6 +1008,7 @@ adaptors AH0 D AE1 P T ER0 Z
 adapts AH0 D AE1 P T S
 adar AH0 D AA1 R
 adarand AE1 D AH0 R AE2 N D
+adare AH0 D EH1 R
 adas EY1 D AH0 Z
 aday AH0 D EY1
 adaza AH0 D AA1 Z AH0
@@ -7365,6 +7366,8 @@ aykroyd EY1 K R OY2 D
 aykroyd(2) AY1 K R OY2 D
 ayler EY1 L ER0
 ayles EY1 L Z
+aylesbury EY1 L Z B ER0 IY0
+aylesbury's EY1 L Z B ER0 IY0 Z
 aylesworth EY1 L Z W ER0 TH
 aylesworth(2) EY1 AH0 L Z W ER0 TH
 ayling EY1 L IH0 NG
@@ -18501,6 +18504,7 @@ cardio K AA1 R D IY0 OW0
 cardiologist K AA2 R D IY0 AA1 L AH0 JH IH0 S T
 cardiologists K AA2 R D IY0 AA1 L AH0 JH IH0 S T S
 cardiology K AA2 R D IY0 AA1 L AH0 JH IY0
+cardiomyopathy K AA2 R D IY0 OW0 M AY0 AA1 P AH0 TH IY0
 cardiopulmonary K AA2 R D IY0 OW0 P UH1 L M AH0 N EH2 R IY0
 cardiovascular K AA2 R D IY0 OW0 V AE1 S K Y AH0 L ER0
 cardis K AA1 R D IH0 S
@@ -28232,6 +28236,7 @@ daiichi D AY2 IY1 CH IY0
 daikin D EY1 K IH0 N
 daikon D AY1 K AO2 N
 dail D EY1 L
+dail(2) D OY1 L
 daile D EY1 L
 dailey D EY1 L IY0
 dailies D EY1 L IY0 Z
@@ -37841,7 +37846,11 @@ emulating EH1 M Y AH0 L EY2 T IH0 NG
 emulation EH2 M Y AH0 L EY1 SH AH0 N
 emulator EH1 M Y AH0 L EY2 T ER0
 emulex EH1 M Y UW0 L AH0 K S
+emulsified IH0 M AH1 L S AH0 F AY0 D
 emulsifier IH0 M AH1 L S AH0 F AY2 ER0
+emulsifies IH0 M AH1 L S AH0 F AY0 Z
+emulsify IH0 M AH1 L S AH0 F AY0
+emulsifying IH0 M AH1 L S AH0 F AY2 IH0 NG
 emulsion IH0 M AH1 L SH AH0 N
 en EH1 N
 ena EH1 N AH0
@@ -42650,6 +42659,7 @@ findling F IH1 N D AH0 L IH0 NG
 findling(2) F IH1 N D L IH0 NG
 finds F AY1 N D Z
 fine F AY1 N
+fine(2) F IH1 N AH0
 fineberg F AY1 N B ER0 G
 fined F AY1 N D
 finefrock F AY1 N F R AA2 K
@@ -57935,6 +57945,7 @@ hydrocarbon HH AY2 D R OW0 K AA1 R B AH0 N
 hydrocarbons HH AY2 D R OW0 K AA1 R B AH0 N Z
 hydrocephalic HH AY2 D R OW0 S EH0 F AA1 L IH0 K
 hydrocephalus HH AY2 D R OW0 S EH1 F AH0 L AH0 S
+Hydrocortisone HH AY2 D R OW0 K AO1 R T AH0 Z OW2 N
 hydroelectric HH AY2 D R OW0 IH0 L EH1 K T R IH0 K
 hydroencephalus HH AY2 D R OW0 AH0 N S EH1 F AH0 L AH0 S
 hydrofoil HH AY1 D R AH0 F OY2 L
@@ -64944,6 +64955,8 @@ kilgus K IH1 L G AH0 S
 kilian K IH1 L IY0 AH0 N
 kilimanjaro K IH0 L IY2 M AH0 N JH AA1 R OW0
 kilimanjaro(2) K IH2 L AH0 M AH0 N JH AA1 R OW0
+kilkenny K IH0 L K EH1 N IY0
+kilkenny's K IH0 L K EH1 N IY0 Z
 kilker K IH1 L K ER0
 kill K IH1 L
 killam K IH1 L AH0 M
@@ -70078,6 +70091,7 @@ letter L EH1 T ER0
 lettered L EH1 T ER0 D
 letterhead L EH1 T ER0 HH EH2 D
 lettering L EH1 T ER0 IH0 NG
+letterkenny L EH2 T ER0 K EH1 N IY0
 letterman L EH1 T ER0 M AH0 N
 letterman's L EH1 T ER0 M AH0 N Z
 letterpress L EH1 T ER0 P R EH2 S
@@ -76152,6 +76166,7 @@ mcauley M AH0 K AO1 L IY0
 mcauliff M AH0 K AO1 L AH0 F
 mcauliffe M AH0 K AO1 L AH0 F
 mcauliffe's M AH0 K AO1 L AH0 F S
+mcavinchey M AH0 K AE0 V IH1 N CH IY0
 mcavity M AH0 K AE1 V AH0 T IY0
 mcavoy M AE1 K AH0 V OY2
 mcbain M AH0 K B EY1 N
@@ -83924,7 +83939,9 @@ newbury N UW1 B EH2 R IY0
 newbury's N UW1 B EH2 R IY0 Z
 newby N UW1 B IY0
 newcastle N UW1 K AE2 S AH0 L
+newcastle(2) N Y UW1 K AE2 S AH0 L
 newcastle's N UW1 K AE2 S AH0 L Z
+newcastle's(2) N Y UW1 K AE2 S AH0 L Z
 newcom N UW1 K AH0 M
 newcomb N UW1 K AH0 M
 newcombe N UW1 K AH0 M
@@ -97319,11 +97336,15 @@ quavering K W EY1 V ER0 IH0 NG
 quavers K W EY1 V ER0 Z
 quay K IY1
 quay(2) K EY1
+quay's K IY1 Z
+quay's(2) K EY1 Z
 quaye K EY1
 quaye(2) K W EY1
 quayle K W EY1 L
 quayle's K W EY1 L Z
 quayles K W EY1 L Z
+quays K IY1 Z
+quays(2) K EY1 Z
 quazulu K W AA2 Z UW1 L UW0
 quazulu's K W AA2 Z UW1 L UW0 Z
 qubilah K UW1 B IH0 L AH0
@@ -111482,6 +111503,7 @@ sinkler S IH1 NG K L ER0
 sinko S IH1 NG K OW0
 sinks S IH1 NG K S
 sinn S IH1 N
+sinn(2) SH IH1 N
 sinned S IH1 N D
 sinner S IH1 N ER0
 sinners S IH1 N ER0 Z
@@ -119567,6 +119589,8 @@ tanzer T AE1 N Z ER0
 tanzi T AE1 N Z IY0
 tao T AW1
 tao(2) D AW1
+taoiseach T IY1 SH AH0 K
+taoiseach's T IY1 SH AH0 K S
 taoism D AW1 IH0 Z AH0 M
 taoist D AW1 IH0 S T
 taoists D AW1 AH0 S T S
@@ -121674,7 +121698,9 @@ tierce T IY1 R S
 tierco T IY1 R K OW0
 tiered T IY1 R D
 tiernan T IH1 R N AH0 N
+tiernan(2) T IY1 R N AH0 N
 tierney T IH1 R N IY0
+tierney(2) T IY1 R N IY0
 tierno T IH1 R N OW0
 tiers T IY1 R Z
 ties T AY1 Z
@@ -122871,6 +122897,8 @@ trabucco T R AA0 B UW1 K OW0
 trabue T R AA1 B W EH0
 trac T R AE1 K
 trace T R EY1 S
+traceabilities T R EY2 S AH0 B IH1 L IH0 T IY0 Z
+traceability T R EY2 S AH0 B IH1 L IH0 T IY0
 traceable T R EY1 S AH0 B AH0 L
 traced T R EY1 S T
 tracer T R EY1 S ER0
@@ -124130,6 +124158,7 @@ tub T AH1 B
 tuba T UW1 B AH0
 tubal T UW1 B AH0 L
 tubb T AH1 B
+tubbercurry T AH2 B ER0 K AH1 R IY0
 tubbs T AH1 B Z
 tubby T AH1 B IY0
 tube T UW1 B
@@ -124662,6 +124691,7 @@ tycoons T AY0 K UW1 N Z
 tydings T AY1 D IH0 NG Z
 tye T AY1
 tyer T AY1 ER0
+tyers T AY1 ER0 Z
 tygar T AY1 G AA2 R
 tygart T AY1 G AA2 R T
 tyger T AY1 G ER0
