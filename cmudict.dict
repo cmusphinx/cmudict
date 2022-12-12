@@ -48713,7 +48713,7 @@ glotfelty G L AA1 T F IH0 L T IY0
 glottal G L AA1 T AH0 L
 glottis G L AA1 T AH0 S
 glotzbach G L AA1 T S B AA0 K
-gloucester G L AO1 S T ER0
+gloucester G L AA1 S T ER0
 glove G L AH1 V
 gloved G L AH1 V D
 glover G L AH1 V ER0
@@ -75313,7 +75313,10 @@ maryanne M EH0 R IY0 AE1 N
 marybeth M EH1 R IY0 B EH1 TH
 maryland M EH1 R AH0 L AH0 N D
 maryland's M EH1 R AH0 L AH0 N D Z
-marylebone M ER1 L AH0 B OW0 N
+marylebone M AA1 R L IH0 B AH0 N
+marylebone(2) M ER1 L AH0 B OW0 N
+marylebone(3) M AE1 R IH0 L AH0 B AH0 N
+marylebone(4) M AE1 R IH0 B AH0 N
 marylin M AE1 R IH0 L IH0 N
 marylou M AE1 R IY0 L UW0
 marymount M EH1 R IY0 M AW2 N T
@@ -132956,7 +132959,7 @@ wor W AO1 R
 wor(2) D AH1 B EH0 L Y UW1 OW1 AA1 R
 wor(3) D AH1 B AH0 Y UW1 OW1 AA1 R
 worcester W UH1 S T ER0
-worcestershire W UH1 S T AH0 SH ER0
+worcestershire W UH1 S T ER0 SH ER0
 word W ER1 D
 word's W ER1 D Z
 worded W ER1 D IH0 D
