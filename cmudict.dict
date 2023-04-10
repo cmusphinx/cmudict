@@ -59372,6 +59372,8 @@ indifference IH2 N D IH1 F ER0 AH0 N S
 indifference(2) IH2 N D IH1 F R AH0 N S
 indifferent IH2 N D IH1 F R AH0 N T
 indifferent(2) IH2 N D IH1 F ER0 AH0 N T
+indifferently IH2 N D IH1 F R AH0 N T L IY0
+indifferently(2) IH2 N D IH1 F ER0 AH0 N T L IY0
 indigenous IH2 N D IH1 JH AH0 N AH0 S
 indigenously IH2 N D IH1 JH AH0 N AH0 S L IY2
 indigent IH1 N D IH0 JH AH0 N T
