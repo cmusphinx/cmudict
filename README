@@ -5,7 +5,8 @@ CMUdict
 CMUdict (the Carnegie Mellon Pronouncing Dictionary) is a free
 pronouncing dictionary of English, suitable for uses in speech
 technology and is maintained by the Speech Group in the School of
-Computer Science at Carnegie Mellon University.
+Computer Science at Carnegie Mellon University. CMUdict uses a
+modified version of the ARPABET notation.
 
 The Carnegie Mellon Speech Group does not guarantee the accuracy of
 this dictionary, nor its suitability for any specific purpose. In
