@@ -4163,9 +4163,7 @@ anesthetics AE2 N AH0 S TH EH1 T IH0 K S
 anesthetist AH0 N EH1 S TH AH0 T AH0 S T
 anette AH0 N EH1 T
 aneurism AE1 N Y UH0 R IH2 Z AH0 M
-aneurism(2) AE1 N Y UH0 R IH2 Z M
 aneurysm AE1 N Y UH0 R IH2 Z AH0 M
-aneurysm(2) AE1 N Y UH0 R IH2 Z M
 anew AH0 N UW1
 anew(2) AH0 N Y UW1
 anfal EY1 EH1 N EH1 F EY1 EH1 L
@@ -6542,7 +6540,7 @@ athletes AE1 TH L IY2 T S
 athletes' AE1 TH L IY2 T S
 athletic AE0 TH L EH1 T IH0 K
 athletically AE0 TH L EH1 T IH0 K L IY0
-athleticism AE0 TH L EH1 T IH0 S IH2 Z M
+athleticism AE0 TH L EH1 T IH0 S IH2 Z AH0 M
 athletics AE0 TH L EH1 T IH0 K S
 athlone AE0 TH L OW1 N
 athwart AH0 TH W AO1 R T
@@ -7473,7 +7471,7 @@ ba B IY2 EY1
 ba(2) B AA1
 ba'ath B AA1 TH
 ba'ath(2) B AH0 AA1 TH
-ba'athism B AA1 TH IH0 Z M
+ba'athism B AA1 TH IH0 Z AH0 M
 ba'athist B AA1 TH IH0 S T
 ba'athists B AA1 TH IH0 S T S
 baa B IY2 EY2 EY1
@@ -25836,7 +25834,8 @@ coslett K AA1 S L IH0 T
 cosma K OW1 Z M AH0
 cosmair K AO1 Z M EH2 R
 cosman K AA1 S M AH0 N
-cosme K OW1 Z M
+cosme K OW1 Z M EY1
+cosme(2) K OW1 Z M IY0
 cosmetic K AA0 Z M EH1 T IH0 K
 cosmetically K AO2 Z M EH1 T IH0 K L IY0
 cosmetics K AA0 Z M EH1 T IH0 K S
@@ -39215,7 +39214,8 @@ eslick EH1 S L IH0 K
 eslinger EH1 S AH0 L IH0 NG ER0
 eslinger(2) EH1 S L IH0 NG ER0
 esmark EH1 S M AA2 R K
-esme EH1 Z M
+esme EH1 Z M EY1
+esme(2) EH1 Z M IY0
 esmerelda EH0 S M ER0 EH1 L D AH0
 esmine EH1 Z M AH0 N
 esmond EH1 Z M AH0 N D
@@ -59251,7 +59251,7 @@ incredulity IH2 N K R AH0 D UW1 L IH0 T IY0
 incredulous IH2 N K R EH1 JH AH0 L AH0 S
 increment IH1 N K R AH0 M AH0 N T
 incremental IH2 N K R AH0 M EH1 N T AH0 L
-incrementalism IH2 N K R AH0 M EH1 N T AH0 L IH2 Z M
+incrementalism IH2 N K R AH0 M EH1 N T AH0 L IH2 Z AH0 M
 incrementally IH2 N K R AH0 M EH1 N T AH0 L IY2
 incremented IH1 N K R AH0 M EH2 N T IH0 D
 increments IH1 NG K R AH0 M AH0 N T S
@@ -70016,7 +70016,7 @@ lesabres L EH1 S AH0 B R AH0 S
 lesage L EH1 S IH0 JH
 lesane L EY0 S AA1 N EY0
 lesbian L EH1 Z B IY0 AH0 N
-lesbianism L EH1 Z B IY0 AH0 N IH0 Z M
+lesbianism L EH1 Z B IY0 AH0 N IH0 Z AH0 M
 lesbians L EH1 Z B IY0 AH0 N Z
 lescaze L AH0 S K EY1 Z
 lesch L EH1 SH
@@ -81262,7 +81262,7 @@ morman M AO1 R M AH0 N
 mormile M AO1 R M AY0 L
 mormino M AO0 R M IY1 N OW0
 mormon M AO1 R M AH0 N
-mormonism M AO1 R M AH0 N IH0 Z M
+mormonism M AO1 R M AH0 N IH0 Z AH0 M
 mormonism(2) M AO1 R M AH0 N IH0 Z AH0 M
 mormons M AO1 R M AH0 N Z
 morn M AO1 R N
@@ -82047,7 +82047,7 @@ multifunctional M AH2 L T IY0 F AH1 NG K SH AH2 N AH0 L
 multilateral M AH2 L T IH0 L AE1 T ER0 AH0 L
 multilateral(2) M AH2 L T IY0 L AE1 T ER0 AH0 L
 multilateralism M AH2 L T IH0 L AE1 T ER0 AH0 L IH2 Z AH0 M
-multilateralism(2) M AH2 L T IH0 L AE1 T ER0 AH0 L IH0 Z M
+multilateralism(2) M AH2 L T IH0 L AE1 T ER0 AH0 L IH0 Z AH0 M
 multilaterally M AH2 L T IH0 L AE1 T ER0 AH0 L IY0
 multilaterally(2) M AH2 L T IY0 L AE1 T ER0 AH0 L IY0
 multilayer M AH2 L T IY0 L EY1 ER0
@@ -89786,7 +89786,6 @@ parliament P AA1 R L AH0 M AH0 N T
 parliament's P AA1 R L AH0 M AH0 N T S
 parliamentarian P AA2 R L AH0 M AH0 N T EH1 R IY0 AH0 N
 parliamentarianism P AA2 R L AH0 M AH0 N T EH1 R IY0 AH0 N IH0 Z AH0 M
-parliamentarianism(2) P AA2 R L AH0 M AH0 N T EH1 R IY0 AH0 N IH0 Z M
 parliamentarians P AA2 R L AH0 M EH0 N T EH1 R IY0 AH0 N Z
 parliamentary P AA2 R L AH0 M EH1 N T ER0 IY0
 parliamentary(2) P AA2 R L AH0 M EH1 N ER0 IY0
@@ -93361,8 +93360,8 @@ plenty(2) P L EH1 N IY0
 plenum P L EH1 N AH0 M
 plenum's P L EH1 N AH0 M Z
 pleomorphic P L IY2 AH0 M AO1 F IH0 K
-pleomorphism P L IY2 AH0 M AO1 F IH0 Z M
-pleonasm P L IY1 AH0 N AE2 Z M
+pleomorphism P L IY2 AH0 M AO1 F IH0 Z AH0 M
+pleonasm P L IY1 AH0 N AE2 Z AH0 M
 plescia P L EY1 SH Y AH0
 plese P L IY1 Z
 pleshar P L EH1 SH AA2 R
@@ -93986,7 +93985,7 @@ polymerizes P AA1 L IH0 M ER0 AY2 Z AH0 Z
 polymers P AA1 L IH0 M ER0 Z
 polymorph P AA1 L IY2 M AO2 R F
 polymorphic P AA2 L IY2 M AO1 R F IH0 K
-polymorphism P AA2 L IY2 M AO1 R F IH0 Z M
+polymorphism P AA2 L IY2 M AO1 R F IH0 Z AH0 M
 polynesia P AA2 L IH2 N IY1 ZH AH0
 polynesian P AA2 L IH2 N IY1 ZH AH0 N
 polynomial P AA2 L IY2 N OW1 M IY0 AH0 L
@@ -94505,7 +94504,7 @@ postmaster(2) P OW1 S M AE2 S T ER0
 postmasters P OW1 S T M AE2 S T ER0 Z
 postmasters(2) P OW1 S M AE2 S T ER0 Z
 postmodern P OW2 S T M AA1 D ER0 N
-postmodernism P OW2 S T M AA1 D ER0 N IH2 Z M
+postmodernism P OW2 S T M AA1 D ER0 N IH2 Z AH0 M
 postmortem P OW2 S T M AO1 R T EH0 M
 postnatal P OW2 S T N EY1 T AH0 L
 poston P OW1 S T AH0 N
@@ -98906,7 +98905,7 @@ realisations R IY1 L AH0 Z EY1 SH AH0 N Z
 realise R IY1 AH0 L AY2 Z
 realised R IY1 AH0 L AY2 Z D
 realises R IY1 AH0 L AY2 Z IH0 Z
-realism R IY1 AH0 L IH0 Z M
+realism R IY1 AH0 L IH0 Z AH0 M
 realist R IY1 AH0 L IH0 S T
 realistic R IY2 AH0 L IH1 S T IH0 K
 realistically R IY2 AH0 L IH1 S T IH0 K L IY0
@@ -109618,7 +109617,7 @@ sham SH AE1 M
 shamalia SH AH0 M AA1 L Y AH0
 shamalia(2) SH AH0 M EY1 L Y AH0
 shaman SH EY1 M AH0 N
-shamanism SH EY1 M AH0 N IH2 Z M
+shamanism SH EY1 M AH0 N IH2 Z AH0 M
 shamanists SH EY1 M AH0 N IH2 S T S
 shamans SH EY1 M AH0 N Z
 shamas SH AE1 M AH0 S
@@ -111197,7 +111196,7 @@ sigwald S IH1 G W AH0 L D
 sihanouk S IY1 AH0 N UH2 K
 sikes S AY1 K S
 sikh S IY1 K
-sikhism S IY1 K IH0 Z M
+sikhism S IY1 K IH0 Z AH0 M
 sikhs S IY1 K S
 sikkema S IH0 K IY1 M AH0
 siklie S IH1 K L IY0
@@ -114340,7 +114339,7 @@ spiritedness S P IH1 R IH0 T IH0 D N AH0 S
 spirito S P IH0 R IY1 T OW2
 spirits S P IH1 R IH0 T S
 spiritual S P IH1 R IH0 CH UW2 AH0 L
-spiritualism S P IH1 R IH0 CH UW2 AH0 L IH2 Z M
+spiritualism S P IH1 R IH0 CH UW2 AH0 L IH2 Z AH0 M
 spiritualist S P IH1 R IH0 CH UW2 AH0 L IH2 S T
 spiritualists S P IH1 R IH0 CH UW2 AH0 L IH2 S T S
 spirituality S P IH2 R IH0 CH UW2 AE1 L AH0 T IY2
@@ -123617,7 +123616,7 @@ triassic T R AY2 AE1 S IH2 K
 triathlon T R AY2 AE1 TH L AH0 N
 trib T R IH1 B
 tribal T R AY1 B AH0 L
-tribalism T R AY1 B AH0 L IH0 Z M
+tribalism T R AY1 B AH0 L IH0 Z AH0 M
 tribalism(2) T R AY1 B AH0 L IH0 Z AH0 M
 tribasa T R AY1 B AE1 S AH0
 tribbett T R IH1 B IH0 T
@@ -126389,7 +126388,7 @@ urbanek ER0 B AE1 N EH0 K
 urbani ER0 B AA1 N IY0
 urbaniak ER0 B AE1 N IY0 AE0 K
 urbanik ER0 B AE1 N IH0 K
-urbanism ER1 B AH0 N IH0 Z M
+urbanism ER1 B AH0 N IH0 Z AH0 M
 urbanite ER1 B AH0 N AY2 T
 urbanites ER1 B AH0 N AY2 T S
 urbanization ER2 B AH0 N AH0 Z EY1 SH AH0 N
