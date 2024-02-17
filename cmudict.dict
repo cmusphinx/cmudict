@@ -117984,9 +117984,8 @@ superfast S UW1 P ER0 F AE2 S T
 superficial S UW2 P ER0 F IH1 SH AH0 L
 superficially S UW1 P ER0 F IH2 SH AH0 L IY0
 superfluidity S UW2 P ER0 F L UW2 IH1 D AH0 T IY0
-superfluous S UW1 P ER0 F L W AH2 S
-superfluous(2) S UH0 P ER1 F L W AH0 S
-superfluous(3) S UW0 P ER1 F L W AH0 S
+superfluous S UH0 P ER1 F L W AH0 S
+superfluous(2) S UW0 P ER1 F L W AH0 S
 superfon S UW1 P ER0 F IH0 N
 superfreighter S UW1 P ER0 F R EY2 T ER0
 superfreighters S UW1 P ER0 F R EY2 T ER0 Z
