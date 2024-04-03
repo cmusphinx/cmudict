@@ -98826,8 +98826,8 @@ reactor R IY0 AE1 K T ER0
 reactor's R IY0 AE1 K T ER0 Z
 reactors R IY0 AE1 K T ER0 Z
 reacts R IY0 AE1 K T S
-read R EH1 D
-read(2) R IY1 D
+read R IY1 D
+read(2) R EH1 D
 read's R IY1 D Z
 readability R IY2 D AH0 B IH1 L IH0 T IY0
 readable R IY1 D AH0 B AH0 L
