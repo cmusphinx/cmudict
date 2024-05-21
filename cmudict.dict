@@ -38405,7 +38405,8 @@ enrollments EH0 N R OW1 L M AH0 N T S
 enrolls EH0 N R OW1 L Z
 enron EH1 N R AA0 N
 enron's EH1 N R AA0 N Z
-enroute EH0 N R UW1 T
+enroute EH0 N R AW1 T
+enroute(2) EH0 N R UW1 T
 ensco EH1 N S K OW0
 ensco's EH1 N S K OW0 Z
 ensconce IH0 N S K AA1 N S
@@ -101271,12 +101272,12 @@ reread R IY1 R IY1 D
 rereading R IY1 R IY1 D IH0 NG
 reregulate R IY0 R EH1 G Y AH0 L EY2 T
 reregulation R IY0 R EH0 G Y AH0 L EY1 SH AH0 N
-reroute R IY0 R UW1 T
-reroute(2) R IY0 R AW1 T
-rerouted R IY0 R UW1 T IH0 D
-rerouted(2) R IY0 R AW1 T IH0 D
-rerouting R IY0 R UW1 T IH0 NG
-rerouting(2) R IY0 R AW1 T IH0 NG
+reroute R IY0 R AW1 T
+reroute(2) R IY0 R UW1 T
+rerouted R IY0 R AW1 T IH0 D
+rerouted(2) R IY0 R UW1 T IH0 D
+rerouting R IY0 R AW1 T IH0 NG
+rerouting(2) R IY0 R UW1 T IH0 NG
 rerun R IY1 R AH1 N
 rerunning R IY1 R AH1 N IH0 NG
 reruns R IY1 R AH1 N Z
