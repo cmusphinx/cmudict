@@ -104197,16 +104197,16 @@ rousselle R UW2 S EH1 L
 roussin R UW0 S AE1 N
 roussos R UW0 S OW1 Z
 rout R AW1 T
-route R UW1 T
-route(2) R AW1 T
-routed R UW1 T IH0 D
-routed(2) R AW1 T IH0 D
-router R UW1 T ER0
-router(2) R AW1 T ER0
-routers R UW1 T ER0 Z
-routers(2) R AW1 T ER0 Z
-routes R UW1 T S
-routes(2) R AW1 T S
+route R AW1 T
+route(2) R UW1 T
+routed R AW1 T IH0 D
+routed(2) R UW1 T IH0 D
+router R AW1 T ER0
+router(2) R UW1 T ER0
+routers R AW1 T ER0 Z
+routers(2) R UW1 T ER0 Z
+routes R AW1 T S
+routes(2) R UW1 T S
 routes(3) R UH1 T S
 routh R AW1 TH
 routhier R AW1 TH IY0 ER0
