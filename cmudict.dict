@@ -36800,6 +36800,15 @@ eightieth EY1 T IY0 IH0 TH
 eights EY1 T S
 eighty EY1 T IY0
 eighty's EY1 T IY0 Z
+eighty-eight EY1 T IY0 EY1 T
+eighty-five EY1 T IY0 F AY2 V
+eighty-four EY1 T IY0 F AO2 R
+eighty-nine EY1 T IY0 N AY1 N
+eighty-one EY1 T IY0 W AO2 N
+eighty-seven EY1 T IY0 S EH1 V AH0 N
+eighty-six EY1 T IY0 S IH1 K S
+eighty-three EY1 T IY0 TH R IY2
+eighty-two EY1 T IY0 T UW2
 eigner AY1 G N ER0
 eiichi EY0 IY1 CH IY0
 eiji EY1 JH IY0
@@ -42421,6 +42430,15 @@ fifths(2) F IH1 F S
 fifties F IH1 F T IY0 Z
 fiftieth F IH1 F T IY0 IH0 TH
 fifty F IH1 F T IY0
+fifty-eight F IH1 F T IY0 EY1 T
+fifty-five F IH1 F T IY0 F AY2 V
+fifty-four F IH1 F T IY0 F AO2 R
+fifty-nine F IH1 F T IY0 N AY1 N
+fifty-one F IH1 F T IY0 W AO2 N
+fifty-seven F IH1 F T IY0 S EH1 V AH0 N
+fifty-six F IH1 F T IY0 S IH1 K S
+fifty-three F IH1 F T IY0 TH R IY2
+fifty-two F IH1 F T IY0 T UW2
 fifty's F IH1 F T IY0 Z
 fig F IH1 G
 figallo F IH0 G AA1 L OW0
@@ -44435,7 +44453,15 @@ fortunes(2) F AO1 R CH UW0 N Z
 fortuny F AO0 R CH UW1 N IY0
 forty F AO1 R T IY0
 forty's F AO1 R T IY0 Z
+forty-eight F AO1 R T IY0 EY1 T
 forty-five F AO1 R T IY0 F AY2 V
+forty-four F AO1 R T IY0 F AO2 R
+forty-nine F AO1 R T IY0 N AY1 N
+forty-one F AO1 R T IY0 W AO2 N
+forty-seven F AO1 R T IY0 S EH1 V AH0 N
+forty-six F AO1 R T IY0 S IH1 K S
+forty-three F AO1 R T IY0 TH R IY2
+forty-two F AO1 R T IY0 T UW2
 forum F AO1 R AH0 M
 forum's F AO1 R AH0 M Z
 forums F AO1 R AH0 M Z
@@ -84491,6 +84517,15 @@ nineties' N AY1 N T IY0 Z
 ninetieth N AY1 N T IY0 IH0 TH
 ninette N IH0 N EH1 T
 ninety N AY1 N T IY0
+ninety-eight N AY1 N T IY0 EY1 T
+ninety-five N AY1 N T IY0 F AY2 V
+ninety-four N AY1 N T IY0 F AO2 R
+ninety-nine N AY1 N T IY0 N AY1 N
+ninety-one N AY1 N T IY0 W AO2 N
+ninety-seven N AY1 N T IY0 S EH1 V AH0 N
+ninety-six N AY1 N T IY0 S IH1 K S
+ninety-three N AY1 N T IY0 TH R IY2
+ninety-two N AY1 N T IY0 T UW2
 ninety's N AY1 N T IY0 Z
 nineveh N IH1 N AH0 V AH0
 ning N IH1 NG
@@ -109381,7 +109416,15 @@ seventieth(2) S EH1 V AH0 N IY0 IH0 TH
 seventy S EH1 V AH0 N T IY0
 seventy(2) S EH1 V AH0 N IY0
 seventy's S EH1 V AH0 N T IY0 Z
+seventy-eight S EH1 V AH0 N T IY0 EY1 T
 seventy-five S EH1 V AH0 N T IY0 F AY2 V
+seventy-four S EH1 V AH0 N T IY0 F AO2 R
+seventy-nine S EH1 V AH0 N T IY0 N AY1 N
+seventy-one S EH1 V AH0 N T IY0 W AO2 N
+seventy-seven S EH1 V AH0 N T IY0 S EH1 V AH0 N
+seventy-six S EH1 V AH0 N T IY0 S IH1 K S
+seventy-three S EH1 V AH0 N T IY0 TH R IY2
+seventy-two S EH1 V AH0 N T IY0 T UW2
 sever S EH1 V ER0
 severa S EY0 V EH1 R AH0
 several S EH1 V R AH0 L
@@ -111740,6 +111783,15 @@ sixties S IH1 K S T IY0 Z
 sixtieth S IH1 K S T IY0 IH0 TH
 sixty S IH1 K S T IY0
 sixty's S IH1 K S T IY0 Z
+sixty-eight S IH1 K S T IY0 EY1 T
+sixty-five S IH1 K S T IY0 F AY2 V
+sixty-four S IH1 K S T IY0 F AO2 R
+sixty-nine S IH1 K S T IY0 N AY1 N
+sixty-one S IH1 K S T IY0 W AO2 N
+sixty-seven S IH1 K S T IY0 S EH1 V AH0 N
+sixty-six S IH1 K S T IY0 S IH1 K S
+sixty-three S IH1 K S T IY0 TH R IY2
+sixty-two S IH1 K S T IY0 T UW2
 sizable S AY1 Z AH0 B AH0 L
 size S AY1 Z
 sizeable S AY1 Z AH0 B AH0 L
@@ -121265,7 +121317,15 @@ thirty TH ER1 D IY2
 thirty(2) TH ER1 T IY2
 thirty's TH ER1 D IY2 Z
 thirty's(2) TH ER1 T IY2 Z
+thirty-eight TH ER1 D IY0 EY1 T
 thirty-five TH ER1 D IY0 F AY2 V
+thirty-four TH ER1 D IY0 F AO2 R
+thirty-nine TH ER1 D IY0 N AY1 N
+thirty-one TH ER1 D IY0 W AO2 N
+thirty-seven TH ER1 D IY0 S EH1 V AH0 N
+thirty-six TH ER1 D IY0 S IH1 K S
+thirty-three TH ER1 D IY0 TH R IY2
+thirty-two TH ER1 D IY0 T UW2
 thirtysomething TH ER1 T IY0 S AH2 M TH IH0 NG
 thiry TH IH1 R IY0
 thirza TH ER1 Z AH0
@@ -124628,10 +124688,14 @@ twenty T W EH1 N T IY0
 twenty(2) T W EH1 N IY0
 twenty's T W EH1 N T IY0 Z
 twenty's(2) T W EH1 N IY0 Z
+twenty-eight T W EH1 N T IY0 EY1 T
 twenty-first T W EH1 N T IY0 F ER2 S T
 twenty-five T W EH1 N T IY0 F AY2 V
 twenty-four T W EH1 N T IY0 F AO2 R
+twenty-nine T W EH1 N T IY0 N AY1 N
 twenty-one T W EH1 N T IY0 W AO2 N
+twenty-seven T W EH1 N T IY0 S EH1 V AH0 N
+twenty-six T W EH1 N T IY0 S IH1 K S
 twenty-three T W EH1 N T IY0 TH R IY2
 twenty-two T W EH1 N T IY0 T UW2
 twentysomething T W EH2 N T IY0 S AH1 M TH IH0 NG
