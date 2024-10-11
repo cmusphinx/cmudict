@@ -89025,6 +89025,7 @@ padula P AA0 D UW1 L AH0
 pae P AY1
 paean P IY1 AH0 N
 paeans P IY1 AH0 N Z
+paediatrics P IY2 D IH0 AE1 T R IH0 K S
 paek P IY1 K
 paeth P IY1 TH
 paetz P IY1 T S
@@ -134183,8 +134184,8 @@ younkin Y AH1 NG K IH0 N
 younkins Y AH1 NG K IH0 N Z
 yount Y AW1 N T
 younts Y AW1 N T S
-your Y AO1 R
-your(2) Y UH1 R
+your Y UH1 R
+your(2) Y AO1 R
 youree Y AO0 R IY1
 youri Y UH1 R IY0
 yours Y UH1 R Z
