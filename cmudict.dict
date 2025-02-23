@@ -23783,8 +23783,10 @@ compare K AH0 M P EH1 R
 compared K AH0 M P EH1 R D
 compares K AH0 M P EH1 R Z
 comparing K AH0 M P EH1 R IH0 NG
-comparison K AH0 M P EH1 R AH0 S AH0 N
-comparisons K AH0 M P EH1 R AH0 S AH0 N Z
+comparison K AH0 M P AE1 R AH0 S AH0 N
+comparison(2) K AH0 M P EH1 R AH0 S AH0 N
+comparisons K AH0 M P AE1 R AH0 S AH0 N Z
+comparisons(2) K AH0 M P EH1 R AH0 S AH0 N Z
 compartment K AH0 M P AA1 R T M AH0 N T
 compartmental K AH0 M P AA2 R T M EH1 N T AH0 L
 compartmentalize K AH0 M P AA2 R T M EH1 N T AH0 L AY2 Z
@@ -33072,15 +33074,22 @@ disorienting D IH0 S AO1 R IY0 EH2 N T IH0 NG
 disown D IH0 S OW1 N
 disowned D IH0 S OW1 N D
 dispair D IH0 S P EH1 R
-disparage D IH0 S P EH1 R IH0 JH
-disparaged D IH0 S P EH1 R IH0 JH D
-disparages D IH0 S P EH1 R IH0 JH IH0 Z
-disparaging D IH0 S P EH1 R IH0 JH IH0 NG
-disparagingly D IH0 S P EH1 R IH0 JH IH0 NG L IY0
+disparage D IH0 S P AE1 R IH0 JH
+disparage(2) D IH0 S P EH1 R IH0 JH
+disparaged D IH0 S P AE1 R IH0 JH D
+disparaged(2) D IH0 S P EH1 R IH0 JH D
+disparages D IH0 S P AE1 R IH0 JH IH0 Z
+disparages(2) D IH0 S P EH1 R IH0 JH IH0 Z
+disparaging D IH0 S P AE1 R IH0 JH IH0 NG
+disparaging(2) D IH0 S P EH1 R IH0 JH IH0 NG
+disparagingly D IH0 S P AE1 R IH0 JH IH0 NG L IY0
+disparagingly(2) D IH0 S P EH1 R IH0 JH IH0 NG L IY0
 disparate D IH1 S P ER0 IH0 T
 disparate(2) D IH0 S P EH1 R IH0 T
-disparities D IH0 S P EH1 R AH0 T IY0 Z
-disparity D IH0 S P EH1 R AH0 T IY0
+disparities D IH0 S P AE1 R AH0 T IY0 Z
+disparities(2) D IH0 S P EH1 R AH0 T IY0 Z
+disparity D IH0 S P AE1 R AH0 T IY0
+disparity(2) D IH0 S P EH1 R AH0 T IY0
 dispassionate D IH0 S P AE1 SH AH0 N AH0 T
 dispassionately D IH0 S P AE1 SH AH0 N AH0 T L IY0
 dispatch D IH0 S P AE1 CH
@@ -53072,7 +53081,8 @@ harroun HH ER0 UW1 N
 harrow HH AE1 R OW0
 harrower HH AE1 R OW0 W ER0
 harrowing HH EH1 R OW0 IH0 NG
-harry HH EH1 R IY0
+harry HH AE1 R IY0
+harry(2) HH EH1 R IY0
 harry's HH EH1 R IY0 Z
 harryman HH AE1 R IY0 M AH0 N
 harsch HH AA1 R SH
@@ -68553,7 +68563,8 @@ larrivee L AE1 R IH0 V IY0
 larroquette L AA2 R OW0 K EH1 T
 larroquette's L AA2 R OW0 K EH1 T S
 larrow L AE1 R OW0
-larry L EH1 R IY0
+larry L AE1 R IY0
+larry(2) L EH1 R IY0
 larry's L EH1 R IY0 Z
 lars L AA1 R Z
 larsen L AA1 R S AH0 N
@@ -68567,7 +68578,8 @@ larusso L AA0 R UW1 S OW0
 larva L AA1 R V AH0
 larvae L AA1 R V IY0
 larval L AA1 R V AH0 L
-lary L EH1 R IY0
+lary L AE1 R IY0
+lary(2) L EH1 R IY0
 laryngeal L AA2 R IH1 N JH IY2 AH0 L
 laryngitis L AA2 R IH0 N JH AY1 T AH0 S
 laryngoscope L AA0 R IH1 N G AH0 S K OW2 P
@@ -68579,7 +68591,8 @@ laryngoscopical(2) L AA0 R IH1 N JH AH0 S K AA1 P IH2 K AH0 L
 laryngoscopicaly L AA0 R IH1 N G AH0 S K AA1 P IH2 K AH0 L IY2
 laryngoscopicaly(2) L AA0 R IH1 N JH AH0 S K AA1 P IH2 K AH0 L IY2
 laryngoscopy L AA2 R IH0 N G AO1 S K OW0 P IY2
-larynx L EH1 R IH0 NG K S
+larynx L AE1 R IH0 NG K S
+larynx(2) L EH1 R IH0 NG K S
 larzelere L ER0 Z EH1 L ER0
 las L AA1 S
 las(2) EH1 L EY1 EH1 S
@@ -75116,8 +75129,10 @@ marrow M EH1 R OW0
 marrs M AA1 R Z
 marrufo M AA2 R UW1 F OW0
 marrujo M AA0 R UW1 Y OW0
-marry M EH1 R IY0
-marrying M EH1 R IY0 IH0 NG
+marry M AE1 R IY0  
+marry(2) M EH1 R IY0  
+marrying M AE1 R IY0 IH0 NG  
+marrying(2) M EH1 R IY0 IH0 NG  
 mars M AA1 R Z
 mars' M AA1 R Z
 mars's M AA1 R Z IH0 Z
@@ -89818,10 +89833,14 @@ paro P AA1 R OW0
 parochial P ER0 OW1 K IY0 AH0 L
 parochialism P ER0 OW1 K IY0 AH0 L IH2 Z AH0 M
 parodi P AA0 R OW1 D IY0
-parodied P EH1 R AH0 D IY0 D
-parodies P EH1 R AH0 D IY0 Z
+parodied P AE1 R AH0 D IY0 D
+parodied(2) P EH1 R AH0 D IY0 D
+parodies P AE1 R AH0 D IY0 Z
+parodies(2) P EH1 R AH0 D IY0 Z
 parodist P AE1 R AH0 D IH0 S T
-parody P EH1 R AH0 D IY0
+parodist(2) P EH1 R AH0 D IH0 S T
+parody P AE1 R AH0 D IY0
+parody(2) P EH1 R AH0 D IY0
 parole P ER0 OW1 L
 paroled P ER0 OW1 L D
 parolee P ER0 OW2 L IY1
@@ -89850,12 +89869,16 @@ parriott P AE1 R IY0 AH0 T
 parris P EH1 R IH0 S
 parrish P EH1 R IH0 SH
 parrishes P EH1 R IH0 SH IH0 Z
-parrot P EH1 R AH0 T
-parrots P EH1 R AH0 T S
-parrott P EH1 R AH0 T
+parrot P AE1 R AH0 T
+parrot(2) P EH1 R AH0 T
+parrots P AE1 R AH0 T S
+parrots(2) P EH1 R AH0 T S
+parrott P AE1 R AH0 T
+parrott(2) P EH1 R AH0 T
 parrotta P AA0 R OW1 T AH0
 parrow P AE1 R OW0
-parry P EH1 R IY0
+parry P AE1 R IY0
+parry(2) P EH1 R IY0
 pars P AA1 R Z
 parse P AA1 R S
 parsec P AA1 R S EH2 K
@@ -100659,8 +100682,10 @@ remarks R IH0 M AA1 R K S
 remarks(2) R IY0 M AA1 R K S
 remarriage R IY0 M EH1 R IH0 JH
 remarried R IY0 M EH1 R IY0 D
-remarry R IY0 M EH1 R IY0
-remarrying R IY0 M EH1 R IY0 IH0 NG
+remarry R IY0 M AE1 R IY0
+remarry(2) R IY0 M EH1 R IY0
+remarrying R IY0 M AE1 R IY0 IH0 NG
+remarrying(2) R IY0 M EH1 R IY0 IH0 NG
 rematch R IY1 M AE1 CH
 rembert R EH1 M B ER0 T
 rembold R EH1 M B OW2 L D
@@ -119731,7 +119756,8 @@ tarrance T AA1 R AH0 N S
 tarrant T AA1 R AH0 N T
 tarred T AA1 R D
 tarring T AA1 R IH0 NG
-tarry T EH1 R IY0
+tarry T AE1 R IY0
+tarry(2) T EH1 R IY0
 tarrytown T EH1 R IY0 T AW2 N
 tarses T AA1 R S IH0 S
 tarsus T AA1 R S AH0 S
