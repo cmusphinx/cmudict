@@ -4343,7 +4343,8 @@ ankeney AH0 NG K EH1 N IY0
 ankeny AH0 NG K IY1 N IY0
 anker AE1 NG K ER0
 ankerium AE0 NG K ER1 IY0 AH0 M
-ankh AE1 N K
+ankh AE1 NG K
+ankh(2) AA1 NG K
 ankita AE2 N K IY1 T AH0
 anklam AE1 NG K L AH0 M
 ankle AE1 NG K AH0 L
@@ -8521,8 +8522,9 @@ bara B AA1 R AH0
 barabar B EH1 R AH0 B AA0 R
 barach B AH0 R AA1 K
 barach(2) B ER0 AA1 K
-barack B AA1 R AH0 K
-barack(2) B AE0 R AA1 K
+barack B AH0 R AA1 K
+barack(2) B AA1 R AH0 K
+barack(3) B AE0 R AA1 K
 baraff B AA0 R AA1 F
 baragi B AH0 R AA1 G IY0
 barahona B AE2 R AH0 HH OW1 N AH0
@@ -9609,6 +9611,7 @@ bean B IY1 N
 bean's B IY1 N Z
 beanblossom B IY1 N B L AH0 S AH0 M
 beane B IY1 N
+beanie B IY1 N IY0
 beans B IY1 N Z
 beantown B IY1 N T AW2 N
 bear B EH1 R
@@ -11758,6 +11761,7 @@ binion B IH1 N Y AH0 N
 bink B IH1 NG K
 binkley B IH1 NG K L IY0
 binkowski B IH0 NG K AO1 F S K IY0
+binky B IH1 NG K IY0
 binn B IH1 N
 binner B IH1 N ER0
 binney B IH1 N IY0
@@ -13194,7 +13198,7 @@ boilerplates B OY1 L ER0 P L EY2 T S
 boilers B OY1 L ER0 Z
 boiling B OY1 L IH0 NG
 boils B OY1 L Z
-boink B OY1 N K
+boink B OY1 NG K
 boipatong B OY1 P AH0 T AO0 NG
 bois B W AA1
 boisclair B W AA0 K L EH1 R
@@ -13541,6 +13545,7 @@ boody B UW1 D IY0
 booe B AA1 OW0
 booed B UW1 D
 booee B UW1 IY0
+booger B UH1 G ER0
 boogie B UW1 G IY0
 boogie(2) B UH1 G IY0
 boogie-woogie B UW1 G IY0 W UW1 G IY0
@@ -50977,6 +50982,7 @@ gsell G AH0 S EH1 L
 gtech JH IY1 T EH2 K
 gtech's JH IY1 T EH2 K S
 gu G UW1
+guac G W AA1 K
 guacamole G W AA2 K AH0 M OW1 L IY0
 guadagno G AA0 D AA1 G N OW0
 guadalajara G W AA2 D AH2 L AH0 HH AA1 R AH0
@@ -77223,6 +77229,7 @@ meanders M IY0 AE1 N D ER0 Z
 meaner M IY1 N ER0
 meanest M IY1 N AH0 S T
 meaney M IY1 N IY0
+meanie M IY1 N IY0
 meaning M IY1 N IH0 NG
 meaningful M IY1 N IH0 NG F AH0 L
 meaningfully M IY1 N IH0 NG F AH0 L IY0
@@ -86685,6 +86692,7 @@ oilseed OY1 L S IY2 D
 oilseeds OY1 L S IY2 D Z
 oilwell OY1 L W EH2 L
 oily OY1 L IY0
+oink OY1 NG K
 ointment OY1 N T M AH0 N T
 oishi OW0 IY1 SH IY0
 oj OW1 JH EY1
@@ -96839,7 +96847,7 @@ punches P AH1 N CH IH0 Z
 punching P AH1 N CH IH0 NG
 punchline P AH1 N CH L AY2 N
 punchy P AH1 N CH IY0
-punctate P AH1 N K T EY2 T
+punctate P AH1 NG K T EY2 T
 punctilious P AH0 NG K T IH1 L IY0 AH0 S
 punctual P AH1 NG K CH UW0 AH0 L
 punctuality P AH2 NG K CH UW0 AE1 L IH0 T IY0
@@ -106419,7 +106427,7 @@ sawka S AO1 K AH0
 sawmill S AO1 M IH2 L
 sawmills S AO1 M IH2 L Z
 saws S AO1 Z
-sawshank S AO1 SH AE2 N K
+sawshank S AO1 SH AE2 NG K
 sawtell S AO1 T EH2 L
 sawtelle S AO2 T EH1 L
 sawyer S AO1 Y ER0
@@ -109864,7 +109872,7 @@ shawn's SH AO1 N Z
 shawna SH AO1 N AH0
 shawnee SH AO1 N IY0
 shawnut SH AO1 N AH0 T
-shawshank SH AO1 SH AE2 N K
+shawshank SH AO1 SH AE2 NG K
 shawver SH AO1 V ER0
 shay SH EY1
 shaykin SH EY1 K IH0 N
@@ -110742,6 +110750,8 @@ shrock SH R AA1 K
 shrode SH R OW1 D
 shroff SH R AO1 F
 shrontz SH R AA1 N T S
+shroom SH R UW1 M
+shrooms SH R UW1 M Z
 shropshire SH R AA1 P SH AY2 R
 shroud SH R AW1 D
 shrouded SH R AW1 D IH0 D
@@ -113884,7 +113894,7 @@ spanish S P AE1 N IH0 SH
 spank S P AE1 NG K
 spanked S P AE1 NG K T
 spanking S P AE1 NG K IH0 NG
-spanky S P AE1 N K IY2
+spanky S P AE1 NG K IY2
 spann S P AE1 N
 spanned S P AE1 N D
 spanner S P AE1 N ER0
@@ -118944,7 +118954,7 @@ syncopal S IH1 N K AH0 P AH2
 syncopate S IH1 NG K AH0 P EY2 T
 syncopated S IH1 NG K AH0 P EY2 T IH0 D
 syncopation S IH1 NG K AH0 P EY2 SH AH0 N
-syncope S IH1 N K AH0 P IY2
+syncope S IH1 NG K AH0 P IY2
 syncor S IH1 N K AO2 R
 synder S IH1 N D ER0
 syndicate S IH1 N D IH0 K AH0 T
@@ -121581,7 +121591,7 @@ thunderstorm TH AH1 N D ER0 S T AO2 R M
 thunderstorms TH AH1 N D ER0 S T AO2 R M Z
 thunderstruck TH AH1 N D ER0 S T R AH2 K
 thune TH UW1 N
-thunk TH AH1 N K
+thunk TH AH1 NG K
 thuot TH AW1 T
 thuot(2) TH UW1 T
 thur DH ER1
@@ -124606,6 +124616,7 @@ tween T W IY1 N
 tweet T W IY1 T
 tweeted T W IY1 T IH0 D
 tweets T W IY1 T S
+tweeze T W IY1 Z
 tweezer T W IY1 Z ER0
 tweezerman T W IY1 Z ER0 M AE2 N
 tweezers T W IY1 Z ER0 Z
@@ -130186,6 +130197,7 @@ weekly's W IY1 K L IY0 Z
 weeks W IY1 K S
 weeks' W IY1 K S
 weems W IY1 M Z
+weenie W IY1 N IY0
 weeny W IY1 N IY0
 weep W IY1 P
 weeping W IY1 P IH0 NG
