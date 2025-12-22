@@ -29538,11 +29538,12 @@ dederick D EH1 D ER0 IH0 K
 dedeurwaerder D AH0 D ER1 W AA2 R D ER0
 dedham D EH1 D AH0 M
 dedic D EH1 D IH0 K
-dedicate D EH1 D AH0 K EY2 T
-dedicated D EH1 D AH0 K EY0 T AH0 D
+dedicate D EH1 D IH0 K EY2 T
+dedicated D EH1 D IH0 K EY2 T AH0 D
 dedicates D EH1 D IH0 K EY2 T S
 dedicating D EH1 D IH0 K EY2 T IH0 NG
-dedication D EH2 D AH0 K EY1 SH AH0 N
+dedication D EH2 D IH0 K EY1 SH AH0 N
+dedicator D EH1 D IH0 K EY2 T ER0
 dedios D EY0 D IY1 OW0 Z
 dedman D EH1 D M AH0 N
 dedmon D EH1 D M AH0 N
@@ -99570,8 +99571,8 @@ redecorate R IY0 D EH1 K ER0 EY2 T
 redecorated R IY0 D EH1 K ER0 EY2 T IH0 D
 redecorating R IY0 D EH1 K ER0 EY2 T IH0 NG
 redecoration R IY2 D EH0 K ER0 EY1 SH AH0 N
-rededicate R IY2 D EH1 D AH0 K EY2 T
-rededication R IY0 D EH2 D AH0 K EY1 SH AH0 N
+rededicate R IY2 D EH1 D IH0 K EY2 T
+rededication R IY0 D EH2 D IH0 K EY1 SH AH0 N
 redeem R IH0 D IY1 M
 redeemable R IH0 D IY1 M AH0 B AH0 L
 redeemed R IH0 D IY1 M D
