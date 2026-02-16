@@ -6479,6 +6479,7 @@ asymptote(2) AE1 S IH0 M P T OW2 T
 asymptotes AE1 S AH0 M T OW2 T S
 asymptotes(2) AE1 S IH0 M P T OW2 T S
 asymptotic AE1 S IH0 M P T AO2 T IH0 K
+async EY1 S IH0 NG K
 asynchronous EY1 S IH1 NG K R AH0 N AH0 S
 at AE1 T
 at-bat AE1 T B AE1 T
@@ -20225,6 +20226,7 @@ chameleon K AH0 M IY1 L IY0 AH0 N
 chamlee CH AE1 M L IY0
 chamlong CH AE1 M L AO2 NG
 chamness CH AE1 M N IH0 S
+chamois SH AE1 M IY0
 chamomile K AE2 M AH0 M AY1 L
 chamomile(2) K AE2 M AH0 M IY1 L
 chamonix CH AE1 M AH0 N IH0 K S
@@ -20546,6 +20548,7 @@ chataqua SH AH0 T AA1 K W AH0
 chateau SH AE0 T OW1
 chateaux SH AH0 T OW1
 chatfield CH AE1 T F IY2 L D
+chatgpt CH AE1 T JH IY1 P IY1 T IY1
 chatham CH AE1 T AH0 M
 chatichai CH AE1 T IH0 CH AY2
 chatichai's CH AE1 T IH2 K AY0 Z
@@ -21296,6 +21299,7 @@ cholestyramine K OW0 L EH1 S T IH0 R AH0 M AY2 N
 cholet CH OW1 L AH0 T
 cholewa CH AH0 L UW1 AH0
 cholla CH AA1 L AH0
+cholmondeley CH AH1 M L IY0
 choma CH OW1 M AH0
 chombiono CH AA0 M B IY0 OW1 N OW0
 chomp CH AA1 M P
@@ -27762,6 +27766,7 @@ curtner K ER1 T N ER0
 curto K UH1 R T OW0
 curtright K ER1 T R AY2 T
 curts K ER1 T S
+curtsey K ER1 T S IY0
 curtsinger K ER1 T S IH0 N JH ER0
 curtsy K ER1 T S IY0
 curvature K ER1 V AH0 CH ER0
@@ -31631,6 +31636,7 @@ devoy D EH1 V OY0
 devries D IH0 V R IY1 S
 devroy D EH0 V R OY1
 devry D EH1 V R IY0
+devs D EH1 V Z
 dew D UW1
 dewaard D UW0 AA1 R D
 dewaele D UW1 EH0 L
@@ -34590,6 +34596,7 @@ drabs D R AE1 B Z
 drace D R EY1 S
 drach D R AE1 CH
 drachenberg D R AE1 K AH0 N B ER0 G
+drachm D R AE1 M
 drachma D R AE1 K M AH0
 drachmas D R AA1 K M AH0 Z
 drackett D R AE1 K IH0 T
@@ -37732,6 +37739,7 @@ emmy's EH1 M IY0 Z
 emmys EH1 M IY0 Z
 emo IY1 M OW2
 emogene EH1 M AH0 G IY0 N
+emoji IH0 M OW1 JH IY0
 emond EH1 M AH0 N D
 emory EH1 M ER0 IY0
 emory's EH1 M ER0 IY0 Z
@@ -61371,6 +61379,7 @@ isles AY1 L Z
 islet AY1 L IH0 T
 islets AY1 L IH0 T S
 isley AY1 Z L IY0
+islington IH1 Z L IH0 NG T AH0 N
 islip AY1 S L IH0 P
 ism IH1 Z AH0 M
 ismael IH1 S M EY0 L
@@ -71485,6 +71494,7 @@ local L OW1 K AH0 L
 local's L OW1 K AH0 L Z
 locale L OW0 K AE1 L
 locales L OW0 K AE1 L Z
+localhost L OW1 K AH0 L HH OW2 S T
 localities L OW0 K AE1 L IH0 T IY0 Z
 locality L OW0 K AE1 L AH0 T IY0
 localization L OW2 K AH0 L AH0 Z EY1 SH AH0 N
@@ -85572,6 +85582,7 @@ noyes N OY1 Z
 noyola N OY2 OW1 L AH0
 nozzle N AA1 Z AH0 L
 nozzles N AA1 Z AH0 L Z
+npm EH1 N P IY1 EH1 M
 npr EH1 N P IY1 AA1 R
 npr's EH1 N P IY1 AA1 R Z
 npr.org EH1 N P IY1 AA1 R D AA1 T AO1 R G
@@ -86025,6 +86036,7 @@ oatley OW1 T L IY0
 oatman OW1 T M AH0 N
 oatmeal OW1 T M IY2 L
 oats OW1 T S
+oauth OW1 AO1 TH
 oaxaca OW1 K S AH0 K AH0
 oba OW1 B AH0
 obadiah OW2 B AH0 D AY1 AH0
@@ -86165,6 +86177,7 @@ obscured AH0 B S K Y UH1 R D
 obscures AH0 B S K Y UH1 R Z
 obscuring AH0 B S K Y UH1 R IH0 NG
 obscurity AH0 B S K Y UH1 R AH0 T IY0
+obsequies AA1 B S IH0 K W IY0 Z
 obsequious AH0 B S IY1 K W IY0 AH0 S
 observable AH0 B Z ER1 V AH0 B AH0 L
 observables AH0 B Z ER1 V AH0 B AH0 L Z
@@ -87302,6 +87315,8 @@ oppressive AH0 P R EH1 S IH0 V
 oppressor AH0 P R EH1 S ER0
 oppressors AH0 P R EH1 S ER0 Z
 opprobrium AH0 P R OW1 B R IY0 AH0 M
+oppugnant AH0 P AH1 G N AH0 N T
+oppugners AH0 P Y UW1 N ER0 Z
 oprah OW1 P R AH0
 oprah's OW1 P R AH0 Z
 opry AA1 P R IY0
@@ -91932,6 +91947,7 @@ pga's P IY1 JH IY1 EY1 Z
 pgm P IY1 JH IY1 EH1 M
 ph P IY1 EY1 CH
 ph.d. P IY1 EY2 CH D IY1
+phaeton F EY1 IH0 T AH0 N
 phagan F EY1 G AH0 N
 phage F EY1 JH
 phagocyte F AE1 G AH0 S AY2 T
@@ -92855,6 +92871,7 @@ pips P IH1 P S
 piquant P IY1 K AH0 N T
 pique P IY1 K
 piqued P IY1 K T
+piquet P IH0 K EY1
 piquette P IH0 K EH1 T
 piracy P AY1 R AH0 S IY0
 piraeus P AH0 R EY1 AH0 S
@@ -96752,6 +96769,7 @@ puhl P AH1 L
 puig P UW1 G
 puipoe P UW1 IY0 P OW2
 puipoe(2) P W IY1 P OW0
+puisne P Y UW1 N IY0
 pujol P Y UW1 JH AH0 L
 puke P Y UW1 K
 pukes P Y UW1 K S
@@ -116741,6 +116759,7 @@ streamlined S T R IY1 M L AY2 N D
 streamlining S T R IY1 M L AY2 N IH0 NG
 streams S T R IY1 M Z
 streater S T R IY1 T ER0
+streatham S T R EH1 T AH0 M
 streb S T R EH1 B
 strebe S T R IY1 B
 strebeck S T R IY1 B EH0 K
@@ -117562,6 +117581,7 @@ suder S UW1 D ER0
 suderman S UW1 D ER0 M AH0 N
 sudler S UW1 D AH0 L ER0
 sudler(2) S UW1 D L ER0
+sudo S UW1 D OW0
 sudol S UW1 D AH0 L
 suds S AH1 D Z
 sue S UW1
@@ -120619,6 +120639,7 @@ ternes T ER1 N Z
 terns T ER1 N Z
 terpening T ER1 P AH0 N IH0 NG
 terpsichorde T ER1 P S IH0 K AO2 R D
+terpsichore T ER0 P S IH1 K ER0 IY0
 terpstra T EH1 R P S T R AA2
 terra T EH1 R AA2
 terra's T EH1 R AH0 Z
@@ -128092,6 +128113,8 @@ victorious V IH0 K T AO1 R IY0 AH0 S
 victors V IH1 K T ER0 Z
 victory V IH1 K T ER0 IY0
 victory(2) V IH1 K T R IY0
+victual V IH1 T AH0 L
+victuals V IH1 T AH0 L Z
 vicuna V IH0 K Y UW1 N AH0
 vida V AY1 D AH0
 vidal V AY0 D AE1 L
@@ -128637,6 +128660,7 @@ vlasak V L AA1 S AH0 K
 vlasic V L AE1 Z IH0 K
 vlcek V L EH1 S IH0 K
 vliet V L IY1 T
+vlog V L AO1 G
 vlok V L AA1 K
 vnesheconombank V AH0 N EH2 SH AH0 K AA1 N AH0 M B AE2 NG K
 vo V OW1
@@ -130099,6 +130123,7 @@ webinar W EH1 B IH0 N ER0
 webley W EH1 B L IY0
 webmaster W EH1 B M AE2 S T ER0
 webmasters W EH1 B M AE2 S T ER0 Z
+webpack W EH1 B P AE1 K
 webpage W EH1 B P IH0 JH
 webre W EH1 B ER0
 webs W EH1 B Z
