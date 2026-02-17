@@ -45184,12 +45184,12 @@ friction F R IH1 K SH AH0 N
 frictionless F R IH1 K SH AH0 N L AH0 S
 frictions F R IH1 K SH AH0 N Z
 frida F R IY1 D AH0
-friday F R AY1 D IY0
-friday(2) F R AY1 D EY2
-friday's F R AY1 D IY0 Z
-friday's(2) F R AY1 D EY2 Z
-fridays F R AY1 D IY0 Z
-fridays(2) F R AY1 D EY2 Z
+friday F R AY1 D EY2
+friday(2) F R AY1 D IY0
+friday's F R AY1 D EY2 Z
+friday's(2) F R AY1 D IY0 Z
+fridays F R AY1 D EY2 Z
+fridays(2) F R AY1 D IY0 Z
 friddle F R IH1 D AH0 L
 fridge F R IH1 JH
 fridges F R IH1 JH AH0 Z
@@ -80658,12 +80658,12 @@ mondale M AA1 N D EY2 L
 mondale's M AA1 N D EY2 L Z
 mondallo M AA0 N D AE1 L OW0
 mondavi M AA0 N D AA1 V IY0
-monday M AH1 N D IY0
-monday(2) M AH1 N D EY2
-monday's M AH1 N D IY0 Z
-monday's(2) M AH1 N D EY2 Z
-mondays M AH1 N D IY0 Z
-mondays(2) M AH1 N D EY2 Z
+monday M AH1 N D EY2
+monday(2) M AH1 N D IY0
+monday's M AH1 N D EY2 Z
+monday's(2) M AH1 N D IY0 Z
+mondays M AH1 N D EY2 Z
+mondays(2) M AH1 N D IY0 Z
 monde M AA1 N D
 mondelli M OW0 N D EH1 L IY0
 mondello M AA2 N D EH1 L OW0
@@ -106232,12 +106232,12 @@ saturate S AE1 CH ER0 EY2 T
 saturated S AE1 CH ER0 EY2 T IH0 D
 saturating S AE1 CH ER0 EY2 T IH0 NG
 saturation S AE2 CH ER0 EY1 SH AH0 N
-saturday S AE1 T ER0 D IY0
-saturday(2) S AE1 T IH2 D EY2
-saturday's S AE1 T ER0 D IY0 Z
-saturday's(2) S AE1 T ER0 D EY0 Z
-saturdays S AE1 T ER0 D IY0 Z
-saturdays(2) S AE1 T ER0 D EY0 Z
+saturday S AE1 T IH2 D EY2
+saturday(2) S AE1 T ER0 D IY0
+saturday's S AE1 T ER0 D EY0 Z
+saturday's(2) S AE1 T ER0 D IY0 Z
+saturdays S AE1 T ER0 D EY0 Z
+saturdays(2) S AE1 T ER0 D IY0 Z
 saturn S AE1 T ER0 N
 saturn's S AE1 T ER0 N Z
 saturns S AE1 T ER0 N Z
@@ -121601,8 +121601,8 @@ thurow TH UH1 R OW0
 thursby TH ER1 S B IY0
 thursday TH ER1 Z D EY2
 thursday(2) TH ER1 Z D IY0
-thursday's TH ER1 Z D IY0 Z
-thursday's(2) TH ER1 Z D EY2 Z
+thursday's TH ER1 Z D EY2 Z
+thursday's(2) TH ER1 Z D IY0 Z
 thursdays TH ER1 Z D EY0 Z
 thursdays(2) TH ER1 Z D IY0 Z
 thurstan TH ER1 S T AH0 N
@@ -124237,15 +124237,15 @@ tudor's T Y UW1 D ER0 Z
 tue T UW1
 tuel T UW1 L
 tuell T UW1 L
-tuesday T UW1 Z D IY0
-tuesday(2) T UW1 Z D EY2
-tuesday(3) T Y UW1 Z D EY2
-tuesday's T UW1 Z D IY0 Z
-tuesday's(2) T UW1 Z D EY2 Z
-tuesday's(3) T Y UW1 Z D EY2 Z
+tuesday T UW1 Z D EY2
+tuesday(2) T Y UW1 Z D EY2
+tuesday(3) T UW1 Z D IY0
+tuesday's T UW1 Z D EY2 Z
+tuesday's(2) T Y UW1 Z D EY2 Z
+tuesday's(3) T UW1 Z D IY0 Z
 tuesdays T UW1 Z D EY2 Z
-tuesdays(2) T UW1 Z D IY0 Z
-tuesdays(3) T Y UW1 Z D EY2 Z
+tuesdays(2) T Y UW1 Z D EY2 Z
+tuesdays(3) T UW1 Z D IY0 Z
 tufa T UW1 F AH0
 tufano T UW0 F AA1 N OW0
 tuff T AH1 F
@@ -130146,10 +130146,10 @@ wedgwood W EH1 JH W UH2 D
 wedig W EH1 D IH0 G
 wedin W EH1 D IH0 N
 wedlock W EH1 D L AA2 K
-wednesday W EH1 N Z D IY0
-wednesday(2) W EH1 N Z D EY2
-wednesday's W EH1 N Z D IY0 Z
-wednesday's(2) W EH1 N Z D EY2 Z
+wednesday W EH1 N Z D EY2
+wednesday(2) W EH1 N Z D IY0
+wednesday's W EH1 N Z D EY2 Z
+wednesday's(2) W EH1 N Z D IY0 Z
 wednesdays W EH1 N Z D EY2 Z
 wednesdays(2) W EH1 N Z D IY0 Z
 wedowee W EH0 D AW1 W IY2
