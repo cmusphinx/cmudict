@@ -25992,14 +25992,16 @@ cougar K UW1 G ER0
 cougars K UW1 G ER0 Z
 cough K AA1 F
 cough(2) K AO1 F
-coughed K AO1 F T
+coughed K AA1 F T
+coughed(2) K AO1 F T
 coughenour K AO0 F EH1 N ER0
 coughing K AA1 F IH0 NG
 coughing(2) K AO1 F IH0 NG
 coughlan K AO1 G L AH0 N
 coughlin K AO1 G L IH0 N
 coughran K AO1 G R AH0 N
-coughs K AO1 F S
+coughs K AA1 F S
+coughs(2) K AO1 F S
 couillard K W IY0 L AA1 R D
 could K UH1 D
 could've K UH1 D AH0 V
@@ -58626,7 +58628,8 @@ immanence IH1 M AH0 N AH0 N S
 immanent IH1 M AH0 N AH0 N T
 immanuel IH1 M AH0 N UH0 L
 immaterial IH2 M AH0 T IH1 R IY0 AH0 L
-immature IH2 M AH0 T Y UH1 R
+immature IH2 M AH0 CH UH1 R
+immature(2) IH2 M AH0 T Y UH1 R
 immaturity IH2 M AH0 CH UH1 R IH0 T IY0
 immeasurable IH2 M EH1 ZH ER0 AE2 B AH0 L
 immeasurably IH2 M EH1 ZH ER0 AE2 B L IY0
@@ -75832,7 +75835,8 @@ maturation M AE2 CH ER0 EY1 SH AH0 N
 maturation(2) M AE2 CH UH0 R EY1 SH AH0 N
 mature M AH0 CH UH1 R
 mature(2) M AH0 T Y UH1 R
-matured M AH0 T Y UH1 R D
+matured M AH0 CH UH1 R D
+matured(2) M AH0 T Y UH1 R D
 matures M AH0 CH UH1 R Z
 matures(2) M AH0 T Y UH1 R Z
 maturing M AH0 CH UH1 R IH0 NG
@@ -95727,7 +95731,8 @@ privations P R AY0 V EY1 SH AH0 N Z
 privatisation P R AY1 V AH0 T AH0 Z EY1 SH AH0 N
 privatization P R AY1 V AH0 T AH0 Z EY1 SH AH0 N
 privatizations P R AY1 V AH0 T AH0 Z EY1 SH AH0 N Z
-privatize P R IH1 V AH0 T AY2 Z
+privatize P R AY1 V AH0 T AY2 Z
+privatize(2) P R IH1 V AH0 T AY2 Z
 privatized P R AY1 V AH0 T AY2 Z D
 privatizing P R AY1 V AH0 T AY2 Z IH0 NG
 privett P R IH1 V IH0 T
@@ -96563,10 +96568,10 @@ przybyla P ER2 Z AH0 B IH1 L AH0
 przybylski P ER2 Z AH0 B IH1 L S K IY0
 przybysz P ER0 Z IH1 B IH0 SH
 przywara P ER0 Z AH0 V AA1 R AH0
-psalm S AA1 L M
-psalm(2) S AA1 M
-psalms S AA1 L M Z
-psalms(2) S AA1 M Z
+psalm S AA1 M
+psalm(2) S AA1 L M
+psalms S AA1 M Z
+psalms(2) S AA1 L M Z
 psalter S AO1 L T ER0
 psalters S AO1 L T ER0 Z
 psarouthakis S EH2 R UW0 TH AA1 K IH0 S
