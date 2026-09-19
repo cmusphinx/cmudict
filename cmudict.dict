@@ -4310,7 +4310,7 @@ animate(2) AE1 N AH0 M EY2 T
 animated AE1 N AH0 M EY2 T IH0 D
 animates AE1 N AH0 M AH0 T S
 animates(2) AE1 N AH0 M EY2 T S
-animating AE2 N AH0 M EY1 T IH0 NG G
+animating AE2 N AH0 M EY1 T IH0 NG
 animation AE2 N AH0 M EY1 SH AH0 N
 animations AE2 N AH0 M EY1 SH AH0 N Z
 animator AE1 N AH0 M EY2 T ER0
@@ -4582,8 +4582,8 @@ anthill AE1 N T HH IH2 L
 anthills AE1 N T HH IH2 L Z
 anthis AE1 N TH IH0 S
 anthologies AE0 N TH AA1 L AH0 JH IY0 Z
-anthologist AE0 N TH AO1 L AH0 G IH2 S T
-anthologists AE0 N TH AO1 L AH0 G IH2 S T S
+anthologist AE0 N TH AO1 L AH0 JH IH2 S T
+anthologists AE0 N TH AO1 L AH0 JH IH2 S T S
 anthology AE0 N TH AA1 L AH0 JH IY0
 anthon AE1 N TH AH0 N
 anthony AE1 N TH AH0 N IY0
@@ -20270,7 +20270,7 @@ chancy CH AE1 N S IY0
 chand CH AE1 N D
 chanda CH AE1 N D AH0
 chandelier SH AE0 N D AH0 L IH1 R
-chandeliers SH AE2 N D AH0 L IH1 Z
+chandeliers SH AE2 N D AH0 L IH1 R Z
 chandler CH AE1 N D L ER0
 chandler's CH AE1 N D L ER0 Z
 chandley CH AE1 N D L IY0
@@ -23653,7 +23653,7 @@ commision K AH0 M IH1 Z AH0 N
 commision(2) K AH0 M IH1 SH AH0 N
 commissar K AA1 M AH0 S AA2 R
 commissaries K AA1 M AH0 S EH2 R IY0 Z
-commissars K AA1 M IH0 S AA0 Z
+commissars K AA1 M IH0 S AA0 R Z
 commissary K AA1 M AH0 S EH2 R IY0
 commission K AH0 M IH1 SH AH0 N
 commission's K AH0 M IH1 SH AH0 N Z
@@ -30118,7 +30118,7 @@ delicatessens D EH2 L IH0 K AH0 T EH1 S AH0 N Z
 delich D EH1 L IH0 K
 delicia D EH0 L IY1 CH AH0
 delicious D IH0 L IH1 SH AH0 S
-deliciously D IH0 L IH1 SH AH0 SH L IY0
+deliciously D IH0 L IH1 SH AH0 S L IY0
 delight D IH0 L AY1 T
 delighted D IH0 L AY1 T AH0 D
 delighted(2) D IH0 L AY1 T IH0 D
@@ -32892,8 +32892,8 @@ diseases D IH0 Z IY1 Z AH0 Z
 diseases(2) D IH0 Z IY1 Z IH0 Z
 disembark D IH0 S EH0 M B AA1 R K
 disembarkation D IH0 S EH2 M B AA0 R K EY1 SH AH0 N
-disembodied D IH0 S IH0 B AA1 D IY0 D
-disembody D IH0 S IH0 B AA1 D IY0
+disembodied D IH0 S IH0 M B AA1 D IY0 D
+disembody D IH0 S IH0 M B AA1 D IY0
 disenchanted D IH0 S IH0 N CH AE1 N T IH0 D
 disenchanted(2) D IH0 S IH0 N CH AE1 N IH0 D
 disenchantment D IH0 S IH0 N CH AE1 N T M AH0 N T
@@ -58130,7 +58130,7 @@ hyson HH AY1 S AH0 N
 hysong HH AY1 S AO2 NG
 hyssop HH IH1 S AH0 P
 hyster HH IH1 S T ER0
-hysterectomies HH IH2 S T ER0 EH1 K T AH0 M IY0
+hysterectomies HH IH2 S T ER0 EH1 K T AH0 M IY0 Z
 hysterectomy HH IH2 S T ER0 EH1 K T AH0 M IY0
 hysteria HH IH0 S T EH1 R IY0 AH0
 hysteric HH IH2 S T EH1 R IH0 K
@@ -60652,10 +60652,10 @@ interpersonal IH2 N T ER0 P ER1 S AH0 N AH0 L
 interplanetary IH2 N T ER0 P L AE1 N AH0 T EH2 R IY0
 interplay IH1 N T ER0 P L EY2
 interpol IH1 N T ER0 P OW2 L
-interpolate IH2 T ER1 P AH0 L EY2 T
-interpolated IH2 T ER1 P AH0 L EY2 T IH0 D
-interpolation IH2 T ER1 P AH0 L EY2 SH AH0 N
-interpolations IH2 T ER1 P AH0 L EY2 SH AH0 N Z
+interpolate IH2 N T ER1 P AH0 L EY2 T
+interpolated IH2 N T ER1 P AH0 L EY2 T IH0 D
+interpolation IH2 N T ER1 P AH0 L EY2 SH AH0 N
+interpolations IH2 N T ER1 P AH0 L EY2 SH AH0 N Z
 interpose IH2 N T ER0 P OW1 Z
 interpret IH2 N T ER1 P R AH0 T
 interpretation IH2 N T ER2 P R IH0 T EY1 SH AH0 N
@@ -100419,7 +100419,7 @@ reiter R AY1 T ER0
 reitera R IY0 IH1 T ER0 AH0
 reiterate R IY0 IH1 T ER0 EY2 T
 reiterated R IY0 IH1 T ER0 EY2 T IH0 D
-reiterates R IY0 IH1 T ER0 EY2 S
+reiterates R IY0 IH1 T ER0 EY2 T S
 reiterating R IY0 IH1 T ER0 EY2 T IH0 NG
 reiteration R IY0 IH2 T ER0 EY1 SH AH0 N
 reith R IY1 TH
@@ -118921,8 +118921,8 @@ synagogues S IH1 N AH0 G AO2 G Z
 synalloy S IH0 N AE1 L OY0
 synalloy's S IH0 N AE1 L OY0 Z
 synan S AY1 N AH0 N
-synapse S IH1 AE0 P S
-synapses S IH1 AE0 P S IH0 Z
+synapse S IH1 N AE0 P S
+synapses S IH1 N AE0 P S IH0 Z
 synaptic S IH2 N AE1 P T IH0 K
 synar S IH1 N AA0 R
 synar(2) S AY1 N AA0 R
@@ -120614,7 +120614,7 @@ terminus T ER1 M IH0 N AH0 S
 termite T ER1 M AY0 T
 termites T ER1 M AY0 T S
 terms T ER1 M Z
-tern T ER1 N Z
+tern T ER1 N
 ternes T ER1 N Z
 terns T ER1 N Z
 terpening T ER1 P AH0 N IH0 NG
@@ -125831,7 +125831,7 @@ unknowable AH0 N N OW1 AH0 B AH0 L
 unknowing AH0 N N OW1 IH0 NG
 unknowingly AH0 N N OW1 IH0 NG L IY0
 unknown AH0 N N OW1 N
-unknowns AH0 N OW1 N Z
+unknowns AH0 N N OW1 N Z
 unlabeled AH0 N L EY1 B AH0 L D
 unland AH1 N L AH0 N D
 unlawful AH0 N L AO1 F AH0 L
